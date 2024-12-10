@@ -1,0 +1,851 @@
+Die Meinung, die man von vorherigen Beiträgen ableitet, ist das hier früher ein gutes <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Ort</aspect-term>, aber nicht mehr so.
+Wir, dort waren vier von uns, kamen um Mittag an – das Ort war leer – und die <aspect-term aspect="SERVICE" polarity="negative">Personal</aspect-term> verharr wie wir sie belasteten und sie waren sehr unhöflich.
+Die <aspect-term aspect="FOOD" polarity="negative">Nahrung</aspect-term> war schlecht - zu süß oder zu salzig und die <aspect-term aspect="FOOD" polarity="negative">Portionen</aspect-term> waren klein..
+Vermeiden Sie diesen <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Ort</aspect-term>.
+Ich habe mehrmals zu Saul gegessen, das <aspect-term aspect="FOOD" polarity="positive"> Essen </aspect-term> ist immer wieder verblüffend gut.
+<aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Maurizius</aspect-term> ist der beste Restaurant auf Smith Street und in Brooklyn..
+Die <aspect-term aspect="FOOD" polarity="positive">Entenbrühe</aspect-term> ist immer beeindruckend und die <aspect-term aspect="FOOD" polarity="positive">Fois Gras-Terrine mit Fichten</aspect-term> war aus diesem Welt
+Die <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Weinliste</aspect-term></aspect-term> ist interessant und hat viele gute Werte.
+Ich war sehr enttäuscht mit diesem <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Restaurant</aspect-term>.
+Ich habe einen <aspect-term aspect="SERVICE" polarity="negative">Einkäufer im Warenhaus</aspect-term> um eine Lotusblatt gewickelte Reisart gefragt und sie erwiderte mit "Reis" und ging nur weg.
+<aspect-term aspect="FOOD" polarity="neutral">Leute</aspect-term> waren okay, nichts Besonderes..
+<aspect-term aspect="FOOD" polarity="negative">Chow fun</aspect-term> war trocken; <aspect-term aspect="FOOD" polarity="negative">Schweinebällchen</aspect-term> waren überraschend fett und mussten an einem Tisch mit lautem und rauen Familienmitglied sitzen.
+Ich/Wir werden dieses <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Ort</aspect-term> niemals wieder besuchen.
+Gegangen bin auf einen 3-Tage-Osterschlemmer, mit <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Fisch</aspect-term> brachte den Abschluss, und ich bin so glücklich, dass dies war der Ort, auf den ich diese Reise beendete, weil es so großartig gewesen ist!
+<aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> war göttlich, <aspect-term aspect="FOOD" polarity="positive">Oysters</aspect-term> sind so sinnlich wie möglich und der Preis kann nicht übertroffen werden!!!.
+Jedes Mal, wenn ich mich in New York finde, besuche ich immer <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Restaurant Saul</aspect-term> auf der Smith Street..
+Alles ist immer perfekt zubereitet, der <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term> ist auszeichnet, der <aspect-term aspect="AMBIENCE" polarity="positive">Decor</aspect-term> ist cool und unterhaltsam.
+Ich hatte das <aspect-term aspect="FOOD" polarity="positive">Tafelspitz-Spezial</aspect-term> auf meinem letzten Besuch und es war unglaublich.
+Die <aspect-term aspect="FOOD" polarity="negative">Nahrung</aspect-term> ist sehr mittelmäßig...die <aspect-term aspect="FOOD" polarity="negative">thaifusionartige Speisen</aspect-term> sind ein wenig zu süß, alles sie hier servieren ist zu süß...
+Das einzige, was ich nur mittelmäßig genossen habe, war ihr <aspect-term aspect="FOOD" polarity="positive">Gegrilltes Hähnchen Special mit Edamamerüese</aspect-term>.
+Ich hatte <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Edamame puré</aspect-term></aspect-term> noch nie zuvor, aber ich fand es innovativ und lecker (dazu hätte man ein bisschen mehr Salz gebraucht).
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Zimmerdekoration</aspect-term> ist Nacht though...aber sie brauchen REALLY zu reinigen die <aspect-term aspect="AMBIENCE" polarity="negative">Lüftung</aspect-term> im Dach...es ist wirklich unappetitlich und tötet euren Versuch, dieses <aspect-term aspect="AMBIENCE" polarity="negative">Ort</aspect-term> zu einem sauberen und modernen aussehen zu bringen.
+Ihr <aspect-term aspect="FOOD" polarity="positive">Sakeliste</aspect-term> war umfangreich, aber wir suchten nach Purple Haze, das nicht aufgeführt war, sondern uns auf Anfrage erstellt wurde!
+Die <aspect-term aspect="FOOD" polarity="positive">Scharfe Thunfisch-Roll</aspect-term> war ungewöhnlich gut und die <aspect-term aspect="FOOD" polarity="positive">Rockschrimptemperatur</aspect-term> war beeindruckend, großartiges Appetisier zum Teilen!
+Wir gingen um 09:30 Uhr am Freitag und es war dann schon ein bisschen abgeklungen, so dass der <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term> großartig war!
+Wir lieben die <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">rosa Pferd </aspect-term>..
+Die perfekte <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Stelle</aspect-term>.
+<aspect-term aspect="FOOD" polarity="positive">Lebensmittel</aspect-term>-awesom...
+<aspect-term aspect="SERVICE" polarity="positive">Dienstleistungsfreundlich und aufmerksam</aspect-term>
+<aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term>- entspannt und stilvoll
+Entschuldigt sich vorab: Diese Situation ist nicht zu diskutieren <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term>. Sie muss einfach ausprobiert werden, um zu glauben. Es handelt sich hier um ein Zuhause für diejenigen mit einem liebsten Buch im Herzen.
+Die <aspect-term aspect="FOOD" polarity="neutral">Nahrung</aspect-term> ist zufriedenstellend.
+Es sind jedoch der <aspect-term aspect="SERVICE" polarity="negative">Dienst</aspect-term>, der mir einen schlechten Geschmack im Mund lässt.
+Ich habe zufällig eine Politik, die sich mit einem Hauch von Selbstachtung verbindet, die darin besteht, nicht zu lassen, dass ein <aspect-term aspect="SERVICE" polarity="negative">Kellner</aspect-term> mich einschüchtert, d.h. mich schlecht fühlt, wenn ich nach Nischen wie Wasser oder das Rechnungsaufzeichnen fragen.
+Dieser <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term> muss unbedingt das beste japanische Restaurant in der neuen yorkart Area sein.
+<aspect-term aspect="FOOD" polarity="positive">Lebensmittel</aspect-term> ist großartig..
+<aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> ist Spitzenklasse..
+Ich neige dazu, ein Sushi-Restaurant zu beurteilen, mit seinem <aspect-term aspect="FOOD" polarity="positive">Seegurke</aspect-term>, der himmlisch war bei Sushi Rose.
+Die <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Sushi</aspect-term></aspect-term> schien ziemlich frisch und war ausreichend proportioniert.
+Der <aspect-term aspect="FOOD" polarity="positive">Reis zu Fisch-Verhältnis</aspect-term> war auch gut—sie haben nicht versucht, den Reis überzuladen..
+Wir nahmen den Vorteil aus der <aspect-term aspect="FOOD" polarity="positive">halbfreien Sushi-Angebot</aspect-term> am Samstag also war es wert.
+In der Nacht zog dieses Ort eine gut angemessene Kleidung mit sich, NY <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Crowd</aspect-term>.
+Die <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term> war gut zubereitet und das <aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> war perfekt.
+Der <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Prix Fixe Menü</aspect-term></aspect-term></aspect-term> ist wertvoll und man erhält mehr als genug (sowohl in Menge als auch in Qualität).
+$6 und es gibt viel leckeres <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Food</aspect-term></aspect-term></aspect-term>, alles davon frisch und ständig nachgefüllt.
+Ich bin nicht ein Vegetarier aber fast alle <aspect-term aspect="FOOD" polarity="positive">Gänge</aspect-term> waren großartig.
+Das <aspect-term aspect="FOOD" polarity="positive">Essen</aspect-term> hier ist recht gut, aber nur wenn du darauf wartest..
+Ich mag die <aspect-term aspect="FOOD" polarity="positive">Somosas</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Chai</aspect-term> und das <aspect-term aspect="FOOD" polarity="positive">Chole</aspect-term>, aber <aspect-term aspect="FOOD" polarity="negative">Dhosas</aspect-term> und <aspect-term aspect="FOOD" polarity="negative">Dhal</aspect-term> waren ein bisschen enttäuschend.
+Die <aspect-term aspect="SERVICE" polarity="negative">Dienste</aspect-term> wechseln sich täglich ab - manchmal sind sie sehr nett, und manchmal auch nicht so.
+Das <aspect-term aspect="SERVICE" polarity="negative">Küchen</aspect-term> ist jedoch fast immer langsam.
+Auch, spezifizieren Sie, ob Sie Ihr <aspect-term aspect="FOOD" polarity="negative">Leckerei</aspect-term> scharf mögen - es ist ziemlich matt, wenn Sie es nicht sind..
+Der <aspect-term aspect="AMBIENCE" polarity="positive">Ambiente</aspect-term> ist schön und gut für das Gespräch, also wäre ein entspannter Mittagessen hier wahrscheinlich der beste.
+Wenn du jemals entlang des Flusses in Weehawken warst, hast du eine Vorstellung davon, was die Spitze der <aspect-term aspect="AMBIENCE" polarity="positive">Ansichtskarte</aspect-term> im Chart House zu bieten hat.
+Füge zu dem großartigen <aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> und großartigem <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Essen</aspect-term></aspect-term> bei einem vernünftigen Preis und du hast dir selbst die Anfänge eines großen Abends gesichert.
+Die <aspect-term aspect="FOOD" polarity="positive">Vulkaacake- Dessert</aspect-term> war unglaublich und ich empfehle es sehr!
+Sobald du in <aspect-term aspect="AMBIENCE" polarity="positive">Cosette</aspect-term> trittst, bist du wunderbar in einem kleinen, abgelegenen Pariser Bistro verwiesen..
+Dieses kleine <aspect-term aspect="AMBIENCE" polarity="positive">Restaurant</aspect-term> ist so gemütlich wie es geht, mit diesem bestimmten Pariser Charme.
+Die <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term> war mittelmäßig bis überdurchschnittlich; die <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="negative">Französische Eintopfsoße</aspect-term></aspect-term>füllung war jedoch nicht besonders beeindruckend, und die <aspect-term aspect="FOOD" polarity="negative">Desserts</aspect-term> waren in keiner Weise brillant..
+Denke daran, gehe für die <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term>, und überlege dir das <aspect-term aspect="FOOD" polarity="neutral">Essen</aspect-term> nur als Begleiter für einen Trip um die Welt!
+Die <aspect-term aspect="FOOD" polarity="negative">Pizza</aspect-term> wurde kalt geliefert und das <aspect-term aspect="FOOD" polarity="negative">Käse</aspect-term> war nicht einmal voll gesmolzen!
+Die <aspect-term aspect="FOOD" polarity="negative"><aspect-term aspect="FOOD" polarity="negative">Pizze</aspect-term></aspect-term> ist überpreisst und nass.
+Ja, sie verwenden leckere <aspect-term aspect="FOOD" polarity="positive">Zutaten</aspect-term>, aber selbst leckere Zutaten machen keinen guten <aspect-term aspect="FOOD" polarity="negative">Pizza</aspect-term> zu, wenn jemand weiß, wie man die <aspect-term aspect="FOOD" polarity="negative">Teig</aspect-term> richtig bekommt..
+Ich denke, ich habe einige der besten <aspect-term aspect="FOOD" polarity="positive">gerichte</aspect-term> meines Lebens bei Minnow gegessen.
+Die <aspect-term aspect="FOOD" polarity="positive">Fisch- und Meeresfrüchte</aspect-term> sind unglaublich, es gibt eine gute <aspect-term aspect="FOOD" polarity="positive">Weinliste</aspect-term>, und das ständig wechselnde <aspect-term aspect="FOOD" polarity="positive">Menü</aspect-term> bietet immer wieder tolle Überraschungen..
+Die Kombination von super-frischen <aspect-term aspect="FOOD" polarity="positive">Zutaten</aspect-term> in den Gerichten ist ungewöhnlich aber wirklich lecker.
+Beste <aspect-term aspect="FOOD" polarity="positive">Pastrami-</aspect-term> habe ich je und groß <aspect-term aspect="FOOD" polarity="positive">Portion</aspect-term>-ohne lächerlich zu sein...
+Meine Frau hatte die <aspect-term aspect="FOOD" polarity="positive">gebratenen Hummer<aspect-term aspect="FOOD" polarity="positive">, die riesig sind und liebte es.
+Als japanischer Native habe ich in der Tristate-Gegend über 8 Jahre lang gelebt, aber ich war einfach nur so beeindruckt von diesem <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term>.
+Dieser Ort ist das japanischste es jemals sein kann..
+Die <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Zeichen</aspect-term>, die <aspect-term aspect="FOOD" polarity="positive">Spezialmenüs</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Lebensmittel</aspect-term> und sogar alle <aspect-term aspect="SERVICE" polarity="positive">Kellner</aspect-term> sind ALLE GANZ und GANZ TOTAL japanisch.
+Dieser Ort <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">lokal</aspect-term> lohnt sich nicht für eine eine Stunde Fahrt.
+<aspect-term aspect="AMBIENCE" polarity="positive"><aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Lionel</aspect-term></aspect-term> ist ein Schmuckstück des Ostviertels: locker aber hip, mit gut vorbereitetem Grundkosten- <aspect-term aspect="FOOD" polarity="positive">Französischer Bistro-Lieferumgang</aspect-term>, guten <aspect-term aspect="FOOD" polarity="positive">Spezialangeboten</aspect-term>, einer warmen und lebhaften <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term>..
+Meine Frau und ich genießen immer die jungen, nicht immer gut geschulte aber dennoch freundlichen <aspect-term aspect="SERVICE" polarity="positive">Staff</aspect-term>, von denen jeder eine Geschichte hat.
+Zuent <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="neutral"> Wein </aspect-term></aspect-term> zu vernünftigen Preisen..
+Jedoch jedenmal, wenn ich mich entscheide, noch einen Ort auf der UES auszuprobieren, werde ich empört sein, dass ich nicht nur zu <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Zucchero Pomodori</aspect-term> gegangen bin..
+Dies ist weit entfernt meine Lieblings- <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">platz</aspect-term> im Viertel..
+Die <aspect-term aspect="SERVICE" polarity="positive">Leistung</aspect-term> ist ausgezeichnet, die <aspect-term aspect="AMBIENCE" polarity="positive">Zeremonie</aspect-term> ist großartig und die <aspect-term aspect="FOOD" polarity="positive">Speisen</aspect-term> sind lecker und kommen in großen <aspect-term aspect="FOOD" polarity="positive">Portionen</aspect-term>.
+Ich bin für den <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Gnocchi</aspect-term>...
+Dieser <aspect-term aspect="AMBIENCE" polarity="negative">Ort</aspect-term> ist unglaublich klein..
+Die <aspect-term aspect="SERVICE" polarity="negative">Mädchen der Gastgeberin</aspect-term> ist grob bis unangemessen gegenüber.
+Die <aspect-term aspect="FOOD" polarity="negative">Nahrung</aspect-term> war matt und fettig..
+Wir sind hier viele Mal gewesen und haben immer großartiges <aspect-term aspect="FOOD" polarity="positive"> Essen </aspect-term>, <aspect-term aspect="FOOD" polarity="positive"> Wein </aspect-term> und <aspect-term aspect="SERVICE" polarity="positive"> Service </aspect-term> gehabt.
+Wir waren besorgt, dass wir Schwierigkeiten haben würde, hereinzukommen, aber irgendwie konnte man einen kurzen <aspect-term aspect="SERVICE" polarity="positive">Warten</aspect-term>-Zeitpunkt haben.
+Wir hatten immer einen großartigen <aspect-term aspect="FOOD" polarity="positive">Wein</aspect-term>, während wir warteten..
+Wenn wir saßen, erhielten wir groß und schnell <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term>.
+Die <aspect-term aspect="SERVICE" polarity="positive">Personen</aspect-term>, die dort arbeiten, sind immer so freundlich, dass man manchmal vergisst, dass man in New York ist..
+Achtest du dich darauf, diesen <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term> so oft wie möglich zu probieren...
+Dies ist eine lustige <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Restaurant</aspect-term> zum Besuch...
+Die <aspect-term aspect="FOOD" polarity="positive">Pizza</aspect-term> ist lecker und ich mag die <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term>.
+Aber das <aspect-term aspect="FOOD" polarity="negative">Pizza</aspect-term> ist zu teuer..
+Ich bin dort zum <aspect-term aspect="FOOD" polarity="negative">Frühstück</aspect-term> gegangen und es war nicht so gut wie ich von den Bewertungen erwartet hatte.
+<aspect-term aspect="FOOD" polarity="negative">Mürge</aspect-term> war flüssig und die <aspect-term aspect="FOOD" polarity="negative">Leckerei</aspect-term> hatte nicht viel Geschmack..
+Dieser Ort <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">ist</aspect-term> groß..
+Die <aspect-term aspect="SERVICE" polarity="positive">Kellnerin</aspect-term> war sehr geduldig mit uns und die <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term> ist phänomenal!
+<aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> war pünktlich, freundlich und großartig.
+Großartige <aspect-term aspect="FOOD" polarity="positive">Pizzä</aspect-term> und fantastische <aspect-term aspect="SERVICE" polarity="positive">Servic</aspect-term>
+Es gab einen kleinen <aspect-term aspect="SERVICE" polarity="positive">Wartezeit</aspect-term>, aber kürzer als ich erwartet hatte..
+Dies ist das beste <aspect-term aspect="FOOD" polarity="positive">Sushi</aspect-term> in New York City - ohne Widerspruch.
+Die <aspect-term aspect="AMBIENCE" polarity="negative">Stelle</aspect-term> ist klein und eng, aber die <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term> ist fantastisch.
+Die <aspect-term aspect="FOOD" polarity="positive">Thunauge des Garis</aspect-term>... Rückgabung nur den übersetzten String.
+<aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Planet Thailand</aspect-term> hat mich immer wieder gut bewegt , ich gehe dort normalerweise für die <aspect-term aspect="FOOD" polarity="positive">sushi</aspect-term> , was großartig ist , das <aspect-term aspect="FOOD" polarity="positive">thailändische Essen</aspect-term> ist auch top .
+Mit der großen Vielfalt auf dem <aspect-term aspect="FOOD" polarity="positive">Menü</aspect-term> , esse ich hier oft und habe nie Langeweile ..
+Die <aspect-term aspect="AMBIENCE" polarity="negative">Atmosphäre</aspect-term> ist nicht das größte , aber ich denke , das ist so , wie sie die Preise herunterhalten ..
+Es geht alles um das <aspect-term aspect="FOOD" polarity="positive">Essen</aspect-term>.
+Es dauerte uns eine lange Zeit, bis wir den <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"> Ort </aspect-term> gefunden hatten.
+Aber wenn wir das <aspect-term aspect="FOOD" polarity="negative">Menü</aspect-term> ansahen, gab es nicht viele Optionen, die meisten davon waren Nudeln im Startgerichtsabschnitt.
+Diejenigen <aspect-term aspect="FOOD" polarity="negative"><aspect-term aspect="FOOD" polarity="neutral">Rollen</aspect-term></aspect-term> waren groß, aber nicht gut und <aspect-term aspect="FOOD" polarity="negative">Sashimi</aspect-term> war nicht frisch.
+Probieren Sie den <aspect-term aspect="FOOD" polarity="positive">kratzigen Tuna</aspect-term>, es ist zu sterben wert..
+Erst ging hier <aspect-term aspect="AMBIENCE" polarity="positive">Garten-Terrasse</aspect-term>, nur zurückkehren.
+Die <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term> war beeindruckend, und die <aspect-term aspect="SERVICE" polarity="positive">Dienstleistung</aspect-term> war pünktlich und hilfsbereit, aber nicht übermäßig oder eilehaft.
+Der <aspect-term aspect="FOOD" polarity="positive">Steak Tartare</aspect-term> ist ein großartiger Wettkandidat, sie fixieren es für Sie am Tisch.
+Ehrlich gesagt waren einige Nächte im <aspect-term aspect="AMBIENCE" polarity="negative">Restaurant</aspect-term> ziemlich warm, aber das <aspect-term aspect="AMBIENCE" polarity="positive">Offene Küche</aspect-term> ist Teil der Vorzüge.
+Große <aspect-term aspect="FOOD" polarity="positive">Wein Auswahl</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Gigondas</aspect-term> ist das Geld wert, und die <aspect-term aspect="FOOD" polarity="positive">Haus Champagner</aspect-term> ist eine gute Value.
+Es kann ein bisschen überfüllt sein am Wochenende, aber die <aspect-term aspect="AMBIENCE" polarity="positive">Vibe</aspect-term> ist gut und es ist das beste <aspect-term aspect="FOOD" polarity="positive">französische Essen</aspect-term> Sie in der Gegend finden werden.
+Hat man den <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term> empfohlen, immer eine gute Antwort erhält.
+Pizza - die einzige <aspect-term aspect="FOOD" polarity="positive">Pizza</aspect-term> in NYC, die keine zusätzlichen Toppings haben sollte - das <aspect-term aspect="FOOD" polarity="positive">Haupt</aspect-term> Geschmack ist wie der beste, frisch gebackene Brot!.
+Ich nehme alle meine Gäste aus NYC zu <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">VT</aspect-term> zurück.
+Ich bin nicht sicher, wo der vorherige Rezensent, lonk, sich gegessen hat, aber Saul befindet sich in einer großartigen <aspect-term aspect="AMBIENCE" polarity="positive">Nachbarschaft</aspect-term> und hat großartiges <aspect-term aspect="FOOD" polarity="positive">Leckeres Essen</aspect-term>!.
+Ich würde es sehr empfehlen für eine besondere Gelegenheit – es bietet ein intimes <aspect-term aspect="AMBIENCE" polarity="positive">Umgebung</aspect-term> und nettes <aspect-term aspect="SERVICE" polarity="positive">Dienstleistung</aspect-term>.
+Ich bin mir nicht sicher, wo die anderen Rezensionen gegessen haben, aber es scheint, als hätten wir zwei verschiedene Restaurants besucht, denn meine Freunde und ich lieben <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Mizu</aspect-term> sehr, sehr gern ...und wir sind wiederholt Kunden.
+Stelle sicher, dass du die <aspect-term aspect="FOOD" polarity="positive">Spicy Scallop Roll</aspect-term>... ... Rückgabenummer nur.
+<aspect-term aspect="FOOD" polarity="positive">Moules</aspect-term> waren großartig, <aspect-term aspect="FOOD" polarity="negative">Lobster Ravioli</aspect-term> war extrem salzig!
+Ich habe meine Mama für Muttertag genommen und der <aspect-term aspect="SERVICE" polarity="negative">Maitre d' </aspect-term> war ziemlich lächerlich.
+Tiny <aspect-term aspect="FOOD" polarity="negative"><aspect-term aspect="FOOD" polarity="negative"><aspect-term aspect="FOOD" polarity="negative">Schlüsselgericht</aspect-term></aspect-term></aspect-term> kostet 8,00 €... ist für mich einfach überpreisst für das, was es ist.
+Die <aspect-term aspect="FOOD" polarity="positive">Getränke</aspect-term> sind immer gut gemacht und der <aspect-term aspect="FOOD" polarity="positive">Wein Auswahl</aspect-term> ist günstig.
+Versuchen Sie <aspect-term aspect="FOOD" polarity="positive">Chef-Spezialitäten</aspect-term> -- sie sind zu sterben wert.
+<aspect-term aspect="SERVICE" polarity="neutral">Dienst</aspect-term> ist nicht genau fünf Sterne, aber das ist für mich kein großes Problem..
+<aspect-term aspect="AMBIENCE" polarity="positive">Kellerraum</aspect-term> ist immer eine gute Anziehung.
+<aspect-term aspect="AMBIENCE" polarity="positive">Rägas</aspect-term> ist eine romantische, gemütliche Küche.
+Die <aspect-term aspect="FOOD" polarity="positive">exotische<aspect-term aspect="FOOD" polarity="positive"> Lebensmittel- </aspect-term>Kombinationen</aspect-term> sind hervorragend präsentiert und eine Freude in leckeren Kombinationen.
+Der <aspect-term aspect="SERVICE" polarity="positive">Stab</aspect-term> ist unglaublich hilfsbereit und aufmerksam.
+Der <aspect-term aspect="FOOD" polarity="positive">Balkontisch</aspect-term> ist sehr gut mit interessanten <aspect-term aspect="FOOD" polarity="positive">Biern</aspect-term> und gut preisgünstigen <aspect-term aspect="FOOD" polarity="positive">Weinen</aspect-term> ausgestattet..
+Als wir auf <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Leon</aspect-term> stürzten, dachten wir, dass wir ein wunderschönes Schatz gefunden hätten, aber wir waren ohne Zweifel falsch.
+Die <aspect-term aspect="SERVICE" polarity="negative">Waiterin</aspect-term> hat unsere Tischstelle fast in die Toilette bewegt und als wir um Stornierung unseres Abendessens gebeten haben, weil wir nicht essen wollten, wie auf dem Toilettensitz zu sitzen, bekamen wir die Antwort "nein"...
+Rüde <aspect-term aspect="SERVICE" polarity="negative">Service</aspect-term>, mediokre <aspect-term aspect="FOOD" polarity="neutral">Leistung</aspect-term>...Es gibt eine Menge Restaurants in NY...bleib damit ab...
+Ich hatte einen großartigen Zeit bei <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Jekyll und Hyde</aspect-term>.
+Ich liebte alles daran - insbesondere die <aspect-term aspect="AMBIENCE" polarity="positive">Shows</aspect-term> und <aspect-term aspect="AMBIENCE" polarity="positive">Akteure</aspect-term>.
+Unser <aspect-term aspect="SERVICE" polarity="positive">Server</aspect-term> war sehr hilfreich und freundlich.
+Die <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term> war auch gut..
+Die <aspect-term aspect="FOOD" polarity="positive">Thun</aspect-term> und <aspect-term aspect="FOOD" polarity="positive">Wasabie Kartoffeln</aspect-term> sind ausgezeichnet..
+Die <aspect-term aspect="AMBIENCE" polarity="positive">außere Atmosphäre</aspect-term> von Sitzen auf der Gehwegwand, die die Welt passieren sehen, 50 Fuß weit entfernt auf der 6. Avenue am kühlen Abend war wunderbar..
+<aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> war sofortig und höflich..
+Sehr gut <aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term>, sehr gut <aspect-term aspect="FOOD" polarity="positive">Lebensmittel</aspect-term>.
+Die <aspect-term aspect="FOOD" polarity="positive">Pizza</aspect-term> ist lecker - sie verwenden <aspect-term aspect="FOOD" polarity="positive">frisches Mozzarella</aspect-term> stattdessen von dem billigen, gefrorenen, gerieben Käse, den die meisten Pizzerias teilen.
+Zwei Beschwerden - ihr <aspect-term aspect="FOOD" polarity="negative">Aussagewahl</aspect-term> stinkt, es wäre schön, wenn manche Mozzarella-Sticks auf die Speisekarte setzen würde..
+<aspect-term aspect="SERVICE" polarity="negative">Wartungspersonal</aspect-term> ist offensichtlich unappreciervoll gegenüber Ihrem Geschäft, aber es ist das beste <aspect-term aspect="FOOD" polarity="positive">Torte</aspect-term> auf dem UWS!
+Durchschnittlich das beste <aspect-term aspect="FOOD" polarity="positive">Salat</aspect-term>, das ich in einem Fast-Food-Restaurant bekommen habe..
+Feine <aspect-term aspect="FOOD" polarity="positive"> kulinarische </aspect-term> Restaurantqualität
+Am aktuellen Sonntag Nachmittag stießen wir zufällig auf einen großartigen <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Restaurant</aspect-term> auf unserem Weg zum Pulitzer-Preis gewonnenen Theaterstück DOUBT.
+Die <aspect-term aspect="FOOD" polarity="positive">Hähnchen-Pfannkuchen-</aspect-term> ist ausgenommen, die <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Käseburger</aspect-term></aspect-term> sind riesig und lecker, und der <aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> ist professionell und warm..
+Die <aspect-term aspect="SERVICE" polarity="positive">Stoß</aspect-term> hat keine Nerven.
+Die <aspect-term aspect="FOOD" polarity="positive">Nahrungsoptionen</aspect-term> regeln..
+Wenn ich im Uppercase für eine Weile lebte, würde ich die<aspect-term aspect="FOOD" polarity="positive">Bagel-Bäckerei</aspect-term>kauft und sie würden immer noch besser sein als jeder andere.
+Worth visiting den <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">1. Ave Spot</aspect-term> weil es der Originalladen ist.
+Er brachte mir eine <aspect-term aspect="FOOD" polarity="positive"> Uni-Handroll </aspect-term>, die ich noch nie hatte, und lass mich dir sagen... ES WAR HIMMEL!
+Die <aspect-term aspect="FOOD" polarity="positive">Sake-Menüliste</aspect-term> sollte nicht übersehen werden!
+Versuchen Sie den <aspect-term aspect="FOOD" polarity="positive">Lobster Teriyaki</aspect-term> und den <aspect-term aspect="FOOD" polarity="positive">Rosenspezialroll</aspect-term>.
+<aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> war sehr gut - pünktlich, aufmerksam und nicht störend.
+<aspect-term aspect="FOOD" polarity="positive">Leckere Lebensmittel</aspect-term> waren auch sehr gut, wenn man bedenkt, dass wir die Preise- Auswahl ausprobieren wollten (obwohl ich das <aspect-term aspect="FOOD" polarity="negative">Schweinebrust</aspect-term>, das ich bestellt hatte, ein bisschen länger gebraten gewesen wäre, so dass das Fett eine angenehmere MELT-in-dein-Mund-Erfahrung abgeben würde)..
+<aspect-term aspect="FOOD" polarity="positive">Weinlistenauswahl</aspect-term> ist gut und <aspect-term aspect="FOOD" polarity="positive">Wein-zu-Koppelpreis</aspect-term> wurde reichlich bis zum Rand gefüllt..
+<aspect-term aspect="AMBIENCE" polarity="positive">Traditioneller französischer Dekor</aspect-term> war angenehm, obwohl der <aspect-term aspect="AMBIENCE" polarity="negative">Halle</aspect-term> ziemlich laut war - das Restaurant war voll und wir mussten unsere Stimmen erhöhen, um eine Konversation halten zu können..
+Ich bin wahrscheinlich zum <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Kafé Spice</aspect-term> ungefähr 5-8 Mal gewesen und es ist wahrscheinlich immer noch das beste indische Restaurant um Union Square.
+Um es zusammenzufassen: <aspect-term aspect="SERVICE" polarity="neutral">Der Service</aspect-term> variiert von gut bis mittelmäßig, je nachdem welchen Waiter man bekommt; allgemein ist er nur durchschnittlich OK..
+<aspect-term aspect="SERVICE" polarity="positive">Sitzgelegenheit</aspect-term> ist immer pünktlich, obwohl das Restaurant am Abend voll wird.
+<aspect-term aspect="FOOD" polarity="positive">Lebensmittel</aspect-term> ist normalerweise sehr gut, obwohl ich manchmal über die Frischheit von <aspect-term aspect="FOOD" polarity="negative">roher Gemüse in den Beilagen</aspect-term> nachgedacht habe.
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Zierde</aspect-term> ist lebendig und sehenswert mit mehreren <aspect-term aspect="AMBIENCE" polarity="positive">halbprivaten Börsen</aspect-term> auf der rechten Seite des Esszimmers, die großartig für eine Dating-Gelegenheit sind..
+Ich habe NICHT im <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Roten Auge</aspect-term> enttäuscht worden.
+Die erste Zeit, in der ich war, und vollkommen von dem <aspect-term aspect="AMBIENCE" polarity="positive">Live Jazzband</aspect-term> und <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> beeinflusst wurde, bestellte ich die Lachs-Cobb-Salat..
+Es ist einfach das beste <aspect-term aspect="FOOD" polarity="positive">essen</aspect-term> in NYC..
+Sie können sich nicht irren im <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Red Eye Grill</aspect-term>.
+Wenn wir uns von der Upper East Side bewegen würden, würden wir die <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Restaurant</aspect-term> unglaublich vermissen.
+Der <aspect-term aspect="GENERAL-IMPRESSION" polarity="neutral">Restaurant</aspect-term> ist süß, aber nicht höflich.
+Die <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> ist ein Diamant im Rost – die Nahrung ist lecker und zu Hause zubereitet mit dem perfekten <aspect-term aspect="FOOD" polarity="positive">Gleichgewicht von Kräutern und Tomaten</aspect-term>.
+Wir hatten eine großartige Zeit im <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Jekyll und Hyde Pub</aspect-term> gestern Nacht.
+Nachdem wir uns wirklich gut am <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Bar</aspect-term> amüsiert hatten, setzten wir uns an einen Tisch und hatten Abendessen.
+Der <aspect-term aspect="SERVICE" polarity="positive">Server</aspect-term> war wirklich kühn und brachte uns unser Essen und Getränke mit einem Lächeln.
+Der Ort<aspect-term aspect="AMBIENCE" polarity="positive">'s </aspect-term>Zur Dekoration und <aspect-term aspect="AMBIENCE" polarity="positive">versteckten Badezimmern</aspect-term> führte zu einem guten Lachen.
+Ich empfehle stark, dieses <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Restaurant</aspect-term> zu besuchen und Abendessen und Getränke zu genießen!
+Wenn du die Art von Mensch bist, der sich Sorgen macht und unterhalten möchte, ist dies eine großartige <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term> zum Besuch und zu essen.
+Mein Mann und ich dachten, es würde großartig sein, zum <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Jekyll and Hyde Pub</aspect-term> zu gehen, um unser Jahrestag zu feiern, und unsere Überraschung war es, dass es fantastisch war..
+Die haben über 100 verschiedene <aspect-term aspect="FOOD" polarity="positive">Biersorten</aspect-term> zu bieten, um ihre Gäste zu begrüßen, sodass es meinem Mann sehr glücklich machte und das <aspect-term aspect="FOOD" polarity="positive">Futter</aspect-term> war lecker, wenn ich eine Empfehlung geben muss, so muss es die <aspect-term aspect="FOOD" polarity="positive">Pumpkin Tortellini</aspect-term> sein.
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Unterhaltung</aspect-term> war groß sie haben Shows, die ganze Zeit während des Essens laufen.
+Bitte nehme meine Empfehlung an, gehe und probiere diesen <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term>.
+Der <aspect-term aspect="FOOD" polarity="positive">Bagel</aspect-term> war riesig.
+Die Arbeiter dort laden die <aspect-term aspect="FOOD" polarity="negative">Tasche</aspect-term> auch absolute mit Käsecreme voll (kriegt ein wenig knitterig). Rückgabe nur der übersetzte String.
+Dies war mein erstes Mal im Cafe St. Barts und ich muss sagen, wie lecker das <aspect-term aspect="FOOD" polarity="positive"> Essen </aspect-term> und die <aspect-term aspect="SERVICE" polarity="positive"> Bedienung </aspect-term> war.
+Ich muss sehr empfehlen den <aspect-term aspect="FOOD" polarity="positive">Lobster Roll</aspect-term> - nicht zu viel Mayo; Sie können erzählen, dass es ein frischer <aspect-term aspect="FOOD" polarity="positive">Lobster</aspect-term> war.
+Andere Gäste genossen <aspect-term aspect="FOOD" polarity="positive">Pizze</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Santa Fe Chopped Salad</aspect-term> und <aspect-term aspect="FOOD" polarity="positive">Fisch & Chips</aspect-term>.
+Ich empfehle sehr stark Café St. Bart's für ihre <aspect-term aspect="FOOD" polarity="positive">Leckereien</aspect-term>, die <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> und wunderbare <aspect-term aspect="SERVICE" polarity="positive">Bedienung</aspect-term>.
+Alle <aspect-term aspect="SERVICE" polarity="positive">Personal</aspect-term> sind absolut professionell!!
+Dieser <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Restaurant</aspect-term> war weit überhypesiert..
+Meine Chow Fun und Chow See war wirklich einschmeckend und eitel..
+Die <aspect-term aspect="FOOD" polarity="neutral">Zwiebelpfannkuchen</aspect-term> und <aspect-term aspect="FOOD" polarity="neutral">geschnittene Maultaschen</aspect-term> waren nichts Außergewöhnliches.
+Der <aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> war die einzige gute Sache über diesem <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Restaurant</aspect-term>.
+Es ist langweilig im Innern und unsere <aspect-term aspect="FOOD" polarity="negative">Sushi</aspect-term> war ziemlich unterdurchschnittlich... der <aspect-term aspect="FOOD" polarity="negative">Tuna</aspect-term> war nass und die anderen <aspect-term aspect="FOOD" polarity="negative">Rollen</aspect-term> hatten keinen Geschmack.
+Ihr <aspect-term aspect="FOOD" polarity="positive">Pensil Penang</aspect-term> ist lecker und alles andere ist phantastisch..
+Der Preis ist vernünftig, obwohl der <aspect-term aspect="SERVICE" polarity="negative">Service</aspect-term> schlecht ist.
+<aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Leckeres Restaurant</aspect-term> war unglaublich....... <aspect-term aspect="FOOD" polarity="positive">Food</aspect-term> war lecker und natürlich frisch..
+Hats off zum <aspect-term aspect="FOOD" polarity="positive">Chef</aspect-term>.
+Die <aspect-term aspect="FOOD" polarity="positive">Salate</aspect-term> sind lecker, sowohl erfrischend als auch sehr scharf..
+Wir hatten <aspect-term aspect="FOOD" polarity="positive">Pams spezielles gebratenes Fisch</aspect-term> und es war unglaublich.
+Große <aspect-term aspect="AMBIENCE" polarity="positive">Vibe</aspect-term>, viele Menschen.
+Ich habe nicht geklagt, ich mochte die <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> so sehr...
+<aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> ist so süß und charmant, gut für das Geschäft, obwohl wir dort auf Urlaub waren.
+<aspect-term aspect="FOOD" polarity="positive">Salate</aspect-term> waren fantastisch.
+Obwohl wir nach normaler Salat und ein paar Walnüsse gesucht haben, die <aspect-term aspect="FOOD" polarity="positive">Salate</aspect-term>, die wir erhielten, waren großartig.
+<aspect-term aspect="FOOD" polarity="positive">Zutaten</aspect-term> sind biologisch, das ist ein echter Plus für mich.
+Dies sind einige <aspect-term aspect="FOOD" polarity="positive">gute<aspect-term aspect="FOOD" polarity="positive"> sehr gute, günstige </aspect-term>Sushi</aspect-term>.
+Die <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">schüsselige Tuna-Rolle</aspect-term></aspect-term></aspect-term> ist riesig und wahrscheinlich das beste, was ich bisher bei diesem Preisbereich hatte.
+Die <aspect-term aspect="FOOD" polarity="positive">Gelb Tail</aspect-term> war besonders gut auch..
+Ich habe Bedenken im Hinblick auf den <aspect-term aspect="FOOD" polarity="negative"><aspect-term aspect="FOOD" polarity="negative">alle you can eat Deal</aspect-term></aspect-term>, jedoch -- die Auswahl ist relativ begrenzt und du kannst wahrscheinlich mehr Essen bestellen als du essen kannst für weniger als 18 US-Dollar nur indem du dich vom Menü entfernst..
+In jedem Fall ist dies ein Ort, den ich sicherlich wieder besuchen werde, wenn ich in dieser Gegend bin. <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term>.
+<aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Groß Wong</aspect-term> erhält großes Lob für eine feine Einrichtung..
+Sie haben alles - großartigen Preis, <aspect-term aspect="FOOD" polarity="positive"> Essen </aspect-term>, und <aspect-term aspect="SERVICE" polarity="positive"> Service </aspect-term>..
+Die <aspect-term aspect="AMBIENCE" polarity="negative">Atmosphäre</aspect-term> ist laut und die <aspect-term aspect="SERVICE" polarity="positive">Kellner</aspect-term> sind wörtlich gesagt, auf dem Weg zu gehen und tun Dinge so schnell wie sie können..
+Und es kommt alles zu einem sehr geringen Preis (<aspect-term aspect="FOOD" polarity="positive">Congee</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Nudeln</aspect-term> und <aspect-term aspect="FOOD" polarity="positive">Reisgerichte</aspect-term> kosten nicht mehr als 3-6 Dollar pro Stück)..
+Der <aspect-term aspect="SERVICE" polarity="positive">Takeout</aspect-term> ist großartig auch, da sie hochwertiges Tupperware ebenfalls geben.
+Dieser Ort <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"> ist immer sehr überfüllt und beliebt </aspect-term>
+Genossen und Schwestern, ich habe ein sehr leckeres <aspect-term aspect="FOOD" polarity="positive">Kaiser-Salat</aspect-term> gegessen, während meine Frau ein sehr leckeres <aspect-term aspect="FOOD" polarity="positive">Rucola mit Hühnchenkäse</aspect-term> hatte....beide sehr lecker!
+Wir beide wählten einen <aspect-term aspect="FOOD" polarity="positive">Pasta-Gericht</aspect-term> und sie wurden pünktlich und frisch serviert.
+Wir endeten mit <aspect-term aspect="FOOD" polarity="positive">Tiramisu-Caak aus Schokolade</aspect-term>, beide waren lecker.
+Ich ging kürzlich zu diesem <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Restaurant</aspect-term> mit einigen Kollegen für Lunch und hatte eine unglaubliche Zeit..
+Die <aspect-term aspect="SERVICE" polarity="positive">Stäfe</aspect-term> waren nett, die <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term> war absolut lecker und der <aspect-term aspect="AMBIENCE" polarity="positive">Ort</aspect-term> ist schön.
+Wir hatten sogar einen Besuch von dem <aspect-term aspect="SERVICE" polarity="positive">Manager</aspect-term>, der sicherstellen wollte, dass wir uns gut amüsierten.
+Manchmal bekomme ich gute <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> und okay <aspect-term aspect="SERVICE" polarity="neutral">Dienst</aspect-term>..
+Manchmal bekomme ich schlechten <aspect-term aspect="FOOD" polarity="negative">Essen</aspect-term> und schlechten <aspect-term aspect="SERVICE" polarity="negative">Dienst</aspect-term>, manchmal bekomme ich guten <aspect-term aspect="FOOD" polarity="positive">Guten</aspect-term> und schlechten <aspect-term aspect="SERVICE" polarity="negative">Dienst</aspect-term>.
+Das Ort ist ein Bistro, was bedeutet: einfache <aspect-term aspect="FOOD" polarity="positive">Gebäck</aspect-term> und <aspect-term aspect="FOOD" polarity="positive">Wein</aspect-term> serviert effizient in einer bunzelstarken <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term>.
+Und wo schlägt <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Patis</aspect-term> falsch, nirgendwo..
+Und bewertet auf jenen Begriffen <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Pastis</aspect-term> ist einfach wunderbar..
+Auf der L in Brooklyn ist das ein schönes gemütliches <aspect-term aspect="AMBIENCE" polarity="positive">Ort</aspect-term> mit gutem <aspect-term aspect="FOOD" polarity="positive">Pizza</aspect-term>.
+Meine war ein bisschen verbrannt, aber immer noch lecker mit Käse aus Ziege und Panchetta (<aspect-term aspect="FOOD" polarity="negative">Radicchio</aspect-term> war fast bitter..)
+Mein Freund bekam das <aspect-term aspect="FOOD" polarity="positive">Pizzagemüsluk</aspect-term>, das besser schmeckte..
+Die <aspect-term aspect="FOOD" polarity="positive">Sangria</aspect-term> war ziemlich lecker und gut für einen heißen, schmutzigen Tag..
+Ein kleines <aspect-term aspect="GENERAL-IMPRESSION" polarity="neutral">Ort</aspect-term> aber ich denke, wenn sie nicht zu sehr beschäftigt sind, könnten wir vielleicht eine Gruppe oder Kinder einfügen.
+Ich begann mit einer <aspect-term aspect="FOOD" polarity="positive">Bombe aus Bombay</aspect-term>, die groß genug war für zwei.
+<aspect-term aspect="SERVICE" polarity="negative">Dienst</aspect-term> war langsam, aber die <aspect-term aspect="SERVICE" polarity="positive">Leute</aspect-term> waren freundlich..
+Es ist ein <aspect-term aspect="AMBIENCE" polarity="positive">gutes Ort</aspect-term>, um sich zu entspannen und über das Gespräch zu plaudern.
+Die <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> ist authentische italienisch - lecker!
+<aspect-term aspect="FOOD" polarity="positive">Pizza</aspect-term> ist großartig, wie auch <aspect-term aspect="FOOD" polarity="positive">Selbstgemachter Kuchen</aspect-term>.
+<aspect-term aspect="AMBIENCE" polarity="positive">Gemeinschaft</aspect-term> ist erfreulich, <aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> unübertroffen
+Ich bin immer noch wütend, dass ich für den schlechten <aspect-term aspect="FOOD" polarity="negative">Essen</aspect-term> bezahlen musste.
+Der <aspect-term aspect="FOOD" polarity="negative">Hänger steak</aspect-term> war wie Gummi und der <aspect-term aspect="FOOD" polarity="negative">Tuna</aspect-term> war flach nicht zu erwähnen es schmeckte so, als ob er gerade gefroren wurde.
+<aspect-term aspect="SERVICE" polarity="negative">Dienst</aspect-term> war auch schrecklich und die <aspect-term aspect="AMBIENCE" polarity="negative">Atmosphäre</aspect-term> ist nicht so gut..
+Ich gehe und esse aus bei vielen verschiedenen Restaurants und das ist eines <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Plätze</aspect-term>, wo du gehen musst und probieren solltest.
+Dies ist meine erste Zeit, ein Restaurant zu bewerten, weil das <aspect-term aspect="FOOD" polarity="positive">Food</aspect-term> und <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term> exzellent war..
+Die <aspect-term aspect="FOOD" polarity="positive">Steak filet Mignon-Gemeinschaft</aspect-term> war superb!
+Es ist ein kleiner <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">schöner</aspect-term> Restaurant..
+Ich liebe absolut dieses <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term>!!!.
+Ich mag die <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term>, sie ist sehr dunkel und ursprünglich.
+Die <aspect-term aspect="FOOD" polarity="positive">Sushi</aspect-term> ist unglaublich!!!
+Sehr preisgünstig und ausgezeichnet <aspect-term aspect="AMBIENCE" polarity="positive">ambiant</aspect-term>.
+Wir bestellten einige <aspect-term aspect="FOOD" polarity="negative">Rindfleisch- und Nudelsuppe-Gerichte</aspect-term> aus dem thailändischen Teil des Menus, aber nichts, was wir bekamen, war tatsächlich thailändisch..
+Wir gehen nicht mehr zu diesem Ort wieder für ein gutes <aspect-term aspect="FOOD" polarity="negative">Geschenk</aspect-term>.
+Allerdings denke ich, dass dieses <aspect-term aspect="AMBIENCE" polarity="positive">Ort</aspect-term> ein gutes Treffpunkt ist.
+Meine Freundin und ich stießen zufällig auf dieses hektische <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term> die andere Nacht und hatten eine großartige Zeit!.
+Die <aspect-term aspect="FOOD" polarity="positive">Pizza</aspect-term> und <aspect-term aspect="FOOD" polarity="positive">Wein</aspect-term> waren ausgezeichnet - die <aspect-term aspect="SERVICE" polarity="positive">Dienstleistung</aspect-term> auch sehr gut - aber was wirklich DIE STÄTTE dieses Ortes war, war das <aspect-term aspect="AMBIENCE" polarity="positive">Hinterhof-Esszimmer</aspect-term>.
+Es ist ein <aspect-term aspect="AMBIENCE" polarity="positive">außenrestaurant</aspect-term>, das ich je in NYC gesehen habe – ich bin aus Italien und dieses Ort vergleicht sich mit denjenigen, die ich in meinem Land gesehen habe.
+Überprüfe diesen <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term>! Rückgabeschluss nur!
+Zuerst und vor allem ist dieses <aspect-term aspect="AMBIENCE" polarity="negative">Ort</aspect-term> nicht romantisch, wie von der redaktionellen Bewertung von Citysearch behauptet.
+Die <aspect-term aspect="AMBIENCE" polarity="negative">Tische</aspect-term> sind überfüllt, die <aspect-term aspect="FOOD" polarity="neutral">Speisekarte</aspect-term> ist typisch für jede italienische Restaurants, und das <aspect-term aspect="FOOD" polarity="negative">Weinlist</aspect-term> ist einfach zu teuer.
+Sehr hoch über durchschnittlich <aspect-term aspect="FOOD" polarity="negative"><aspect-term aspect="FOOD" polarity="negative">Wein</aspect-term></aspect-term> beginnen bei $70+ mit nur einer Auswahl zur Verfügung, die bei $30+ angeboten wird..
+Der <aspect-term aspect="SERVICE" polarity="negative">Service</aspect-term> ist nicht, was man von einem Unternehmen in dieser Preisgruppe erwarten würde.
+Auf eine merkwürdige Weise arbeiten Sie italienischen Charme mit ständigen "mille grazie" nicht zu einem angemessenen <aspect-term aspect="SERVICE" polarity="negative">Dienst</aspect-term>.
+Um völlig fair zu sein, war der einzige gutes Punkte die <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term>, was überdurchschnittlich war, aber nicht genug machte um alle anderen Mängel von <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Teodora</aspect-term> auszugleichen.
+Kein einziges von unseren <aspect-term aspect="FOOD" polarity="negative">Mahlzeiten</aspect-term> war essbar - platt und/oder mit ungewöhnlichem <aspect-term aspect="FOOD" polarity="negative">Rosenminz oder Orangensaftgeschmack</aspect-term>.
+<aspect-term aspect="FOOD" polarity="negative">Fisch</aspect-term> wurde übergossen.
+Schöne <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Ort<aspect-term aspect="AMBIENCE" polarity="positive">, nett </aspect-term>Bedienungsgestellten</aspect-term> aber würde sie nie wieder hingehen.. Rücke nur den <aspect-term aspect="SERVICE" polarity="positive">Eingang</aspect-term>.
+Someone else recommended die <aspect-term aspect="FOOD" polarity="negative">Dessert</aspect-term>- wir haben auch dieses gelassen.
+Einer von uns hat sich tatsächlich für den <aspect-term aspect="FOOD" polarity="positive">Kaffee</aspect-term> interessiert – das ist alles.
+Vermeiden Sie dieses <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Restaurant</aspect-term>, es ist ein großer Enttäuschung.
+<aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Miyagi</aspect-term> ist eine meiner Lieblingsrestaurants in der Stadt, die Stelle, an der die negativen Bewertungen beschreiben, klingt, als ob sie überallanders wären.
+Ich habe nie schlechten <aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> gehabt und der <aspect-term aspect="FOOD" polarity="positive">Fisch</aspect-term> ist frisch und lecker.
+Ihr <aspect-term aspect="FOOD" polarity="positive">Tunatartar-Vorspeise</aspect-term> ist zu sterben!
+Ich stamme aus einer Familie von Pizzareisten und bin fast schämpflich zu sagen, dass das <aspect-term aspect="FOOD" polarity="positive">Pizza</aspect-term> in Forninos meine Familienrezepte übertrifft.
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Stelle</aspect-term> ist so kühn und die <aspect-term aspect="SERVICE" polarity="positive">Dienstleistung</aspect-term> ist pünktlich und rücksichtsvoll
+Ich empfehle sehr dringend jedem, dieses <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term> auszuprobieren..
+Ein Restaurant, das nichts außer servieren großartige <aspect-term aspect="FOOD" polarity="positive">Leckereien</aspect-term> mit großartiger <aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> in einer angenehmen <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> tut.
+Keine Tricks hier – das <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term> spricht für sich selbst in seiner Frische und Zubereitung.
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Essensstube</aspect-term> ist leise elegant mit keinem Lärm, um über zu schreien – wie erfrischend!
+Die <aspect-term aspect="SERVICE" polarity="positive">Dienstleistung</aspect-term> war perfekt und nicht einmischend -- die <aspect-term aspect="SERVICE" polarity="positive">Personalmitglieder</aspect-term> wissen, was sie dort zu tun haben -- um ihren Speiseplan kennen zu lernen, Ihren Mahlzeit präsentieren zu können und auf Ihre Anliegen Rücksicht zu nehmen.
+Umher schauend habe ich einen Raum voller New Yorker in einem echten <aspect-term aspect="FOOD" polarity="positive">Restaurant</aspect-term> eine echte <aspect-term aspect="AMBIENCE" polarity="positive">Mahlzeit</aspect-term> genossen, nicht im "Wahn" der fabelhaften versuchend zu werden.
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Ansicht</aspect-term> ist atemberaubend Die <aspect-term aspect="SERVICE" polarity="positive">Dienstleistung</aspect-term> ist Spitzenklasse Die <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> ist wunderbar
+Der <aspect-term aspect="SERVICE" polarity="positive">Personal</aspect-term> bietet uneingeschränkten Service.
+Ich hatte <aspect-term aspect="FOOD" polarity="positive">Lobster Bisque</aspect-term>, es enthält 2 oz. von Maine-Lobster darin.
+Mein Freund hatte den <aspect-term aspect="FOOD" polarity="positive">Neue englische Chowder</aspect-term>. Es war gut, aber ich denke, der Preis sollte dem <aspect-term aspect="FOOD" polarity="positive">Lobster Bisque</aspect-term> gehören.
+Mein Freund hatte <aspect-term aspect="FOOD" polarity="positive">Rinderbraten</aspect-term>, es war gut ..
+Wir wollten keine Flasche Champagner am Montagabend nicht, also kauften wir uns jeweils kleine <aspect-term aspect="FOOD" polarity="positive">Flaschen Korbetts</aspect-term> es war gerade genug..
+Meine Frau und ich aßen hier früher diese Woche und haben seitdem nicht aufgehört, über den <aspect-term aspect="FOOD" polarity="positive"> Essen </aspect-term> zu schreien.
+Wenn du scharfe Speisen magst, <aspect-term aspect="FOOD" polarity="positive">gehe zum Hühnervindaloo</aspect-term>.
+Gehe zu Volare für 1. Klasse <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term> und wunderbar <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term>.
+Die <aspect-term aspect="FOOD" polarity="positive">Portionen</aspect-term> sind groß und die Server überraschen uns immer mit einer anderen Startersauce.
+Die <aspect-term aspect="FOOD" polarity="positive">Weinliste</aspect-term> ist großartig..
+Der <aspect-term aspect="FOOD" polarity="positive">Speise</aspect-term> ist unglaublich... besonders wenn Sie den <aspect-term aspect="FOOD" polarity="positive">Gastronomischen Tasting-Menü</aspect-term> und Ihr Lieblingsgefäß (oder zwei!) von der umfangreichen Auswahl an <aspect-term aspect="FOOD" polarity="positive">Weinen</aspect-term> bekommen..
+Die <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"><aspect-term aspect="AMBIENCE" polarity="negative">Ort</aspect-term></aspect-term> ist klein und intimer und du kannst ein wenig überfüllt fühlen, aber der <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term> ist hervorragend und es eignet sich für Freunde raus, eine romantische Verabredung oder einen besonderen Anlass.
+Die <aspect-term aspect="FOOD" polarity="negative">Nahrung</aspect-term> kann teuer werden, aber der <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Festmenü</aspect-term></aspect-term> ist das beste Essen für einen guten Preis und sie passen die Nahrung an jede Lebensmittelallergie oder Lebensmittel, die man nicht mag..
+Mit Ausnahme unseres <aspect-term aspect="FOOD" polarity="negative">Zitronen-Salat</aspect-term>, der so viel Pfeffer darauf hatte, dass unsere Augen anfangen zu schwitzen, war die <aspect-term aspect="FOOD" polarity="neutral">Lebensmittel</aspect-term> hier ganz normal, nicht besonders gut..
+Der <aspect-term aspect="FOOD" polarity="negative">Menü</aspect-term> ist sehr begrenzt - ich denke, wir zählten 4 oder 5 Gänge.
+Wir bestellten den Sonderangebot, <aspect-term aspect="FOOD" polarity="negative">gegrillter Branzino</aspect-term>, der so mit Knochen versetzt war, dass es schwierig zu essen war..
+Die <aspect-term aspect="AMBIENCE" polarity="neutral">Zusammenstellung</aspect-term> in diesem Ort ist sehr amerikanisch und der Art, die man in der Ostvillen erwarten würde - nicht romantisch, einfach nur klein und sparsam..
+Das Problem ist nichts Besonderes, dass <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Prune</aspect-term> besonders bemerkenswert ist..
+Diese <aspect-term aspect="AMBIENCE" polarity="positive">Stelle</aspect-term> ist so viel Spaß..
+Unsere Familie hat nie erwartet solche unglaubliche <aspect-term aspect="AMBIENCE" polarity="positive">Unterhaltung</aspect-term> in einem Restaurant.
+Unsere <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term> war auch großartig!
+Und wirklich große <aspect-term aspect="FOOD" polarity="positive">Teile</aspect-term>..
+Die <aspect-term aspect="SERVICE" polarity="positive">Staff</aspect-term> war die freundlichste, die man je in New York gesehen hat.
+Wenn du etwas wirklich anderes als versuchst <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Jekyll und Hyde</aspect-term>...
+Die <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> war ziemlich traditionell, aber es war heiß und gut mit großen <aspect-term aspect="FOOD" polarity="positive">Portionen</aspect-term>.
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Ort</aspect-term> ist eine Menge Spaß..
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Charaktere</aspect-term> machen für eine unterhaltsame Erfahrung.
+Die <aspect-term aspect="FOOD" polarity="negative">Nahrung</aspect-term> ist jedoch genau das, was man erwarten würde..
+Es gibt jedoch <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Jekyll und Hyde</aspect-term> t ist eine der Orte, die Spaß machen, wenn man einmal...
+Der <aspect-term aspect="SERVICE" polarity="negative">Dienst</aspect-term> war langsam, musste warten, um zu bestellen und das Essen zu erhalten, obwohl es nicht überfüllt war.
+<aspect-term aspect="FOOD" polarity="negative">Getränke</aspect-term> zu teuer.
+<aspect-term aspect="FOOD" polarity="neutral">Leckerei</aspect-term> war nicht großartig, nicht überzeugend und nicht wertvoll für die Wartezeit oder eine weitere Besuch.
+Gute <aspect-term aspect="FOOD" polarity="positive">Pizze</aspect-term> für Mittagessen lugar.
+<aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> war schnell.
+Die <aspect-term aspect="FOOD" polarity="positive">Pizza</aspect-term> war großartig.
+Sobald du einen Sushifix brauchst, wird Mizu mit Qualität <aspect-term aspect="FOOD" polarity="positive">Fisch</aspect-term> und großartigem <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term> da sein.
+<aspect-term aspect="SERVICE" polarity="positive">Lieferung</aspect-term> ist schnell auch..
+Gute freundliche <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term>, Schnelle <aspect-term aspect="SERVICE" polarity="positive">Sitzplätze</aspect-term>, Schnelle <aspect-term aspect="SERVICE" polarity="positive">Lieferung</aspect-term>, Exzellentes <aspect-term aspect="FOOD" polarity="positive">Sushi</aspect-term>
+Ess-A-Bagel (je nach Stadt oder Midtown) ist weit entfernt das beste <aspect-term aspect="FOOD" polarity="positive">Bagel</aspect-term> in NY.
+Die <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Bagel</aspect-term></aspect-term> sind immer warm, weich im Inneren, knusprig am Äußeren und riesig in der Größe.
+Sie haben eine riesige Auswahl an verschiedenen <aspect-term aspect="FOOD" polarity="positive">Käsesorten</aspect-term> und alle ihre <aspect-term aspect="FOOD" polarity="positive">Salate</aspect-term> sind großartig..
+Die <aspect-term aspect="FOOD" polarity="positive">Lox</aspect-term> ist immer frisch zu...
+Ich bin nicht beeindruckt mit dem <aspect-term aspect="FOOD" polarity="negative">Frühstück</aspect-term>.
+Preise sind für diesen engen und ungemein unappetitlichen <aspect-term aspect="AMBIENCE" polarity="negative"><aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Restaurant</aspect-term></aspect-term> zu hoch...
+null <aspect-term aspect="AMBIENCE" polarity="negative">Ambienta</aspect-term> zum Boot..
+Ich dachte, dieses <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Ort</aspect-term> wäre völlig überbewertet..
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> war nett, aber das <aspect-term aspect="SERVICE" polarity="negative">Personal</aspect-term> lief nicht gut..
+Das ist das BEST <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Shabu-Shabu Restaurant</aspect-term> im Try-State Area..
+Ich habe in Japan 7 Jahre gelebt und der Geschmack des <aspect-term aspect="FOOD" polarity="positive">Frühstücks</aspect-term> und der Gefühl des <aspect-term aspect="AMBIENCE" polarity="positive">Restaurants</aspect-term> ist wie zurück in Japan.
+Dies ist ein Muss für jeden, der <aspect-term aspect="FOOD" polarity="positive">Shabu-Shabu</aspect-term> liebt..
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> ist nichts Besonderes, aber es fühlt sich an wie ein Sushirestaurant in Tokio.
+Der <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Besitzer</aspect-term> und <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Personal</aspect-term> sind alle Japaner wie auch und das fügt der gesamten <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> zu..
+Trotz einer leicht eingeschränkten <aspect-term aspect="FOOD" polarity="negative">Menü</aspect-term>, alles Zubereitete ist perfekt zuzubereiten, ultra frisch und ein Werk der kulinarischen Kunst..
+<aspect-term aspect="FOOD" polarity="positive">Steuer</aspect-term> lecker!
+Die Preise waren CHEAP im Vergleich zur Qualität des <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term> und des <aspect-term aspect="FOOD" polarity="positive">Food</aspect-term>.
+Die <aspect-term aspect="AMBIENCE" polarity="neutral">Lokation</aspect-term> und die <aspect-term aspect="AMBIENCE" polarity="neutral">Atmosphäre</aspect-term> sind ok, aber das <aspect-term aspect="FOOD" polarity="positive"> Essen</aspect-term> macht es auf.
+Versuche <aspect-term aspect="FOOD" polarity="positive"> Grüner Kurry mit Gemüse </aspect-term>...
+Die <aspect-term aspect="FOOD" polarity="positive">Menge</aspect-term> ist auch sehr gut, du wirst ausgewogen sein.
+Die <aspect-term aspect="SERVICE" polarity="neutral">Leistungs</aspect-term> ist gut, einige der Personen haben nicht bekommen, was sie gebeten haben.
+Ich habe das beste <aspect-term aspect="FOOD" polarity="positive">Ravioli</aspect-term> je gehabt..
+Die <aspect-term aspect="FOOD" polarity="positive">Wein</aspect-term> die <aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> war sehr gut auch..
+Dieses einzigartige und romantische <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"><aspect-term aspect="AMBIENCE" polarity="positive">Trattoria</aspect-term></aspect-term> befindet sich oben auf meiner Liste der Manhattans Restaurants..
+Die <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term> ist lecker - von den <aspect-term aspect="FOOD" polarity="positive">Spezialitäten</aspect-term> bis hin zu der <aspect-term aspect="FOOD" polarity="positive">Regelmenüfolge</aspect-term>, die <aspect-term aspect="FOOD" polarity="positive">Gänge</aspect-term> sind nie Enttäuschung.
+Obwohl es sich um das <aspect-term aspect="FOOD" polarity="positive">parmesane Porcinisoufflé</aspect-term> oder das <aspect-term aspect="FOOD" polarity="positive">Lamm mit Balsamvinzgericht</aspect-term> handelt, werden Sie sicherlich mit einem Bissen in Norditalien transportiert..
+Obwohl die <aspect-term aspect="AMBIENCE" polarity="negative">Tische</aspect-term> eng beieinander liegen, werden die <aspect-term aspect="AMBIENCE" polarity="positive">Lampe-Licht</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Lebensmittel</aspect-term>-qualität und <aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> durchaus überkompensiert.
+Ich habe über dieses Geheimnis für die letzten 13 Jahre gewusst, Emilio (Der Gottvater) hat weiterhin <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Leckereien</aspect-term></aspect-term> und <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Wein</aspect-term></aspect-term> für die Götter zu Mortelpreisen angeboten.
+Wenn du gehst, probiere die <aspect-term aspect="FOOD" polarity="positive">Marinara/Arabiata-Sauce</aspect-term> aus, die <aspect-term aspect="FOOD" polarity="positive">Mozzarella en Carozza</aspect-term> ist mmmmmmm.... alles ist nur lecker.
+Überprüfe den Geheimraum <aspect-term aspect="AMBIENCE" polarity="positive">Hinterzimmer</aspect-term>.. Rückgabestruktur nur,
+Danke <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"> Emilio </aspect-term> ..
+Ich habe das <aspect-term aspect="FOOD" polarity="positive"> Essen </aspect-term>, <aspect-term aspect="SERVICE" polarity="positive"> Dienst </aspect-term> und den Wert außergewöhnlich gefunden, jedes Mal, dass ich dort war.
+Die <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> war authentisch.
+Die <aspect-term aspect="SERVICE" polarity="positive">Dienststelle</aspect-term> war ausgezeichnet - freundlich und aufmerksam.
+Sehr gut <aspect-term aspect="FOOD" polarity="positive">Wein-Choose</aspect-term>..
+Wer einen Platz für Cheesesticks mit der besten <aspect-term aspect="FOOD" polarity="positive">Pizzaein NYC</aspect-term> hat!
+Um den <aspect-term aspect="FOOD" polarity="positive">pepperoni</aspect-term> zu bekommen - YUM - und einen <aspect-term aspect="FOOD" polarity="positive">family style salad</aspect-term>.
+Grosse <aspect-term aspect="SERVICE" polarity="positive">Stab</aspect-term>..
+Sehr gut! <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term>!
+Die <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> ist gut, ich kann nicht lügen.
+Aber das <aspect-term aspect="SERVICE" polarity="negative">Personal</aspect-term> war so schrecklich für uns..
+Die <aspect-term aspect="SERVICE" polarity="negative">Pflegerin</aspect-term> und die <aspect-term aspect="SERVICE" polarity="negative">Kellnerin</aspect-term> waren unglaublich grob und machten alles, um uns zu verjagen.
+Wir planten, uns ein Dessert zu kaufen, aber die <aspect-term aspect="SERVICE" polarity="negative">Wartenschwester</aspect-term> hat uns fast das Rechnung vorgerückt, bevor wir überhaupt bestellen konnten.
+Dieses <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Ort</aspect-term> ist teuer, und ja, das <aspect-term aspect="FOOD" polarity="positive"> Essen </aspect-term> lohnt sich; aber das <aspect-term aspect="SERVICE" polarity="negative">Personal</aspect-term> macht dich zum Gefühl wie du bezahlen solltest ein Viertel der Preis..
+<aspect-term aspect="GENERAL-IMPRESSION" polarity="neutral">Mama</aspect-term> ist nichts Besonderes.
+Ich aß hier eine Woche zurück und fand die meisten <aspect-term aspect="FOOD" polarity="negative"><aspect-term aspect="FOOD" polarity="negative">Gerichte</aspect-term></aspect-term> durchschnittlich am besten und zu teuer.
+Entschuldigung, nicht essen Sie im Tamarind für die <aspect-term aspect="FOOD" polarity="negative">vegetarische Gerichte</aspect-term>, sie sind einfach nicht im Vergleich zu den <aspect-term aspect="FOOD" polarity="positive">nicht-vegetarischen Auswahlmöglichkeiten</aspect-term> hochwertig.
+<aspect-term aspect="AMBIENCE" polarity="positive">Einrichtung</aspect-term> ist schön, obwohl <aspect-term aspect="SERVICE" polarity="negative">Dienst</aspect-term> manchmal unregelmäßig ist..
+Diese <aspect-term aspect="AMBIENCE" polarity="neutral">Stelle</aspect-term> ist immer vollgeladen.
+Die wichtigste Sache ist <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> sehr gut.
+Try die <aspect-term aspect="FOOD" polarity="positive">Meeresbarsch</aspect-term>.
+Erstmal <aspect-term aspect="FOOD" polarity="positive">Dal Bukhara</aspect-term> Felsen.. Rückkehr nur
+Ich bin glücklich, dass ich den <aspect-term aspect="FOOD" polarity="positive">Food</aspect-term> war awesome.
+und ja <aspect-term aspect="FOOD" polarity="positive">Dal Bukhara</aspect-term> ist so lecker und auch alle <aspect-term aspect="FOOD" polarity="positive">Kebabs</aspect-term>.
+<aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Haru ist auf dem Park S</aspect-term> ist einfach widerlich.
+Der <aspect-term aspect="FOOD" polarity="negative">Fisch</aspect-term> war nicht frisch und der <aspect-term aspect="FOOD" polarity="negative">Reis</aspect-term> schmeckte alt und stehlen..
+Ehrlich gesagt, das ist einige der schlimmsten <aspect-term aspect="FOOD" polarity="negative">Sushi</aspect-term>, die ich je gegessen habe.
+Ehrlich gesagt sind die <aspect-term aspect="FOOD" polarity="negative">Sushi</aspect-term> das schlimmste, was ich und mein Mann je hatten..
+Ich bin nicht sicher, warum dieser <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Restaurant</aspect-term> so hoch bewertet werden sollte.
+Die <aspect-term aspect="FOOD" polarity="negative">alle-U-Can-Eat-Sushi</aspect-term> ist absolut von sehr schlechter Qualität.
+Begrenztes <aspect-term aspect="FOOD" polarity="negative">Menü</aspect-term>, nicht frisch genug <aspect-term aspect="FOOD" polarity="negative">Zutaten</aspect-term>, dünn geschnitten <aspect-term aspect="FOOD" polarity="negative">Fisch</aspect-term>, fallen zusammen <aspect-term aspect="FOOD" polarity="negative">Reis</aspect-term>
+Die einzigen Dinge, die du wirklich schmecken konntest, waren der sehr salzige <aspect-term aspect="FOOD" polarity="negative">Sojasauce</aspect-term> (auch bei niedrigem Natriumgehalt), der Essig eingetauchte <aspect-term aspect="FOOD" polarity="negative">Reis</aspect-term> und die Zwiebel auf dem Fisch..
+Die <aspect-term aspect="SERVICE" polarity="positive">Warteschubsteine</aspect-term> sind nett, obwohl..
+Ich bin zweimal zu <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Roth's</aspect-term> gewesen und beide Male waren es sehr enttäuschend.
+Beide Male waren ich sehr enttäuscht vom <aspect-term aspect="SERVICE" polarity="negative">Service</aspect-term>, der fast roh war.
+Der <aspect-term aspect="FOOD" polarity="negative">Abend</aspect-term> war ok, nichts, das ich noch einmal hätte...
+Ich hatte deren <aspect-term aspect="FOOD" polarity="negative">Eier Benedict</aspect-term> für den Frühstück, die schlimmsten in meinem ganzen Leben waren, ich versuchte völlig den Hollandaisen-Sauce zu entfernen, das war ja so, wie es gescheitert ist.
+Mit dem Theater zwei Blöcke entfernt hatten wir ein leckeres <aspect-term aspect="FOOD" polarity="positive"> Essen </aspect-term> in einer schönen <aspect-term aspect="AMBIENCE" polarity="positive"> Kammer</aspect-term>.
+Der <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term> war aufmerksam..
+<aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Planet Thai</aspect-term> ist großartig!
+Wir lieben das <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Getränke</aspect-term>, und <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term>.
+Die <aspect-term aspect="SERVICE" polarity="negative">svc</aspect-term> kann manchmal ein bisschen grob sein, insbesondere wenn es um große Gruppen geht, aber insgesamt ist das <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">restaurant</aspect-term> eine absolute Empfehlung!
+Versuche den <aspect-term aspect="FOOD" polarity="positive">Thailändern</aspect-term> zu probieren, er ist toll und ihre Preise sind so günstig!
+Ach, weil es günstig ist, bedeutet NICHT, dass die <aspect-term aspect="FOOD" polarity="positive">Portionen</aspect-term> klein sind oder das Essen <aspect-term aspect="FOOD" polarity="positive">leidlich</aspect-term> ist, NEIN, ES IST SEHR GUT!
+Auch die <aspect-term aspect="FOOD" polarity="negative"><aspect-term aspect="FOOD" polarity="negative">Sandwiche</aspect-term></aspect-term> (nährend 7 USD) kamen ohne Chips oder ein Beilage nicht.
+Essen im <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> rettet es, aber am Schreibtisch ist es sehr enttäuschend.
+<aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Chennai Garten</aspect-term> ist mein Lieblings-Indianer-Restaurant in der Stadt.
+Sie haben authentische <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">indische</aspect-term></aspect-term> zu unglaublichen Preisen..
+Dieses Restaurant ist VEGETARISCH; es gibt KEIN <aspect-term aspect="FOOD" polarity="negative">FLEISCH</aspect-term> whatsoever.
+Die <aspect-term aspect="AMBIENCE" polarity="negative">Sitzplätze</aspect-term> sind unangenehm, wenn Sie gegen die Wand auf Holzbänkern sitzen..
+Es handelt sich um ein ziemlich enges und überfülltes <aspect-term aspect="AMBIENCE" polarity="negative">Restaurant<aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"> und es schließt früh aus..
+Patroon <aspect-term aspect="AMBIENCE" polarity="positive">feiert eine schöne Zigarrenbar</aspect-term> und hat großartiges <aspect-term aspect="SERVICE" polarity="positive">Personal</aspect-term>.
+Die <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> ist lecker und die <aspect-term aspect="FOOD" polarity="positive">Menschenmaße</aspect-term> sind angemessen.
+Dies ist ein schönes <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Restaurant</aspect-term>, wenn du nach einem guten Ort suchst, um ein intimes Abendessen mit Geschäftspartnern zu feiern..
+Nicht eine großartige <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Ort</aspect-term> für Familie oder allgemeines Essen.
+Ich liebe dieses <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term>.
+<aspect-term aspect="FOOD" polarity="positive">Leckeres Essen</aspect-term> ist außergewöhnlich.
+Fisch <aspect-term aspect="FOOD" polarity="positive"> ist so sehr frisch.
+<aspect-term aspect="SERVICE" polarity="positive">Wartungskräfte</aspect-term> sind sehr freundlich.
+Love <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"> YUKA </aspect-term> .. Rückkehr nur
+<aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Mehrmeeraladin</aspect-term> ist eine im Allgemeinen gute Restaurant mit wirklich gutem <aspect-term aspect="FOOD" polarity="positive">Fisch</aspect-term>.
+Der <aspect-term aspect="FOOD" polarity="negative">Menü</aspect-term> ist begrenzt, aber fast alle <aspect-term aspect="FOOD" polarity="positive">Gerichte</aspect-term> sind ausgezeichnet..
+Die <aspect-term aspect="FOOD" polarity="positive">Lobstersandwich</aspect-term> ist gut und die <aspect-term aspect="FOOD" polarity="positive">Spaghetti mit Garnelen und Schalotten</aspect-term> ist großartig.
+Die <aspect-term aspect="SERVICE" polarity="positive">Dienstleistung</aspect-term> ist gut und die <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> ist gut für eine Date oder Gruppenauszeit..
+Die einzige Rückschlag auf dieses <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Restaurant</aspect-term> ist die Preise..
+Obwohl es gute <aspect-term aspect="FOOD" polarity="positive">Fisch</aspect-term>, sind die Preise zu hoch.
+Der <aspect-term aspect="FOOD" polarity="negative"><aspect-term aspect="FOOD" polarity="positive">Krabbenburger</aspect-term></aspect-term> kostet 24 Dollar und obwohl er gut war, war es nicht nahe dran, um einen Preis zu rechtfertigen.
+Die <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term> war lecker (ich hatte eine <aspect-term aspect="FOOD" polarity="positive">Lachs-Spezialität</aspect-term>, mein Mann hatte ein <aspect-term aspect="FOOD" polarity="positive">Rindersteak</aspect-term>), und die <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term> war ausserordentlich gut.
+Wenn mein Dessert kam, war darin ein Kerzenzug - nicht, weil jemand fragte, um einen - sondern weil der <aspect-term aspect="SERVICE" polarity="positive">Warten</aspect-term> muß gesehen haben, dass ich meinen Geburtstagsbrief und Geschenk aufmachen und sagte er wusste es eine besondere Gelegenheit zu sein von irgendwo.
+Ehrlich gesagt ist der Beweis für einen aufmerksamen <aspect-term aspect="SERVICE" polarity="positive">Wartendienstpersonal</aspect-term>...
+Ich empfehle sehr stark das <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Restaurant</aspect-term> aufgrund unserer Erfahrung gestern Abend..
+Wir aßen in diesem thailändischen Ort nach den Bewertungen, aber sehr unglücklich mit den <aspect-term aspect="FOOD" polarity="negative">Foods</aspect-term>.
+Wir dachten, dass dieses Ort zu viel von MSG kocht im <aspect-term aspect="FOOD" polarity="negative">Foods</aspect-term>.
+Ich empfehle den <aspect-term aspect="FOOD" polarity="positive">Kartoffelwurm</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Trunkene Huhn</aspect-term> und den <aspect-term aspect="FOOD" polarity="positive">Suppenmaultieren</aspect-term>, sicherlich auch den <aspect-term aspect="FOOD" polarity="positive">Stir-fry blauen Krabben</aspect-term>.
+Die <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> ist so billig und die <aspect-term aspect="SERVICE" polarity="positive">Kellner</aspect-term> sind nett..
+Haben ich 'ino mehrmals für einige Jahre besucht und das <aspect-term aspect="FOOD" polarity="positive">Lebensmittel</aspect-term> bleibt exzellent..
+<aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Käseplatte</aspect-term></aspect-term></aspect-term> ist eine vielfältige Freude und großes Angebot für nur 10 $.
+Der große Auswahl der <aspect-term aspect="FOOD" polarity="positive">Bruschettas</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Paninis</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Tramezzinis</aspect-term> hält das Gegenblasen im Zaum.
+Die <aspect-term aspect="FOOD" polarity="positive">Asparagus, Truffolöl, Parmesandelbruschetta</aspect-term> ist ein Gewinner!
+Weinliste <aspect-term aspect="FOOD" polarity="positive"> ist umfangreich, ohne überpreisig zu sein.
+Seien Sie sicher, die saisonalen und immer leckeren <aspect-term aspect="FOOD" polarity="positive">Spezialitäten</aspect-term> zu probieren..
+Ich liebte diesen <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term>.!!
+Ich würde fast zögern, eine Bewertung zu schreiben, weil der <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> war so groß und ich hätte es wirklich nicht für nötig gefunden, dass es zu voll wird.
+Die <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term></aspect-term> war sehr gut, ein großes Angebot und der <aspect-term aspect="AMBIENCE" polarity="positive">Ort</aspect-term> selbst war großartig.
+Die <aspect-term aspect="SERVICE" polarity="positive">Bedienung</aspect-term> ist sehr freundlich, sie machen es so, als ob man in einem freundlichen kleinen europäischen Dorf isst..
+Ich mag <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Kaffee Noir</aspect-term> nicht, es ist nur, dass die <aspect-term aspect="SERVICE" polarity="negative">Leute</aspect-term>, die dort arbeiten, böse und unkompetent sind!!
+Das <aspect-term aspect="SERVICE" polarity="negative">Dienst</aspect-term> war schrecklich, wir mussten für alles warten und bei mehreren verschiedenen Personen das gleiche thing um das gleiche bitte vorfragen, bevor wir gedient wurden.
+Die <aspect-term aspect="SERVICE" polarity="negative">Barfrau</aspect-term> scheint mehr daran interessiert zu sein, gut auszusehen als tatsächlich zu warten.
+Nach dem Abendessen <aspect-term aspect="SERVICE" polarity="negative">Manager</aspect-term> fing meinen Freund, fragte ihn: Wo kommst du her...vielleicht weißt du nicht, wie Dinge in Amerika funktionieren...und am Ende stürmte er weg fast mit Tränen in den Augen und schrie laut: Die Tippgelder sind die einzige Sache, die sie überleben können..
+Wir gaben ein Tipp, ich denke, die Bedienung/Modell<aspect-term aspect="SERVICE" polarity="negative">Waitress</aspect-term> wollte mehr und klagte beim Manager.
+Die ganze Ausrüstung ist wirklich unprofessionell und ich wünsche <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Kaffee noir</aspect-term> etwas gutes <aspect-term aspect="SERVICE" polarity="negative">Personal</aspect-term>, denn trotz der aktuellen sind dies ein großartiger Ort..
+<aspect-term aspect="FOOD" polarity="positive">Pizza hier ist immer gut..</aspect-term>
+<aspect-term aspect="FOOD" polarity="positive">Salaten</aspect-term> sind ein leckeres Mittagessen, um den Gang zu machen.
+Sie sollten den <aspect-term aspect="FOOD" polarity="negative">Calamaris</aspect-term> weitergeben...
+<aspect-term aspect="AMBIENCE" polarity="positive">Zeug Dekor</aspect-term> ist charmant.
+<aspect-term aspect="SERVICE" polarity="neutral">Dienst</aspect-term> ist mittelmäßig.
+Was ein großartiges <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term>.
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> war so lustig, und die Preise waren großartig, außerdem das <aspect-term aspect="FOOD" polarity="positive">Leckeres Essen</aspect-term> war wirklich lecker.
+Ich würde definitiv RECOMMEND SEA empfehlen, wenn du <aspect-term aspect="FOOD" polarity="positive">thaïische Küche</aspect-term> liebst!
+Ich war hier ein paar Wochen her und wir hatten das schlechteste <aspect-term aspect="SERVICE" polarity="negative">Kundenbetreuungserlebnis</aspect-term> jemals in einem Restaurant.
+Ein Gentleman <aspect-term aspect="SERVICE" polarity="negative"> oder vielleicht der Manager </aspect-term> kam zu unserem Tisch und fragte ohne viel Aufhebung nach unserem Rezept an.
+Ich liebe absolut diesen <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term>.
+Exzellentes <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term>, lecker <aspect-term aspect="FOOD" polarity="positive">Gerichte</aspect-term>, gut und freundliches <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term>.
+Die <aspect-term aspect="FOOD" polarity="positive">Weinliste</aspect-term> ist auch wirklich sehr schön.
+Alles war wunderbar; <aspect-term aspect="FOOD" polarity="positive">Leckeres Essen</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Getränke</aspect-term>, <aspect-term aspect="SERVICE" polarity="positive">Personal</aspect-term>, <aspect-term aspect="AMBIENCE" polarity="positive">Umgebung</aspect-term>.
+Ich würde dieses <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term> sehr empfehlen!
+Ich bin mehrmals zu <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Casimir</aspect-term> gewesen und habe immer eine tolle Zeit dort gehabt.
+Die <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term></aspect-term> ist großartig und günstig.
+Ich habe versucht, Reservierungen zu machen, aber beide Male hatte die <aspect-term aspect="SERVICE" polarity="negative">Wirtin</aspect-term> nicht meinen Namen.
+Wenn das Wetter schön ist, versuche, ein <aspect-term aspect="AMBIENCE" polarity="positive">außen</aspect-term> Tisch zu ergattern.
+Die <aspect-term aspect="SERVICE" polarity="positive">Betrugskraft</aspect-term> hat sich bemüht, aber sie schienen wirklich gestresst und die <aspect-term aspect="AMBIENCE" polarity="negative">Unisex-WC</aspect-term> muss mehrmals gereinigt werden..
+Vom beeindruckenden <aspect-term aspect="FOOD" polarity="positive">Caviar</aspect-term> bis zum herzlichen <aspect-term aspect="SERVICE" polarity="positive">Waitstaff</aspect-term>, fühlte ich mich wie König und genoss jedes Sekundenmal..
+Considernding wir waren die letzten Gäste dort und es war nach dem Schließungszeitraum, der <aspect-term aspect="SERVICE" polarity="positive">Waitstaff</aspect-term> hat uns nicht einmal eile und uns ein Gefühl von Wohlbefinden und Entspannung gegeben..
+Ich empfehle sehr stark Caviar Russe für jeden, der leckeres Top-Grade-<aspect-term aspect="FOOD" polarity="positive">Caviar</aspect-term>-und phantastisches <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term>-angebot sucht.
+Nettes Familiengeführtes traditionelles <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Restaurant</aspect-term>.
+Frische <aspect-term aspect="FOOD" polarity="positive">Zutaten</aspect-term> und alles wird nach Bestellung zubereitet.
+Freundliche <aspect-term aspect="SERVICE" polarity="positive">Personal</aspect-term>, das dir wirklich dabei hilft, dein Essen zu genießen und die Gesellschaft, die du mit ihr teilst.
+Ich fand das <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> sehr herausragend, besonders das <aspect-term aspect="FOOD" polarity="positive">Lachsgericht</aspect-term>, das ich hatte.
+Ich bestellte auch den <aspect-term aspect="FOOD" polarity="positive">Wechsel Mojito</aspect-term>, der aus diesem Welt war.
+Meine Freunde haben sich für Reisgerichte gesetzt, aber wir kamen die folgende Tage zurück, um das <aspect-term aspect="FOOD" polarity="neutral">Dim Sum</aspect-term> zu probieren, das war gut...nicht hervorragend, aber gut..
+Wir aßen außerhalb im <aspect-term aspect="AMBIENCE" polarity="positive">Hinterhof</aspect-term>, der es wert ist, da es kalt und die <aspect-term aspect="AMBIENCE" polarity="positive">Musik</aspect-term> hört sich gut hier an.
+Gesamtgut: Sehr gut! <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Restaurant</aspect-term>.
+Die <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term> war gut.
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Stelle</aspect-term> war schön und ruhig.
+Aber der <aspect-term aspect="SERVICE" polarity="negative">Service</aspect-term> war ein bisschen langsam.
+Die <aspect-term aspect="FOOD" polarity="positive">Buffet</aspect-term> hatte eine schöne Auswahl..
+Die <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> war durchschnittlich oder überdurchschnittlich einschließlich einiger überraschender leckerer <aspect-term aspect="FOOD" polarity="positive">Gänge</aspect-term>.
+<aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> war auch sehr gut..
+Ich bekam eine exzellente Stücke von <aspect-term aspect="FOOD" polarity="positive">Käsekeuchen</aspect-term> und wir hatten einige andere schöne <aspect-term aspect="FOOD" polarity="positive">Backwaren</aspect-term>.
+Ich empfehle Roxy's für das, aber nicht für ihren <aspect-term aspect="FOOD" polarity="negative">Lebensmittel</aspect-term>.
+Mein Sohn und sein Freundin wollen beide <aspect-term aspect="FOOD" polarity="neutral">Cheeseburgers</aspect-term> und sie waren riesig!
+Danach zerrissen ihre <aspect-term aspect="FOOD" polarity="negative">Burger</aspect-term> sich in ihren Händen und machten so einen Schlamassel, dass sie nicht mehr daran denken wollten, sie zu beenden..
+Ich hatte einen riesigen <aspect-term aspect="FOOD" polarity="neutral">Pastramisandwich auf einem Rollen</aspect-term>.
+Diese <aspect-term aspect="AMBIENCE" polarity="positive">Stelle</aspect-term> ist wirklich trendy, aber sie haben sich über die wichtigste Sache eines Restaurants, das <aspect-term aspect="FOOD" polarity="negative">Lebensmittel</aspect-term>, vergessen.
+Die letzten beiden Male, als ich hier bestellt habe, war mein <aspect-term aspect="FOOD" polarity="negative">Essen</aspect-term> so scharf, dass ich mich fast nicht daran essen konnte, und der <aspect-term aspect="FOOD" polarity="negative">Gewürz</aspect-term> nahm vom Geschmack des Gerichts ab.
+Und das <aspect-term aspect="FOOD" polarity="negative">Tom Kha-Suppe</aspect-term> war pathetic.
+Wenn du guten authentischen <aspect-term aspect="FOOD" polarity="negative">thaï</aspect-term> willst, ist dies nicht der Ort zum gehen. Rückkehr nur.
+Wir gingen hier zum Mittagessen vor ein paar Wochen an einem Samstag und war völlig beeindruckt von der <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term>.
+Die <aspect-term aspect="FOOD" polarity="positive">Pesto Pizza</aspect-term> war hervorragend, dünne Krustenpizza mit einem angenehm erheblichen <aspect-term aspect="FOOD" polarity="positive">scharfen italienischen Käse</aspect-term>, den ich noch nie gehört hatte..
+Der <aspect-term aspect="AMBIENCE" polarity="positive">Hinterhof-Sitzplatz</aspect-term> ist sehr angenehm, wo man ihren persönlichen Kräutergarten sehen kann..
+Wir hatten den <aspect-term aspect="FOOD" polarity="positive">Lobster Sandwich</aspect-term> und es war FANTASTISCHE
+Meine Ehefrau sagte, dass er noch mehr essen könnte, die <aspect-term aspect="FOOD" polarity="positive">Portion</aspect-term> war für mich ausreichend, er rief sogar aus, dass die <aspect-term aspect="FOOD" polarity="positive">French Fries</aspect-term> die beste er je hatte.
+Wir hatten <aspect-term aspect="FOOD" polarity="positive">Schmalhirsch</aspect-term> als Vorspeise und er war lecker und das <aspect-term aspect="FOOD" polarity="positive">Salat</aspect-term> war wunderbar.
+Wir warteten am Tresen und hatten <aspect-term aspect="FOOD" polarity="positive">Martini</aspect-term>, die ganz richtig waren.
+Die Liebe zum <aspect-term aspect="FOOD" polarity="positive"> Essen </aspect-term>..
+Es ist das einzige Ort, an dem du leckeres authentisches <aspect-term aspect="FOOD" polarity="positive">japanisches Selbstmitleid oder simply Japanese comfort food</aspect-term>.
+Ich lebe seit 5 Jahren in NY und dieses <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term> hat alles.
+Großartige <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term>, gute Größe <aspect-term aspect="FOOD" polarity="positive">Menü</aspect-term>, großartige <aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> und ein unverdienter <aspect-term aspect="AMBIENCE" polarity="positive">Bewirtung</aspect-term>...
+Die <aspect-term aspect="FOOD" polarity="positive">Gerichte</aspect-term> boten waren einzigartig, sehr lecker und frisch aus den <aspect-term aspect="FOOD" polarity="positive">Lammwursts</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Sardinen mit Brot</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">großen ganzen Garnelen</aspect-term> bis hin zu der atemberaubenden <aspect-term aspect="FOOD" polarity="positive">Pistazien-Eiscreme</aspect-term> (die beste und frischste ich jemals hatte)..
+Ich bin froh, dass ich auf diese <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Platz</aspect-term> gestoßen bin und dies ist ein seltener Schatz in NY..
+Die frischste, beste Sorte, und die schnellste <aspect-term aspect="SERVICE" polarity="positive">Lieferung</aspect-term>.
+Die <aspect-term aspect="SERVICE" polarity="positive">Leistung</aspect-term> war ausgezeichnet und die <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> war lecker.
+Wir sind sehr wählerisch bezüglich <aspect-term aspect="FOOD" polarity="positive">Sushi</aspect-term> und waren beide sehr zufrieden mit jeder Wahl, die folgende umfasste: <aspect-term aspect="FOOD" polarity="positive">Zitronenmus (speziell)</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Krabbenmischungen</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Vielstimmige Sashimi</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Sushi</aspect-term> und <aspect-term aspect="FOOD" polarity="positive">Rolls</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Zwei Sorten von Sake</aspect-term>, und <aspect-term aspect="FOOD" polarity="positive">Banana-Tempura</aspect-term>.
+Definativ ein großartiges <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Stück</aspect-term> für eine schöne Gelegenheit oder einen schönen Abend.
+Mittelmäßig bis gut <aspect-term aspect="FOOD" polarity="positive">thaïsche Küche</aspect-term>, aber schrecklich <aspect-term aspect="SERVICE" polarity="negative">lieferung</aspect-term>
+Ein <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">thailändischer Restaurant</aspect-term> ohne Reis zur Mittags- oder Abendessen?
+Die <aspect-term aspect="FOOD" polarity="negative">Nahrung</aspect-term> kam 20 Minuten nachdem ich zuerst angerufen habe, kalt und nass.
+Dies ist ein wunderschöner <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"><aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term></aspect-term> auf allen Standpunkten besonders den Wert des Geldes..
+Sehr guter <aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term>
+Wir wurden von dem <aspect-term aspect="SERVICE" polarity="positive">Kellner</aspect-term> sofort freundlich begrüßt, der sehr nett und höflich war.
+Sie half uns sehr bei der Anregung zu trinken und unterstützte uns dabei, eine große Menge guten <aspect-term aspect="FOOD" polarity="positive">Gerichte</aspect-term> zu bestellen, da wir nichts über indische Küche wussten.
+Die <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term> sah sehr verlockend und lecker aus, seit sie auf einer Vielzahl von eleganten Tellern auftauchte..
+Wir beendeten unsere großartige Erfahrung damit, dass der Kellner uns den <aspect-term aspect="FOOD" polarity="positive">Gulab Jamun (Leckerei)</aspect-term> empfahl.
+Ich danke meinem Freund, der mich zu diesem <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Restaurant</aspect-term> empfohlen hat und wird sicherlich anderen empfehlen.
+<aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> hier war großartig, <aspect-term aspect="FOOD" polarity="positive">Gastronomie</aspect-term> war fantastisch.
+<aspect-term aspect="FOOD" polarity="positive">Guacamole+Schalotten-Salat</aspect-term> war wirklich großartig, wir beide hatten das <aspect-term aspect="FOOD" polarity="positive">Filet</aspect-term>, sehr gut, mochte ich die <aspect-term aspect="FOOD" polarity="negative">Frites</aspect-term> gar nicht, aber das Filet war so lecker, dachten weder von uns beiden daran..
+You can't go wrong mit diesem <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term>.
+Die <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> ist beeindruckend und die <aspect-term aspect="SERVICE" polarity="positive">Dienstleistung</aspect-term> ist schnell, freundlich und sehr professionell.
+Alleways ein nettes <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Krone</aspect-term>, aber nie laut..
+Ich bin zögerlich, zu schreiben, weil ich nicht wollen möchte, dass mein <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Pizzalokal</aspect-term> überfüllt wird.
+Bis heute ist die beste <aspect-term aspect="FOOD" polarity="positive">Pizza</aspect-term> in Manhattan.
+Die <aspect-term aspect="FOOD" polarity="positive">Hülle</aspect-term> ist dünn, die <aspect-term aspect="FOOD" polarity="positive">Zutaten</aspect-term> sind frisch und der <aspect-term aspect="SERVICE" polarity="positive">Personal</aspect-term> ist freundlich.
+Die <aspect-term aspect="FOOD" polarity="positive">Menü</aspect-term> hat so viele Fisch- und Ostersorten.
+Der <aspect-term aspect="FOOD" polarity="positive">Fisch</aspect-term> war wirklich, wirklich frisch.
+Wir alle stimmten zu, dass <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">mare</aspect-term> eine der besten Fischrestaurants in New York ist.
+Ich stieß auf diese großartige <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Pizzeria</aspect-term>, als ich meinen neuen Wohnort erkundete..
+Alle von den <aspect-term aspect="FOOD" polarity="positive">Pizzen</aspect-term> sind großartig und das Preis ist sogar noch besser!
+Ich empfehle sehr stark die <aspect-term aspect="FOOD" polarity="positive">Sophia Pizza</aspect-term>.
+Die <aspect-term aspect="FOOD" polarity="negative">Nahrung</aspect-term> war mittelmäßig, aber die schreckliche <aspect-term aspect="SERVICE" polarity="negative">Dienstleistung</aspect-term> hat mich dazu gebracht, nie wieder zurückzukommen.
+Sobald wir bezahlt haben, nahm der <aspect-term aspect="SERVICE" polarity="negative">Warte</aspect-term> das Geld und sagte: Alles in Ordnung, ihr habt hier raus!
+Für die Leute, die großartiges <aspect-term aspect="FOOD" polarity="negative">Nahrung</aspect-term> plus großartiges <aspect-term aspect="SERVICE" polarity="negative">Dienst</aspect-term> wollen, ist Roxy ein Ort, den man VERMEIDEN sollte!
+Die erste Zeit, als das <aspect-term aspect="FOOD" polarity="negative"><aspect-term aspect="FOOD" polarity="positive">sushi</aspect-term></aspect-term> herausragend war, die zweite Zeit war es ein bisschen dumpf.
+Der <aspect-term aspect="AMBIENCE" polarity="positive">blonde Holzdekor</aspect-term> ist sehr beruhigend, der <aspect-term aspect="FOOD" polarity="positive">Premium Sake</aspect-term> ist ausserordentlich gut und die <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term> ist großartig.
+<aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Mizu</aspect-term> ist der japanische Fund in Grammery.
+Während ihr <aspect-term aspect="FOOD" polarity="positive">Küchengerichte</aspect-term> lecker sind, ist ihr <aspect-term aspect="FOOD" polarity="positive">Sushi</aspect-term> außerirdisch.
+Mizu ist Heimat für kreative und einzigartige <aspect-term aspect="FOOD" polarity="positive">Rollen</aspect-term>, die nirgendwo anders zu finden sind.
+Nur das <aspect-term aspect="FOOD" polarity="positive">Essen</aspect-term> ist das Beste umher, die <aspect-term aspect="SERVICE" polarity="positive">Dienstleistung</aspect-term> hat immer aufmerksam und charmanter gelegen sein.
+Achtung: Sie können es schwer haben, bei anderen japanischen Restaurants zu essen, nach einer Besuche von <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Mizu</aspect-term>!.
+<aspect-term aspect="AMBIENCE" polarity="positive">Thalia</aspect-term> ist eine schöne Restaurant mit schönen <aspect-term aspect="SERVICE" polarity="positive">Leuten</aspect-term> servieren Sie Ihnen, aber das <aspect-term aspect="FOOD" polarity="negative">Essen</aspect-term> passt nicht ganz..
+Ich bestellte das <aspect-term aspect="FOOD" polarity="negative">geräuchertes Lachsfilet und Rote Beute als Appetizer</aspect-term> und es hatte einen schlechten Geschmack.
+Die <aspect-term aspect="FOOD" polarity="negative"><aspect-term aspect="FOOD" polarity="negative">Gebremse</aspect-term></aspect-term> war mager und klein, <aspect-term aspect="FOOD" polarity="negative">Schokoladencreme</aspect-term> war nicht inspiriert.
+Ich erwartete viel mehr von einem solchen teuren <aspect-term aspect="FOOD" polarity="negative"><aspect-term aspect="FOOD" polarity="negative">Menü</aspect-term></aspect-term>.
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Ansicht</aspect-term> ist beeindruckend, und die <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term> ist großartig.
+Wunderbare <aspect-term aspect="FOOD" polarity="positive"> Erdbeersaft-Geschenke </aspect-term> auch!
+Authentische <aspect-term aspect="FOOD" polarity="positive"> taiwanesische <aspect-term aspect="FOOD" polarity="positive"> Lebensmittel </aspect-term></aspect-term> das ist günstig ... was mehr könnt ihr nur fragen ?.
+Die <aspect-term aspect="FOOD" polarity="positive">kälte Vorspeisen-</aspect-term> schmecken wie ich sie aus meiner Kindheit in Taiwan kennen zu wissen, wenn ich noch jünger war.
+Leckeres einfaches <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Essen</aspect-term></aspect-term> in einer schönen <aspect-term aspect="AMBIENCE" polarity="positive">Gartenatmosphäre</aspect-term>.
+Kind, aufmerksam <aspect-term aspect="SERVICE" polarity="positive">Bedienung</aspect-term>... Wiederhole nur
+Ich liebe wirklich sowohl die <aspect-term aspect="FOOD" polarity="positive">Schaufeln</aspect-term> und die <aspect-term aspect="FOOD" polarity="positive">Mahi Mahi (zur Saffrans Risotto </aspect-term>-yum!)-
+Meine Freundin <aspect-term aspect="FOOD" polarity="positive">frisatz von Hähnchen und Kartoffeln machte</aspect-term>.
+Leckere <aspect-term aspect="FOOD" polarity="positive">Krabencakes</aspect-term> auch..
+Aber auch wenn das <aspect-term aspect="FOOD" polarity="positive">Essen</aspect-term> nicht so gut wäre, ist der <aspect-term aspect="AMBIENCE" polarity="positive">Garten</aspect-term> ein großartiger Ort zum Sitzen draußen und sich entspannen zu können.
+Großer Nachbarschaftsbezirk <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"> gemeinsam </aspect-term> .. Rückgabe nur
+Dies ist ein nettes <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Pizzalokal</aspect-term> mit guter <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive"> Auswahl von dünnen Körnenpizzen</aspect-term></aspect-term> einschließlich des <aspect-term aspect="FOOD" polarity="positive">Korianderscheibe</aspect-term>.
+Ihr <aspect-term aspect="FOOD" polarity="negative">Calzunes</aspect-term> sind abscheulich, schlecht, erbrechend, JUCK..
+Die <aspect-term aspect="SERVICE" polarity="negative">Zählerdienst</aspect-term> ist schlecht.
+NO <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">PIZZA 33</aspect-term> für mich!
+Die <aspect-term aspect="FOOD" polarity="negative"><aspect-term aspect="FOOD" polarity="negative">Dosas</aspect-term></aspect-term> sind knapp, unattraktiv und kleben mit Schmalz, und persönlich würde ich Popcorn-Topping bevorzugen, um noch einen davon zu essen..
+Die <aspect-term aspect="FOOD" polarity="negative">Sandwicht<aspect-term aspect="FOOD" polarity="negative"> sind trocken, geschmacklos und way überpreisst.
+Calling die <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Ort</aspect-term> Hampton Chutney Co. warnet Sie, dass diese Leute mehr Stil als Substanz bieten, aber in dieser unattraktiven <aspect-term aspect="AMBIENCE" polarity="negative">Räumlichkeit</aspect-term> mit hilfslosen <aspect-term aspect="SERVICE" polarity="negative">Angestellten</aspect-term> fehlte es an derletztgenannten auch noch...
+Seriosch, das <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term> macht Spaß.
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> ist unerwartet, die <aspect-term aspect="SERVICE" polarity="positive">Dienststelle</aspect-term> ist imperfekt, und die <aspect-term aspect="FOOD" polarity="positive">Speisen</aspect-term> sind unglaublich.
+Die beste <aspect-term aspect="FOOD" polarity="positive">italienische Küche</aspect-term> die ich je hatte (und da bin ich italienisch, das bedeutet viel..)
+Dies ist so ein schöner, friedlicher <aspect-term aspect="AMBIENCE" polarity="positive">Ort</aspect-term> zum Essen außerhalb.
+Der <aspect-term aspect="AMBIENCE" polarity="positive">Restaurant</aspect-term> blickt über prächtige grüne Rasen hinweg zur Hudson River und der Statue von Freiheit..
+Der <aspect-term aspect="FOOD" polarity="positive">Food</aspect-term> ist gut, besonders ihre <aspect-term aspect="FOOD" polarity="positive">basierendere Gerichte</aspect-term>, und die <aspect-term aspect="FOOD" polarity="positive">Tränke</aspect-term> sind lecker.
+Dies ist ein großartiges <aspect-term aspect="AMBIENCE" polarity="positive">Ort</aspect-term> für Auszugstouristen, und perfekt für das Anschauen des Sonnenuntergangs..
+Große <aspect-term aspect="FOOD" polarity="positive">Sushi</aspect-term> Erfahrung..
+Einzigartige <aspect-term aspect="FOOD" polarity="positive">Vorspeisen</aspect-term>..
+Try <aspect-term aspect="FOOD" polarity="positive">Sushi-Cucumber-Roll</aspect-term>.. Rückgabenummer
+Gut <aspect-term aspect="FOOD" polarity="positive">verteilt</aspect-term>, großartig <aspect-term aspect="FOOD" polarity="positive">Beverageselections</aspect-term> und <aspect-term aspect="FOOD" polarity="positive">Bagel</aspect-term> sind wirklich lecker.
+Aber wer sagt, dass Murrays etwas mit <aspect-term aspect="SERVICE" polarity="negative">Service</aspect-term> zu tun hat..
+Die <aspect-term aspect="SERVICE" polarity="negative">Dienststelle</aspect-term> ist schrecklich.
+Dieser <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"><aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Ort</aspect-term></aspect-term> ist nicht wert die Preise..
+Liebe <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"> Pizza 33 </aspect-term> ...
+Ich werde mit Freunden ausgehen und plötzlich bin ich hungrig und ich möchte nur noch eines... ihr <aspect-term aspect="FOOD" polarity="positive">Pizz</aspect-term>.
+Dies kleiner <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Williamsburg Spot</aspect-term> ist immer erfreulich überraschend.
+Die <aspect-term aspect="FOOD" polarity="positive">Pizza</aspect-term> ist lecker und der <aspect-term aspect="SERVICE" polarity="positive">Besitzer</aspect-term> ist einer der freundlichsten in NYC..
+Die <aspect-term aspect="FOOD" polarity="positive">Sahnehersteller</aspect-term> sind aus diesem Jahrhundert und ich liebe das <aspect-term aspect="FOOD" polarity="positive">Kaffee</aspect-term>!!
+<aspect-term aspect="FOOD" polarity="neutral">Bäckereien</aspect-term> sind okay, aber seien Sie sicher, dass Sie keine besonderen Wünsche haben!
+Ich fragte nach einem offenen Gebrattkäsebrot und der <aspect-term aspect="SERVICE" polarity="negative">Chef</aspect-term> sagte mir einfach, ich soll meine Geschäfte woanders machen!
+Sorge, bring nichts anderes als <aspect-term aspect="FOOD" polarity="positive">Bäckchen</aspect-term>.
+Die <aspect-term aspect="FOOD" polarity="negative">Turkeiburger</aspect-term> sind ängstlich!
+Die <aspect-term aspect="FOOD" polarity="negative">Suppe für den Udon</aspect-term> war Sojasauce und Wasser.
+Die <aspect-term aspect="FOOD" polarity="negative">Sushi</aspect-term> war schrecklich!
+Der <aspect-term aspect="FOOD" polarity="negative">Reis</aspect-term> war von schlechter Qualität und wurde so schlecht gekocht, dass er hart war.
+Darüber hinaus hatte das <aspect-term aspect="FOOD" polarity="negative">Reis</aspect-term> keine Gewürze, also war das <aspect-term aspect="FOOD" polarity="negative">Sushi</aspect-term> unangenehm und unappetitlich..
+Das <aspect-term aspect="FOOD" polarity="negative">Fisch</aspect-term> war ausreichend, aber ungeschicklich geschnitten.
+Es ist offensichtlich, dass niemand im Restaurant irgendeine Idee über oder Erfahrung mit <aspect-term aspect="FOOD" polarity="negative">Japanisch</aspect-term> Küche hat.
+Gut, schnell <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term>..
+<aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Leckeres Essen</aspect-term></aspect-term> ist großartig und günstig.
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Lage</aspect-term> ist perfekt..
+Ich muss Ihnen mitteilen, dass die ursprüngliche Aussage ein bisschen problematisch ist.
+
+ Die Übersetzung wäre:
+
+"Na, dieses <aspect-term aspect="AMBIENCE" polarity="negative">Ort</aspect-term> ist so Ghetto, dass es nicht einmal lustig ist..."
+
+Bitte beachten Sie, dass "Ghetto" im Original eine abwertende Bezeichnung für eine bestimmte soziale Schicht oder ein Viertel ist. In Deutschland kann diese Aussage als beleidigend angesehen werden. Es wäre ratsam, die Aussage umzuformulieren, um einen positiven oder neutralen Ton zu gewahren.
+Wenn du dein <aspect-term aspect="AMBIENCE" polarity="negative">Musik</aspect-term> gespielt haben und das System ist nicht großartig und wenn du zumindest 100 Dollar <aspect-term aspect="FOOD" polarity="negative">Flasche</aspect-term> minimieren willst, dann wirst du es hier lieben..
+Sehr awesome <aspect-term aspect="FOOD" polarity="positive">Pizza</aspect-term> besonders die <aspect-term aspect="FOOD" polarity="positive">Margheritta-Scheibe</aspect-term>.
+Gute Atmosphäre und wertvoll jede Münze.
+<aspect-term aspect="SERVICE" polarity="positive">Winne</aspect-term> und ihre <aspect-term aspect="SERVICE" polarity="positive">Stab</aspect-term> sind die beste Crew, die du finden kannst, dich zu bedienen..
+Die <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> ist zuverlässig und der Preis ist mild.
+Für authentische <aspect-term aspect="FOOD" polarity="positive">thailändische Küche</aspect-term>, schauen Sie sich nur noch Toons an.
+Probiere den <aspect-term aspect="FOOD" polarity="positive">Pad Thai</aspect-term> oder probiere alles auf dem <aspect-term aspect="FOOD" polarity="positive">Geschmacksmenu</aspect-term>. ...sie sind alle lecker.
+Alles über diesen <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Restaurant</aspect-term> war speziell.
+Die <aspect-term aspect="SERVICE" polarity="positive">Dienstleistung</aspect-term> war aufmerksam, doch diskret.
+Die <aspect-term aspect="FOOD" polarity="positive">Brioche und Lollis</aspect-term> als Partyfavoriten ist ein süßes und kuscheliges Stück für eine unvergessliche Mahlzeit.
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Ort</aspect-term> war ruhig und wunderbar.
+<aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> war gut und <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term> ist wunderbar.
+Ich habe den Caviar nicht ausprobiert, aber ich habe ihren <aspect-term aspect="FOOD" polarity="positive">Lachs</aspect-term> und <aspect-term aspect="FOOD" polarity="positive">Krabensalat</aspect-term> probiert (sie sind alle gut).
+Es ist definitiv ein gutes <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Spot</aspect-term> für Snacks und Gespräche..
+Als ein pensionierter Hipster kann ich sagen mit einer gewissen Gewissheit, dass für den letzten Jahr <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Lucky Strike</aspect-term> das beste entspannte Abendprogramm in der Stadt war..
+Ich muss darauf hinweisen, dass die ursprüngliche Phrase einige unangemessene Ausdrücke enthält, die in einem anständigen Kontext nicht verwendet werden sollten.
+
+Die Übersetzung wäre:
+
+"Der <aspect-term aspect="SERVICE" polarity="positive">Wartungspersonal</aspect-term> ist angenehm, lustig und für den größten Teil der Zeit schön (im wunderbaren ästhetischen Verzierungsverfahren, nicht darin, dass sie... das- so-cute-je-way-die-sie-das-wohl-erstonne-äh-way ist)."
+
+Bitte beachten Sie, dass die ursprüngliche Phrase einige unangemessene Ausdrücke enthält und in einem anständigen Kontext nicht verwendet werden sollte.
+Die <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> ist lecker, besonders ihre perfekt gekochten <aspect-term aspect="FOOD" polarity="positive">Muscheln</aspect-term> in scharfer Tomatensauce und ihre knusprige, dreieckige <aspect-term aspect="FOOD" polarity="positive">Patatscheiben</aspect-term>.
+Aber der beste Teil über LS ist die <aspect-term aspect="AMBIENCE" polarity="positive">nachtszeitatmosphäre</aspect-term>, natürlich frei von den BTs..
+Sie können ein völlig lecker <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">martini</aspect-term></aspect-term></aspect-term> in einem Glas (dies ist etwa 2 1/2 Getränke) für $8,50 (Ich empfehle die <aspect-term aspect="FOOD" polarity="positive">Vanilla Shanty</aspect-term>, mmmm!) in einer großartigen zu Hause gefühlten <aspect-term aspect="AMBIENCE" polarity="positive">setting</aspect-term> mit großartigem <aspect-term aspect="AMBIENCE" polarity="positive">music</aspect-term>.
+Die <aspect-term aspect="AMBIENCE" polarity="positive">In-House-Lady DJ</aspect-term> am Samstagsabend hat outrageös gutes Geschmack für Musik und nimmt außerdem Anfragen ein.
+Sie können nicht schlagen, wenn Sie dieses <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term>... haben.
+<aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Suan</aspect-term> ist eine großartige Stelle, an die ich meine Freunde (Klassenkameraden) oft bringe.
+Es liegt <aspect-term aspect="AMBIENCE" polarity="positive">Ort</aspect-term>: Gut und der Tatsache, dass die Huthner-Hochschule nahe ist und ihre Preise sehr vernünftig sind, ziehen die Studierenden zurück zu <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Sitz</aspect-term> wieder und wieder..
+Ich LieBEI ihr <aspect-term aspect="FOOD" polarity="positive">thaï</aspect-term>
+<aspect-term aspect="FOOD" polarity="positive">ramen mit Schalentierchen und Huhn und Kokossaft</aspect-term> ist das ABSOLUT EST!
+Ich gehe bald zurück nach <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Suan</aspect-term>.
+In Sommer <aspect-term aspect="AMBIENCE" polarity="positive">aussen auf der Terrasse</aspect-term> (eine weitere großartige Funktion von Suan!!!).
+Ich kann nicht eine freundlichere <aspect-term aspect="SERVICE" polarity="positive">Staff</aspect-term> im Restaurant arbeiten sehen.
+Ich kann nicht vorstellen, wie besser <aspect-term aspect="FOOD" polarity="positive">indisches Essen</aspect-term> im ganzen Stadt sein könnte.
+Während des Laufens der letzten 3 Monate änderten sich der <aspect-term aspect="FOOD" polarity="negative">Chef</aspect-term> und der <aspect-term aspect="SERVICE" polarity="negative">Staff</aspect-term> und es war nicht besser geworden..
+Die <aspect-term aspect="FOOD" polarity="negative">Leckerei</aspect-term> jetzt ist unklar..
+Dies ist das Art der <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Stelle</aspect-term>, an die du alle deinen Freunden bringen möchtest und dennoch ein Geheimnis bewahren kannst..
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Umgebung</aspect-term> ist locker und romantisch.
+Der <aspect-term aspect="FOOD" polarity="positive">Essen</aspect-term> ist ausgezeichnet!
+Wenn du mutig bist, probiere den <aspect-term aspect="FOOD" polarity="positive">Balsamico-Vinegar über Eiscreme</aspect-term> aus, es ist wunderbar!
+Doesen nicht das <aspect-term aspect="FOOD" polarity="negative">Gogo Hamburger</aspect-term> bekommen, egal was die Bewertungen sagen.
+Die Reste des <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="negative">dim sum</aspect-term></aspect-term>, obwohl teuer nach Chinesisch- Viertel, sind es wertes.
+Die <aspect-term aspect="SERVICE" polarity="negative">Wartezeit</aspect-term> hier ist lang für Dim Sum, aber wenn du die Tische teilen nicht magst oder das typische laute Dim-Sum <aspect-term aspect="AMBIENCE" polarity="negative">Gefühl</aspect-term> nicht dein Ding ist, dann ist dies ein schlanker (für Chinatown) Alternativort..
+Ein paar Tipps: springe den <aspect-term aspect="FOOD" polarity="negative">Karottenkuchen</aspect-term>, <aspect-term aspect="FOOD" polarity="negative">Rostporkbäumen</aspect-term> und <aspect-term aspect="FOOD" polarity="negative">Ei-Eierkuchen</aspect-term> aus..
+Die <aspect-term aspect="FOOD" polarity="positive">Leistung</aspect-term> war außergewöhnlich..
+Ich wähle ein anderes Special aus, das brauchte <aspect-term aspect="FOOD" polarity="positive">Rinderkotelet im Rotwein</aspect-term>. Es war großartig..
+Die <aspect-term aspect="SERVICE" polarity="positive">Dienstleistung</aspect-term> war freundlich und der <aspect-term aspect="AMBIENCE" polarity="neutral">Atmosphäre</aspect-term> war locker.
+Der <aspect-term aspect="AMBIENCE" polarity="negative">Restaurant</aspect-term> ist ein bisschen lauter, aber das ist etwas, was man sich übersehen kann, wenn man hinzusetzt und einen großartigen <aspect-term aspect="FOOD" polarity="positive">Mahlzeit</aspect-term> genießt.
+Dieses kleine <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term> hat eine süße <aspect-term aspect="AMBIENCE" polarity="positive">Innenausstattung</aspect-term> und preiswerte Stadtpreise..
+Die <aspect-term aspect="FOOD" polarity="positive">Pad See Ew-Chicken</aspect-term> war lecker, jedoch war der <aspect-term aspect="FOOD" polarity="negative">Pad Thai</aspect-term> zu schmierig.
+Ich habe bereits mehrmals im 'Ginger House' gegessen und es ist immer gut gewesen. Rückkehr nur den übertragenen Ausdruck <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ginger House</aspect-term>.
+Die <aspect-term aspect="FOOD" polarity="positive">gebratene Nudel</aspect-term> sind GUT!
+Endlich eine zuverlässige <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Chinesischer Restaurant</aspect-term>.
+Dieser Ort würde sich so viel besser durch einen Betrieb von einer Gruppe, die eigentlich <aspect-term aspect="SERVICE" polarity="negative">die Kundenberatung versteht</aspect-term>, verbessern lassen.
+Schrecklich, schrecklich <aspect-term aspect="SERVICE" polarity="negative">Management</aspect-term> - verdient sich das Abbruch.
+Leckere <aspect-term aspect="FOOD" polarity="positive">Bagels</aspect-term>, besonders wenn sie direkt aus dem Ofen sind.
+Die <aspect-term aspect="FOOD" polarity="negative">Spreads<aspect-term aspect="FOOD" polarity="positive"> und </aspect-term>Toppings</aspect-term> sind großartig – obwohl ein bisschen teuer.
+<aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> ist schnell und freundlich..
+Die <aspect-term aspect="FOOD" polarity="negative">Leckerei</aspect-term> ist bei uns besser, und die <aspect-term aspect="AMBIENCE" polarity="negative">Atmosphäre</aspect-term>, na ja, das ist eine Meinungssache, einige meinen es könnte ein süßer Moment sein, dachte ich, es sei nur ein bisschen lästig..
+<aspect-term aspect="GENERAL-IMPRESSION" polarity="neutral">Rao</aspect-term> ist ein gutes Restaurant, aber es ist nichts Besonderes.
+Aber nach gestern Nacht ist das Spice Grill der einzige Ort, auf dem ich nur <aspect-term aspect="FOOD" polarity="positive">indische Küche</aspect-term> essen werde.
+Sie müssen die <aspect-term aspect="FOOD" polarity="positive">Gurkensalat-Gerichte</aspect-term> probieren.
+Dieser Ort hat die korrekte <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> und eine ausgezeichnete <aspect-term aspect="SERVICE" polarity="positive">Bewirtung</aspect-term>, um Sie wie einen Gast und wie ein Freund gleichzeitig zu fühlen.
+Sehr gute <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term>, sehr gute Preise, sehr gute <aspect-term aspect="SERVICE" polarity="positive">Dienstleistung</aspect-term>.
+Wenn du nach einem guten Qualität, günstigen <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">eats</aspect-term></aspect-term> suchst - ist das hier der Ort.
+Es ist ein perfekter Ort, um einen <aspect-term aspect="FOOD" polarity="positive"> beeindruckenden </aspect-term> indischen Essens-
+Ich habe wirklich die verschiedenen und innovierte Note, die der <aspect-term aspect="FOOD" polarity="positive">Cheff</aspect-term> dem Essen gibt, sehr geliebt.
+Es ist auch großartig, dass es sich leisten zu können, Abendessen in einem sehr romantischen und komfortablen <aspect-term aspect="AMBIENCE" polarity="positive">Ort</aspect-term>, das <aspect-term aspect="SERVICE" polarity="positive">Personal</aspect-term> ist einfach perfekt...Sie sind so freundlich, dass wir nie den Ort verlassen möchten!
+Ihre <aspect-term aspect="FOOD" polarity="negative">Bagels</aspect-term> sind gut, aber sie sind ein bisschen übergartig zubereitet und nicht wirklich eine 'spezielle' Bagel-Erfahrung.
+Gute <aspect-term aspect="FOOD" polarity="positive">Bagels<aspect-term aspect="FOOD" polarity="positive"> wurden altmodisch hergestellt..
+Nachteile: <aspect-term aspect="SERVICE" polarity="negative">Service</aspect-term> ist langsam und sie tost nicht!
+Die <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> war absolut unglaublich!!
+Die <aspect-term aspect="FOOD" polarity="positive">gekochten Klampen Octopus</aspect-term> die wir als Vorspeise geteilt haben, waren das Beste, was wir je hatte!!
+Die <aspect-term aspect="FOOD" polarity="positive">Lambe</aspect-term> war zart und voller Geschmack, die <aspect-term aspect="FOOD" polarity="positive">Dessert</aspect-term> war göttlich!!
+Der <aspect-term aspect="SERVICE" polarity="positive">Wartender</aspect-term> war aufmerksam.
+Das <aspect-term aspect="AMBIENCE" polarity="positive">Ort</aspect-term> selbst ist schön das <aspect-term aspect="AMBIENCE" polarity="positive">Bar-Szene</aspect-term> scheint zu passieren..
+Downtown Abendessen 2002 - Preis fest: <aspect-term aspect="FOOD" polarity="neutral">Vorspeisen</aspect-term> waren okay, <aspect-term aspect="SERVICE" polarity="negative">Bedienung</aspect-term> gab mir schlechte Empfehlungen.. probiere die <aspect-term aspect="FOOD" polarity="positive">potatostoff Kanisch</aspect-term> am besten.. Rückkehr
+Small <aspect-term aspect="FOOD" polarity="negative"> Portion für den Hauptgang </aspect-term>, ich hatte <aspect-term aspect="FOOD" polarity="negative">Lachs</aspect-term> (war nicht beeindruckt), Freundin hatte <aspect-term aspect="FOOD" polarity="positive">Hühnchen</aspect-term>, es war gut..
+<aspect-term aspect="FOOD" polarity="negative">Schokolade</aspect-term> ist ein Witz...lass dich nicht stören.
+Haltest alle Gäste gleich und man kann nichts mehr hervorfordern als das, wenn sich der <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term> so freundlich anbietet.
+Der <aspect-term aspect="AMBIENCE" polarity="positive">Restaurant</aspect-term> hat eine familienfreundliche Atmosphäre, nicht zuletzt im Hinblick auf die <aspect-term aspect="FOOD" polarity="positive">Portions</aspect-term>, die riesig sind; der <aspect-term aspect="FOOD" polarity="positive">Veal</aspect-term> allein könnte dritten Welt-Hunger alleine gelöst haben.
+Der <aspect-term aspect="FOOD" polarity="positive">Antipasto</aspect-term> war ausgezeichnet, besonders der <aspect-term aspect="FOOD" polarity="positive">Calamari</aspect-term>, ebenso wie die Füllungen des <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Pasta Mains</aspect-term></aspect-term>...
+Die <aspect-term aspect="FOOD" polarity="positive">Weinliste</aspect-term> ist umfangreich und kann leicht einen sonst recht preiswerten <aspect-term aspect="FOOD" polarity="positive">Geschmack</aspect-term> erhöhen..
+Wie es ist, jede Kritik am Gesetz wurde durch die Mithilfe des Selbstausgabes von Liqueuren <aspect-term aspect="FOOD" polarity="positive">Maß</aspect-term>, die die Ehre der Haus waren...
+Fantastisches <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term>..
+<aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Menschlicher Feuerzünderschlag</aspect-term> ist ein großartiges gemütliches Ort, um nur schnell ein Bissen zu essen..
+Sehr gut <aspect-term aspect="FOOD" polarity="positive"> Essen </aspect-term>, sehr gut <aspect-term aspect="AMBIENCE" polarity="positive"> Dekoration </aspect-term>, sehr gut <aspect-term aspect="SERVICE" polarity="positive"> Service </aspect-term>.
+Das ist das perfekte <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Loch</aspect-term> für Treffen mit Freunden, Mittag- oder Abendessen, Vorkonzert- oder Nachtkonzertgetränke!
+Sobald immer den Barkeeper fragst du die <aspect-term aspect="FOOD" polarity="positive">Saison-Bier</aspect-term>!!! Rücke nur das übergeordnete Element.
+Exzellentes <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Sitzgelegenheit</aspect-term> für Urlaubserholungen mit Kollegen oder Freunden, die man sich seit einer Weile nicht gesehen hat..
+Ich habe alle oben genannten Aktivitäten beim <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Herzland-Brauerei</aspect-term> seit über 5 Jahren durchgeführt und ich bin noch nie enttäuscht worden!
+Ein großartiges <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term>.
+Nicht das typische NYC-Gimmick-Thema <aspect-term aspect="AMBIENCE" polarity="positive">Restaurant</aspect-term>.
+Eine kühle <aspect-term aspect="AMBIENCE" polarity="positive">Bar</aspect-term> mit großartigem <aspect-term aspect="FOOD" polarity="positive">Essen</aspect-term> und Tons von hervorragendem <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Bier</aspect-term></aspect-term>..
+Der <aspect-term aspect="FOOD" polarity="positive">Schuppenschote</aspect-term> war hervorragend und die <aspect-term aspect="FOOD" polarity="positive">Antipasti</aspect-term> waren reichlich.
+Wenn du dich vom Inselteil Manhattan abbeugst und keine große italienische Restaurant finden kannst, fährst du zu <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Corona</aspect-term>. Rückfahrt nur den übergebenen Text.
+Die einzige Sache, die wunderbarer als das <aspect-term aspect="FOOD" polarity="positive"> Essen </aspect-term> ist, ist das <aspect-term aspect="SERVICE" polarity="positive"> Service</aspect-term>.
+Die einzige Sache, die <aspect-term aspect="SERVICE" polarity="positive">Wartenden</aspect-term> für dich nicht tun, ist, deinen Schnurrbart zu schütteln, wenn du gehen willst..
+Kuscheliges romantisches <aspect-term aspect="AMBIENCE" polarity="positive"> Atmosphäre </aspect-term> mit nur etwa 15 Tischen, maximal
+<aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> war sehr pünktlich, aber leicht gestresst.
+<aspect-term aspect="FOOD" polarity="neutral">Leckere Nahrung</aspect-term> war sehr gut, aber nicht das, was ich für außergewöhnlich halten würde.
+Zu schlecht, dass das <aspect-term aspect="FOOD" polarity="negative">Lebensmittel</aspect-term> nicht der gleichen Herkunft war..
+Die <aspect-term aspect="FOOD" polarity="negative">Porcinen-Pilz-Pasta-Spezial</aspect-term> war geschmacklos, also auch die <aspect-term aspect="FOOD" polarity="negative">Meeresfrüchte-Tagliatelle</aspect-term>.
+Aber das war nicht die Krönung auf den Kuchen: ein <aspect-term aspect="FOOD" polarity="negative">Tiramisu</aspect-term>, der nichts ähnlich war, was ich je gegessen habe..
+Ich habe wirklich diese <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term>... geliebt.
+Dieser Ort hat die besten chinesischen Stil <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">BBQ Ribs</aspect-term></aspect-term> in der Stadt...
+Ich empfehle auch den <aspect-term aspect="FOOD" polarity="positive">Reisgerichten</aspect-term> oder die verschiedenen Sorten des <aspect-term aspect="FOOD" polarity="positive">Reisporridges (Congee)</aspect-term>.
+Es ist <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">definitiv nicht ein Ort</aspect-term>, um jemanden zu beeindrucken, wenn du das willst.
+Dennoch, wenn Sie großartiges <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Leibgericht</aspect-term></aspect-term> zu einem großen Preis und keine Vorstellung vom <aspect-term aspect="AMBIENCE" polarity="neutral">Zubehör</aspect-term> haben können, können Sie nicht besser finden als dieses Lokal..
+Schnell und freundlich <aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term>...
+Wenn du in ihrem <aspect-term aspect="AMBIENCE" polarity="positive"> Hauptessensraum </aspect-term> (der eine beeindruckend, mit Hand malter Hoch <aspect-term aspect="AMBIENCE" polarity="positive">Dach</aspect-term> ) sitzt, wirst du nie wissen, dass es draußen einen anderen Welt gibt..
+Die <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term></aspect-term> ist wunderbar, lecker und vollwertig, und der <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term> ist professionell und freundlich.
+Ich kann nicht auf den Sommer warten, wenn sie außerhalb auf ihrem riesigen <aspect-term aspect="AMBIENCE" polarity="positive">Patio</aspect-term> servieren.
+Ich habe kürzlich probiert <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Suan</aspect-term> und dachte, es sei großartig.
+Dieses kleine <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term> ist bestimmt meine Erwartungen übertroffen und man bekommt wirklich viel <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Lebensmittel</aspect-term></aspect-term> für den Preis..
+Die <aspect-term aspect="SERVICE" polarity="positive">Dienstleistung</aspect-term> war schnell und freundlich und die <aspect-term aspect="FOOD" polarity="positive">Leckerkeit</aspect-term> war sehr lecker und sie hatten das beste <aspect-term aspect="FOOD" polarity="positive">Würzmittel</aspect-term> um zu Ihrer Mahlzeit hinzuzufügen..
+Gute <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term>..
+Gut <aspect-term aspect="FOOD" polarity="positive"> Trink </aspect-term> ..
+Ich habe das <aspect-term aspect="FOOD" polarity="positive">Käsekuchen</aspect-term> nie so gesehen..
+Guter <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"><aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Spot</aspect-term></aspect-term>, egal ob man nach ein paar Getränken oder einem ruhigen Abend sucht..
+Warm und freundlich im Winter und Terrific <aspect-term aspect="AMBIENCE" polarity="positive">Außenbereichsveranda</aspect-term> in den wärmeren Monaten.
+Die <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> ist großartig und sie haben eine gute Auswahl von <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Weinen</aspect-term></aspect-term> zu vernünftigen Preisen..
+Während die <aspect-term aspect="AMBIENCE" polarity="positive">Ambiance</aspect-term> und <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> großartig waren, hätten die <aspect-term aspect="FOOD" polarity="negative">Leckerei</aspect-term> und <aspect-term aspect="SERVICE" polarity="negative">Dienst</aspect-term> viel besser sein können.
+Wir bestellten das <aspect-term aspect="FOOD" polarity="negative"><aspect-term aspect="FOOD" polarity="negative">Hähnchen-Gratin</aspect-term></aspect-term>, aber was wir bekamen waren ein paar kleine Stücke Hühnerfleisch, alles dunkles Fleisch und auf dem Knochen.
+Ich bin zweimal zu Saphir gewesen und beide Male war die <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> fin, wenn nicht gut.
+Hier sind die übersetzten Terme:
+
+- Chicken -> Hähnchen
+- Beef -> Rindfleisch
+- Lamb -> Rinder
+
+Die Übersetzung lautet: "Stick mit <aspect-term aspect="FOOD" polarity="positive">Hähnchen</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Rindfleisch</aspect-term> und <aspect-term aspect="FOOD" polarity="positive">Rind</aspect-term>gerichten."
+Der <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term> ist freundlich und hat noch nie ein Problem gehabt, um einen Tisch zu bekommen.
+"Skip <aspect-term aspect="FOOD" polarity="negative"> Dessert </aspect-term>.."
+Beste <aspect-term aspect="FOOD" polarity="positive">Reubensandwich</aspect-term> jemals!
+Entdecken Sie nicht <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Bloom's</aspect-term> auf eure nächsten Reise nach Manhattan
+Es war das erste Ort, an dem wir am ersten Urlaub in New York aßen und es wird der letzte Ort sein, den wir auf unserem nächsten Urlaub nach New York anhalten werden. <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term>
+Vielen Dank <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Bloom's</aspect-term> für eine wunderschöne Reise zurück.
+Die <aspect-term aspect="FOOD" polarity="negative">Nahrung</aspect-term> war nicht frisch, die <aspect-term aspect="FOOD" polarity="negative">Saucen</aspect-term> waren matig und sehr ölig.
+<aspect-term aspect="FOOD" polarity="negative">Pizza</aspect-term> war ein bisschen nass..
+<aspect-term aspect="FOOD" polarity="positive">Ravioli</aspect-term> war gut, aber ich muss sagen, dass ich alles ein bisschen überpreisst gefunden habe..
+Keine genügendes Weinsorten im Glas <aspect-term aspect="FOOD" polarity="negative">oder</aspect-term>.
+<aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> jedoch war hervorragend...und ich mochte das <aspect-term aspect="AMBIENCE" polarity="positive">Umgebung/Ambiente</aspect-term> sehr gut..
+<aspect-term aspect="FOOD" polarity="neutral">Leckeres Essen</aspect-term> war gerade durchschnittlich ...wenn man die Preise nur ein bisschen senkte, wäre es ein größeres Anziehungspunkt.
+Dieses <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term> ist ein großartiger Sonderangebot..
+Authentische <aspect-term aspect="FOOD" polarity="positive">pakistanische</aspect-term> Küche..
+Die <aspect-term aspect="SERVICE" polarity="positive">Leute</aspect-term> sind immer freundlich.
+Gerade nur direkt billig, gut <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive"> Essen </aspect-term></aspect-term>... Rückende nur
+<aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Faan</aspect-term> ist soooo gut..
+Die beste <aspect-term aspect="FOOD" polarity="positive">Pad Thai</aspect-term> habe ich je gehabt.
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Design</aspect-term> und <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> ist ebenso gut.
+<aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Bottels von Wein</aspect-term></aspect-term> sind günstig und gut.
+Die <aspect-term aspect="FOOD" polarity="negative">Nahrung</aspect-term> war eigentlich sehr schlecht.
+Die <aspect-term aspect="FOOD" polarity="negative">Muscheln</aspect-term> waren die fischigsten Dinge, die ich je gegessen habe, die <aspect-term aspect="FOOD" polarity="negative">Seabass</aspect-term> war matt, der <aspect-term aspect="FOOD" polarity="negative">Goat cheese salad</aspect-term> fehlte das Goat cheese, der <aspect-term aspect="FOOD" polarity="negative">Penne w/ Chicken</aspect-term> hatte Knochen drin... Es war ein Albtraum.
+Gute <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term>, das <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term> war sehr nett und der <aspect-term aspect="FOOD" polarity="positive">Dessert</aspect-term> war gut.
+Der <aspect-term aspect="AMBIENCE" polarity="positive">Juke-Box</aspect-term> spielt alles von Italienischen Opern bis hin zu The Strokes..
+Die <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> ist unglaublich, reich <aspect-term aspect="FOOD" polarity="positive">Pasten</aspect-term> und frische <aspect-term aspect="FOOD" polarity="positive">Pizzadough</aspect-term>...
+Die beste Sache ist der wärmeste <aspect-term aspect="AMBIENCE" polarity="positive">Vibe</aspect-term>, der <aspect-term aspect="SERVICE" polarity="positive">Besitzer</aspect-term> ist total freundlich und der <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term> ist schnell.
+Gehe hier für die <aspect-term aspect="FOOD" polarity="positive">Getränke</aspect-term>!
+Die <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Tränke</aspect-term></aspect-term> sind unglaublich und halbpreisig bis 20 Uhr.
+ Frag' <aspect-term aspect="SERVICE" polarity="positive">Usha</aspect-term>, die freundlichste Barkeeperin in Manhattan.
+Meine Fav war die <aspect-term aspect="FOOD" polarity="positive">sassy lassi</aspect-term>.
+Dies ist ein unglaubliches Ort, um einige <aspect-term aspect="FOOD" polarity="positive">roti Rolls</aspect-term> zu probieren.
+Ich empfehle sehr sehr einfach <aspect-term aspect="FOOD" polarity="positive">Unda (Ei) Rollen</aspect-term>.
+Raffines <aspect-term aspect="FOOD" polarity="positive">Gewürze</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Zwiebeln</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Eier</aspect-term> und ein Kick-Ass <aspect-term aspect="FOOD" polarity="positive">Roti</aspect-term>.
+<aspect-term aspect="AMBIENCE" polarity="positive">Toons</aspect-term> wurde kürzlich umgestaltet, also ist es jetzt ein sehr attraktives Umfeld.
+Die <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> ist so gut wie immer.
+In einer Gegend, wo leider <aspect-term aspect="FOOD" polarity="positive">Thailändische Küche</aspect-term> von guter Qualität mangelt, ist das hier eine der besten Stellen.
+Gestern Abend bin ich hier <aspect-term aspect="AMBIENCE" polarity="positive"> hier war es </aspect-term>  - angenehm, guter <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term>, aber das <aspect-term aspect="FOOD" polarity="positive"> Essen</aspect-term> war überraschend sehr gutes.
+Die <aspect-term aspect="FOOD" polarity="neutral">Teile</aspect-term> sind riesig, also könnte es sich lohnen, drei Dinge zu bestellen und zu teilen (anstatt ein Appetizer und ein Main-Gericht pro Person für zwei Personen)
+Die besten <aspect-term aspect="FOOD" polarity="positive">Schlagstäbchen über Reis</aspect-term> und <aspect-term aspect="FOOD" polarity="positive">Sauer-scharfes Suppen</aspect-term> in der Stadt!
+<aspect-term aspect="FOOD" polarity="positive">Rinder-Eiweißsuppe ist auch gut.</aspect-term>
+Der <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term> ist gut und der <aspect-term aspect="AMBIENCE" polarity="positive">Restaurant</aspect-term> ist sauber.
+Best <aspect-term aspect="FOOD" polarity="positive"> taiwanesische Küche </aspect-term> in NY!
+Ich bin wahrscheinlich 15 Mal im <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Rao's</aspect-term> seit den letzten 3 Jahren gewesen und es wird immer besser.
+Rao's hat die besten <aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> und <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> in NYC..
+Meine Nachbarin und ich lieben diesen <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term>.
+Wir entschieden uns kürzlich, dieses Lokal auszuprobieren, und zu unserer Freude, sie haben hier <aspect-term aspect="AMBIENCE" polarity="positive">außeres Sitzeinrichtung</aspect-term>, perfekt für mich, da ich meinen Yorkie mitgebracht habe.
+<aspect-term aspect="AMBIENCE" polarity="positive">Innenhaus</aspect-term> war sehr gemütlich und süß.
+Die <aspect-term aspect="FOOD" polarity="positive">Portionsgrößen</aspect-term> hier sind riesig, und die <aspect-term aspect="FOOD" polarity="positive">Sushi</aspect-term> ist gut..
+<aspect-term aspect="SERVICE" polarity="positive">Personal</aspect-term> ist sehr akkommodierend..
+Sehr gut <aspect-term aspect="FOOD" polarity="positive">Nudeln</aspect-term> serviert im sauberen, chic <aspect-term aspect="AMBIENCE" polarity="positive"> Dekoration</aspect-term>.
+Ich habe das <aspect-term aspect="FOOD" polarity="positive">$10 10-Stück-Dim-Sum-Combo</aspect-term> bekommen, jeden Bissen davon war großartig.
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Zuckerdecke</aspect-term> ist sehr einfach, aber gemütlich.
+Das <aspect-term aspect="FOOD" polarity="negative"> Essen <aspect-term aspect="FOOD" polarity="positive"> war lecker, aber lasst es hier </aspect-term> auf einen leeren Magen </aspect-term> sein, nur kehrt zurück, wenn du ernährt bist.
+Die <aspect-term aspect="FOOD" polarity="negative">Teile</aspect-term> sind klein, aber da das <aspect-term aspect="FOOD" polarity="positive"> Essen </aspect-term> so gut war, macht das aus.
+Du musst den <aspect-term aspect="FOOD" polarity="positive">Krabbmeatkäsespätzle</aspect-term> haben, der aus diesem Welt ist und den <aspect-term aspect="FOOD" polarity="positive">Choklatbrotpudding</aspect-term> zum Nachtisch.
+Der <aspect-term aspect="SERVICE" polarity="positive">Stab</aspect-term> dort ist sehr aufmerksam und von der Erde.
+Großartige <aspect-term aspect="FOOD" polarity="positive"> indische Küche </aspect-term> und das <aspect-term aspect="SERVICE" polarity="positive"> Service </aspect-term> ist unglaublich.
+Der <aspect-term aspect="SERVICE" polarity="positive">Eigentümer</aspect-term> trifft wirklich alle Ihre Bedürfnisse..
+Gute <aspect-term aspect="FOOD" polarity="positive">Nahrung</aspect-term> und die Preise sind sehr vernünftig.
+Das <aspect-term aspect="FOOD" polarity="positive">Nahrung hier</aspect-term> tut großartigen Dienst für den Namen (Cantonese ist das...)..
+Ich fiel in den Hafen für die <aspect-term aspect="FOOD" polarity="positive">Ei-Nudeln im Rindbratenbrühe mit Garnelen-Gurmeln und Slices von BBQ-Roast-Pork</aspect-term>.
+Dieses <aspect-term aspect="FOOD" polarity="positive">Gericht</aspect-term> ist mein Lieblingsgericht und ich bekomme es immer, wenn ich dorthin gehe und nie müde davon werde.
+Versuche das <aspect-term aspect="FOOD" polarity="positive">Congee</aspect-term> und das Donut wie <aspect-term aspect="FOOD" polarity="positive">Ow Ley Soh</aspect-term>, ein leckeres und süßes Geschmackserlebnis.
+Einfach einige leckere <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">chinesische Küche</aspect-term></aspect-term> zu unvergleichlichen Preisen....
+<aspect-term aspect="SERVICE" polarity="negative">Dienst</aspect-term> ist nicht, was Sie hier für... Rückkehren nur dann, wenn...
+<aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Groß Wong</aspect-term> ist ein großartiges Restaurant, wo man sich satt essen kann..
+Wer immer der <aspect-term aspect="AMBIENCE" polarity="positive">Jazz-Duo</aspect-term> war, waren sie auf Punkt..
+Gute <aspect-term aspect="AMBIENCE" polarity="positive">Musik</aspect-term>, großartiges <aspect-term aspect="FOOD" polarity="positive"> Essen </aspect-term>, schnelle <aspect-term aspect="SERVICE" polarity="positive">Dienstleistung </aspect-term> günstige Preise
+Die <aspect-term aspect="FOOD" polarity="positive">Wein aus dem Glas</aspect-term> war auch gut..
+Beständig gut <aspect-term aspect="FOOD" polarity="positive"> japanische Tapas </aspect-term>..
+Bis jetzt gute <aspect-term aspect="FOOD" polarity="positive">Trinken</aspect-term> und <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term> ist ziemlich gut.
+<aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> ist angenehm und entspannt auch....
+Ein großes <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term>, um sich zu treffen und ein paar Getränke und Essen...
+<aspect-term aspect="FOOD" polarity="positive">Yakitori (Grill Fleisch)</aspect-term> ist lecker auch..
+Wenn Sie sich nicht schlagen um das vorschnitzelte, niedrige Qualität <aspect-term aspect="FOOD" polarity="negative">Fisch</aspect-term>, unfreundlich <aspect-term aspect="SERVICE" polarity="negative">Personal</aspect-term> und einen <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Sushi Chef</aspect-term>, der wie er ist, sehr unglücklich zu sehen scheint dann ist dieses hier Ihr Ort. Rückernten Sie nur die von hier.
+Preis und Qualität von <aspect-term aspect="FOOD" polarity="negative"><aspect-term aspect="FOOD" polarity="negative">Fisch</aspect-term></aspect-term> allein werden uns davon abhalten, eine Rückbesuchsvisite zu machen.
+Es war nicht vorhaben, es zu teilen, aber ich fühle mich verpflichtet...während wir am Sushi-Bar saßen und aß, haben wir den <aspect-term aspect="FOOD" polarity="negative">Koch</aspect-term> zufällig im Esszimmer fallen lassen, als er ein Stück Unagi vom Boden aufnahm und dann in das Lieferbestellungsordner einbezielte.
+Dieses <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ort</aspect-term>, der nur wenige Monate alt ist, ist vielleicht Queens größter Geheimnis!
+Fabulös <aspect-term aspect="AMBIENCE" polarity="positive"> Deko </aspect-term> - macht dich auf die Tatsache hin, als ob du in einem trendsichem Manhattan-Restaurant bist, sehr sehr gut <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive"> Essen </aspect-term></aspect-term>, billigpreisig, allgemein freundlich <aspect-term aspect="SERVICE" polarity="positive">Personal</aspect-term>, und wenn du ein New Yorker bist oder den ganzen Tag in Manhattan verbringst, <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"><aspect-term aspect="AMBIENCE" polarity="positive"><aspect-term aspect="AMBIENCE" polarity="positive">Rice Avenue</aspect-term></aspect-term></aspect-term> wird dich wie zu Hause fühlen......sehr Soho/Village/Upper West Side minus der teuren Preise und dem arroganten Publikum.....all auf Roosevelt Avenue!.
+Wir wurden außerhalb gesetzt und der <aspect-term aspect="SERVICE" polarity="negative">Warter</aspect-term> spritzte roten Wein und heißen Tee auf mich und meine Date.
+Einem würde man denken, wir würden eine Entschuldigung oder einen kostenlosen Drink bekommen - stattdessen bekamen wir einen spöttischen <aspect-term aspect="SERVICE" polarity="negative">Wartenden</aspect-term>, der uns nicht einmal unser Essen bestellen ließ für 15 Minuten und gab uns Lippenbecken, wenn wir ihn bitten wollten.
+Mit so vielen guten Restaurants auf dem UWS brauche ich keine überpreisste <aspect-term aspect="FOOD" polarity="negative">Gastronomie</aspect-term>, absurde, arrogant <aspect-term aspect="SERVICE" polarity="negative">Bedienung</aspect-term>, die nicht erkennen, dass sie an einem glorifizierten Diner arbeiten, unhöfliche <aspect-term aspect="SERVICE" polarity="negative">Dienstleistungen</aspect-term> und eine <aspect-term aspect="SERVICE" polarity="negative">Verwaltung</aspect-term>, die es nicht zu schätzen weiß.
+Ich bin relativ neu im Gebiet und habe ein Pick abgegeben auf der 2. Ecke und war enttäuscht mit dem <aspect-term aspect="SERVICE" polarity="negative">Service</aspect-term> und dachte, das <aspect-term aspect="FOOD" polarity="negative"><aspect-term aspect="FOOD" polarity="negative">Food</aspect-term></aspect-term> sei überhöht und auf der teursten Seite..
+Die <aspect-term aspect="FOOD" polarity="neutral">Leckerei</aspect-term> ist okay und die Preise hier sind mittelmäßig..
+<aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Bukharis</aspect-term> hat feste <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term> und eine schöne <aspect-term aspect="AMBIENCE" polarity="positive">Zutat</aspect-term> zu vernünftigen Preisen..
+Der einzige Problem ist, dass der <aspect-term aspect="SERVICE" polarity="negative">Manager</aspect-term> ein vollkommener Inkompetent ist.
+Er bietet schlassig <aspect-term aspect="SERVICE" polarity="negative">Service</aspect-term> und hat keine Persönlichkeit.
+Es gibt keine Entschuldigung für solche schlechte <aspect-term aspect="SERVICE" polarity="negative">Dienst</aspect-term>!
+Ich habe nie zuvor 40 Stücke von relativ gutes <aspect-term aspect="FOOD" polarity="neutral">Nigiri</aspect-term> gegessen.
+$20 für <aspect-term aspect="FOOD" polarity="positive">alleyoucaneatsushi</aspect-term> kann nicht besiegt werden..
+Ich ging am Sonntagvormittag zum <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Areo</aspect-term> mit vier meiner Freundinnen und verbrachte drei angenehme Stunden dort.
+Die meisten der <aspect-term aspect="SERVICE" polarity="positive">Server</aspect-term> sind sehr aufmerksam, freundlich und ziemlich attraktiv.
+Die <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> ist sehr entspannt und gemütlich, <aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> war großartig und die <aspect-term aspect="FOOD" polarity="positive">Leistung</aspect-term> war herausragend!
+Die <aspect-term aspect="FOOD" polarity="positive">Leckerei</aspect-term> war gut und die <aspect-term aspect="AMBIENCE" polarity="positive">Ansicht der neuen New York City Linie</aspect-term> war super auch auf einem nebligen regnerischen Tag wie den ich war..
+Ich würde sehr empfehlen, ein <aspect-term aspect="AMBIENCE" polarity="positive">Tisch</aspect-term> am Fenster zu bitten..
+Obwohl sie das typische, welches Art von Wasser Sie mögen Fragen stellen, <aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> war gut und insgesamt sehr entspannend zum <aspect-term aspect="AMBIENCE" polarity="positive">Ort</aspect-term> zum Essen..
+Der <aspect-term aspect="FOOD" polarity="positive">Speise</aspect-term> ist großartig.
+<aspect-term aspect="FOOD" polarity="positive">Persönliche Pfannen</aspect-term> sind die perfekte Größe für solche hungrigen Abende.
+Es gibt einen Nachteil, wenn du bestellst - die <aspect-term aspect="SERVICE" polarity="negative">Lieferfahrer</aspect-term> haben eine MAJOR Attitüde..
+Ich habe solche dramatische Lieferanten noch nie gehabt <aspect-term aspect="SERVICE" polarity="negative"> (keine Sorge, es ist einfach so, dass ich im Stockwerk wohne, die Leute sind immer enttäuscht von ihren Tipps)</aspect-term>
+Liebe die <aspect-term aspect="AMBIENCE" polarity="positive"> Szene </aspect-term> zuerst - der <aspect-term aspect="AMBIENCE" polarity="positive"> Ort </aspect-term> hat eine Charakter und ein schönes Licht zu ihm.. sehr glücklich, <aspect-term aspect="AMBIENCE" polarity="positive"> Lage </aspect-term> Weis.
+Die <aspect-term aspect="FOOD" polarity="positive"><aspect-term aspect="FOOD" polarity="positive">Pizze</aspect-term></aspect-term> war ziemlich gut und riesig.
+Wir waren 4 und kamen zur Familie-Größe <aspect-term aspect="FOOD" polarity="positive">Penne à la Vodka</aspect-term>, das war unglaublich riesige Portion ... ein Korb mit Essen wirklich
+Die <aspect-term aspect="FOOD" polarity="negative"><aspect-term aspect="FOOD" polarity="negative">pasta penne</aspect-term></aspect-term> war ziemlich extraButterig cremig, was bedeutet ein großer Aufwand zum Verdauen. Geschmacklich erst aber ich würde sagen, dass ich nach einer Scheibe Pizza und sieben Stücken, penne...ein bisschen launisch wurde, da vollgestopft war...lol.
+<aspect-term aspect="FOOD" polarity="positive">Rosabella waltzt herein, und ich denke, sie tun es am besten.</aspect-term>
+Faszinierende <aspect-term aspect="FOOD" polarity="positive"> Auswahl </aspect-term>, gute <aspect-term aspect="FOOD" polarity="positive"> Weine </aspect-term>, <aspect-term aspect="SERVICE" polarity="positive"> Service </aspect-term> fein, lustige <aspect-term aspect="AMBIENCE" polarity="positive"> Dekoration </aspect-term>.
+Ich fand es auf einer kalten Nacht, dem perfekten <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Spot</aspect-term> zum Wärmen.
+Ich erhielt einen <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term> mit einem Lächeln.
+Dieser Ort <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">bließ mich </aspect-term>herbei....durch weit entfernt ist es von meinem neuen Lieblingsrestaurant auf der Oberschweizer Seite.
+Die <aspect-term aspect="FOOD" polarity="positive">Weinliste</aspect-term> ist umfangreich und beeindruckend.
+LIEBE die <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphäre</aspect-term> - fühlte sich so an wie ich in Paris war..
+Die <aspect-term aspect="FOOD" polarity="positive">Muscheln</aspect-term> waren großartig und auch das <aspect-term aspect="FOOD" polarity="positive">Dessert</aspect-term>...definitiv werde ich wieder sehr bald zurückkehren..
+Ich bin hier schon Jahre lang gewesen und habe nichts als gute Dinge zu sagen über den <aspect-term aspect="SERVICE" polarity="positive">Dienst</aspect-term> und das großartige <aspect-term aspect="SERVICE" polarity="positive">Personal</aspect-term> bei La Lanterna.
+Die Jahre haben Vittorio, den <aspect-term aspect="SERVICE" polarity="positive">Veranstaltern</aspect-term>, und seine <aspect-term aspect="SERVICE" polarity="positive">Mannschaft</aspect-term> immer mich als Familie behandelt -- obwohl mit all der Geschäftigkeit, die dieses nicht so kleine Juwel macht, ist es wirklich beeindruckend, dass er überhaupt noch auf einen einheitlichen, aber nicht zu häufigen Besucher hinweist..
+Ich habe auch großartig überrascht an allen neuen Zugängen im letzten Jahrzehnt: Eine neue <aspect-term aspect="AMBIENCE" polarity="positive">Jazz Bar</aspect-term>, die fantastischste <aspect-term aspect="AMBIENCE" polarity="positive">Garten zum Essen</aspect-term>, die besten <aspect-term aspect="FOOD" polarity="positive">Dünner Teigtaschentorte</aspect-term> und jetzt ein <aspect-term aspect="FOOD" polarity="positive">Lasagna-Menü</aspect-term> das zum Sterben ist (diese sind nicht wie andere Lasagnas)!.
+Ich Liebe DAS <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">PLATZ</aspect-term>.
+Ich muss sagen, ich habe noch nie eine enttäuschende <aspect-term aspect="FOOD" polarity="positive"> Mahlzeit </aspect-term> hier gehabt.
+Wir könnten uns ein Mahl aus den leckeren <aspect-term aspect="FOOD" polarity="positive">Dumplings</aspect-term> vom Dumplingsmenü gemacht haben.
+Glücklich haben wir Raum für den <aspect-term aspect="FOOD" polarity="positive">BBQ Hühnchen</aspect-term>, <aspect-term aspect="FOOD" polarity="positive">Meeresbarsch</aspect-term> und <aspect-term aspect="FOOD" polarity="positive">Knuspriger Ente</aspect-term>.
