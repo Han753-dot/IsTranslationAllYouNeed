@@ -1,0 +1,3232 @@
+<?xml version="1.0" ?>
+<Reviews>
+  <sentence>
+    Yum!
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Serves really good 
+    <aspect-term aspect="FOOD" polarity="positive">sushi</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    Not the biggest 
+    <aspect-term aspect="FOOD" polarity="neutral">portions</aspect-term>
+     but adequate.
+  </sentence>
+  <sentence>
+    <aspect-term aspect="FOOD" polarity="positive">Green Tea creme brulee</aspect-term>
+     is a must!
+  </sentence>
+  <sentence>
+    Don't leave the restaurant without it.
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    No Comparison
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    – I can't say enough about this 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">place</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    It has great 
+    <aspect-term aspect="FOOD" polarity="positive">sushi</aspect-term>
+     and even better 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    The entire 
+    <aspect-term aspect="SERVICE" polarity="positive">staff</aspect-term>
+     was extremely accomodating and tended to my every need.
+  </sentence>
+  <sentence>
+    I've been to this 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">restaurant</aspect-term>
+     over a dozen times with no complaints to date.
+  </sentence>
+  <sentence>
+    Snotty Attitude
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    – We were treated very rudely here one time for breakfast.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="SERVICE" polarity="negative">owner</aspect-term>
+     is belligerent to guests that have a complaint.
+  </sentence>
+  <sentence>
+    Good 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+    !
+  </sentence>
+  <sentence>
+    This is a great place to get a delicious 
+    <aspect-term aspect="FOOD" polarity="positive">meal</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    We never had to wait more than 5 minutes.
+    <aspect-term aspect="SERVICE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="SERVICE" polarity="positive">staff</aspect-term>
+     is pretty friendly.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">onion rings</aspect-term>
+     are great!
+  </sentence>
+  <sentence>
+    They are not greasy or anything.
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Overrated
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    – I was highly disappointed in the 
+    <aspect-term aspect="FOOD" polarity="negative">food</aspect-term>
+     at Pagoda.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="negative">lemon chicken</aspect-term>
+     tasted like sticky sweet donuts and the 
+    <aspect-term aspect="FOOD" polarity="negative">
+      <aspect-term aspect="FOOD" polarity="negative">honey walnut prawns</aspect-term>
+    </aspect-term>
+    , the few they actually give you.....were not good.
+  </sentence>
+  <sentence>
+    Nice 
+    <aspect-term aspect="AMBIENCE" polarity="positive">ambience</aspect-term>
+    , but highly overrated 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">place</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    I will not go back.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    Worst 
+    <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term>
+     I Ever Had
+  </sentence>
+  <sentence>
+    Everyone that sat in the back outside agreed that it was the worst 
+    <aspect-term aspect="SERVICE" polarity="negative">service</aspect-term>
+     we had ever received.
+  </sentence>
+  <sentence>
+    Our 
+    <aspect-term aspect="SERVICE" polarity="negative">waiter</aspect-term>
+     was non-existent and after our food finally arrived over an hour after we ordered, we were not given any water or utensils.
+  </sentence>
+  <sentence>
+    I complained to the 
+    <aspect-term aspect="SERVICE" polarity="negative">manager</aspect-term>
+    , but he was not even apologetic.
+  </sentence>
+  <sentence>
+    I will never return again.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    Fabulous 
+    <aspect-term aspect="FOOD" polarity="positive">Italian Food</aspect-term>
+    !
+  </sentence>
+  <sentence>
+    – I highly recommend 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Mioposto</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    I am so happy to have a wonderful 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Italian restaurant</aspect-term>
+     in my neighborhood.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">wine list</aspect-term>
+     is wonderful and the 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     reminds me of my recent trip to Italy.
+  </sentence>
+  <sentence>
+    I love this 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">restaurant</aspect-term>
+  </sentence>
+  <sentence>
+    – I will never forget the amazing 
+    <aspect-term aspect="FOOD" polarity="positive">meal</aspect-term>
+    , 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+    , and 
+    <aspect-term aspect="AMBIENCE" polarity="positive">ambiance</aspect-term>
+     I experience at this restaurant.
+  </sentence>
+  <sentence>
+    It was absolutely amazing.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">wine list</aspect-term>
+     is incredible and extensive and diverse, the 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     is all incredible and the 
+    <aspect-term aspect="SERVICE" polarity="positive">staff</aspect-term>
+     was all very nice, good at their jobs and cultured.
+  </sentence>
+  <sentence>
+    I have not a bad thing to say about this 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">place</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    AMAZING.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    I cannot wait to go back again this coming weekend!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Mmm... good!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     was great!
+  </sentence>
+  <sentence>
+    It's *very* reasonably priced, esp for the quality of the 
+    <aspect-term aspect="FOOD" polarity="positive">
+      <aspect-term aspect="PRICE" polarity="positive">food</aspect-term>
+    </aspect-term>
+    .
+  </sentence>
+  <sentence>
+    I had the 
+    <aspect-term aspect="FOOD" polarity="positive">Kafta plate</aspect-term>
+     and it was perfect.
+  </sentence>
+  <sentence>
+    We're going back. :D
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Finally a 
+    <aspect-term aspect="FOOD" polarity="positive">meal</aspect-term>
+     that you will remember for a long time!
+  </sentence>
+  <sentence>
+    – In a age of incremental cost cutting in restaurants, its nice to see a place that bucks that trend, and just plain delivers high quality 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     and good 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+    , period.
+  </sentence>
+  <sentence>
+    This is the 
+    <aspect-term aspect="AMBIENCE" polarity="positive">place</aspect-term>
+     to relax and enjoy the finest quality 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     the industry can offer.
+  </sentence>
+  <sentence>
+    Caution - its real 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     for people who love the best.
+  </sentence>
+  <sentence>
+    Very Disappointing
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    – I took my parents here for their anniversary-very very disappointed!!!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    I liked the 
+    <aspect-term aspect="AMBIENCE" polarity="positive">atmosphere</aspect-term>
+     very much but the 
+    <aspect-term aspect="PRICE" polarity="negative">
+      <aspect-term aspect="FOOD" polarity="negative">food</aspect-term>
+    </aspect-term>
+     was not worth the price.
+  </sentence>
+  <sentence>
+    I may not be a sushi guru but I can tell you that the 
+    <aspect-term aspect="FOOD" polarity="negative">food</aspect-term>
+     here is just okay and that there is not much else to it.
+  </sentence>
+  <sentence>
+    <aspect-term aspect="FOOD" polarity="negative">Rice</aspect-term>
+     is too dry, 
+    <aspect-term aspect="FOOD" polarity="negative">tuna</aspect-term>
+     wasn't so fresh either.
+  </sentence>
+  <sentence>
+    Nothing really came across as outstanding.
+    <aspect-term aspect="FOOD" polarity="negative"/>
+  </sentence>
+  <sentence>
+    Very disappointed.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    I have eaten here three times and have found the quality and variety of the 
+    <aspect-term aspect="FOOD" polarity="positive">
+      <aspect-term aspect="FOOD" polarity="positive">fish</aspect-term>
+    </aspect-term>
+     to be excellent.
+  </sentence>
+  <sentence>
+    However, the value and 
+    <aspect-term aspect="SERVICE" polarity="negative">service</aspect-term>
+     are both severely lacking.
+    <aspect-term aspect="PRICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    Furthermore, while the 
+    <aspect-term aspect="FOOD" polarity="positive">fish</aspect-term>
+     is unquestionably fresh, 
+    <aspect-term aspect="FOOD" polarity="negative">rolls</aspect-term>
+     tend to be inexplicably bland.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="SERVICE" polarity="negative">service</aspect-term>
+     ranges from mediocre to offensive.
+  </sentence>
+  <sentence>
+    On a recent trip, our 
+    <aspect-term aspect="SERVICE" polarity="negative">waiter</aspect-term>
+     was extremely dismissive, while no less than three 
+    <aspect-term aspect="SERVICE" polarity="negative">staff members</aspect-term>
+     waited hand-and-foot on a pair of Japanese girls seated nearby.
+  </sentence>
+  <sentence>
+    We were then charged for their most expensive sake ($20+ per serving) when we in fact drank a sake of less than half that price.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    Freshest 
+    <aspect-term aspect="FOOD" polarity="positive">sushi</aspect-term>
+      – I love this 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">restaurant</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    They pay such detail to everything from 
+    <aspect-term aspect="FOOD" polarity="positive">miso soup</aspect-term>
+     to complex 
+    <aspect-term aspect="FOOD" polarity="positive">rolls</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">sashimi</aspect-term>
+     was the freshest and most tender I have ever tasted.
+  </sentence>
+  <sentence>
+    Their 
+    <aspect-term aspect="FOOD" polarity="positive">apps</aspect-term>
+     are all delicious.
+  </sentence>
+  <sentence>
+    The only drawback is that this 
+    <aspect-term aspect="PRICE" polarity="negative">place</aspect-term>
+     is really expensive and the 
+    <aspect-term aspect="FOOD" polarity="negative">portions</aspect-term>
+     are on the small side.
+  </sentence>
+  <sentence>
+    But the 
+    <aspect-term aspect="AMBIENCE" polarity="positive">space</aspect-term>
+     is small and lovely, and the 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+     is helpful.
+  </sentence>
+  <sentence>
+    You are bound to have a very charming time.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Not recommanded!!!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    – The 
+    <aspect-term aspect="FOOD" polarity="negative">food</aspect-term>
+     was not great ' the 
+    <aspect-term aspect="SERVICE" polarity="negative">waiters</aspect-term>
+     were rude.
+  </sentence>
+  <sentence>
+    It is not worth going at all and spend your money there!!!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    great 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+  </sentence>
+  <sentence>
+    – Pretty cheap for sit down Mexican AND downtown.
+    <aspect-term aspect="PRICE" polarity="positive"/>
+    <aspect-term aspect="AMBIENCE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    my 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+     was stellar!
+  </sentence>
+  <sentence>
+    the 
+    <aspect-term aspect="SERVICE" polarity="positive">bus boy</aspect-term>
+     even spotted that my table was shaking a stabilized it for me.
+  </sentence>
+  <sentence>
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     was fine, with a some little-tastier-than-normal 
+    <aspect-term aspect="FOOD" polarity="positive">salsa</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    If you're in the area you shouldn't be disappointed.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Ok.... – Maybe I went in on someone's bad day....
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    the 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     was great, the 
+    <aspect-term aspect="FOOD" polarity="positive">margaritas</aspect-term>
+     too but the 
+    <aspect-term aspect="SERVICE" polarity="negative">waitress</aspect-term>
+     was too busy being nice to her other larger party than to take better care of my friend and me.
+  </sentence>
+  <sentence>
+    Took forever to get our order taken, water refills were too much to ask for and the only time she was fast was when we asked for our bill when we could get her attention.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    I don't know if I'll be back....
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    Mama Mia – I live in the neighborhood and feel lucky to live by such a great 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">pizza place</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    the only problem is you really have to warm up the 
+    <aspect-term aspect="FOOD" polarity="negative">pizza</aspect-term>
+     before it's edible, even when you order ahead.
+  </sentence>
+  <sentence>
+    BUt once done, it's not too much dough, not too much cheese, not too much sauce.
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Best 
+    <aspect-term aspect="FOOD" polarity="positive">Sushi</aspect-term>
+     in town.
+  </sentence>
+  <sentence>
+    Everything you want and more, very fresh.
+    <aspect-term aspect="FOOD" polarity="positive"/>
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Its worth the wait, especially since they'll give you a call when the table is ready.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+    <aspect-term aspect="SERVICE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The best 
+    <aspect-term aspect="FOOD" polarity="positive">calamari</aspect-term>
+     in Seattle!
+  </sentence>
+  <sentence>
+    – ...and the best summertime 
+    <aspect-term aspect="AMBIENCE" polarity="positive">deck</aspect-term>
+     experience--they will even bring you a blanket if you get cold in the Seattle evening weather.
+    <aspect-term aspect="SERVICE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    A perfect 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">place</aspect-term>
+     to take out of town guests any time of the year.
+  </sentence>
+  <sentence>
+    Endless fun, awesome 
+    <aspect-term aspect="AMBIENCE" polarity="positive">music</aspect-term>
+    , great 
+    <aspect-term aspect="SERVICE" polarity="positive">staff</aspect-term>
+    !!!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    – By far the best 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">bar</aspect-term>
+     in the east village...
+  </sentence>
+  <sentence>
+    I went there with some friends one night to play bingo and watch the sox game and it was a blast!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Every time &quot;0-sixtynine&quot; is called the 
+    <aspect-term aspect="SERVICE" polarity="positive">bartender</aspect-term>
+     buys everyone drinks!
+  </sentence>
+  <sentence>
+    Been there lots since and its always a good time.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Great 
+    <aspect-term aspect="FOOD" polarity="positive">draft and bottle selection</aspect-term>
+     and the 
+    <aspect-term aspect="FOOD" polarity="positive">pizza</aspect-term>
+     rocks.
+  </sentence>
+  <sentence>
+    Definitely has one of the best 
+    <aspect-term aspect="AMBIENCE" polarity="positive">jukebox's</aspect-term>
+     i've seen in a long long time.
+  </sentence>
+  <sentence>
+    I FOUND A NEW HOME ON SECOND AVENUE!!!!!!!!!!!!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Just go there and see for yourself.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     is great, the 
+    <aspect-term aspect="SERVICE" polarity="positive">bartenders</aspect-term>
+     go that extra mile.
+  </sentence>
+  <sentence>
+    You need to watch your game, they will have it on for you.
+    <aspect-term aspect="SERVICE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="SERVICE" polarity="positive">owners</aspect-term>
+     are great fun and the 
+    <aspect-term aspect="FOOD" polarity="positive">beer selection</aspect-term>
+     is worth staying for.
+  </sentence>
+  <sentence>
+    And the 
+    <aspect-term aspect="AMBIENCE" polarity="positive">upstairs</aspect-term>
+     is a great place to hang out.
+  </sentence>
+  <sentence>
+    Not alot of smoking places left in New York, but I have found my favorite smoking 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">balconey</aspect-term>
+     in the city.
+  </sentence>
+  <sentence>
+    Kudos to these guys.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    I found a new home and just moved with a long lease.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">sushi</aspect-term>
+     here is delicious!
+  </sentence>
+  <sentence>
+    They have a wide variety of 
+    <aspect-term aspect="FOOD" polarity="positive">fish</aspect-term>
+     and they even list which oceans they come from; Atlantic or Pacific.
+  </sentence>
+  <sentence>
+    I've had the 
+    <aspect-term aspect="FOOD" polarity="positive">Jellyfish</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Horse Mackerel</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Blue Fin Tuna</aspect-term>
+     and the 
+    <aspect-term aspect="FOOD" polarity="positive">Sake Ikura roll</aspect-term>
+     among others, and they were all good.
+  </sentence>
+  <sentence>
+    My only negative comment is that I wish the 
+    <aspect-term aspect="FOOD" polarity="negative">pieces</aspect-term>
+     were a little bigger.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="AMBIENCE" polarity="neutral">decor</aspect-term>
+     is rustic, traditional Japanese.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="neutral">crowd</aspect-term>
+     is mixed yuppies, young and old.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+     was courteous and attentive.
+  </sentence>
+  <sentence>
+    Mediocre 
+    <aspect-term aspect="FOOD" polarity="neutral">food</aspect-term>
+  </sentence>
+  <sentence>
+    The outside patio area has an abbreviated 
+    <aspect-term aspect="FOOD" polarity="neutral">menu</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    My g/f and I both agreed the 
+    <aspect-term aspect="PRICE" polarity="negative">
+      <aspect-term aspect="FOOD" polarity="negative">food</aspect-term>
+    </aspect-term>
+     was very mediocre especially considering the price.
+  </sentence>
+  <sentence>
+    We are locals, and get the feeling the only way this 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">place</aspect-term>
+     survives with such average 
+    <aspect-term aspect="FOOD" polarity="negative">food</aspect-term>
+     is because most customers are probably one-time customer tourists.
+  </sentence>
+  <sentence>
+    <aspect-term aspect="SERVICE" polarity="neutral">Service</aspect-term>
+     was decent.
+  </sentence>
+  <sentence>
+    <aspect-term aspect="FOOD" polarity="positive">Drinks</aspect-term>
+     were good.
+  </sentence>
+  <sentence>
+    Unless you are just stopping in for a few 
+    <aspect-term aspect="FOOD" polarity="positive">drinks</aspect-term>
+     I wouldn't recommend going here.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    You are likely to be disappointed.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    Excellent 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+    , nice 
+    <aspect-term aspect="AMBIENCE" polarity="positive">ambience</aspect-term>
+    , fairly expensive
+    <aspect-term aspect="PRICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    – I loved the 
+    <aspect-term aspect="FOOD" polarity="positive">pumpkin ravioli</aspect-term>
+     and the 
+    <aspect-term aspect="FOOD" polarity="positive">
+      <aspect-term aspect="FOOD" polarity="positive">goat cheese gnocchi</aspect-term>
+    </aspect-term>
+     (5 big ones to a plate instead of 20 or so little gnocchis) and my sister loved her 
+    <aspect-term aspect="FOOD" polarity="positive">filet mignon on top of spinach and mashed potatoes</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="AMBIENCE" polarity="positive">ambiance</aspect-term>
+     was a peaceful and relaxing break amongst all the kids running around in Downtown Disney.
+  </sentence>
+  <sentence>
+    It was romantic - and even nice even with my sister, reminded me of Italy, and had 
+    <aspect-term aspect="AMBIENCE" polarity="positive">artwork</aspect-term>
+     and 
+    <aspect-term aspect="AMBIENCE" polarity="positive">music</aspect-term>
+     that kept up the feeling of being in a Mediterrean villa.
+    <aspect-term aspect="AMBIENCE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    I recommend it for a night when you want to splurge! (it was a bit expensive)
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+    <aspect-term aspect="PRICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    Best 
+    <aspect-term aspect="FOOD" polarity="positive">Indian food</aspect-term>
+     in L.A.
+  </sentence>
+  <sentence>
+    The best thing is, the prices are also quite reasonable.
+    <aspect-term aspect="PRICE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">chicken curry</aspect-term>
+     and 
+    <aspect-term aspect="FOOD" polarity="positive">chicken tikka masala</aspect-term>
+     are my favorite meat dishes.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">chana masala (garbanzo beans)</aspect-term>
+     are also excellent.
+  </sentence>
+  <sentence>
+    It's located in a strip mall near the Beverly Center, not the greatest 
+    <aspect-term aspect="AMBIENCE" polarity="neutral">location</aspect-term>
+    , but the 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     keeps me coming back for more.
+  </sentence>
+  <sentence>
+    hidden little jem
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    – tucked away over by the Beverly Center.
+    <aspect-term aspect="AMBIENCE" polarity="neutral"/>
+  </sentence>
+  <sentence>
+    Never too crowded and always great 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+    .
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    I think I have probably tried each item on their 
+    <aspect-term aspect="FOOD" polarity="positive">menu</aspect-term>
+     at least once it is all excellent.
+  </sentence>
+  <sentence>
+    I can highly recommend their various 
+    <aspect-term aspect="FOOD" polarity="positive">saag</aspect-term>
+     and 
+    <aspect-term aspect="FOOD" polarity="positive">paneer</aspect-term>
+     and 
+    <aspect-term aspect="FOOD" polarity="positive">korma</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    You routinely see Indian families and friends dining there, which is always a good sign.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    I appreciate their 
+    <aspect-term aspect="SERVICE" polarity="positive">delivery</aspect-term>
+     too.
+  </sentence>
+  <sentence>
+    Nice 
+    <aspect-term aspect="FOOD" polarity="negative">
+      <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+    </aspect-term>
+     but no spice!
+  </sentence>
+  <sentence>
+    – I really enjoyed my 
+    <aspect-term aspect="FOOD" polarity="positive">meal</aspect-term>
+     here.
+  </sentence>
+  <sentence>
+    I had yummy 
+    <aspect-term aspect="FOOD" polarity="positive">lamb korma</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">saag paneer</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">samosas</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">naan</aspect-term>
+    , etc.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="negative">
+      <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+    </aspect-term>
+     was all good but it was way too mild.
+  </sentence>
+  <sentence>
+    Normally, places ask how hot you want it, but they didn't.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    I should have thought to bring it up but never expected the 
+    <aspect-term aspect="FOOD" polarity="negative">food</aspect-term>
+     to be that mild.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">naan</aspect-term>
+     was some of the best I've had and I really enjoyed the 
+    <aspect-term aspect="FOOD" polarity="positive">bhartha</aspect-term>
+    , not too tomatoey.
+  </sentence>
+  <sentence>
+    Even the 
+    <aspect-term aspect="FOOD" polarity="positive">chickpeas</aspect-term>
+    , which I normally find too dry, were good.
+  </sentence>
+  <sentence>
+    And they packaged everything nicely so it didn't spill.
+    <aspect-term aspect="SERVICE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    awesome find
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    – I don't understand how I was a stranger to this 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">place</aspect-term>
+     for so long... the 
+    <aspect-term aspect="FOOD" polarity="positive">fajita salad</aspect-term>
+    , the 
+    <aspect-term aspect="FOOD" polarity="positive">colorado</aspect-term>
+    , the 
+    <aspect-term aspect="FOOD" polarity="positive">fajitas</aspect-term>
+     - EVERYTHING is delicious.
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    I love the warm ' cosy 
+    <aspect-term aspect="AMBIENCE" polarity="positive">environment</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    I just found out that you can have the 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">place</aspect-term>
+     to yourself on nights and weekends for a private party - can't wait to celebrate my next birthday there.
+  </sentence>
+  <sentence>
+    best 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">restaurant</aspect-term>
+     in the world, great 
+    <aspect-term aspect="AMBIENCE" polarity="positive">decor</aspect-term>
+    , great 
+    <aspect-term aspect="SERVICE" polarity="positive">customer service</aspect-term>
+    , friendly 
+    <aspect-term aspect="SERVICE" polarity="positive">manager</aspect-term>
+  </sentence>
+  <sentence>
+    i am never disappointed with there 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    the 
+    <aspect-term aspect="AMBIENCE" polarity="positive">atmosphere</aspect-term>
+     is great.
+  </sentence>
+  <sentence>
+    great 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">lunch spot</aspect-term>
+  </sentence>
+  <sentence>
+    – Great financial district 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">mexican spot</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    Always busy, but they are good at seating you promptly and have quick 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+    .
+    <aspect-term aspect="SERVICE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Everything I've had here is good, 
+    <aspect-term aspect="FOOD" polarity="positive">taco salads</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">burritos</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">enchiladas</aspect-term>
+     i love this 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">place</aspect-term>
+    .
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Also have great 
+    <aspect-term aspect="FOOD" polarity="positive">margaritas</aspect-term>
+    !
+  </sentence>
+  <sentence>
+    You can order to go if you have to get back to the office too!
+    <aspect-term aspect="SERVICE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    <aspect-term aspect="FOOD" polarity="positive">Lebanese Food</aspect-term>
+    !Yum!
+  </sentence>
+  <sentence>
+    – I've been to 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Open Sesame</aspect-term>
+     only once, but I'm still reeling from the experience!!
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     is simply unforgettable!
+  </sentence>
+  <sentence>
+    The presentation of the 
+    <aspect-term aspect="FOOD" polarity="positive">
+      <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+    </aspect-term>
+     was an added bonus, it looked just as great as it tasted!
+  </sentence>
+  <sentence>
+    My best friend had the 
+    <aspect-term aspect="FOOD" polarity="positive">chicken shawarma</aspect-term>
+     and she STILL raves about it being the best anywhere!
+  </sentence>
+  <sentence>
+    What a tastly, flaky treat!
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="SERVICE" polarity="positive">staff</aspect-term>
+     are friendly and the 
+    <aspect-term aspect="AMBIENCE" polarity="positive">decor</aspect-term>
+     was ethic and colorful.
+  </sentence>
+  <sentence>
+    GO TO 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">OPEN SESAME</aspect-term>
+    !!!
+  </sentence>
+  <sentence>
+    Holy 
+    <aspect-term aspect="FOOD" polarity="positive">Hummus</aspect-term>
+    !
+  </sentence>
+  <sentence>
+    – The 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     is here is incredible, though the quality is inconsistent during 
+    <aspect-term aspect="FOOD" polarity="negative">lunch</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    <aspect-term aspect="FOOD" polarity="positive">Dinners</aspect-term>
+     have always been excellent, in terms of food quality.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">
+      <aspect-term aspect="PRICE" polarity="positive">open sesame combo plate</aspect-term>
+    </aspect-term>
+     is a bargain for the heap of food given.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">side of potatoes</aspect-term>
+     is to die for, as is the 
+    <aspect-term aspect="FOOD" polarity="positive">labne (yogurt dip)</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    Also, they serve THE best 
+    <aspect-term aspect="FOOD" polarity="positive">
+      <aspect-term aspect="FOOD" polarity="positive">hummus</aspect-term>
+    </aspect-term>
+     in America, with a drizzle of fragrant olive oil (which, I believe is the traditional way)!
+  </sentence>
+  <sentence>
+    The only drawback is the crowded 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">seating</aspect-term>
+     and the slow 
+    <aspect-term aspect="SERVICE" polarity="negative">service</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    There have been several occasions when we've just not gotten some side dishes we've ordered.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    However, this 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">place</aspect-term>
+     is a gem, and I won't stop going back.
+  </sentence>
+  <sentence>
+    great 
+    <aspect-term aspect="FOOD" polarity="positive">beer</aspect-term>
+  </sentence>
+  <sentence>
+    – My first time to dine at this 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">restaurant</aspect-term>
+     was with my son and it was absolutely horrible!
+  </sentence>
+  <sentence>
+    We waited over 30 minutes for our drinks and over 1 1/2 hours for our food.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    I swore never to return for a warm 
+    <aspect-term aspect="FOOD" polarity="negative">beer</aspect-term>
+     and mediocre 
+    <aspect-term aspect="FOOD" polarity="negative">meal</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    HOWEVER, one Sunday afternoon my husband and I did go (although with my loud protests) and were pleasantly surprised.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="AMBIENCE" polarity="positive">band</aspect-term>
+     was very good and the 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+     was attentive.
+  </sentence>
+  <sentence>
+    We ordered a selection of the small plates, and the 
+    <aspect-term aspect="FOOD" polarity="positive">shoe string onions</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">goat cheese pizza</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">grilled asparagus</aspect-term>
+     and 
+    <aspect-term aspect="FOOD" polarity="positive">fried brie with fruit</aspect-term>
+     were all very good.
+  </sentence>
+  <sentence>
+    It was like dining at a completely different restaurant.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    We have since returned and also had a great experience, sampling more small plates and a variety of the 
+    <aspect-term aspect="FOOD" polarity="positive">beer</aspect-term>
+     ( cold and good).
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    We did have the same 
+    <aspect-term aspect="SERVICE" polarity="positive">waiter</aspect-term>
+     the second time, so maybe the service is spotty and our luck is good.
+  </sentence>
+  <sentence>
+    Sunday afternoons there is a 
+    <aspect-term aspect="AMBIENCE" polarity="positive">band</aspect-term>
+     playing and it is lots of fun.
+  </sentence>
+  <sentence>
+    Seattle's BEST 
+    <aspect-term aspect="FOOD" polarity="positive">Winelist</aspect-term>
+  </sentence>
+  <sentence>
+    – Ray's (suprisingly) has the city's BEST ' most diverse 
+    <aspect-term aspect="FOOD" polarity="positive">wine list</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="SERVICE" polarity="positive">sommelier</aspect-term>
+     is fantastic, down-to-earth, ' extremely knowlegable.
+  </sentence>
+  <sentence>
+    I would go back for the 
+    <aspect-term aspect="FOOD" polarity="positive">wine</aspect-term>
+     experience alone.
+  </sentence>
+  <sentence>
+    Nice job!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    NOT THE 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">PLACE</aspect-term>
+     IT ONCE WAS
+  </sentence>
+  <sentence>
+    – It is sad to see a place that was once &quot;THE&quot; place to meet and eat for Bfast or Lunch, now be the 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">place</aspect-term>
+     that is a big &quot;DONT BOTHER.&quot;
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="PRICE" polarity="negative">
+      <aspect-term aspect="FOOD" polarity="negative">food</aspect-term>
+    </aspect-term>
+     is not what it once was (
+    <aspect-term aspect="FOOD" polarity="negative">potions</aspect-term>
+     have seriously seen downsizing) prices have gone up, and the 
+    <aspect-term aspect="SERVICE" polarity="negative">service</aspect-term>
+     is the worst I have experienced anywhere (including mainland Europe).
+  </sentence>
+  <sentence>
+    What may be interesting to most is the worst sevice/attitude comes from the 
+    <aspect-term aspect="SERVICE" polarity="negative">owners</aspect-term>
+     of this establishment.
+  </sentence>
+  <sentence>
+    This 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">establishment</aspect-term>
+     really made a marked decline after ( and this is recurring story ) the airing of FOOD TELEVISIONS &quot;DINERS, DRIVE-INS, AND DIVES&quot; hosted by Guy Fieri, in which Schooner or Later was subject of.
+  </sentence>
+  <sentence>
+    Perhaps now, 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Scooner or Later</aspect-term>
+     falls into the &quot;Dive&quot; category.
+  </sentence>
+  <sentence>
+    This is sad for what once was one of the best places you could ever eat.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    I hope one day 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Scooner or Later</aspect-term>
+     returns to what it once was.
+  </sentence>
+  <sentence>
+    Untill this happens, my advice is to STAY AWAY.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    Open ' Cool 
+    <aspect-term aspect="AMBIENCE" polarity="positive">Place</aspect-term>
+     with the Best 
+    <aspect-term aspect="FOOD" polarity="positive">Pizza</aspect-term>
+     and 
+    <aspect-term aspect="FOOD" polarity="positive">Coffee</aspect-term>
+  </sentence>
+  <sentence>
+    – Mioposto has a very creative ' delicious 
+    <aspect-term aspect="FOOD" polarity="positive">
+      <aspect-term aspect="FOOD" polarity="positive">pizza menu</aspect-term>
+    </aspect-term>
+    .
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">coffe</aspect-term>
+     is very good, too.
+  </sentence>
+  <sentence>
+    Great open and friendly 
+    <aspect-term aspect="AMBIENCE" polarity="positive">ambience</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    This 
+    <aspect-term aspect="AMBIENCE" polarity="positive">place</aspect-term>
+     is charming and relaxing.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="SERVICE" polarity="positive">servers behind the counter</aspect-term>
+     are always friendly and helpful.
+  </sentence>
+  <sentence>
+    It's a great 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">place</aspect-term>
+     to enjoy 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     and meet friends.
+  </sentence>
+  <sentence>
+    Old Reliable
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    – After 12 years in Seattle 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ray's</aspect-term>
+     rates as the place we always go back to.
+  </sentence>
+  <sentence>
+    Great 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+    , spectacular 
+    <aspect-term aspect="AMBIENCE" polarity="positive">location</aspect-term>
+    , and friendly 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+     keep us coming back year after year.
+  </sentence>
+  <sentence>
+    Enjoyed the 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+  </sentence>
+  <sentence>
+    I liked it.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    <aspect-term aspect="PRICE" polarity="positive">
+      <aspect-term aspect="FOOD" polarity="positive">Food</aspect-term>
+    </aspect-term>
+     was good and cheap.
+  </sentence>
+  <sentence>
+    I had the 
+    <aspect-term aspect="FOOD" polarity="positive">kafta plate</aspect-term>
+     and I enjoyed it.
+  </sentence>
+  <sentence>
+    It was so much though that I could barely finish but I did, since it was delicious.
+    <aspect-term aspect="FOOD" polarity="neutral"/>
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    <aspect-term aspect="AMBIENCE" polarity="positive">Atmosphere</aspect-term>
+     was nice.
+  </sentence>
+  <sentence>
+    <aspect-term aspect="SERVICE" polarity="negative">Service</aspect-term>
+     was kind of slow, our 
+    <aspect-term aspect="SERVICE" polarity="negative">waitress</aspect-term>
+     took forever to give us our check even though it wasn't that busy.
+  </sentence>
+  <sentence>
+    Still I would recommend this 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">place</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    WOW!!!!!!!!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    – IT CANT GET ANY BETTER!!!!!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    WHAT ELSE CAN YOU SAY NICE 
+    <aspect-term aspect="SERVICE" polarity="positive">PEOPLE</aspect-term>
+     AMAZING 
+    <aspect-term aspect="FOOD" polarity="positive">FOOD</aspect-term>
+     WOW
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Great 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     with an awesome 
+    <aspect-term aspect="AMBIENCE" polarity="positive">atmosphere</aspect-term>
+    !
+  </sentence>
+  <sentence>
+    – 
+    <aspect-term aspect="FOOD" polarity="positive">Eggs</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">pancakes</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">potatoes</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">fresh fruit</aspect-term>
+     and 
+    <aspect-term aspect="FOOD" polarity="positive">yogurt</aspect-term>
+     -- everything they serve is delicious.
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The best 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">place</aspect-term>
+     for a leisure Sunday breakfast amidst yachts, then take a stroll through the nearby Farmer's Market.
+  </sentence>
+  <sentence>
+    great 
+    <aspect-term aspect="FOOD" polarity="positive">meal</aspect-term>
+     – the 
+    <aspect-term aspect="FOOD" polarity="positive">fish on the omikase platter</aspect-term>
+     was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect!!!!
+  </sentence>
+  <sentence>
+    plus, i am allergic to rice, and the 
+    <aspect-term aspect="SERVICE" polarity="positive">waitstaff</aspect-term>
+     was unbelievably accomodating -- didn't even bat an eye!
+  </sentence>
+  <sentence>
+    and the 
+    <aspect-term aspect="SERVICE" polarity="positive">waiter</aspect-term>
+     suggested a perfect 
+    <aspect-term aspect="FOOD" polarity="positive">sake</aspect-term>
+    !!
+  </sentence>
+  <sentence>
+    absolutely fabulous!!!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Unbeatable 
+    <aspect-term aspect="FOOD" polarity="positive">sushi</aspect-term>
+    !
+  </sentence>
+  <sentence>
+    Two thumbs up!
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    This is right up there with places in Tokyo as far as the freshness is concerned.
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Melt in your mouth 
+    <aspect-term aspect="FOOD" polarity="positive">nigiri</aspect-term>
+     and 
+    <aspect-term aspect="FOOD" polarity="positive">sashmi</aspect-term>
+    , and very tasty 
+    <aspect-term aspect="FOOD" polarity="positive">rolls</aspect-term>
+     too.
+  </sentence>
+  <sentence>
+    Be sure to try the 
+    <aspect-term aspect="FOOD" polarity="positive">oyster roll</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    splendid
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    – How to describe the best 
+    <aspect-term aspect="FOOD" polarity="positive">sushi</aspect-term>
+     in NYC: hmmmm, delicious, amazing, fantastic, suculent, perfect, nah, all of the above.
+  </sentence>
+  <sentence>
+    I can't saybenough good things about this 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">restaurant</aspect-term>
+    , and I can't wait for my next several visits.
+  </sentence>
+  <sentence>
+    The best 
+    <aspect-term aspect="FOOD" polarity="positive">Chuwam Mushi</aspect-term>
+     I have ever had.
+  </sentence>
+  <sentence>
+    Perfect on a cold day.
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    $6 with tip.
+    <aspect-term aspect="PRICE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Perfection.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Good 
+    <aspect-term aspect="PRICE" polarity="negative">
+      <aspect-term aspect="FOOD" polarity="positive">Sushi</aspect-term>
+    </aspect-term>
+    , High Price 
+  </sentence>
+  <sentence>
+    One of the best 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Sushi place</aspect-term>
+     in town.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">house special roll</aspect-term>
+     is really good.
+  </sentence>
+  <sentence>
+    On weekends, you might have to wait for couple hours.
+    <aspect-term aspect="SERVICE" polarity="neutral"/>
+  </sentence>
+  <sentence>
+    However, they do take your cellphone numbers so that you can go hang out somewhere else till they call you up on your cellphone.
+    <aspect-term aspect="SERVICE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    A cozy 
+    <aspect-term aspect="AMBIENCE" polarity="positive">spot</aspect-term>
+     for 2
+  </sentence>
+  <sentence>
+    – I can't believe 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Murphy's</aspect-term>
+     has been around for over 25 years, amazing.
+  </sentence>
+  <sentence>
+    That's a huge compliment, especially in the fickled restaurant business, ...enough already!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    <aspect-term aspect="FOOD" polarity="positive">Brunch</aspect-term>
+     at Murphy's is to die for, my specialty... 
+    <aspect-term aspect="FOOD" polarity="positive">egg white omelet</aspect-term>
+    , the 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     is always freshly prepared.
+  </sentence>
+  <sentence>
+    It's the perfect 
+    <aspect-term aspect="AMBIENCE" polarity="positive">
+      <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">spot</aspect-term>
+    </aspect-term>
+     for a romantic date for 2 or a secret rendezvous!
+  </sentence>
+  <sentence>
+    Save room for  scrumptious 
+    <aspect-term aspect="FOOD" polarity="positive">desserts</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    The restaurant offers an extensive 
+    <aspect-term aspect="FOOD" polarity="positive">wine list</aspect-term>
+     and an 
+    <aspect-term aspect="AMBIENCE" polarity="positive">ambiance</aspect-term>
+     you won't forget!
+  </sentence>
+  <sentence>
+    I guarantee you won't be disappointed, there's also valet parking.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Addicting!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    – Best 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Mexican place</aspect-term>
+     for lunch in the financial district.
+  </sentence>
+  <sentence>
+    Love the 
+    <aspect-term aspect="FOOD" polarity="positive">enchiladas</aspect-term>
+     and 
+    <aspect-term aspect="FOOD" polarity="positive">chicken soup</aspect-term>
+     - and be sure to check out their 
+    <aspect-term aspect="FOOD" polarity="positive">specials</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">cooks</aspect-term>
+     have been at the restaurant for years and cook family recipes.
+  </sentence>
+  <sentence>
+    Can get busy on Fridays for a table but once seated, the 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+     is so efficient you can be in and out of there quickly.
+  </sentence>
+  <sentence>
+    I went there with a friend from out of town... and we were both very impressed!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">sushi</aspect-term>
+     was excellent and the 
+    <aspect-term aspect="SERVICE" polarity="positive">wait staff</aspect-term>
+     was quick.
+  </sentence>
+  <sentence>
+    The price was right too.
+    <aspect-term aspect="PRICE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="AMBIENCE" polarity="neutral">atmosphere</aspect-term>
+     was just okay.
+  </sentence>
+  <sentence>
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Space</aspect-term>
+     was limited, but the 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     made up for it.
+  </sentence>
+  <sentence>
+    I'd go back there in a heartbeat.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Well I guess it's hard to be seated when one is invisible to the 
+    <aspect-term aspect="SERVICE" polarity="negative">staff</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    We stood there for 10 minutes while 
+    <aspect-term aspect="SERVICE" polarity="negative">employees</aspect-term>
+     walked back and forth ignoring us.
+  </sentence>
+  <sentence>
+    Finally, my wife stood face to face in front of one of the 
+    <aspect-term aspect="SERVICE" polarity="negative">staff</aspect-term>
+     and she asked, &quot;Are you waiting for a table?&quot;
+  </sentence>
+  <sentence>
+    Once seated it took about 30 minutes to finally get the meal.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    The prior reviews said Kid friendly... give me a break with two young children that is light years.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="negative">Caesar salad</aspect-term>
+     I ordered had so much lemon I couldn't eat it.
+  </sentence>
+  <sentence>
+    It was decent but nothing exceptional.
+    <aspect-term aspect="FOOD" polarity="neutral"/>
+  </sentence>
+  <sentence>
+    Great 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+    , better 
+    <aspect-term aspect="FOOD" polarity="positive">Margaritas</aspect-term>
+    !
+  </sentence>
+  <sentence>
+    – This is one of my top lunch spots, huge 
+    <aspect-term aspect="FOOD" polarity="positive">portions</aspect-term>
+    , fast 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+     and amazing 
+    <aspect-term aspect="FOOD" polarity="positive">margaritas</aspect-term>
+    !!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    it gets really busy, so get there on the early side so you can grab a seat, if you do have to wait, its not bad because the 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+     is quick!
+  </sentence>
+  <sentence>
+    Check out the 
+    <aspect-term aspect="AMBIENCE" polarity="positive">art on the walls</aspect-term>
+    , very colorful!
+  </sentence>
+  <sentence>
+    i love this 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">place</aspect-term>
+    !
+  </sentence>
+  <sentence>
+    – i have been eating at this place for over 8 years now and i have never had one bad 
+    <aspect-term aspect="FOOD" polarity="positive">meal</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    i highly recommend this place to all that want to try 
+    <aspect-term aspect="FOOD" polarity="positive">indain food</aspect-term>
+     for the first time.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="PRICE" polarity="positive">lunch menu</aspect-term>
+     is an awesome deal!
+  </sentence>
+  <sentence>
+    plenty of 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+    ,trust me .
+  </sentence>
+  <sentence>
+    Fresh 
+    <aspect-term aspect="FOOD" polarity="positive">ingrediants</aspect-term>
+     and super tasty.
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The place is the next best thing to my Moms cooking.
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Best 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+    , phenominal 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+     
+  </sentence>
+  <sentence>
+    For the finicky sushi eater and those who have sampled the best NYC has to offer, the 
+    <aspect-term aspect="FOOD" polarity="positive">fish</aspect-term>
+     is the freshest and the 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+     is superb.
+  </sentence>
+  <sentence>
+    Not only can the 
+    <aspect-term aspect="FOOD" polarity="positive">selection</aspect-term>
+     be innovative, but there's a nice balance of traditional 
+    <aspect-term aspect="FOOD" polarity="positive">sushi</aspect-term>
+     as well.
+  </sentence>
+  <sentence>
+    The nicest 
+    <aspect-term aspect="SERVICE" polarity="positive">waiters</aspect-term>
+     in town.
+  </sentence>
+  <sentence>
+    WAY OVER-RATED!!!!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    – This 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">place</aspect-term>
+     is unbelievably over-rated.
+  </sentence>
+  <sentence>
+    If I want to stand in line on Sunday for an hour to get average 
+    <aspect-term aspect="FOOD" polarity="neutral">brunch food</aspect-term>
+    , then I would put Murphy's at the top of the list.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="neutral">regular menu</aspect-term>
+     here is slightly above average that is not worth the snotty attitude that you receive.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    10!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Your a 
+    <aspect-term aspect="FOOD" polarity="positive">sushi</aspect-term>
+     fan, you love expertly cut 
+    <aspect-term aspect="FOOD" polarity="positive">fish</aspect-term>
+    , great 
+    <aspect-term aspect="FOOD" polarity="positive">sake</aspect-term>
+    , a killer 
+    <aspect-term aspect="AMBIENCE" polarity="positive">SOHO location</aspect-term>
+    , and of course: 
+    <aspect-term aspect="FOOD" polarity="positive">Salmon</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Tuna</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Fluke</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Yellow Tail</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Cod</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Mackeral</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Jellyfish</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Sea Urchin</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Shrimp</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Lobster</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Sea Bream</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Trout</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Milk Fish</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Blue Fin Tuna</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Eel</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Crab</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Sardine</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Monk Fish</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Roe</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Scallop</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">Oysters</aspect-term>
+    , and a varity of 
+    <aspect-term aspect="FOOD" polarity="positive">Toro</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    There is only one 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">place</aspect-term>
+     on the east coast that has it all, plus a lot more.
+  </sentence>
+  <sentence>
+    Bring your cell phone cause you may have to wait to get into the best sushi restaurant in the world: 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">BLUE RIBBON SUSHI</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    Cut to the chase - this is amazing!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    It's unpretentious and underground.
+    <aspect-term aspect="AMBIENCE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    It's fresh, welcoming, delicious, and relaxing.
+    <aspect-term aspect="FOOD" polarity="positive"/>
+    <aspect-term aspect="AMBIENCE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Hands down, the best 
+    <aspect-term aspect="FOOD" polarity="positive">tuna</aspect-term>
+     I have ever had.
+  </sentence>
+  <sentence>
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Blue Ribbon</aspect-term>
+     lives up to it's fantastic reputation.
+  </sentence>
+  <sentence>
+    I went here on a recommendation and will surely return time and time again.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    What a find!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Well worth it 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Great value 
+    <aspect-term aspect="FOOD" polarity="positive">
+      <aspect-term aspect="PRICE" polarity="positive">sushi</aspect-term>
+    </aspect-term>
+     with high quality ' nice 
+    <aspect-term aspect="AMBIENCE" polarity="positive">setting</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    Good for late night dining (last minute planning) without reservations.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Try the 
+    <aspect-term aspect="FOOD" polarity="positive">Chef's Choice for sushi</aspect-term>
+     as the 
+    <aspect-term aspect="FOOD" polarity="positive">smoked yellowtail</aspect-term>
+     was incredible and the 
+    <aspect-term aspect="FOOD" polarity="positive">rolls</aspect-term>
+     were also tasty.
+  </sentence>
+  <sentence>
+    Poor 
+    <aspect-term aspect="SERVICE" polarity="negative">customer service</aspect-term>
+    /poor 
+    <aspect-term aspect="FOOD" polarity="negative">pizza</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    – As with most restaurants in Seattle, Mioposto's 
+    <aspect-term aspect="SERVICE" polarity="negative">service</aspect-term>
+     was bad and the 
+    <aspect-term aspect="PRICE" polarity="negative">food</aspect-term>
+     was overpriced.
+  </sentence>
+  <sentence>
+    I know many people have their favorite types of pizza and pizza places, but Mioposto's 
+    <aspect-term aspect="FOOD" polarity="negative">pizza</aspect-term>
+     lacks quality and good taste.
+  </sentence>
+  <sentence>
+    To be honest, I've had better frozen 
+    <aspect-term aspect="FOOD" polarity="negative">pizza</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    The only positive thing about 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">Mioposto</aspect-term>
+     is the nice 
+    <aspect-term aspect="AMBIENCE" polarity="positive">location</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    Love it every time 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    I was frankly shocked when I read the bad reviews - this 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">place</aspect-term>
+     is fantastic; it has not let us down in any way, and we've eaten here more than 10 times.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     is fantastic, and the 
+    <aspect-term aspect="SERVICE" polarity="positive">waiting staff</aspect-term>
+     has been perfect every single time we've been there.
+  </sentence>
+  <sentence>
+    The only problem would be the 
+    <aspect-term aspect="SERVICE" polarity="neutral">wait</aspect-term>
+    , but we usually just have a drink in the front while waiting.
+  </sentence>
+  <sentence>
+    Never had one single problem there.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    <aspect-term aspect="FOOD" polarity="positive">Seafood</aspect-term>
+     Plus
+  </sentence>
+  <sentence>
+    – This was  great dining experience.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    If you're going to see Danny Gans or just staying at the Mirage, don't miss this one.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">appetizer of oysters, lobster, crab (small size)</aspect-term>
+     made a perfect entre for my wife.
+  </sentence>
+  <sentence>
+    <aspect-term aspect="FOOD" polarity="positive">Seabass on lobster risotto</aspect-term>
+     was the best.
+  </sentence>
+  <sentence>
+    <aspect-term aspect="FOOD" polarity="positive">Caesar salad</aspect-term>
+     was superb.
+  </sentence>
+  <sentence>
+    Great 
+    <aspect-term aspect="FOOD" polarity="positive">bottle of wine</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    Leave room for 
+    <aspect-term aspect="FOOD" polarity="positive">dessert</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    COMPLETELY OVER RATED!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="neutral">food</aspect-term>
+     was ok, but the 
+    <aspect-term aspect="SERVICE" polarity="negative">service</aspect-term>
+     was so poor that the food was cold buy the time everyone in my party was served.
+  </sentence>
+  <sentence>
+    Even then, the order was not correct and we were still waiting for a couple items.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    We had a very hard time getting the 
+    <aspect-term aspect="SERVICE" polarity="negative">waitress</aspect-term>
+    ' attention and finally had to get up and go inside to speak to a manager.
+  </sentence>
+  <sentence>
+    As it turns out the 
+    <aspect-term aspect="SERVICE" polarity="negative">owner</aspect-term>
+     was seated right next to us and when he came over to check on our problems was very dismissive and offered a token 20% discount on our bill.
+  </sentence>
+  <sentence>
+    When the bill came, he only took the discount off the food and not the drinks.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    It was clear he didn’t really care.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    AVOID THE 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">PLACE</aspect-term>
+  </sentence>
+  <sentence>
+    – Save yourself the waste of time ' DO NOT visit.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    When I got there I sat up stairs where the 
+    <aspect-term aspect="AMBIENCE" polarity="positive">atmosphere</aspect-term>
+     was cozy ' the 
+    <aspect-term aspect="SERVICE" polarity="negative">service</aspect-term>
+     was horrible!
+  </sentence>
+  <sentence>
+    I waited for 10-15 minutes for 
+    <aspect-term aspect="SERVICE" polarity="negative">service</aspect-term>
+     ordered a beer ' was never served again.
+  </sentence>
+  <sentence>
+    After sitting there with my empty glass for over 20 minutes I left.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    I went home ' looked them up online again where I discovered there is a link for a give away that doesn't work so emailed the 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">restaurant</aspect-term>
+     about the non existent service ' deceptive link.
+  </sentence>
+  <sentence>
+    I never heard back from anyone more than a month ago.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    After sitting at the bar for over 20 minutes the 
+    <aspect-term aspect="SERVICE" polarity="negative">bar keep</aspect-term>
+     had made only 2 drinks ' kept telling us she'd be right with us.
+  </sentence>
+  <sentence>
+    We left without ever getting 
+    <aspect-term aspect="SERVICE" polarity="negative">service</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    As of writing this I just tried their give away a link again ' it still doesn't work.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    Best 
+    <aspect-term aspect="FOOD" polarity="positive">Crab Cakes</aspect-term>
+     in Town
+  </sentence>
+  <sentence>
+    – Thats a big statement considering I've been pulling crab traps and making the 
+    <aspect-term aspect="FOOD" polarity="positive">cakes</aspect-term>
+     myself since I was about seven - but something about these little devils gets better every time.
+  </sentence>
+  <sentence>
+    If you can, come to this 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">place</aspect-term>
+     by boat and make it a whole evening.
+  </sentence>
+  <sentence>
+    Great 
+    <aspect-term aspect="FOOD" polarity="positive">seasonal fish</aspect-term>
+     and 
+    <aspect-term aspect="FOOD" polarity="positive">seafood</aspect-term>
+    , with a classy 
+    <aspect-term aspect="AMBIENCE" polarity="positive">waterfront setting</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    Always a winner.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Great 
+    <aspect-term aspect="FOOD" polarity="positive">Pizza</aspect-term>
+    , Poor 
+    <aspect-term aspect="SERVICE" polarity="negative">Service</aspect-term>
+  </sentence>
+  <sentence>
+    – Love their 
+    <aspect-term aspect="FOOD" polarity="positive">pizza</aspect-term>
+    , especially the 
+    <aspect-term aspect="FOOD" polarity="positive">mushroom pizza</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    Also love their 
+    <aspect-term aspect="FOOD" polarity="positive">caeser salad</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    Prefer to order it and pick it up though because I don't like the 
+    <aspect-term aspect="SERVICE" polarity="negative">servers</aspect-term>
+    , one 
+    <aspect-term aspect="SERVICE" polarity="negative">young woman</aspect-term>
+     in particular.
+  </sentence>
+  <sentence>
+    She doesn't make you feel welcome and treats you like an annoyance.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    But she is very friendly with certain people, making it even more annoying.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    <aspect-term aspect="SERVICE" polarity="negative">Management</aspect-term>
+     should really take notice and train their 
+    <aspect-term aspect="SERVICE" polarity="negative">waitstaff</aspect-term>
+     and teach them some proper manners.
+  </sentence>
+  <sentence>
+    Many people talk about the great 
+    <aspect-term aspect="FOOD" polarity="positive">pizza</aspect-term>
+     and poor 
+    <aspect-term aspect="SERVICE" polarity="negative">service</aspect-term>
+    , so it can't just be the rantings of a few dissatisfied customers.
+  </sentence>
+  <sentence>
+    It's a great little 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">place</aspect-term>
+     with tons of potential to be a neighborhood joint if the 
+    <aspect-term aspect="SERVICE" polarity="negative">service</aspect-term>
+     weren't so impersonal and corporate-like.
+  </sentence>
+  <sentence>
+    Great 
+    <aspect-term aspect="FOOD" polarity="positive">Breakfast</aspect-term>
+  </sentence>
+  <sentence>
+    – This place is famous for their 
+    <aspect-term aspect="FOOD" polarity="positive">breakfast</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    They have been featured on the food network and they deserve it.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     is great and they make a mean 
+    <aspect-term aspect="FOOD" polarity="positive">bloody mary</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    I love 
+    <aspect-term aspect="FOOD" polarity="positive">breakfast</aspect-term>
+     here.
+  </sentence>
+  <sentence>
+    Their 
+    <aspect-term aspect="FOOD" polarity="positive">crab eggs benedict</aspect-term>
+     is addicting.
+  </sentence>
+  <sentence>
+    All their 
+    <aspect-term aspect="FOOD" polarity="positive">menu items</aspect-term>
+     are a hit, and they serve mimosas.
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Doesn't get any better than that.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    best 
+    <aspect-term aspect="FOOD" polarity="positive">chinese food</aspect-term>
+     i have tasted in a long time
+  </sentence>
+  <sentence>
+    You can easily hear him though so it was a pleasant sound and not overbearing.
+    <aspect-term aspect="AMBIENCE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    the 
+    <aspect-term aspect="AMBIENCE" polarity="positive">ambiance</aspect-term>
+     of the restaurant was nice and good for fine dinning.
+  </sentence>
+  <sentence>
+    not too fine thought that you feel uncomfortable and have to dress up.
+    <aspect-term aspect="AMBIENCE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    the 
+    <aspect-term aspect="SERVICE" polarity="positive">staff</aspect-term>
+     was very nice and courteous and obviously chinese.
+  </sentence>
+  <sentence>
+    First off, the food came fast and all together :) i like that... i hate the pretentiousness of things coming in one after the other.
+    <aspect-term aspect="SERVICE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    so about the 
+    <aspect-term aspect="FOOD" polarity="positive">prawns</aspect-term>
+    , they were fresh and had a slight crispiness about the 
+    <aspect-term aspect="FOOD" polarity="positive">batter</aspect-term>
+    ... soooo good... the 
+    <aspect-term aspect="FOOD" polarity="positive">walnuts</aspect-term>
+     were cut in smaller pieces and very crunchy and tasty.
+  </sentence>
+  <sentence>
+    yummy.
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    best 
+    <aspect-term aspect="FOOD" polarity="positive">honey walnyt prawns</aspect-term>
+     that we have every tasted.
+  </sentence>
+  <sentence>
+    the 
+    <aspect-term aspect="FOOD" polarity="positive">brocollis</aspect-term>
+     were so fresh and tasty.
+  </sentence>
+  <sentence>
+    i would normally not finish the 
+    <aspect-term aspect="FOOD" polarity="positive">brocolli</aspect-term>
+     when i order these kinds of food but for the first time, every piece was as eventful as the first one... the 
+    <aspect-term aspect="FOOD" polarity="positive">scallops</aspect-term>
+     and 
+    <aspect-term aspect="FOOD" polarity="positive">prawns</aspect-term>
+     was so fresh and nicely cooked.
+  </sentence>
+  <sentence>
+    not chewy at all.
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    for desert we had the 
+    <aspect-term aspect="FOOD" polarity="positive">mango ginger creme brulee</aspect-term>
+    ... oh la la yummy!!!
+  </sentence>
+  <sentence>
+    melt in your mouth.
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    we are for sure coming back to this 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">restaurant</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    it is sad there is not many people who frequent eating at places like these that look pricey because they are at the hotel... but they are definitely one you dont want to miss, esp if your in downtown san jose.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Chintzy 
+    <aspect-term aspect="FOOD" polarity="negative">portions</aspect-term>
+  </sentence>
+  <sentence>
+    – The 
+    <aspect-term aspect="PRICE" polarity="negative">
+      <aspect-term aspect="FOOD" polarity="negative">
+        <aspect-term aspect="FOOD" polarity="positive">sushi</aspect-term>
+      </aspect-term>
+    </aspect-term>
+     here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced 
+    <aspect-term aspect="PRICE" polarity="negative">restaurant</aspect-term>
+     (even for NYC).
+  </sentence>
+  <sentence>
+    We easily spent more than $40 per person (not including alcohol) and were still hungry.
+    <aspect-term aspect="PRICE" polarity="negative"/>
+    <aspect-term aspect="FOOD" polarity="negative"/>
+  </sentence>
+  <sentence>
+    I'm astonished that this 
+    <aspect-term aspect="PRICE" polarity="negative">restaurant</aspect-term>
+     is categorized as $$$ rather than $$$$.
+  </sentence>
+  <sentence>
+    Terrible 
+    <aspect-term aspect="SERVICE" polarity="negative">service</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="neutral">food</aspect-term>
+     ok, pricey
+    <aspect-term aspect="PRICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    We put out name down and although there were open tables we were told that it'd be a 30 minute wait.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    We went back to the restaurant and low and behold, we were seated at one of the tables that was available 30 minutes ago!!
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    None that I can think of.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    We put in our order and although we ordered 4 appetizers, the food didn't arrive until 45 minutes later...WITH OUR MAIN COURSE.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    Um so now what are appetizers for???
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    Oh I forgot to mention that they don't have bread service.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    My wife also ordered a teapot of hot water (she had a sore throat) and I guess that since it was only water, it wasn't a priority for them to actually bring it.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    In other words, if they aren't making $$ off of you then you don't rate high on their '
+    <aspect-term aspect="SERVICE" polarity="negative">service</aspect-term>
+     scale'.
+  </sentence>
+  <sentence>
+    <aspect-term aspect="FOOD" polarity="neutral">Food</aspect-term>
+     wise, its ok but a bit pricey for what you get considering the 
+    <aspect-term aspect="AMBIENCE" polarity="neutral">
+      <aspect-term aspect="PRICE" polarity="negative">restaurant</aspect-term>
+    </aspect-term>
+     isn't a fancy place.
+  </sentence>
+  <sentence>
+    If I needed to name some they would include the 
+    <aspect-term aspect="AMBIENCE" polarity="positive">location</aspect-term>
+     to the beach or Golden Gate park.
+  </sentence>
+  <sentence>
+    Its great if you spent the day there and didn't want to drive to eat.
+    <aspect-term aspect="AMBIENCE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Parking is reasonably good, they have their own lot and you can park in the park nearby.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Another plus is the open 
+    <aspect-term aspect="AMBIENCE" polarity="positive">feel</aspect-term>
+     of the restaurant with 
+    <aspect-term aspect="AMBIENCE" polarity="positive">glass walls</aspect-term>
+     on all sides.
+  </sentence>
+  <sentence>
+    Always good.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    6pm on a Sat before a Broadway play and we were quickly seated and served.
+    <aspect-term aspect="SERVICE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Amazing 
+    <aspect-term aspect="FOOD" polarity="positive">Spanish Mackeral special appetizer</aspect-term>
+     and perfect 
+    <aspect-term aspect="FOOD" polarity="positive">box sushi</aspect-term>
+     (that 
+    <aspect-term aspect="FOOD" polarity="positive">eel with avodcao</aspect-term>
+     -- um um um).
+  </sentence>
+  <sentence>
+    As usual the 
+    <aspect-term aspect="FOOD" polarity="negative">
+      <aspect-term aspect="FOOD" polarity="positive">omikase</aspect-term>
+    </aspect-term>
+     didn't disappoint in freshness, although it scored low on creativity and selection.
+  </sentence>
+  <sentence>
+    Their 
+    <aspect-term aspect="FOOD" polarity="positive">specialty rolls</aspect-term>
+     are impressive, though I can't remember what we had.
+  </sentence>
+  <sentence>
+    Great 
+    <aspect-term aspect="FOOD" polarity="positive">selection of sakes</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    <aspect-term aspect="FOOD" polarity="positive">Green tea creme brulee</aspect-term>
+     gets better each time I have it.
+  </sentence>
+  <sentence>
+    It isn't the cheapest 
+    <aspect-term aspect="FOOD" polarity="positive">
+      <aspect-term aspect="PRICE" polarity="neutral">sushi</aspect-term>
+    </aspect-term>
+     but has been worth it every time.
+  </sentence>
+  <sentence>
+    Very poor 
+    <aspect-term aspect="SERVICE" polarity="negative">customer service</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    – Schooner or Later's charming 
+    <aspect-term aspect="AMBIENCE" polarity="positive">location along the marina in Long Beach</aspect-term>
+     and average 
+    <aspect-term aspect="FOOD" polarity="neutral">food</aspect-term>
+     does not, unfortunately, compensate for its very poor 
+    <aspect-term aspect="SERVICE" polarity="negative">customer service</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    While this diner had reasonably good 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+    , the 
+    <aspect-term aspect="SERVICE" polarity="negative">restaurant staff</aspect-term>
+     seemed completely indifferent to our presence, and this attitude was reflected in the lack of service.
+  </sentence>
+  <sentence>
+    As part of a small party of four, our food was dropped off without comment;
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    any further needs we may have had could not have been met since no one stopped by the table.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    When we finally were able to flag someone down, it was someone entirely different from the person who had dropped off the food, who was also not the same person who had taken our order.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    After one member of our party had been bumped repeatedly by a 
+    <aspect-term aspect="SERVICE" polarity="negative">waitress</aspect-term>
+    , a polite request that he not be bumped sent the waitress into an abusive rant.
+  </sentence>
+  <sentence>
+    A brief conversation with the 
+    <aspect-term aspect="SERVICE" polarity="negative">manager</aspect-term>
+     at the end of the meal was the greatest disappointment--to say we had been &quot;blown off&quot; would be an understatement.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="SERVICE" polarity="negative">manager</aspect-term>
+     continually interrupted with &quot;Is there anything else I can do for you?&quot;, a strange comment because she had hardly listened, let alone responded to our expression of disappointment at our experience.
+  </sentence>
+  <sentence>
+    She promised to speak to the waitress who had flown off in a rage, but we could hardly take her promise seriously, seeing as she hadn't bothered to get the waitresses name.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    In short, Schooner or Later couldn't have cared less about our being at their establishment.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    you are with a hot date and he/she has an urge for 
+    <aspect-term aspect="FOOD" polarity="positive">sushi</aspect-term>
+    ...then this might be the place.
+  </sentence>
+  <sentence>
+    the 
+    <aspect-term aspect="FOOD" polarity="negative">
+      <aspect-term aspect="FOOD" polarity="positive">fish</aspect-term>
+    </aspect-term>
+     was fresh, though it was cut very thin.
+  </sentence>
+  <sentence>
+    great 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    good 
+    <aspect-term aspect="FOOD" polarity="positive">sake selection</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    <aspect-term aspect="FOOD" polarity="positive">Dungeness crabs</aspect-term>
+     here!
+  </sentence>
+  <sentence>
+    – Ray's is THE place to go for high quality 
+    <aspect-term aspect="FOOD" polarity="positive">seafood dinners</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    And they give good quantity for the price.
+    <aspect-term aspect="FOOD" polarity="positive"/>
+    <aspect-term aspect="PRICE" polarity="neutral"/>
+  </sentence>
+  <sentence>
+    We were only in Seattle for one night and I'm so glad we picked 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Rays</aspect-term>
+     for dinner!
+  </sentence>
+  <sentence>
+    I love 
+    <aspect-term aspect="FOOD" polarity="positive">Dungeness crabs</aspect-term>
+     and at Ray's you can get them served in about 6 different ways!
+  </sentence>
+  <sentence>
+    We shared the family platter and I especially enjoyed the 
+    <aspect-term aspect="FOOD" polarity="positive">black cod in sake kasu</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    I ended the meal with the unusual 
+    <aspect-term aspect="FOOD" polarity="positive">dessert of a port and chocolate tasting</aspect-term>
+    ....yummy!
+  </sentence>
+  <sentence>
+    And the 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+     was simply spendid - quite a delight.
+  </sentence>
+  <sentence>
+    Great 
+    <aspect-term aspect="FOOD" polarity="positive">Breakfast</aspect-term>
+  </sentence>
+  <sentence>
+    – Great 
+    <aspect-term aspect="FOOD" polarity="positive">drinks</aspect-term>
+     , 
+    <aspect-term aspect="FOOD" polarity="positive">corn beef hash</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">coffee</aspect-term>
+    , 
+    <aspect-term aspect="FOOD" polarity="positive">B Fast burritos</aspect-term>
+    , Gluten Free 
+    <aspect-term aspect="FOOD" polarity="positive">menu</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+     is fantastic at this fun 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">place</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    If there is a line very day of the week for the entire time a 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">place</aspect-term>
+     is open, you know it is great.
+  </sentence>
+  <sentence>
+    This is the case at this gem.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Best Neighborhood 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Standby</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    You Can't Go Wrong Here.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    In Grammercy/Union Square/East Village this is my neighbors and my favorite 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">spot</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="AMBIENCE" polarity="positive">music</aspect-term>
+     is great, no night better or worse, the 
+    <aspect-term aspect="FOOD" polarity="positive">bar tenders</aspect-term>
+     are generous with the pouring, and the lighthearted 
+    <aspect-term aspect="AMBIENCE" polarity="positive">atmosphere</aspect-term>
+     will lifts you spirits.
+  </sentence>
+  <sentence>
+    Seriously, you can't go wrong, if it is unpretentious local fun you seek.
+    <aspect-term aspect="AMBIENCE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Oh, and the 
+    <aspect-term aspect="FOOD" polarity="positive">cheese fries</aspect-term>
+     are awesome!
+  </sentence>
+  <sentence>
+    Good 
+    <aspect-term aspect="FOOD" polarity="positive">Food</aspect-term>
+    , Great 
+    <aspect-term aspect="SERVICE" polarity="positive">Service</aspect-term>
+    , Average Prices (For the Strip)
+    <aspect-term aspect="PRICE" polarity="neutral"/>
+  </sentence>
+  <sentence>
+    – I decided to eat at Stack because of their 
+    <aspect-term aspect="PRICE" polarity="neutral">price fixed pre-show dinner</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    When I walked in, I was taken aback by their incredible 
+    <aspect-term aspect="AMBIENCE" polarity="positive">wood decor</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="AMBIENCE" polarity="positive">music</aspect-term>
+     playing was very hip, 20-30 something pop music, but the 
+    <aspect-term aspect="AMBIENCE" polarity="negative">subwoofer to the sound system</aspect-term>
+     was located under my seat, which became annoying midway through dinner.
+  </sentence>
+  <sentence>
+    I got the 
+    <aspect-term aspect="FOOD" polarity="neutral">shellfish and shrimp appetizer</aspect-term>
+     and it was alright.
+  </sentence>
+  <sentence>
+    It wasn't the freshest 
+    <aspect-term aspect="FOOD" polarity="neutral">
+      <aspect-term aspect="FOOD" polarity="neutral">seafood</aspect-term>
+    </aspect-term>
+     ever, but the taste and presentation was OK.
+  </sentence>
+  <sentence>
+    I picked the 
+    <aspect-term aspect="FOOD" polarity="positive">asparagus</aspect-term>
+    , which turned out to be incredible and perfectly prepared.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">9 oz steak</aspect-term>
+     came next and it tasted great, at least initially.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">steak</aspect-term>
+     was done to my exact liking (medium rare) and was nice and juicy.
+  </sentence>
+  <sentence>
+    It?s served with either a 
+    <aspect-term aspect="FOOD" polarity="neutral">peppercorn sauce</aspect-term>
+     or 
+    <aspect-term aspect="FOOD" polarity="neutral">red wine reduction</aspect-term>
+    , though both were indistinguishable in taste.
+  </sentence>
+  <sentence>
+    Though, one thing I realized later on was that the restaurant either used MSG or a meat tenderizer on the 
+    <aspect-term aspect="FOOD" polarity="negative">steak</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    My mouth felt very dry afterwards and I had that signature ?MSG? taste lingering in my throat after I left the restaurant.
+    <aspect-term aspect="FOOD" polarity="negative"/>
+  </sentence>
+  <sentence>
+    They came in their own nifty take out box and with some homemade frosting; very light and not-too-sweet.
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">desert</aspect-term>
+     was the perfect ending to an almost perfect 
+    <aspect-term aspect="FOOD" polarity="positive">dinner</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    The dinner only took us about an hour and the prices were alright for the strip, almost $50/pp after tax and tip (about average).
+    <aspect-term aspect="PRICE" polarity="neutral"/>
+    <aspect-term aspect="SERVICE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    But the 
+    <aspect-term aspect="SERVICE" polarity="positive">servers</aspect-term>
+     were extremely attentive and very friendly.
+  </sentence>
+  <sentence>
+    Overall, I would go back and eat at the 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">restaurant</aspect-term>
+     again.
+  </sentence>
+  <sentence>
+    Just remember to dress a little urban-chic so you don?t look too far out of place.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="neutral"/>
+  </sentence>
+  <sentence>
+    good 
+    <aspect-term aspect="FOOD" polarity="positive">sake</aspect-term>
+    , good 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     – i honestly don't know much about japanese food at all.
+  </sentence>
+  <sentence>
+    <aspect-term aspect="SERVICE" polarity="positive">Server</aspect-term>
+     made several 
+    <aspect-term aspect="FOOD" polarity="positive">sake</aspect-term>
+     suggestions which were very good.
+  </sentence>
+  <sentence>
+    had many dishes but the BEST was the 
+    <aspect-term aspect="FOOD" polarity="positive">lobster 3 ways</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    VERY GOOD!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Overpriced
+    <aspect-term aspect="PRICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    Waited 35 minutes for a table for 8 which was ok for such a big crowd.
+    <aspect-term aspect="SERVICE" polarity="neutral"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="SERVICE" polarity="negative">waiter</aspect-term>
+     was a bit unfriendly and the 
+    <aspect-term aspect="AMBIENCE" polarity="negative">feel</aspect-term>
+     of the restaurant was crowded.
+  </sentence>
+  <sentence>
+    Also, there was only one 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">bathroom stall</aspect-term>
+    - probably need more for such big crowds.
+  </sentence>
+  <sentence>
+    Most importantly, we were so excited about the food after seeing the very creative 
+    <aspect-term aspect="FOOD" polarity="positive">menu</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    At best, the 
+    <aspect-term aspect="PRICE" polarity="negative">
+      <aspect-term aspect="FOOD" polarity="neutral">food</aspect-term>
+    </aspect-term>
+     was good and definately overpriced.
+  </sentence>
+  <sentence>
+    For the amount of 
+    <aspect-term aspect="PRICE" polarity="negative">
+      <aspect-term aspect="FOOD" polarity="negative">food</aspect-term>
+    </aspect-term>
+     we got the prices should have been lower.
+  </sentence>
+  <sentence>
+    Not sure if I would go back.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    My favortie 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">pizza joint</aspect-term>
+     in Seattle
+  </sentence>
+  <sentence>
+    – This is my &quot;must bring out of town guests to&quot; 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">restaurant</aspect-term>
+     and they always enjoy and rave about it.
+  </sentence>
+  <sentence>
+    In fact, many want to return a second time during their visit.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">pizza</aspect-term>
+     is delicious and the 
+    <aspect-term aspect="FOOD" polarity="positive">salads</aspect-term>
+     are fantastic.
+  </sentence>
+  <sentence>
+    I've always found the 
+    <aspect-term aspect="SERVICE" polarity="positive">wait staff</aspect-term>
+     and, if you sit at the bar, the 
+    <aspect-term aspect="SERVICE" polarity="positive">cooks</aspect-term>
+     very friendly.
+  </sentence>
+  <sentence>
+    They aren't the most talkative, but everytime I've been there they have been very busy, which probably accounts for the lack of conversation.
+    <aspect-term aspect="SERVICE" polarity="neutral"/>
+  </sentence>
+  <sentence>
+    I also really enjoy the simplicity of the 
+    <aspect-term aspect="AMBIENCE" polarity="positive">decor</aspect-term>
+     and intimate 
+    <aspect-term aspect="AMBIENCE" polarity="positive">feeling</aspect-term>
+     of a small restaurant.
+  </sentence>
+  <sentence>
+    It's just the right size for the menu.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Excellent
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    – My husband and I love eating at 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Mioposto Café</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    We’re can’t say enough about their delicious gourmet 
+    <aspect-term aspect="FOOD" polarity="positive">pizza’s</aspect-term>
+    !
+  </sentence>
+  <sentence>
+    You won’t be disappointed by their 
+    <aspect-term aspect="FOOD" polarity="positive">menu</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">pizza’s</aspect-term>
+     are thin crust and the 
+    <aspect-term aspect="FOOD" polarity="positive">menu</aspect-term>
+     offers very creative combinations and toppings.
+  </sentence>
+  <sentence>
+    You never feel icky and stuffed after you eat there.
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">pizza’s</aspect-term>
+     are light and scrumptious.
+  </sentence>
+  <sentence>
+    Try the 
+    <aspect-term aspect="FOOD" polarity="positive">Pizza Ensalata</aspect-term>
+    !
+  </sentence>
+  <sentence>
+    Absolutely delicious.
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="neutral">pizza’s</aspect-term>
+     are not huge and the 
+    <aspect-term aspect="FOOD" polarity="neutral">crust</aspect-term>
+     is thin…keep that in mind when you’re ordering.
+  </sentence>
+  <sentence>
+    Worth the wait
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    – Had to wait thirty minutes to get in the door on a tuesday morning, but it was so worth it.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     is sinful.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="SERVICE" polarity="positive">staff</aspect-term>
+     was really friendly.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="AMBIENCE" polarity="positive">atmosphere</aspect-term>
+     was great.
+  </sentence>
+  <sentence>
+    The specialty here is decadent 
+    <aspect-term aspect="FOOD" polarity="positive">pancakes</aspect-term>
+    , but I've been back now four times, and I've been wowed every time.
+  </sentence>
+  <sentence>
+    Nothing on the 
+    <aspect-term aspect="FOOD" polarity="positive">menu</aspect-term>
+     is less than amazing.
+  </sentence>
+  <sentence>
+    Go with some friends, wait the half hour or so with a cup of joe, and enjoy more than your average 
+    <aspect-term aspect="FOOD" polarity="positive">breakfast</aspect-term>
+    .
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Good 
+    <aspect-term aspect="FOOD" polarity="positive">eats</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    I don't know why anyone would want to write a great review about this 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">place</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    I have been to this 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">place</aspect-term>
+    , folks and it is BAD.
+  </sentence>
+  <sentence>
+    Maybe it is good for that one night once in a blue moon when the chefs decide to use 
+    <aspect-term aspect="FOOD" polarity="negative">fish</aspect-term>
+     that's half-way decent.
+  </sentence>
+  <sentence>
+    I have been here, spent tons of money on a 
+    <aspect-term aspect="PRICE" polarity="negative">
+      <aspect-term aspect="FOOD" polarity="negative">chef special dinner</aspect-term>
+    </aspect-term>
+     and it was a major dissappointment.
+  </sentence>
+  <sentence>
+    Fancy pieces of 
+    <aspect-term aspect="FOOD" polarity="negative">
+      <aspect-term aspect="FOOD" polarity="negative">exotic fish</aspect-term>
+    </aspect-term>
+     on a $100 dollar 
+    <aspect-term aspect="PRICE" polarity="negative">plate</aspect-term>
+     and NOT ONE was eatable.
+  </sentence>
+  <sentence>
+    DONOT GO!
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    Delicious
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    – The 
+    <aspect-term aspect="AMBIENCE" polarity="positive">atmosphere</aspect-term>
+     is great for any special occasion you might want to celebrate.
+  </sentence>
+  <sentence>
+    The best dish are the 
+    <aspect-term aspect="FOOD" polarity="positive">honwy walnut prawns</aspect-term>
+    - just outstanding.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+     is really attentive and charming.
+  </sentence>
+  <sentence>
+    We waited for an hour to be seated.
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+     was excellent, the 
+    <aspect-term aspect="FOOD" polarity="positive">coffee</aspect-term>
+     was good even by starbucks standards and the 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     was outstanding.
+  </sentence>
+  <sentence>
+    It was worth the wait.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Plan on waiting 30-70 minutes.
+    <aspect-term aspect="SERVICE" polarity="neutral"/>
+  </sentence>
+  <sentence>
+    Will definitely be back.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Delicious...!
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    – I recently had the pleasure of dining as this delightful 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">restaurant</aspect-term>
+     on 2nd street and wow what a great evening we had.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="PRICE" polarity="positive">
+      <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+    </aspect-term>
+     is fantastic, authentic, delicious and very, very affordable.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="AMBIENCE" polarity="positive">decor</aspect-term>
+     was beautiful and unique.
+  </sentence>
+  <sentence>
+    There was a really nice 
+    <aspect-term aspect="AMBIENCE" polarity="positive">vibe</aspect-term>
+     about the place...good 
+    <aspect-term aspect="AMBIENCE" polarity="positive">music</aspect-term>
+    , 
+    <aspect-term aspect="AMBIENCE" polarity="positive">atmosphere</aspect-term>
+     and happy looking 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">people</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    Our 
+    <aspect-term aspect="SERVICE" polarity="positive">server</aspect-term>
+     was very professional and friendly.
+  </sentence>
+  <sentence>
+    To the owners of 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Open Sesame</aspect-term>
+    ...Bravo...I can't wait to come back to dine at your restaurant!
+  </sentence>
+  <sentence>
+    Delectable 
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    It's a tiny 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="neutral">place</aspect-term>
+     so if you get there before 8pm on a weekend (Thurs?Sun) you will find it easier to get a table or a seat at the sushi bar.
+  </sentence>
+  <sentence>
+    Once you're inside, the real experience begins.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Everything, and I mean everything on the 
+    <aspect-term aspect="FOOD" polarity="positive">menu</aspect-term>
+     is delectable.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="SERVICE" polarity="positive">waiters</aspect-term>
+     are very experienced and helpful with pairing your drink choice to your food tastes or vice versa.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">sushi</aspect-term>
+     is as fresh as it comes?you'd think ocean was in their backyard, no joke!
+  </sentence>
+  <sentence>
+    If you're interested in good tasting (without the fish taste or smell), large 
+    <aspect-term aspect="FOOD" polarity="positive">portions</aspect-term>
+     and creative 
+    <aspect-term aspect="FOOD" polarity="positive">sushi dishes</aspect-term>
+     this is your place...
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    big thick 
+    <aspect-term aspect="FOOD" polarity="positive">pepperoni</aspect-term>
+  </sentence>
+  <sentence>
+    – The 
+    <aspect-term aspect="FOOD" polarity="positive">pepperoni's</aspect-term>
+     cut real thick--Yum.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">pizza</aspect-term>
+     itself is not exactly the best I've had EVER, but still pretty good.
+  </sentence>
+  <sentence>
+    I probably wouldn't go back though 'cuz I don't know if it's worth it.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    Maybe I'll go back once more many years from now when I've forgotten I went there already.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    Sit in the 
+    <aspect-term aspect="AMBIENCE" polarity="positive">Balcony</aspect-term>
+  </sentence>
+  <sentence>
+    – Not bad.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="neutral"/>
+  </sentence>
+  <sentence>
+    <aspect-term aspect="FOOD" polarity="positive">Food</aspect-term>
+     was good and appetizing.
+  </sentence>
+  <sentence>
+    <aspect-term aspect="FOOD" polarity="neutral">Portions</aspect-term>
+     was just enough for me, but may not be for a big eater.
+  </sentence>
+  <sentence>
+    Fair 
+    <aspect-term aspect="FOOD" polarity="neutral">menu selection</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">appetizer</aspect-term>
+     was interesting, but the 
+    <aspect-term aspect="FOOD" polarity="positive">Creme Brulee</aspect-term>
+     was very savory and delicious.
+  </sentence>
+  <sentence>
+    <aspect-term aspect="AMBIENCE" polarity="positive">Indoor ambience</aspect-term>
+     was modern.
+  </sentence>
+  <sentence>
+    If it's nice outside, request for a table in the 
+    <aspect-term aspect="AMBIENCE" polarity="positive">balcony</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    It's a great 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">place</aspect-term>
+     to people watch.
+  </sentence>
+  <sentence>
+    Although the 
+    <aspect-term aspect="SERVICE" polarity="negative">service</aspect-term>
+     could be improved considering the money you put in.
+    <aspect-term aspect="PRICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    Our drinks kept coming but our 
+    <aspect-term aspect="SERVICE" polarity="negative">server</aspect-term>
+     came by a couple times.
+    <aspect-term aspect="SERVICE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Should check-up on us more frequently, don't you think?
+    <aspect-term aspect="SERVICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    Late night dinning with exeptional 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    We were seated right away, the 
+    <aspect-term aspect="AMBIENCE" polarity="positive">table</aspect-term>
+     was private and nice.
+    <aspect-term aspect="SERVICE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+     was exceptional - sometime there was a feeling that we were served by the army of friendly 
+    <aspect-term aspect="SERVICE" polarity="positive">waiters</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     was very good, 
+    <aspect-term aspect="FOOD" polarity="positive">filet mignon</aspect-term>
+     was probably the best I've ever try.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="neutral">portions</aspect-term>
+     are big though, so do not order too much.
+  </sentence>
+  <sentence>
+    Groovy 
+    <aspect-term aspect="AMBIENCE" polarity="positive">music</aspect-term>
+     made the dinner casual.
+  </sentence>
+  <sentence>
+    The most pleasant surprise was the check that did not exceed my expectations as it always happens in most of the places.
+    <aspect-term aspect="PRICE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    I have a but here - there was a bathroom attendant in the 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">restroom</aspect-term>
+     which was odd.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative">bathroom</aspect-term>
+     itself is very small with two toilets and only one sink, the girl was staying totally on the way hanging out paper towels from the dispenser.
+  </sentence>
+  <sentence>
+    I felt ackward and next time went to the casino bathroom.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    This 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">place</aspect-term>
+     rocks!!
+  </sentence>
+  <sentence>
+    – Mercedes restaurant is so tasty, the 
+    <aspect-term aspect="SERVICE" polarity="positive">service</aspect-term>
+     is undeniably awesome!
+    <aspect-term aspect="FOOD" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">chips  and salsa</aspect-term>
+     are so yummy, and the prices are fabulous.
+    <aspect-term aspect="PRICE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="AMBIENCE" polarity="positive">atmosphere</aspect-term>
+     is aspiring, and  the 
+    <aspect-term aspect="AMBIENCE" polarity="positive">decor</aspect-term>
+     is festive and amazing..
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">catering</aspect-term>
+     is out of this world, and 
+    <aspect-term aspect="FOOD" polarity="positive">Raouls chicken vegetable soup</aspect-term>
+     rocks my world!!!
+  </sentence>
+  <sentence>
+    <aspect-term aspect="FOOD" polarity="positive">Drinks</aspect-term>
+     are suberb, and I feel like I am in a Third World country when I walk in the door.
+    <aspect-term aspect="AMBIENCE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    Insultingly Overpriced
+    <aspect-term aspect="PRICE" polarity="negative"/>
+  </sentence>
+  <sentence>
+    - Mediocre 
+    <aspect-term aspect="SERVICE" polarity="neutral">Service</aspect-term>
+    /Quality
+  </sentence>
+  <sentence>
+    The presentation of 
+    <aspect-term aspect="PRICE" polarity="negative">
+      <aspect-term aspect="AMBIENCE" polarity="positive">Snooze</aspect-term>
+    </aspect-term>
+     is excellent and it is one of those places that you feel more sophisticated just for being there; but peel back the layers and you have an overpriced IHOP with a high brow 
+    <aspect-term aspect="FOOD" polarity="negative">menu</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    To start off, approximately 8-10 oz of 
+    <aspect-term aspect="PRICE" polarity="negative">orange juice</aspect-term>
+     will cost you $3.
+  </sentence>
+  <sentence>
+    They serve it in a tall, skinny hour-glass shaped glass to disguise the fact that you a getting a small 
+    <aspect-term aspect="PRICE" polarity="negative">
+      <aspect-term aspect="FOOD" polarity="negative">juice</aspect-term>
+    </aspect-term>
+     at the price of a half gallon in a supermarket.
+  </sentence>
+  <sentence>
+    I should have just asked for the check when I saw that; but their 
+    <aspect-term aspect="FOOD" polarity="positive">menu</aspect-term>
+     was so unique that I continued.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="negative">
+      <aspect-term aspect="PRICE" polarity="negative">
+        <aspect-term aspect="FOOD" polarity="positive">pancakes</aspect-term>
+      </aspect-term>
+    </aspect-term>
+     were certainly inventive but $8.50 for 3 - 6&quot; pancakes (one of them was more like 5&quot;) in the pancake flight (sample of 3 different pancakes) is well over-priced.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="PRICE" polarity="negative">
+      <aspect-term aspect="FOOD" polarity="negative">pancakes</aspect-term>
+    </aspect-term>
+     should be larger (at least 8&quot;) to justify the expense even with the unique offerings.
+  </sentence>
+  <sentence>
+    On my 
+    <aspect-term aspect="FOOD" polarity="negative">meal</aspect-term>
+     I had to send back my 
+    <aspect-term aspect="FOOD" polarity="negative">eggs</aspect-term>
+     for a simple request of breaking the yokes before cooking, and would have had to send them back again if I hadn't rejected the meal all together.
+  </sentence>
+  <sentence>
+    I rejected it because in the process of attempting to fix the eggs they broke something else in the 
+    <aspect-term aspect="FOOD" polarity="negative">dish</aspect-term>
+     and I was too frustrated to continue.
+  </sentence>
+  <sentence>
+    To their credit they removed the dish from the check; but no 
+    <aspect-term aspect="SERVICE" polarity="negative">manager</aspect-term>
+     stopped by to ask what the problem was.
+    <aspect-term aspect="SERVICE" polarity="positive"/>
+  </sentence>
+  <sentence>
+    In the end our check came to $27 for 4 small 
+    <aspect-term aspect="PRICE" polarity="negative">
+      <aspect-term aspect="FOOD" polarity="negative">pancakes</aspect-term>
+    </aspect-term>
+    , a 
+    <aspect-term aspect="PRICE" polarity="negative">breakfast burrito</aspect-term>
+    , an 
+    <aspect-term aspect="PRICE" polarity="negative">orange juice</aspect-term>
+     and an 
+    <aspect-term aspect="PRICE" polarity="negative">iced tea</aspect-term>
+     (I had water).
+  </sentence>
+  <sentence>
+    Much more than just a great 
+    <aspect-term aspect="AMBIENCE" polarity="positive">view</aspect-term>
+    !
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive"/>
+  </sentence>
+  <sentence>
+    – I am exceedingly pleased to report that my dinner at 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ray's Boathouse</aspect-term>
+     last Friday completely exceeded my expectations.
+  </sentence>
+  <sentence>
+    Ray's is something of a Seattle institution, but given its gorgeous 
+    <aspect-term aspect="AMBIENCE" polarity="positive">Sound views</aspect-term>
+    , I had suspected that the accolades were more due to the scenery than to the food and service.
+  </sentence>
+  <sentence>
+    Imagine my happy surprise upon finding that the 
+    <aspect-term aspect="AMBIENCE" polarity="positive">views</aspect-term>
+     are only the third-best thing about 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ray's</aspect-term>
+    !
+  </sentence>
+  <sentence>
+    To start things off, our lovely server 
+    <aspect-term aspect="SERVICE" polarity="positive">Brooke</aspect-term>
+     was quickly on hand to take my drink order.
+  </sentence>
+  <sentence>
+    My party of two was feeling particularly ambitious, and we splurged on the 
+    <aspect-term aspect="FOOD" polarity="positive">
+      <aspect-term aspect="FOOD" polarity="positive">Shilshole Sampler</aspect-term>
+    </aspect-term>
+    ...a beautiful assortment of enormous 
+    <aspect-term aspect="FOOD" polarity="positive">white gulf prawns</aspect-term>
+    , smoked albacore tuna, Ray's fantastic 
+    <aspect-term aspect="FOOD" polarity="positive">manila clams</aspect-term>
+     seasoned with dill, scallops in a tasty 
+    <aspect-term aspect="FOOD" polarity="positive">soy dressing</aspect-term>
+    , and a tiny pile of Dungeness crab atop a sublime 
+    <aspect-term aspect="FOOD" polarity="positive">butter sauce</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    For my entreacute, I completely enjoyed the sea
+    <aspect-term aspect="FOOD" polarity="positive">
+      <aspect-term aspect="FOOD" polarity="positive">red Alaskan sea scallops co</aspect-term>
+    </aspect-term>
+    mplemented by chard, artichoke hearts, fennel, and pecorino toscano.
+  </sentence>
+  <sentence>
+    The 
+    <aspect-term aspect="FOOD" polarity="positive">
+      <aspect-term aspect="FOOD" polarity="positive">scallops</aspect-term>
+    </aspect-term>
+     are apparently cooked in a black olive butter which really makes them unique (not to mention tasty).
+  </sentence>
+  <sentence>
+    My friend enjoyed the 
+    <aspect-term aspect="FOOD" polarity="positive">grilled Alaskan King Salmon</aspect-term>
+     with delectable 
+    <aspect-term aspect="FOOD" polarity="positive">creamed Washington russet potatoes</aspect-term>
+     and crisp 
+    <aspect-term aspect="FOOD" polarity="positive">green beans</aspect-term>
+    .
+  </sentence>
+  <sentence>
+    I had a taste of all three items on her 
+    <aspect-term aspect="FOOD" polarity="positive">plate</aspect-term>
+    , and they were superb.
+  </sentence>
+  <sentence>
+    Our 
+    <aspect-term aspect="SERVICE" polarity="positive">server</aspect-term>
+     continued to be attentive throughout the night, but I did remain puzzled by one issue:  Who thinks that 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="neutral">Ray's</aspect-term>
+     is an appropriate place to take young children for dinner?
+  </sentence>
+  <sentence>
+    Two rascally kids were seated near us for the first part of our dinner...they were replaced by a delightful preteen who pretended to gag every time seafood was mentioned at her table.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    All considered, I have to say that 
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="positive">Ray's Boathouse</aspect-term>
+     is deserving of its title as a Seattle institution.
+  </sentence>
+  <sentence>
+    While I could have done without the youth who shared the evening with us, our wonderful 
+    <aspect-term aspect="SERVICE" polarity="positive">server</aspect-term>
+     and 
+    <aspect-term aspect="FOOD" polarity="positive">food</aspect-term>
+     made the experience a very positive one.
+    <aspect-term aspect="GENERAL-IMPRESSION" polarity="negative"/>
+  </sentence>
+  <sentence>
+    Oh yeah...the 
+    <aspect-term aspect="AMBIENCE" polarity="positive">view</aspect-term>
+     was good, too.
+  </sentence>
+</Reviews>
