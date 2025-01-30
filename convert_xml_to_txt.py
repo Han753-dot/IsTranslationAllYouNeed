@@ -33,17 +33,17 @@ def convert_xml_to_txt(input_xml, output_txt):
 
 
 # Input and output files
-xml_rest15_tasd_test_google_translated = "TASD_GOOGLE/TASD_TEST15_GOOGLE_TRANSLATED.xml"
-xml_rest15_tasd_train_google_translated = "TASD_GOOGLE/TASD_TRAIN15_GOOGLE_TRANSLATED.xml"
+xml_rest15_tasd_test_google_translated = "preprocessing/TASD_TEST15_GOOGLE_TRANSLATED.xml"
+xml_rest15_tasd_train_google_translated = "preprocessing/TASD_TRAIN15_GOOGLE_TRANSLATED.xml"
 
-xml_rest16_tasd_test_google_translated = "TASD_GOOGLE/TASD_TEST16_GOOGLE_TRANSLATED.xml"
-xml_rest16_tasd_train_google_translated = "TASD_GOOGLE/TASD_TRAIN16_GOOGLE_TRANSLATED.xml"
+xml_rest16_tasd_test_google_translated = "preprocessing/TASD_TEST16_GOOGLE_TRANSLATED.xml"
+xml_rest16_tasd_train_google_translated = "preprocessing/TASD_TRAIN16_GOOGLE_TRANSLATED.xml"
 
-output_rest15_test_tasd_google_translated = "TASD_GOOGLE/TASD_TEST15_GOOGLE_TRANSLATED.txt"
-output_rest15_train_tasd_google_translated = "TASD_GOOGLE/TASD_TRAIN15_GOOGLE_TRANSLATED.txt"
+output_rest15_test_tasd_google_translated = "TASD_GOOGLE/txt/TASD_TEST15_GOOGLE_TRANSLATED.txt"
+output_rest15_train_tasd_google_translated = "TASD_GOOGLE/txt/TASD_TRAIN15_GOOGLE_TRANSLATED.txt"
 
-output_rest16_test_tasd_google_translated = "TASD_GOOGLE/TASD_TEST16_GOOGLE_TRANSLATED.txt"
-output_rest16_train_tasd_google_translated = "TASD_GOOGLE/TASD_TRAIN16_GOOGLE_TRANSLATED.txt"
+output_rest16_test_tasd_google_translated = "TASD_GOOGLE/txt/TASD_TEST16_GOOGLE_TRANSLATED.txt"
+output_rest16_train_tasd_google_translated = "TASD_GOOGLE/txt/TASD_TRAIN16_GOOGLE_TRANSLATED.txt"
 
 convert_xml_to_txt(xml_rest15_tasd_test_google_translated, output_rest15_test_tasd_google_translated)
 convert_xml_to_txt(xml_rest15_tasd_train_google_translated, output_rest15_train_tasd_google_translated)

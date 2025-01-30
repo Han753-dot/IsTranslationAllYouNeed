@@ -57,17 +57,18 @@ def process_jsonl_file(input_file, output_file):
         json.dump(converted_data, f, ensure_ascii=False, indent=4)
 # Usage
 input_filename = "TASD_GOOGLE/jsonl/TASD_TEST15_GOOGLE_TRANSLATED.jsonl"  # Replace with your input file
-output_filename = "TASD_GOOGLE/TASD_TEST15_GOOGLE_TRANSLATED_FORMATTED.json"  # Replace with your desired output file
+output_filename = "TASD_GOOGLE/json_formatted_bertclf/TASD_TEST15_GOOGLE_TRANSLATED_FORMATTED.json"  # Replace with your desired output file
 
 input_filename_1 = "TASD_GOOGLE/jsonl/TASD_TRAIN15_GOOGLE_TRANSLATED.jsonl"  # Replace with your input file
-output_filename_1 = "TASD_GOOGLE/TASD_TRAIN15_GOOGLE_TRANSLATED_FORMATTED.json" 
+output_filename_1 = "TASD_GOOGLE/json_formatted_bertclf/TASD_TRAIN15_GOOGLE_TRANSLATED_FORMATTED.json" 
 
 input_filename_2 = "TASD_GOOGLE/jsonl/TASD_TEST16_GOOGLE_TRANSLATED.jsonl"  # Replace with your input file
-output_filename_2 = "TASD_GOOGLE/TASD_TEST16_GOOGLE_TRANSLATED_FORMATTED.json"  # Replace with your desired output file
+output_filename_2 = "TASD_GOOGLE/json_formatted_bertclf/TASD_TEST16_GOOGLE_TRANSLATED_FORMATTED.json"  # Replace with your desired output file
 
 input_filename_3 = "TASD_GOOGLE/jsonl/TASD_TRAIN16_GOOGLE_TRANSLATED.jsonl"  # Replace with your input file
-output_filename_3 = "TASD_GOOGLE/TASD_TRAIN16_GOOGLE_TRANSLATED_FORMATTED.json" 
+output_filename_3 = "TASD_GOOGLE/json_formatted_bertclf/TASD_TRAIN16_GOOGLE_TRANSLATED_FORMATTED.json" 
 
+process_jsonl_file(input_filename, output_filename)
 process_jsonl_file(input_filename_1, output_filename_1)
 process_jsonl_file(input_filename_2, output_filename_2)
 process_jsonl_file(input_filename_3, output_filename_3)
