@@ -1,7 +1,7 @@
 {
-    "precision": 0.5255570117955439,
-    "recall": 0.510178117048346,
-    "f1": 0.5177533892834086,
+    "precision": 0.5169712793733682,
+    "recall": 0.5038167938931297,
+    "f1": 0.5103092783505155,
     "all_labels": [
         [
             [
@@ -5881,7 +5881,7 @@
     "all_preds": [
         [
             [
-                "GENERAL-IMPRESSION",
+                "FOOD",
                 "None",
                 "gut",
                 "gut"
@@ -5970,7 +5970,7 @@
         [
             [
                 "GENERAL-IMPRESSION",
-                "None",
+                "Hund",
                 "gut",
                 "gut"
             ]
@@ -5983,7 +5983,7 @@
                 "gut"
             ],
             [
-                "AMBIENCE",
+                "GENERAL-IMPRESSION",
                 "Betrieb",
                 "gut",
                 "gut"
@@ -6008,7 +6008,7 @@
         [
             [
                 "GENERAL-IMPRESSION",
-                "Restaurant",
+                "zypriotische Restaurant",
                 "gut",
                 "gut"
             ]
@@ -6081,8 +6081,8 @@
         ],
         [
             [
-                "GENERAL-IMPRESSION",
-                "None",
+                "FOOD",
+                "Essen",
                 "gut",
                 "gut"
             ]
@@ -6119,10 +6119,10 @@
         ],
         [
             [
-                "FOOD",
-                "Mahlzeit",
-                "gut",
-                "gut"
+                "",
+                "",
+                "",
+                ""
             ]
         ],
         [
@@ -6190,6 +6190,12 @@
         [
             [
                 "FOOD",
+                "Ort",
+                "gut",
+                "gut"
+            ],
+            [
+                "FOOD",
                 "Sushi",
                 "gut",
                 "gut"
@@ -6219,7 +6225,7 @@
         ],
         [
             [
-                "PRICE",
+                "FOOD",
                 "None",
                 "schlecht",
                 "schlecht"
@@ -6256,7 +6262,7 @@
             ],
             [
                 "GENERAL-IMPRESSION",
-                "Weg",
+                "None",
                 "gut",
                 "gut"
             ]
@@ -6265,12 +6271,6 @@
             [
                 "FOOD",
                 "Essen",
-                "gut",
-                "gut"
-            ],
-            [
-                "FOOD",
-                "None",
                 "gut",
                 "gut"
             ]
@@ -6391,7 +6391,7 @@
         ],
         [
             [
-                "AMBIENCE",
+                "SERVICE",
                 "Platz",
                 "schlecht",
                 "schlecht"
@@ -6437,7 +6437,7 @@
         ],
         [
             [
-                "AMBIENCE",
+                "GENERAL-IMPRESSION",
                 "None",
                 "gut",
                 "gut"
@@ -6445,10 +6445,16 @@
         ],
         [
             [
-                "",
-                "",
-                "",
-                ""
+                "GENERAL-IMPRESSION",
+                "Ortes",
+                "gut",
+                "gut"
+            ],
+            [
+                "PRICE",
+                "None",
+                "gut",
+                "gut"
             ]
         ],
         [
@@ -6463,19 +6469,13 @@
             [
                 "GENERAL-IMPRESSION",
                 "Ort",
-                "gut",
-                "gut"
-            ],
-            [
-                "GENERAL-IMPRESSION",
-                "Fünf-Sterne-Restaurant",
                 "schlecht",
                 "schlecht"
             ]
         ],
         [
             [
-                "PRICE",
+                "GENERAL-IMPRESSION",
                 "None",
                 "schlecht",
                 "schlecht"
@@ -6537,7 +6537,7 @@
         ],
         [
             [
-                "SERVICE",
+                "FOOD",
                 "None",
                 "gut",
                 "gut"
@@ -6554,7 +6554,7 @@
         [
             [
                 "FOOD",
-                "Vitello alla Marsala",
+                "Vitello",
                 "gut",
                 "gut"
             ]
@@ -6577,12 +6577,6 @@
             [
                 "FOOD",
                 "Kartoffelbällchen",
-                "schlecht",
-                "schlecht"
-            ],
-            [
-                "FOOD",
-                "None",
                 "schlecht",
                 "schlecht"
             ]
@@ -6657,10 +6651,10 @@
         ],
         [
             [
-                "PRICE",
-                "japanisches Essen",
-                "schlecht",
-                "schlecht"
+                "",
+                "",
+                "",
+                ""
             ],
             [
                 "SERVICE",
@@ -6671,7 +6665,7 @@
         ],
         [
             [
-                "GENERAL-IMPRESSION",
+                "SERVICE",
                 "None",
                 "schlecht",
                 "schlecht"
@@ -6704,7 +6698,7 @@
         [
             [
                 "FOOD",
-                "Bananentempura",
+                "Bananentempura für Nachtisch",
                 "schlecht",
                 "schlecht"
             ]
@@ -6712,9 +6706,9 @@
         [
             [
                 "GENERAL-IMPRESSION",
-                "None",
-                "schlecht",
-                "schlecht"
+                "\" The Four Seasons \"",
+                "gut",
+                "gut"
             ]
         ],
         [
@@ -6727,12 +6721,6 @@
             [
                 "SERVICE",
                 "Service",
-                "gut",
-                "gut"
-            ],
-            [
-                "GENERAL-IMPRESSION",
-                "None",
                 "schlecht",
                 "schlecht"
             ]
@@ -6749,12 +6737,6 @@
             [
                 "FOOD",
                 "Red Dragon Roll",
-                "gut",
-                "gut"
-            ],
-            [
-                "FOOD",
-                "None",
                 "gut",
                 "gut"
             ]
@@ -6787,8 +6769,8 @@
             [
                 "GENERAL-IMPRESSION",
                 "None",
-                "gut",
-                "gut"
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
@@ -6836,14 +6818,14 @@
             ],
             [
                 "FOOD",
-                "japanisches Essen",
+                "Sushi-Restaurant",
                 "gut",
                 "gut"
             ]
         ],
         [
             [
-                "AMBIENCE",
+                "FOOD",
                 "Dancing",
                 "gut",
                 "gut"
@@ -6958,7 +6940,7 @@
             ],
             [
                 "SERVICE",
-                "None",
+                "Platz",
                 "gut",
                 "gut"
             ]
@@ -6980,7 +6962,7 @@
         [
             [
                 "GENERAL-IMPRESSION",
-                "Lokal",
+                "None",
                 "gut",
                 "gut"
             ]
@@ -6988,7 +6970,7 @@
         [
             [
                 "AMBIENCE",
-                "Das",
+                "Ort",
                 "gut",
                 "gut"
             ],
@@ -7039,22 +7021,16 @@
         ],
         [
             [
-                "SERVICE",
-                "None",
+                "GENERAL-IMPRESSION",
+                "Reservierung am Sonntagnachmittag",
                 "gut",
                 "gut"
             ]
         ],
         [
             [
-                "FOOD",
-                "Wasser für den Tisch",
-                "schlecht",
-                "schlecht"
-            ],
-            [
                 "PRICE",
-                "None",
+                "Wasser",
                 "schlecht",
                 "schlecht"
             ]
@@ -7110,7 +7086,7 @@
         [
             [
                 "AMBIENCE",
-                "gestaltetes Restaurant",
+                "Restaurant",
                 "gut",
                 "gut"
             ]
@@ -7131,7 +7107,7 @@
         ],
         [
             [
-                "FOOD",
+                "GENERAL-IMPRESSION",
                 "Shisha",
                 "gut",
                 "gut"
@@ -7195,17 +7171,11 @@
             [
                 "FOOD",
                 "Huhn in den Salaten",
-                "gut",
-                "gut"
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
-            [
-                "FOOD",
-                "None",
-                "schlecht",
-                "schlecht"
-            ],
             [
                 "FOOD",
                 "None",
@@ -7233,6 +7203,12 @@
                 "Leuten",
                 "gut",
                 "gut"
+            ],
+            [
+                "PRICE",
+                "None",
+                "gut",
+                "gut"
             ]
         ],
         [
@@ -7247,8 +7223,8 @@
             [
                 "AMBIENCE",
                 "Dekor",
-                "schlecht",
-                "schlecht"
+                "gut",
+                "gut"
             ],
             [
                 "FOOD",
@@ -7260,7 +7236,7 @@
         [
             [
                 "FOOD",
-                "Souvlaki-Lokal",
+                "Souvlaki-Lokal in Astoria",
                 "gut",
                 "gut"
             ]
@@ -7269,6 +7245,12 @@
             [
                 "FOOD",
                 "Essen",
+                "gut",
+                "gut"
+            ],
+            [
+                "FOOD",
+                "Gewürzen",
                 "gut",
                 "gut"
             ],
@@ -7315,7 +7297,7 @@
         ],
         [
             [
-                "FOOD",
+                "GENERAL-IMPRESSION",
                 "None",
                 "gut",
                 "gut"
@@ -7335,7 +7317,7 @@
                 "gut"
             ],
             [
-                "GENERAL-IMPRESSION",
+                "AMBIENCE",
                 "Ort",
                 "gut",
                 "gut"
@@ -7367,58 +7349,58 @@
         ],
         [
             [
+                "AMBIENCE",
+                "None",
+                "gut",
+                "gut"
+            ]
+        ],
+        [
+            [
+                "GENERAL-IMPRESSION",
+                "None",
+                "gut",
+                "gut"
+            ]
+        ],
+        [
+            [
+                "GENERAL-IMPRESSION",
+                "None",
+                "gut",
+                "gut"
+            ]
+        ],
+        [
+            [
+                "AMBIENCE",
+                "None",
+                "gut",
+                "gut"
+            ]
+        ],
+        [
+            [
+                "AMBIENCE",
+                "None",
+                "gut",
+                "gut"
+            ]
+        ],
+        [
+            [
+                "AMBIENCE",
+                "Kabinen",
+                "gut",
+                "gut"
+            ]
+        ],
+        [
+            [
                 "FOOD",
-                "None",
+                "Essen",
                 "gut",
                 "gut"
-            ]
-        ],
-        [
-            [
-                "GENERAL-IMPRESSION",
-                "None",
-                "gut",
-                "gut"
-            ]
-        ],
-        [
-            [
-                "GENERAL-IMPRESSION",
-                "None",
-                "gut",
-                "gut"
-            ]
-        ],
-        [
-            [
-                "AMBIENCE",
-                "None",
-                "gut",
-                "gut"
-            ]
-        ],
-        [
-            [
-                "AMBIENCE",
-                "None",
-                "gut",
-                "gut"
-            ]
-        ],
-        [
-            [
-                "SERVICE",
-                "None",
-                "gut",
-                "gut"
-            ]
-        ],
-        [
-            [
-                "",
-                "",
-                "",
-                ""
             ]
         ],
         [
@@ -7432,14 +7414,6 @@
         [
             [
                 "FOOD",
-                "Anlass",
-                "gut",
-                "gut"
-            ]
-        ],
-        [
-            [
-                "GENERAL-IMPRESSION",
                 "None",
                 "gut",
                 "gut"
@@ -7456,7 +7430,15 @@
         [
             [
                 "GENERAL-IMPRESSION",
-                "Hochzeitsfeier meiner Tochter im Water's Edge",
+                "None",
+                "gut",
+                "gut"
+            ]
+        ],
+        [
+            [
+                "GENERAL-IMPRESSION",
+                "Water's Edge",
                 "gut",
                 "gut"
             ]
@@ -7465,12 +7447,6 @@
             [
                 "AMBIENCE",
                 "Atmosphäre",
-                "gut",
-                "gut"
-            ],
-            [
-                "AMBIENCE",
-                "Zimmer",
                 "gut",
                 "gut"
             ],
@@ -7543,16 +7519,22 @@
         ],
         [
             [
-                "PRICE",
-                "None",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "AMBIENCE",
+                "Aussicht",
                 "schlecht",
                 "schlecht"
             ],
             [
                 "FOOD",
-                "None",
-                "gut",
-                "gut"
+                "Essen",
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
@@ -7582,17 +7564,17 @@
         [
             [
                 "PRICE",
-                "Bach",
-                "gut",
-                "gut"
+                "None",
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
             [
                 "FOOD",
                 "Herrentoilette",
-                "gut",
-                "gut"
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
@@ -7646,7 +7628,13 @@
             ],
             [
                 "FOOD",
-                "kalt",
+                "steinhart",
+                "schlecht",
+                "schlecht"
+            ],
+            [
+                "FOOD",
+                "Kalt",
                 "schlecht",
                 "schlecht"
             ],
@@ -7669,8 +7657,8 @@
             [
                 "FOOD",
                 "Fisch",
-                "schlecht",
-                "schlecht"
+                "gut",
+                "gut"
             ],
             [
                 "FOOD",
@@ -7689,6 +7677,12 @@
             [
                 "FOOD",
                 "Birnentorte",
+                "gut",
+                "gut"
+            ],
+            [
+                "SERVICE",
+                "Personal",
                 "schlecht",
                 "schlecht"
             ]
@@ -7711,19 +7705,13 @@
             [
                 "PRICE",
                 "None",
-                "gut",
-                "gut"
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
             [
                 "GENERAL-IMPRESSION",
-                "Restaurant",
-                "gut",
-                "gut"
-            ],
-            [
-                "SERVICE",
                 "Personal",
                 "gut",
                 "gut"
@@ -7754,7 +7742,7 @@
             ],
             [
                 "SERVICE",
-                "Servicetaste",
+                "Kellner",
                 "schlecht",
                 "schlecht"
             ]
@@ -7777,7 +7765,7 @@
         ],
         [
             [
-                "GENERAL-IMPRESSION",
+                "PRICE",
                 "Restaurant",
                 "schlecht",
                 "schlecht"
@@ -7837,21 +7825,53 @@
             [
                 "SERVICE",
                 "Server",
-                "schlecht",
-                "schlecht"
-            ]
-        ],
-        [
-            [
-                "SERVICE",
-                "Kellner",
                 "gut",
                 "gut"
             ]
         ],
         [
             [
+                "AMBIENCE",
+                "Tische",
+                "schlecht",
+                "schlecht"
+            ],
+            [
                 "SERVICE",
+                "Kellner",
+                "gut",
+                "gut"
+            ],
+            [
+                "SERVICE",
+                "Privatsphäre",
+                "gut",
+                "gut"
+            ]
+        ],
+        [
+            [
+                "GENERAL-IMPRESSION",
+                "Ort",
+                "gut",
+                "gut"
+            ]
+        ],
+        [
+            [
+                "FOOD",
+                "Lebensmittel",
+                "gut",
+                "gut"
+            ],
+            [
+                "FOOD",
+                "Getränke",
+                "gut",
+                "gut"
+            ],
+            [
+                "PRICE",
                 "None",
                 "gut",
                 "gut"
@@ -7859,18 +7879,10 @@
         ],
         [
             [
-                "",
-                "",
-                "",
-                ""
-            ]
-        ],
-        [
-            [
                 "SERVICE",
                 "Kellner",
-                "schlecht",
-                "schlecht"
+                "gut",
+                "gut"
             ]
         ],
         [
@@ -7890,7 +7902,7 @@
         [
             [
                 "FOOD",
-                "Zutaten",
+                "Ort",
                 "gut",
                 "gut"
             ]
@@ -7898,7 +7910,19 @@
         [
             [
                 "FOOD",
-                "Paprika, Zwiebeln, Relish",
+                "Paprika",
+                "gut",
+                "gut"
+            ],
+            [
+                "FOOD",
+                "Zwiebeln",
+                "gut",
+                "gut"
+            ],
+            [
+                "FOOD",
+                "Relish",
                 "gut",
                 "gut"
             ],
@@ -7917,7 +7941,7 @@
         ],
         [
             [
-                "GENERAL-IMPRESSION",
+                "AMBIENCE",
                 "Ort",
                 "gut",
                 "gut"
@@ -7925,8 +7949,8 @@
         ],
         [
             [
-                "GENERAL-IMPRESSION",
-                "None",
+                "FOOD",
+                "SPEISEERLEBNIS",
                 "gut",
                 "gut"
             ]
@@ -7947,14 +7971,14 @@
                 "gut"
             ],
             [
-                "SERVICE",
-                "Gastfreundschaft",
+                "FOOD",
+                "Essen",
                 "gut",
                 "gut"
             ],
             [
                 "AMBIENCE",
-                "Abend",
+                "Gastfreundschaft",
                 "gut",
                 "gut"
             ]
@@ -7983,7 +8007,7 @@
         ],
         [
             [
-                "SERVICE",
+                "FOOD",
                 "Menge",
                 "schlecht",
                 "schlecht"
@@ -8036,7 +8060,7 @@
         [
             [
                 "FOOD",
-                "Made in the Pilzsoße",
+                "Made in der Pilzsoße",
                 "gut",
                 "gut"
             ]
@@ -8053,27 +8077,21 @@
             [
                 "SERVICE",
                 "Manager",
-                "ok",
-                "ok"
-            ]
-        ],
-        [
-            [
-                "FOOD",
-                "Wein",
-                "schlecht",
-                "schlecht"
-            ],
-            [
-                "FOOD",
-                "Essen",
                 "schlecht",
                 "schlecht"
             ]
         ],
         [
             [
-                "GENERAL-IMPRESSION",
+                "PRICE",
+                "Manager",
+                "schlecht",
+                "schlecht"
+            ]
+        ],
+        [
+            [
+                "SERVICE",
                 "None",
                 "schlecht",
                 "schlecht"
@@ -8082,18 +8100,12 @@
         [
             [
                 "FOOD",
-                "Lebensmittel",
+                "Made in gut zubereitete Lebensmittel",
                 "schlecht",
                 "schlecht"
             ]
         ],
         [
-            [
-                "GENERAL-IMPRESSION",
-                "Restaurant",
-                "gut",
-                "gut"
-            ],
             [
                 "SERVICE",
                 "Kundenservice",
@@ -8103,7 +8115,7 @@
         ],
         [
             [
-                "SERVICE",
+                "FOOD",
                 "None",
                 "schlecht",
                 "schlecht"
@@ -8120,7 +8132,7 @@
         [
             [
                 "FOOD",
-                "Essen",
+                "Haare",
                 "gut",
                 "gut"
             ]
@@ -8200,23 +8212,17 @@
         [
             [
                 "FOOD",
-                "Brötchen",
+                "kreative Brötchen",
                 "gut",
                 "gut"
             ]
         ],
         [
             [
-                "GENERAL-IMPRESSION",
+                "FOOD",
                 "Yamato",
                 "gut",
                 "gut"
-            ],
-            [
-                "FOOD",
-                "Sushi",
-                "schlecht",
-                "schlecht"
             ]
         ],
         [
@@ -8247,8 +8253,8 @@
                 "gut"
             ],
             [
-                "FOOD",
-                "Nachtisch",
+                "AMBIENCE",
+                "None",
                 "gut",
                 "gut"
             ]
@@ -8313,11 +8319,17 @@
                 "Atmosphäre",
                 "gut",
                 "gut"
+            ],
+            [
+                "AMBIENCE",
+                "Spiegelschema",
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
             [
-                "GENERAL-IMPRESSION",
+                "AMBIENCE",
                 "None",
                 "gut",
                 "gut"
@@ -8326,7 +8338,7 @@
         [
             [
                 "GENERAL-IMPRESSION",
-                "Spiegel",
+                "verwirrenden Spiegel",
                 "gut",
                 "gut"
             ]
@@ -8341,10 +8353,10 @@
         ],
         [
             [
-                "",
-                "",
-                "",
-                ""
+                "AMBIENCE",
+                "Lokal",
+                "schlecht",
+                "schlecht"
             ],
             [
                 "FOOD",
@@ -8362,7 +8374,7 @@
             ],
             [
                 "FOOD",
-                "Chili Chicken",
+                "Gerichte",
                 "schlecht",
                 "schlecht"
             ]
@@ -8402,7 +8414,13 @@
         [
             [
                 "FOOD",
-                "Gemüse",
+                "vegetarisches Gericht",
+                "schlecht",
+                "schlecht"
+            ],
+            [
+                "FOOD",
+                "Teller mit gedünstetem Gemüse",
                 "schlecht",
                 "schlecht"
             ]
@@ -8427,8 +8445,8 @@
             [
                 "GENERAL-IMPRESSION",
                 "None",
-                "schlecht",
-                "schlecht"
+                "gut",
+                "gut"
             ]
         ],
         [
@@ -8442,7 +8460,7 @@
         [
             [
                 "GENERAL-IMPRESSION",
-                "Restaurant",
+                "None",
                 "gut",
                 "gut"
             ]
@@ -8465,14 +8483,14 @@
             [
                 "SERVICE",
                 "Service",
-                "schlecht",
-                "schlecht"
+                "gut",
+                "gut"
             ],
             [
                 "GENERAL-IMPRESSION",
                 "None",
-                "schlecht",
-                "schlecht"
+                "gut",
+                "gut"
             ]
         ],
         [
@@ -8511,7 +8529,7 @@
         ],
         [
             [
-                "FOOD",
+                "GENERAL-IMPRESSION",
                 "None",
                 "gut",
                 "gut"
@@ -8535,7 +8553,7 @@
         ],
         [
             [
-                "SERVICE",
+                "GENERAL-IMPRESSION",
                 "None",
                 "schlecht",
                 "schlecht"
@@ -8560,7 +8578,15 @@
         [
             [
                 "GENERAL-IMPRESSION",
-                "Ort",
+                "Toppings",
+                "gut",
+                "gut"
+            ]
+        ],
+        [
+            [
+                "GENERAL-IMPRESSION",
+                "Geschmack",
                 "gut",
                 "gut"
             ]
@@ -8568,15 +8594,7 @@
         [
             [
                 "FOOD",
-                "Geschmack",
-                "gut",
-                "gut"
-            ]
-        ],
-        [
-            [
-                "AMBIENCE",
-                "Geschmack",
+                "None",
                 "gut",
                 "gut"
             ]
@@ -8679,10 +8697,10 @@
         ],
         [
             [
-                "",
-                "",
-                "",
-                ""
+                "GENERAL-IMPRESSION",
+                "indisch-chinesische Restaurant",
+                "gut",
+                "gut"
             ]
         ],
         [
@@ -8715,11 +8733,17 @@
                 "SERVICE",
                 "gut",
                 "gut"
+            ],
+            [
+                "SERVICE",
+                "Kellner",
+                "gut",
+                "gut"
             ]
         ],
         [
             [
-                "SERVICE",
+                "GENERAL-IMPRESSION",
                 "DJ",
                 "gut",
                 "gut"
@@ -8728,22 +8752,6 @@
         [
             [
                 "SERVICE",
-                "Tisch",
-                "schlecht",
-                "schlecht"
-            ]
-        ],
-        [
-            [
-                "GENERAL-IMPRESSION",
-                "None",
-                "gut",
-                "gut"
-            ]
-        ],
-        [
-            [
-                "PRICE",
                 "None",
                 "schlecht",
                 "schlecht"
@@ -8759,8 +8767,24 @@
         ],
         [
             [
+                "SERVICE",
+                "None",
+                "schlecht",
+                "schlecht"
+            ]
+        ],
+        [
+            [
                 "GENERAL-IMPRESSION",
-                "Restaurant",
+                "None",
+                "gut",
+                "gut"
+            ]
+        ],
+        [
+            [
+                "GENERAL-IMPRESSION",
+                "None",
                 "gut",
                 "gut"
             ]
@@ -8777,8 +8801,8 @@
             [
                 "GENERAL-IMPRESSION",
                 "Establishment",
-                "schlecht",
-                "schlecht"
+                "gut",
+                "gut"
             ]
         ],
         [
@@ -8795,7 +8819,7 @@
                 ""
             ],
             [
-                "FOOD",
+                "SERVICE",
                 "Warten",
                 "gut",
                 "gut"
@@ -8835,7 +8859,7 @@
         ],
         [
             [
-                "AMBIENCE",
+                "GENERAL-IMPRESSION",
                 "Umgebung",
                 "gut",
                 "gut"
@@ -8843,8 +8867,8 @@
             [
                 "PRICE",
                 "None",
-                "gut",
-                "gut"
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
@@ -8855,7 +8879,7 @@
                 "gut"
             ],
             [
-                "GENERAL-IMPRESSION",
+                "SERVICE",
                 "None",
                 "schlecht",
                 "schlecht"
@@ -8877,10 +8901,10 @@
         ],
         [
             [
-                "FOOD",
-                "Kalibers",
-                "gut",
-                "gut"
+                "GENERAL-IMPRESSION",
+                "Ort",
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
@@ -8909,7 +8933,7 @@
         ],
         [
             [
-                "FOOD",
+                "GENERAL-IMPRESSION",
                 "None",
                 "schlecht",
                 "schlecht"
@@ -8917,21 +8941,15 @@
         ],
         [
             [
-                "FOOD",
+                "AMBIENCE",
                 "None",
-                "schlecht",
-                "schlecht"
-            ],
-            [
-                "FOOD",
-                "None",
-                "schlecht",
-                "schlecht"
+                "ok",
+                "ok"
             ]
         ],
         [
             [
-                "PRICE",
+                "GENERAL-IMPRESSION",
                 "Restaurant",
                 "schlecht",
                 "schlecht"
@@ -8941,13 +8959,13 @@
             [
                 "GENERAL-IMPRESSION",
                 "Four Seasons",
-                "gut",
-                "gut"
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
             [
-                "GENERAL-IMPRESSION",
+                "PRICE",
                 "None",
                 "schlecht",
                 "schlecht"
@@ -8965,24 +8983,12 @@
                 "Desserts",
                 "gut",
                 "gut"
-            ],
-            [
-                "FOOD",
-                "None",
-                "gut",
-                "gut"
             ]
         ],
         [
             [
                 "AMBIENCE",
                 "Umgebung",
-                "gut",
-                "gut"
-            ],
-            [
-                "SERVICE",
-                "Vorzeigefrauen",
                 "gut",
                 "gut"
             ],
@@ -8995,10 +9001,10 @@
         ],
         [
             [
-                "",
-                "",
-                "",
-                ""
+                "FOOD",
+                "Essen",
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
@@ -9023,7 +9029,17 @@
                 "None",
                 "schlecht",
                 "schlecht"
-            ],
+            ]
+        ],
+        [
+            [
+                "FOOD",
+                "Essen im Casa La Femme",
+                "gut",
+                "gut"
+            ]
+        ],
+        [
             [
                 "PRICE",
                 "None",
@@ -9033,26 +9049,10 @@
         ],
         [
             [
-                "FOOD",
-                "Essen",
-                "gut",
-                "gut"
-            ]
-        ],
-        [
-            [
-                "GENERAL-IMPRESSION",
-                "None",
+                "SERVICE",
+                "Casa La Femme",
                 "schlecht",
                 "schlecht"
-            ]
-        ],
-        [
-            [
-                "GENERAL-IMPRESSION",
-                "Casa La Femme",
-                "gut",
-                "gut"
             ]
         ],
         [
@@ -9197,12 +9197,6 @@
                 "Getränk",
                 "schlecht",
                 "schlecht"
-            ],
-            [
-                "FOOD",
-                "Wasserpfeife",
-                "schlecht",
-                "schlecht"
             ]
         ],
         [
@@ -9228,7 +9222,7 @@
         [
             [
                 "FOOD",
-                "Getränk",
+                "Wasser",
                 "schlecht",
                 "schlecht"
             ]
@@ -9237,20 +9231,26 @@
             [
                 "FOOD",
                 "Bauchtänzerinnen",
-                "schlecht",
-                "schlecht"
-            ]
-        ],
-        [
-            [
-                "FOOD",
-                "Essen",
                 "schlecht",
                 "schlecht"
             ],
             [
                 "FOOD",
                 "Bauchtänzerinnen",
+                "schlecht",
+                "schlecht"
+            ]
+        ],
+        [
+            [
+                "FOOD",
+                "Geldbörsen",
+                "schlecht",
+                "schlecht"
+            ],
+            [
+                "FOOD",
+                "Mägen",
                 "schlecht",
                 "schlecht"
             ]
@@ -9274,6 +9274,12 @@
         [
             [
                 "SERVICE",
+                "Geburtstag",
+                "schlecht",
+                "schlecht"
+            ],
+            [
+                "SERVICE",
                 "None",
                 "schlecht",
                 "schlecht"
@@ -9291,8 +9297,8 @@
             [
                 "GENERAL-IMPRESSION",
                 "None",
-                "schlecht",
-                "schlecht"
+                "ok",
+                "ok"
             ]
         ],
         [
@@ -9328,15 +9334,21 @@
             ],
             [
                 "FOOD",
-                "Portion gebratene Austern und Muscheln",
+                "Portion gebratene Austern",
+                "gut",
+                "gut"
+            ],
+            [
+                "FOOD",
+                "Muscheln",
                 "gut",
                 "gut"
             ],
             [
                 "FOOD",
                 "Portionen",
-                "schlecht",
-                "schlecht"
+                "gut",
+                "gut"
             ]
         ],
         [
@@ -9350,7 +9362,7 @@
         [
             [
                 "FOOD",
-                "Garnelen in der Vorspeise mit „in Salzkruste liegenden Garnelen“",
+                "Garnelen",
                 "gut",
                 "gut"
             ]
@@ -9389,14 +9401,8 @@
             [
                 "FOOD",
                 "gegrillten Mahi Mahi",
-                "gut",
-                "gut"
-            ],
-            [
-                "FOOD",
-                "scheinbar in Grapefruitsaft",
-                "gut",
-                "gut"
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
@@ -9425,8 +9431,8 @@
             [
                 "PRICE",
                 "None",
-                "schlecht",
-                "schlecht"
+                "gut",
+                "gut"
             ]
         ],
         [
@@ -9459,12 +9465,6 @@
                 "Essen",
                 "gut",
                 "gut"
-            ],
-            [
-                "FOOD",
-                "indisches Essen",
-                "gut",
-                "gut"
             ]
         ],
         [
@@ -9483,10 +9483,10 @@
                 ""
             ],
             [
-                "FOOD",
-                "Chicken Tikka Masala - ohne Reisbrot - kostet 25 $, Ort",
-                "schlecht",
-                "schlecht"
+                "",
+                "",
+                "",
+                ""
             ]
         ],
         [
@@ -9499,16 +9499,10 @@
         ],
         [
             [
-                "PRICE",
-                "Orte",
-                "schlecht",
-                "schlecht"
-            ],
-            [
-                "SERVICE",
-                "Leute",
-                "schlecht",
-                "schlecht"
+                "",
+                "",
+                "",
+                ""
             ]
         ],
         [
@@ -9521,7 +9515,7 @@
         ],
         [
             [
-                "GENERAL-IMPRESSION",
+                "FOOD",
                 "Bukhara Grill",
                 "gut",
                 "gut"
@@ -9529,8 +9523,8 @@
             [
                 "PRICE",
                 "Slogan",
-                "gut",
-                "gut"
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
@@ -9539,6 +9533,12 @@
                 "",
                 "",
                 ""
+            ],
+            [
+                "GENERAL-IMPRESSION",
+                "None",
+                "gut",
+                "gut"
             ]
         ],
         [
@@ -9565,13 +9565,7 @@
         ],
         [
             [
-                "FOOD",
-                "None",
-                "gut",
-                "gut"
-            ],
-            [
-                "FOOD",
+                "GENERAL-IMPRESSION",
                 "None",
                 "gut",
                 "gut"
@@ -9610,13 +9604,7 @@
         [
             [
                 "FOOD",
-                "Essens",
-                "schlecht",
-                "schlecht"
-            ],
-            [
-                "GENERAL-IMPRESSION",
-                "None",
+                "Vernunft des Essens",
                 "schlecht",
                 "schlecht"
             ]
@@ -9633,22 +9621,6 @@
             [
                 "SERVICE",
                 "None",
-                "schlecht",
-                "schlecht"
-            ]
-        ],
-        [
-            [
-                "SERVICE",
-                "Restaurant",
-                "schlecht",
-                "schlecht"
-            ]
-        ],
-        [
-            [
-                "GENERAL-IMPRESSION",
-                "Restaurant",
                 "schlecht",
                 "schlecht"
             ]
@@ -9656,7 +9628,23 @@
         [
             [
                 "FOOD",
-                "Essen",
+                "Mahlzeit",
+                "schlecht",
+                "schlecht"
+            ]
+        ],
+        [
+            [
+                "GENERAL-IMPRESSION",
+                "Restaurant",
+                "schlecht",
+                "schlecht"
+            ]
+        ],
+        [
+            [
+                "GENERAL-IMPRESSION",
+                "None",
                 "schlecht",
                 "schlecht"
             ]
@@ -9672,7 +9660,7 @@
         [
             [
                 "FOOD",
-                "weißes Organzazelt",
+                "Organzazelt",
                 "gut",
                 "gut"
             ]
@@ -9681,12 +9669,6 @@
             [
                 "SERVICE",
                 "Service",
-                "gut",
-                "gut"
-            ],
-            [
-                "FOOD",
-                "Speisekarte",
                 "gut",
                 "gut"
             ],
@@ -9715,8 +9697,8 @@
         ],
         [
             [
-                "SERVICE",
-                "None",
+                "FOOD",
+                "Gerichte",
                 "schlecht",
                 "schlecht"
             ]
@@ -9725,8 +9707,8 @@
             [
                 "FOOD",
                 "Bibimbap",
-                "ok",
-                "ok"
+                "gut",
+                "gut"
             ],
             [
                 "FOOD",
@@ -9754,17 +9736,17 @@
         [
             [
                 "FOOD",
-                "gebratene Tintenfisch",
+                "Tintenfisch",
                 "schlecht",
                 "schlecht"
             ]
         ],
         [
             [
-                "FOOD",
-                "Soße",
-                "gut",
-                "gut"
+                "",
+                "",
+                "",
+                ""
             ]
         ],
         [
@@ -9778,7 +9760,7 @@
         [
             [
                 "SERVICE",
-                "Mangel an Service",
+                "Service",
                 "schlecht",
                 "schlecht"
             ]
@@ -9802,7 +9784,7 @@
         [
             [
                 "GENERAL-IMPRESSION",
-                "None",
+                "Chaos von einem Gericht",
                 "gut",
                 "gut"
             ]
@@ -9818,7 +9800,7 @@
         [
             [
                 "GENERAL-IMPRESSION",
-                "None",
+                "Hype",
                 "gut",
                 "gut"
             ]
@@ -9833,7 +9815,7 @@
         ],
         [
             [
-                "PRICE",
+                "SERVICE",
                 "Warten",
                 "gut",
                 "gut"
@@ -9850,9 +9832,21 @@
         [
             [
                 "FOOD",
-                "None",
+                "Tintenfischtinte",
                 "schlecht",
                 "schlecht"
+            ],
+            [
+                "FOOD",
+                "Lippen",
+                "schlecht",
+                "schlecht"
+            ],
+            [
+                "FOOD",
+                "Zähne",
+                "gut",
+                "gut"
             ],
             [
                 "FOOD",
@@ -9900,7 +9894,7 @@
         [
             [
                 "FOOD",
-                "Pizza",
+                "NYC-Pizza",
                 "gut",
                 "gut"
             ]
@@ -9925,7 +9919,7 @@
                 "gut"
             ],
             [
-                "AMBIENCE",
+                "FOOD",
                 "None",
                 "gut",
                 "gut"
@@ -9935,12 +9929,6 @@
             [
                 "FOOD",
                 "Pizza Margherita",
-                "gut",
-                "gut"
-            ],
-            [
-                "FOOD",
-                "None",
                 "gut",
                 "gut"
             ]
@@ -9961,19 +9949,13 @@
                 "gut"
             ],
             [
-                "FOOD",
-                "Sushi",
+                "SERVICE",
+                "None",
                 "gut",
                 "gut"
             ]
         ],
         [
-            [
-                "AMBIENCE",
-                "Ort",
-                "schlecht",
-                "schlecht"
-            ],
             [
                 "AMBIENCE",
                 "Zen- und intime Dekor",
@@ -9984,7 +9966,7 @@
         [
             [
                 "SERVICE",
-                "Date",
+                "None",
                 "gut",
                 "gut"
             ]
@@ -9993,8 +9975,8 @@
             [
                 "SERVICE",
                 "Kellner",
-                "schlecht",
-                "schlecht"
+                "gut",
+                "gut"
             ]
         ],
         [
@@ -10038,7 +10020,7 @@
             ],
             [
                 "GENERAL-IMPRESSION",
-                "Sake-Welt",
+                "None",
                 "gut",
                 "gut"
             ]
@@ -10052,7 +10034,7 @@
             ],
             [
                 "FOOD",
-                "Matcha (gepulverter grüner Tee)",
+                "Matcha",
                 "gut",
                 "gut"
             ],
@@ -10069,12 +10051,6 @@
                 "Brasserie",
                 "gut",
                 "gut"
-            ],
-            [
-                "GENERAL-IMPRESSION",
-                "None",
-                "schlecht",
-                "schlecht"
             ]
         ],
         [
@@ -10087,7 +10063,7 @@
         ],
         [
             [
-                "GENERAL-IMPRESSION",
+                "SERVICE",
                 "None",
                 "schlecht",
                 "schlecht"
@@ -10096,7 +10072,7 @@
         [
             [
                 "SERVICE",
-                "Service",
+                "Der Service",
                 "schlecht",
                 "schlecht"
             ]
@@ -10111,8 +10087,8 @@
         ],
         [
             [
-                "FOOD",
-                "Essen",
+                "SERVICE",
+                "None",
                 "schlecht",
                 "schlecht"
             ]
@@ -10235,6 +10211,12 @@
                 "Schweinekroketten-Sandwich",
                 "gut",
                 "gut"
+            ],
+            [
+                "FOOD",
+                "Brötchen aus dem Supermarkt",
+                "gut",
+                "gut"
             ]
         ],
         [
@@ -10297,15 +10279,15 @@
                 "None",
                 "schlecht",
                 "schlecht"
-            ],
-            [
-                "PRICE",
-                "None",
-                "schlecht",
-                "schlecht"
             ]
         ],
         [
+            [
+                "AMBIENCE",
+                "Ort",
+                "gut",
+                "gut"
+            ],
             [
                 "AMBIENCE",
                 "Dekor",
@@ -10314,13 +10296,13 @@
             ],
             [
                 "AMBIENCE",
-                "Treppen nach oben mit verspiegelten Wänden",
+                "Wänden",
                 "gut",
                 "gut"
             ],
             [
                 "AMBIENCE",
-                "verspiegelte Wände",
+                "None",
                 "gut",
                 "gut"
             ]
@@ -10329,8 +10311,8 @@
             [
                 "AMBIENCE",
                 "Ort",
-                "schlecht",
-                "schlecht"
+                "gut",
+                "gut"
             ],
             [
                 "FOOD",
@@ -10342,7 +10324,7 @@
         [
             [
                 "FOOD",
-                "japanischen Tapas",
+                "Konzept der japanischen Tapas",
                 "schlecht",
                 "schlecht"
             ]
@@ -10365,10 +10347,10 @@
         ],
         [
             [
-                "",
-                "",
-                "",
-                ""
+                "FOOD",
+                "Essen",
+                "gut",
+                "gut"
             ],
             [
                 "AMBIENCE",
@@ -10419,8 +10401,8 @@
             [
                 "FOOD",
                 "Margaritas",
-                "schlecht",
-                "schlecht"
+                "gut",
+                "gut"
             ]
         ],
         [
@@ -10435,8 +10417,8 @@
             [
                 "GENERAL-IMPRESSION",
                 "Restaurants",
-                "schlecht",
-                "schlecht"
+                "gut",
+                "gut"
             ]
         ],
         [
@@ -10451,8 +10433,8 @@
             [
                 "FOOD",
                 "arm",
-                "gut",
-                "gut"
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
@@ -10466,7 +10448,7 @@
         [
             [
                 "GENERAL-IMPRESSION",
-                "Lexikographen",
+                "None",
                 "gut",
                 "gut"
             ]
@@ -10504,7 +10486,7 @@
             ],
             [
                 "SERVICE",
-                "Leute",
+                "None",
                 "gut",
                 "gut"
             ]
@@ -10513,6 +10495,12 @@
             [
                 "FOOD",
                 "Hauptspeisen",
+                "gut",
+                "gut"
+            ],
+            [
+                "FOOD",
+                "Vorspeise",
                 "gut",
                 "gut"
             ]
@@ -10534,7 +10522,7 @@
         [
             [
                 "AMBIENCE",
-                "Ausstattung",
+                "Lokal",
                 "gut",
                 "gut"
             ],
@@ -10594,14 +10582,14 @@
         [
             [
                 "FOOD",
-                "Mahlzeiten",
+                "None",
                 "gut",
                 "gut"
             ]
         ],
         [
             [
-                "FOOD",
+                "AMBIENCE",
                 "Huhn",
                 "gut",
                 "gut"
@@ -10611,26 +10599,20 @@
             [
                 "FOOD",
                 "Spinat",
-                "schlecht",
-                "schlecht"
+                "gut",
+                "gut"
             ],
             [
                 "FOOD",
                 "Kartoffelpüree",
-                "schlecht",
-                "schlecht"
+                "gut",
+                "gut"
             ]
         ],
         [
             [
                 "FOOD",
                 "Lachs",
-                "schlecht",
-                "schlecht"
-            ],
-            [
-                "FOOD",
-                "None",
                 "schlecht",
                 "schlecht"
             ]
@@ -10685,19 +10667,13 @@
             [
                 "SERVICE",
                 "None",
-                "gut",
-                "gut"
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
             [
                 "FOOD",
-                "Nachtischkarte",
-                "schlecht",
-                "schlecht"
-            ],
-            [
-                "GENERAL-IMPRESSION",
                 "None",
                 "schlecht",
                 "schlecht"
@@ -10713,13 +10689,7 @@
         ],
         [
             [
-                "GENERAL-IMPRESSION",
-                "None",
-                "schlecht",
-                "schlecht"
-            ],
-            [
-                "GENERAL-IMPRESSION",
+                "SERVICE",
                 "None",
                 "schlecht",
                 "schlecht"
@@ -10736,15 +10706,9 @@
         [
             [
                 "FOOD",
-                "Getränke",
-                "gut",
-                "gut"
-            ],
-            [
-                "FOOD",
-                "Vorspeisen",
-                "gut",
-                "gut"
+                "Manager",
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
@@ -10759,8 +10723,8 @@
             [
                 "FOOD",
                 "MITARBEITER",
-                "schlecht",
-                "schlecht"
+                "gut",
+                "gut"
             ]
         ],
         [
@@ -10831,16 +10795,16 @@
             [
                 "GENERAL-IMPRESSION",
                 "Ort",
-                "gut",
-                "gut"
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
             [
                 "GENERAL-IMPRESSION",
-                "Citysearch",
-                "gut",
-                "gut"
+                "None",
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
@@ -10871,8 +10835,14 @@
             [
                 "AMBIENCE",
                 "Dekor",
-                "ok",
-                "ok"
+                "schlecht",
+                "schlecht"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
             ]
         ],
         [
@@ -10894,7 +10864,7 @@
         [
             [
                 "FOOD",
-                "Bark",
+                "Essen",
                 "gut",
                 "gut"
             ]
@@ -10923,15 +10893,15 @@
         ],
         [
             [
-                "",
-                "",
-                "",
-                ""
+                "PRICE",
+                "None",
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
             [
-                "GENERAL-IMPRESSION",
+                "AMBIENCE",
                 "Spot",
                 "gut",
                 "gut"
@@ -10941,6 +10911,12 @@
                 "Essen",
                 "gut",
                 "gut"
+            ],
+            [
+                "GENERAL-IMPRESSION",
+                "None",
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
@@ -10953,6 +10929,12 @@
             [
                 "SERVICE",
                 "Personal",
+                "gut",
+                "gut"
+            ],
+            [
+                "SERVICE",
+                "Rezeption",
                 "gut",
                 "gut"
             ]
@@ -10983,6 +10965,12 @@
                 "Leute",
                 "gut",
                 "gut"
+            ],
+            [
+                "AMBIENCE",
+                "Fischgerichte",
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
@@ -11019,7 +11007,7 @@
         ],
         [
             [
-                "GENERAL-IMPRESSION",
+                "SERVICE",
                 "None",
                 "schlecht",
                 "schlecht"
@@ -11027,8 +11015,8 @@
         ],
         [
             [
-                "SERVICE",
-                "Mensch",
+                "GENERAL-IMPRESSION",
+                "None",
                 "gut",
                 "gut"
             ]
@@ -11036,9 +11024,9 @@
         [
             [
                 "SERVICE",
-                "Mitarbeiter",
-                "gut",
-                "gut"
+                "None",
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
@@ -11060,9 +11048,9 @@
         [
             [
                 "FOOD",
-                "Maitre-D",
-                "gut",
-                "gut"
+                "None",
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
@@ -11075,6 +11063,12 @@
             [
                 "SERVICE",
                 "Service",
+                "gut",
+                "gut"
+            ],
+            [
+                "SERVICE",
+                "Oberkellner",
                 "schlecht",
                 "schlecht"
             ]
@@ -11111,7 +11105,7 @@
         ],
         [
             [
-                "GENERAL-IMPRESSION",
+                "SERVICE",
                 "None",
                 "schlecht",
                 "schlecht"
@@ -11136,7 +11130,13 @@
         [
             [
                 "FOOD",
-                "Muscheln und Calamari",
+                "Muscheln",
+                "gut",
+                "gut"
+            ],
+            [
+                "FOOD",
+                "Calamari",
                 "gut",
                 "gut"
             ]
@@ -11211,22 +11211,34 @@
         ],
         [
             [
-                "",
-                "",
-                "",
-                ""
+                "PRICE",
+                "Ort",
+                "schlecht",
+                "schlecht"
+            ],
+            [
+                "FOOD",
+                "Hot-Dog-Laden",
+                "gut",
+                "gut"
             ],
             [
                 "GENERAL-IMPRESSION",
                 "Bark",
-                "gut",
-                "gut"
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
             [
                 "FOOD",
                 "Hot Dog",
+                "gut",
+                "gut"
+            ],
+            [
+                "FOOD",
+                "Variationsmöglichkeiten",
                 "gut",
                 "gut"
             ]
@@ -11269,22 +11281,22 @@
             [
                 "AMBIENCE",
                 "None",
-                "schlecht",
-                "schlecht"
+                "ok",
+                "ok"
             ]
         ],
         [
             [
                 "SERVICE",
                 "Service",
-                "schlecht",
-                "schlecht"
+                "gut",
+                "gut"
             ],
             [
                 "SERVICE",
                 "Management",
-                "schlecht",
-                "schlecht"
+                "gut",
+                "gut"
             ]
         ],
         [
@@ -11314,14 +11326,14 @@
         [
             [
                 "SERVICE",
-                "Hauptgang",
+                "None",
                 "schlecht",
                 "schlecht"
             ]
         ],
         [
             [
-                "SERVICE",
+                "GENERAL-IMPRESSION",
                 "None",
                 "schlecht",
                 "schlecht"
@@ -11384,7 +11396,7 @@
         [
             [
                 "SERVICE",
-                "None",
+                "Personal",
                 "schlecht",
                 "schlecht"
             ]
@@ -11400,7 +11412,7 @@
         [
             [
                 "SERVICE",
-                "Al Di La Personal",
+                "Personal",
                 "gut",
                 "gut"
             ]
@@ -11433,11 +11445,17 @@
                 "",
                 "",
                 ""
+            ],
+            [
+                "FOOD",
+                "Geschmack",
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
             [
-                "GENERAL-IMPRESSION",
+                "FOOD",
                 "None",
                 "schlecht",
                 "schlecht"
@@ -11463,8 +11481,8 @@
             [
                 "SERVICE",
                 "Barkeeper",
-                "gut",
-                "gut"
+                "schlecht",
+                "schlecht"
             ]
         ],
         [
@@ -11540,7 +11558,7 @@
         [
             [
                 "AMBIENCE",
-                "Design",
+                "Design des Raums",
                 "gut",
                 "gut"
             ]
@@ -11578,7 +11596,7 @@
         [
             [
                 "FOOD",
-                "Tüte",
+                "Essen",
                 "gut",
                 "gut"
             ]
