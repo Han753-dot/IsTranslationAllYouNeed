@@ -1,0 +1,1558 @@
+Früheren Beiträgen zufolge war dies einmal ein guter Ort, aber das ist nicht mehr der Fall.####[('Ort', 'GENERAL-IMPRESSION', 'negative')]
+Wir, wir waren zu viert, kamen mittags an - das Lokal war leer - und das Personal tat so, als würden wir ihnen aufdrängen und waren sehr unhöflich.####[('Personal', 'SERVICE', 'negative')]
+Das Essen war miserabel – zu süß oder zu salzig und die Portionen winzig.####[('Essen', 'FOOD', 'negative'), ('Portionen', 'FOOD', 'negative')]
+Vermeiden Sie diesen Ort !####[('Ort', 'GENERAL-IMPRESSION', 'negative')]
+Ich habe viele Male bei Saul gegessen und das Essen war immer durchweg unglaublich gut.####[('Essen', 'FOOD', 'positive')]
+Saul ist das beste Restaurant in der Smith Street und in Brooklyn.####[('Saul', 'GENERAL-IMPRESSION', 'positive')]
+Das Entenconfit ist immer fantastisch und die Gänseleberterrine mit Feigen war nicht von dieser Welt.####[('Entenconfit', 'FOOD', 'positive'), ('Gänseleberterrine mit
+        Feigen', 'FOOD', 'positive')]
+Die Weinkarte ist interessant und bietet viele gute Angebote.####[('
+            ', 'FOOD', 'positive'), ('Weinkarte', 'FOOD', 'positive')]
+Ich war von diesem Restaurant sehr enttäuscht.####[('
+        Restaurant', 'GENERAL-IMPRESSION', 'negative')]
+Ich habe eine Einkaufswagenbetreuerin um in ein Lotosblatt eingewickelten Reis gebeten, und sie antwortete: „Reis“ und ging einfach weg.####[('
+        Einkaufswagenbetreuerin', 'SERVICE', 'negative')]
+Das Essen war okay, aber nichts Besonderes.####[('Das Essen', 'FOOD', 'neutral')]
+Chow Fun war trocken; Pork Shu Mai war fettiger als sonst und wir mussten uns den Tisch mit einer lauten und unhöflichen Familie teilen.####[('Chow Fun', 'FOOD', 'negative'), ('Pork Shu Mai', 'FOOD', 'negative')]
+Ich/wir werden nie wieder an diesen Ort zurückkehren.####[('Ort', 'GENERAL-IMPRESSION', 'negative')]
+Habe drei Tage lang Austern gegessen, zum Abschluss gab es Fische, und ich bin so froh, dass mein Ausflug hier zu Ende war, denn es war so toll!####[('Fische', 'GENERAL-IMPRESSION', 'positive')]
+Der Der Service war göttlich, die Austern waren so sinnlich wie nur möglich und der Preis ist unschlagbar!!!####[('Der Service', 'SERVICE', 'positive'), ('Austern', 'ESSEN', 'positive')]
+Jedes Mal, wenn ich in New York bin, nehme ich mir vor, das Restaurant Saul in der Smith Street zu besuchen.####[('Restaurant Saul', 'GENERAL-IMPRESSION', 'positive')]
+Alles ist immer perfekt zubereitet, der Service ist ausgezeichnet, die Einrichtung kühl und dezent.####[('Service', 'SERVICE', 'positive'), ('Einrichtung', 'AMBIENCE', 'positive')]
+Ich hatte bei meinem letzten Besuch das Entenbrust-Spezial und es war unglaublich.####[('
+        Entenbrust-Spezial', 'FOOD', 'positive')]
+Das Essen ist sehr durchschnittlich … das Thai-Fusion-Zeug ist ein bisschen zu süß, alles, was sie hier servieren, ist zu süß.####[('Essen', 'FOOD', 'negative'), ('Thai-Fusion-Zeug', 'FOOD', 'negative')]
+Das einzige, was mir einigermaßen geschmeckt hat, war ihr Gegrilltes Hähnchen-Spezial mit Edamame-Püree.####[('Gegrilltes Hähnchen-Spezial mit Edamame-Püree', 'FOOD', 'positive')]
+Ich hatte noch nie Edamame-Püree gegessen, fand es aber innovativ und lecker (hätte etwas mehr Salz vertragen können).####[('
+            ', 'FOOD', 'positive'), ('Edamame-Püree', 'FOOD', 'positive')]
+Das Dekor ist zwar Nacht … aber sie müssen WIRKLICH diese Entlüftung an der Decke reinigen … sie sieht ziemlich unappetitlich aus und macht Ihre Bemühungen zunichte, diesem Ort ein elegantes und modernes Aussehen zu verleihen.####[('Dekor', 'AMBIENCE', 'positive'), ('
+        Entlüftung', 'AMBIENCE', 'negative'), ('
+        Ort', 'AMBIENCE', 'negative')]
+Ihre Sake-Liste war umfangreich, aber wir suchten nach Purple Haze, der nicht aufgeführt war, aber auf Anfrage für uns hergestellt wurde!####[('Sake-Liste', 'FOOD', 'positive')]
+Die würzige Thunfischrolle war ungewöhnlich gut und das Steingarnelentempura war fantastisch, eine tolle Vorspeise zum Teilen!####[('würzige Thunfischrolle', 'FOOD', 'positive'), ('
+        Steingarnelentempura', 'FOOD', 'positive')]
+Wir waren an einem Freitag gegen 9:30 Uhr dort und bis dahin war es schon etwas ruhiger, daher war der Service großartig!####[('Service', 'SERVICE', 'positive')]
+wir lieben das pinke Pony .####[('pinke Pony', 'GENERAL-IMPRESSION', 'positive')]
+Der perfekte Spot .####[('Spot', 'GENERAL-IMPRESSION', 'positive')]
+Essen- großartig.####[('Essen', 'FOOD', 'positive')]
+Service- freundlich und aufmerksam.####[('Service', 'SERVICE', 'positive')]
+Ambiente – entspannt und stilvoll.####[('Ambiente', 'AMBIENCE', 'positive')]
+Beurteilen Sie diesen Ort nicht auf den ersten Blick, Sie müssen ihn ausprobieren, um es zu glauben, ein zweites Zuhause für das gebildete Herz.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+das Essen ist anständig.####[('Essen', 'FOOD', 'neutral')]
+es ist jedoch der Service, der bei mir einen üblen Nachgeschmack hinterlässt.####[('Service', 'SERVICE', 'negative')]
+ich habe zufällig eine Grundregel, die mit ein wenig Selbstachtung einhergeht. Dazu gehört, dass ich mich von einem Kellner nicht einschüchtern lasse, d. h. mir kein schlechtes Gewissen machen lasse, wenn ich nach Belanglosigkeiten wie Wasser oder der Rechnung frage.####[('Kellner', 'SERVICE', 'negative')]
+Dieser Ort muss das beste japanische Restaurant im Raum New York sein.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Essen ist großartig.####[('Essen', 'FOOD', 'positive')]
+Der Service ist erstklassig.####[('Service', 'SERVICE', 'positive')]
+Ich neige dazu, ein Sushi-Restaurant nach seinem Seeigel zu beurteilen, der im Sushi Rose himmlisch war.####[('Seeigel', 'FOOD', 'positive')]
+Das Sushi wirkte recht frisch und war ausreichend portioniert.####[('
+            ', 'FOOD', 'positive'), ('Sushi', 'FOOD', 'positive')]
+Das Reis-Fisch-Verhältnis war auch gut – sie haben nicht versucht, den Reis zu überpacken.####[('Reis-Fisch-Verhältnis', 'FOOD', 'positive')]
+Wir haben am Samstag das Sushi-Angebot zum halben Preis genutzt, es hat sich also wirklich gelohnt.####[('
+            ', 'FOOD', 'positive'), ('Sushi-Angebot zum halben Preis', 'FOOD', 'positive')]
+Abends zog dieser Ort ein gut gekleidetes, also New Yorker Publikum an.####[('Publikum', 'GENERAL-IMPRESSION', 'positive')]
+Das Essen war gut zubereitet und der Service tadellos.####[('Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Das Prix-Fixe-Menü ist jeden Cent wert und man bekommt mehr als genug (sowohl in Quantität als auch Qualität).####[('
+            ', 'FOOD', 'positive'), ('
+                ', 'FOOD', 'positive'), ('Prix-Fixe-Menü', 'FOOD', 'positive')]
+6 $ und es gibt viel leckeres Essen , alles frisch und ständig aufgefüllt.####[('
+            ', 'FOOD', 'positive'), ('
+                ', 'FOOD', 'positive'), ('Essen', 'FOOD', 'positive')]
+Ich bin kein Vegetarier, aber fast alle Gerichte waren großartig.####[('
+        Gerichte', 'FOOD', 'positive')]
+Das Essen hier ist ziemlich gut, aber nur, wenn Sie gerne darauf warten.####[('Essen', 'FOOD', 'positive')]
+Ich mag die Somosas, Chai und die Chole, aber die Dhosas und Dhal waren irgendwie enttäuschend.####[('Somosas', 'FOOD', 'positive'), ('Chai', 'FOOD', 'positive'), ('Chole', 'FOOD', 'positive'), ('Dhosas', 'FOOD', 'negative'), ('Dhal', 'FOOD', 'negative')]
+Der Service variiert von Tag zu Tag – manchmal ist er sehr nett und manchmal nicht.####[('Service', 'SERVICE', 'negative')]
+Die Küche ist jedoch fast immer langsam.####[('Küche', 'SERVICE', 'negative')]
+Geben Sie auch an, ob Sie Ihr Essen scharf mögen – wenn nicht, ist es eher fad.####[('Essen', 'FOOD', 'negative')]
+Das Ambiente ist hübsch und lädt zum Plaudern ein, daher wäre ein zwangloses Mittagessen hier wahrscheinlich das Beste.####[('Ambiente', 'AMBIENCE', 'positive')]
+Wenn Sie schon einmal am Fluss in Weehawken waren, haben Sie eine Vorstellung von der besten Aussicht, die das Kartenhaus zu bieten hat.####[('Aussicht', 'AMBIENCE', 'positive')]
+Hinzu kommt der großartige Service und das großartige Essen zu einem vernünftigen Preis und schon steht der Beginn eines großartigen Abends fest.####[('Service', 'SERVICE', 'positive'), ('
+            ', 'FOOD', 'positive'), ('Essen', 'FOOD', 'positive')]
+Das Lavakuchen-Dessert war unglaublich und ich kann es empfehlen.####[('Lavakuchen-Dessert', 'FOOD', 'positive')]
+Sobald Sie Cosette betreten, befinden Sie sich wie durch ein Wunder in einem kleinen, abseits der ausgetretenen Pfade gelegenen Pariser Bistro.####[('Cosette', 'AMBIENCE', 'positive')]
+Dieses winzige Restaurant ist so gemütlich wie es nur sein kann, mit diesem gewissen Pariser Flair.####[('Restaurant', 'AMBIENCE', 'positive')]
+Das Essen war durchschnittlich bis überdurchschnittlich; die Französische Zwiebelsuppe war sättigend, aber nicht übermäßig beeindruckend, und die Desserts waren alles andere als herausragend.####[('Essen', 'FOOD', 'positive'), ('
+            ', 'FOOD', 'positive'), ('Französische Zwiebelsuppe', 'FOOD', 'negative'), ('Desserts', 'FOOD', 'negative')]
+Entscheiden Sie sich jedoch für das Ambiente und betrachten Sie das Essen lediglich als Begleiter für eine Reise um die Welt!####[('
+        Ambiente', 'AMBIENCE', 'positive'), ('
+        Essen', 'FOOD', 'neutral')]
+Die Pizza wurde kalt geliefert und der Käse war nicht einmal vollständig geschmolzen!####[('Pizza', 'FOOD', 'negative'), ('Käse', 'FOOD', 'negative')]
+Die Pizza ist überteuert und matschig.####[('
+            ', 'FOOD', 'negative'), ('Pizza', 'FOOD', 'negative')]
+Ja, sie verwenden ausgefallene Zutaten, aber selbst aus ausgefallenen Zutaten lässt sich keine gute Pizza machen, wenn nicht jemand weiß, wie man den Boden richtig hinbekommt.####[('Zutaten', 'FOOD', 'positive'), ('Pizza', 'FOOD', 'negative'), ('Boden', 'FOOD', 'negative')]
+Ich glaube, ich habe im Minnow einige der besten Mahlzeiten meines Lebens gegessen.####[('Mahlzeiten', 'FOOD', 'positive')]
+Die Meeresfrüchte sind sagenhaft, es gibt eine gute Weinkarte und die ständig wechselnde Speisekarte bietet immer tolle Überraschungen.####[('Meeresfrüchte', 'FOOD', 'positive'), ('Weinkarte', 'FOOD', 'positive'), ('Speisekarte', 'FOOD', 'positive')]
+Die Kombination der superfrischen Zutaten in den Gerichten ist ungewöhnlich, aber wirklich lecker.####[('
+        Zutaten', 'FOOD', 'positive')]
+Das beste Pastrami, das ich je gegessen habe, und eine tolle Portion, ohne lächerlich zu sein.####[('Pastrami', 'FOOD', 'positive'), ('Portion', 'FOOD', 'positive')]
+Meine Frau hatte die gebratenen Garnelen , die riesig sind, und war begeistert.####[('
+            ', 'FOOD', 'positive'), ('gebratenen Garnelen', 'FOOD', 'positive')]
+Ich bin gebürtiger Japaner und lebe seit über acht Jahren in der Tristate-Region, aber ich war einfach so erstaunt über diesen Ort.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Dieser Ort ist so japanisch wie kaum ein anderer.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Die Schilder, die Spezialmenüs, das Essen und sogar das gesamte Kellnerpersonal sind ALLE ABSOLUT japanisch.####[('Schilder', 'GENERAL-IMPRESSION', 'positive'), ('Spezialmenüs', 'FOOD', 'positive'), ('Essen', 'FOOD', 'positive'), ('Kellnerpersonal', 'SERVICE', 'positive')]
+Dieser Ort ist eine einstündige Autofahrt wert.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Leon ist ein Juwel im East Village: leger, aber hip, mit gut zubereiteter einfacher französischer Bistroküche, guten Spezialitäten und einer warmen und lebhaften Atmosphäre.####[('
+            ', 'AMBIENCE', 'positive'), ('Leon', 'GENERAL-IMPRESSION', 'positive'), ('französischer Bistroküche', 'FOOD', 'positive'), ('Spezialitäten', 'FOOD', 'positive'), ('Atmosphäre', 'AMBIENCE', 'positive')]
+Meine Frau und ich erfreuen uns immer wieder an den jungen, nicht immer gut ausgebildeten, aber dennoch freundlichen Mitarbeitern, die alle eine Geschichte haben.####[('
+        Mitarbeitern', 'SERVICE', 'positive')]
+Ordentlicher Wein zu vernünftigen Preisen.####[('
+            ', 'FOOD', 'positive'), ('Wein', 'FOOD', 'neutral')]
+Jedes Mal, wenn ich beschließe, einen anderen Ort auf der UES auszuprobieren, ärgere ich mich, dass ich nicht einfach zu Zucchero Pomodori gegangen bin.####[('Zucchero Pomodori', 'GENERAL-IMPRESSION', 'positive')]
+Dies ist bei weitem mein liebster Ort in der Nachbarschaft.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Der Service ist ausgezeichnet, das Dekor ist großartig und das Essen ist köstlich und wird in großen Portionen serviert.####[('Service', 'SERVICE', 'positive'), ('Dekor', 'AMBIENCE', 'positive'), ('Essen', 'FOOD', 'positive'), ('Portionen', 'FOOD', 'positive')]
+Ich habe eine Vorliebe für die Gnocchi.####[('Gnocchi', 'GENERAL-IMPRESSION', 'positive')]
+Dieser Ort ist unglaublich klein.####[('Ort', 'GENERAL-IMPRESSION', 'negative')]
+Die Hostess ist unhöflich bis hin zur Beleidigung.####[('Hostess', 'SERVICE', 'negative')]
+Das Essen war fad und ölig.####[('Essen', 'FOOD', 'negative')]
+Wir waren schon oft an diesem Ort und haben jedes Mal großartiges Essen, Wein und Service bekommen.####[('Essen', 'FOOD', 'positive'), ('Wein', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Wir hatten Angst, dass wir Probleme beim Einlass haben würden, aber irgendwie gelang es uns, eine kurze Wartezeit zu überbrücken.####[('Wartezeit', 'SERVICE', 'positive')]
+Wie immer tranken wir während der Wartezeit ein tolles Glas Wein.####[('Glas Wein', 'FOOD', 'positive')]
+Als wir Platz nahmen, bekamen wir einen tollen und schnellen Service.####[('Service', 'SERVICE', 'positive')]
+Die Leute, die dort arbeiten, sind immer so freundlich, dass man manchmal vergisst, dass man in New York ist.####[('Leute', 'SERVICE', 'positive')]
+Probieren Sie diesen Ort so oft wie möglich aus.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Dies ist ein Restaurant, in das man gern geht.####[('Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Die Pizza ist lecker und ich mag die Atmosphäre.####[('Pizza', 'FOOD', 'positive'), ('Atmosphäre', 'AMBIENCE', 'positive')]
+Aber die Pizza ist viel zu teuer.####[('Pizza', 'FOOD', 'negative')]
+Eine große Portion kostet 20 $ und die Toppings kosten jeweils etwa 3 $.####[('
+        Toppings', 'FOOD', 'negative')]
+Ich war dort zum Mittagessen und es war nicht so gut, wie ich es aufgrund der Kritiken erwartet hatte.####[('Mittagessen', 'FOOD', 'negative')]
+Die Sauce war wässrig und das Essen hatte nicht viel Geschmack.####[('Sauce', 'FOOD', 'negative'), ('Essen', 'FOOD', 'negative')]
+Dieser Ort ist großartig.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Die Kellnerin war sehr geduldig mit uns und das Essen ist phänomenal!####[('Kellnerin', 'SERVICE', 'positive'), ('Essen', 'ESSEN', 'positive')]
+Der Der Service war schnell, freundlich und großartig.####[('Der Service', 'SERVICE', 'positive')]
+Tolle Pizza und fantastischer Service.####[('Pizza', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Es gab eine kleine Wartezeit, aber kürzer als erwartet.####[('Wartezeit', 'SERVICE', 'positive')]
+Liegt am Ende eines prächtigen Blocks.####[('
+        Blocks', 'AMBIENCE', 'positive')]
+Dies ist zweifellos das beste Sushi in New York City.####[('Sushi', 'FOOD', 'positive')]
+Der Ort ist klein und eng, aber das Essen ist fantastisch.####[('Ort', 'AMBIENCE', 'negative'), ('Essen', 'FOOD', 'positive')]
+Holen Sie sich den Thunfisch von Gari .####[('Thunfisch von Gari', 'FOOD', 'positive')]
+Planet Thailand war für mich schon immer ein Hit, ich gehe normalerweise wegen des Sushi dorthin, das großartig ist, und auch das Thai-Essen ist ausgezeichnet.####[('Planet Thailand', 'GENERAL-IMPRESSION', 'positive'), ('Sushi', 'FOOD', 'positive'), ('Thai-Essen', 'FOOD', 'positive')]
+Aufgrund der großen Auswahl auf der Speisekarte esse ich hier oft und es wird mir nie langweilig.####[('
+        Speisekarte', 'FOOD', 'positive')]
+Die Atmosphäre ist nicht die beste, aber ich nehme an, dass sie auf diese Weise die Preise niedrig halten.####[('Atmosphäre', 'AMBIENCE', 'neutral')]
+Es dreht sich alles um das Essen !!####[('Essen', 'FOOD', 'positive')]
+zunächst hat es lange gedauert, bis wir den Ort gefunden haben.####[('Ort', 'GENERAL-IMPRESSION', 'negative')]
+aber als wir uns die Speisekarte ansahen, gab es nicht viel Auswahl, das meiste davon waren Knödel im Vorspeisenbereich.####[('Speisekarte', 'FOOD', 'negative')]
+diese Rollen waren groß, aber nicht gut und Sashimi war nicht frisch.####[('
+            ', 'FOOD', 'negative'), ('Rollen', 'FOOD', 'neutral'), ('Sashimi', 'FOOD', 'negative')]
+Probieren Sie den knusprigen Thunfisch, er ist himmlisch.####[('knusprigen Thunfisch', 'FOOD', 'positive')]
+Bin zuerst hierher gegangen, um ihre Gartenterrasse zu genießen.####[('Gartenterrasse', 'AMBIENCE', 'positive')]
+Das Essen war sagenhaft und der Service war schnell und hilfreich, aber nicht aufdringlich oder übereilt.####[('Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Das Steak Tartare ist eine tolle Wahl, es wird am Tisch für Sie zubereitet.####[('Steak Tartare', 'FOOD', 'positive')]
+Zugegeben, einige Abende im Restaurant waren ziemlich warm, aber die offene Küche macht einen Teil des Charmes aus.####[('
+        Restaurant', 'AMBIENCE', 'negative'), ('offene Küche', 'AMBIENCE', 'positive')]
+Tolle Weinauswahl, Gigondas sind ihr Geld wert und der Champagner des Hauses ist wirklich preiswert.####[('Weinauswahl', 'FOOD', 'positive'), ('Gigondas', 'FOOD', 'positive'), ('Champagner des Hauses', 'FOOD', 'positive')]
+An Wochenenden kann es etwas voll sein, aber die Atmosphäre ist gut und es ist das beste französische Essen, das Sie in der Gegend finden werden.####[('Atmosphäre', 'AMBIENCE', 'positive'), ('französische Essen', 'FOOD', 'positive')]
+Habe den Ort an Freunde weiterempfohlen, bekommt immer gute Resonanz.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Pizza – die einzige Pizza in NYC, die keinen zusätzlichen Belag haben sollte – die Kruste schmeckt wie das beste, frisch gebackene Brot!####[('Pizza', 'FOOD', 'positive'), ('Kruste', 'FOOD', 'positive')]
+Ich bringe alle meine Gäste aus NYC zu VT's.####[('VT's', 'GENERAL-IMPRESSION', 'positive')]
+Ich bin nicht sicher, wo der vorherige Rezensent, Lonk, gegessen hat, aber Saul liegt in einer tollen Nachbarschaft und hat tolles Essen!####[('Nachbarschaft', 'AMBIENCE', 'positive'), ('Essen', 'FOOD', 'positive')]
+Ich kann es für einen besonderen Anlass wärmstens empfehlen – es bietet ein intimes Ambiente und einen netten Service.####[('Ambiente', 'AMBIENCE', 'positive'), ('Service', 'SERVICE', 'positive')]
+Ich bin nicht sicher, wo die anderen Rezensenten gegessen haben, aber es scheint, als hätten wir zwei verschiedene Restaurants besucht, denn meine Freunde und ich mögen Mizu alle sehr gerne … und wir sind Stammkunden.####[('Mizu', 'GENERAL-IMPRESSION', 'positive')]
+Stellen Sie sicher, dass Sie die würzige Jakobsmuschelrolle haben.. .####[('würzige
+        Jakobsmuschelrolle', 'FOOD', 'positive')]
+Muscheln waren ausgezeichnet, Hummer-Ravioli waren SEHR salzig!####[('Muscheln', 'FOOD', 'positive'), ('Hummer-Ravioli', 'FOOD', 'negative')]
+Habe meine Mutter zum Muttertag mitgenommen und der Oberkellner war ziemlich unhöflich.####[('Oberkellner', 'SERVICE', 'negative')]
+Das winzige Dessert kostete 8,00 $ … einfach überteuert für das, was es ist.####[('
+            ', 'FOOD', 'negative'), ('Dessert', 'FOOD', 'negative')]
+Die Getränke sind immer gut zubereitet und die Weinauswahl ist fair bepreist.####[('Getränke', 'FOOD', 'positive'), ('Weinauswahl', 'FOOD', 'positive')]
+Probieren Sie die Spezialitäten unseres Küchenchefs – sie sind himmlisch.####[('Spezialitäten unseres
+        Küchenchefs', 'FOOD', 'positive')]
+Der Service entspricht nicht gerade fünf Sternen, aber das ist nicht wirklich eine große Sache.####[('Service', 'SERVICE', 'neutral')]
+Lounge im Erdgeschoss ist immer eine gute Attraktion####[('Lounge im Erdgeschoss', 'AMBIENCE', 'positive')]
+Raga's ist ein romantisches, gemütliches Restaurant.####[('Raga's', 'AMBIENCE', 'positive')]
+Die exotischen Speisen werden liebevoll präsentiert und erfreuen in leckeren Kombinationen.####[('
+            ', 'FOOD', 'positive'), ('exotischen Speisen', 'FOOD', 'positive')]
+Das Personal ist unglaublich hilfsbereit und aufmerksam.####[('Personal', 'SERVICE', 'positive')]
+Die Bar ist sehr gut bestückt mit interessanten Bieren und preiswerten Weinen.####[('Bar', 'FOOD', 'positive'), ('Bieren', 'FOOD', 'positive'), ('Weinen', 'FOOD', 'positive')]
+Als wir zufällig auf Leon stießen, dachten wir, wir hätten ein echtes Juwel gefunden, ABER wir lagen definitiv falsch.####[('Leon', 'GENERAL-IMPRESSION', 'negative')]
+Die Kellnerin hat unseren Tisch praktisch ins Badezimmer gestellt und als wir darum baten, unsere Essensbestellung zu stornieren, weil wir nicht auf der Toilette sitzend essen wollten, wurde uns das verweigert...####[('Kellnerin', 'SERVICE', 'negative')]
+Unhöflicher Service, mittelmäßiges Essen...es gibt Unmengen von Restaurants in NY...bleiben Sie von diesem fern####[('Service', 'SERVICE', 'negative'), ('Essen', 'FOOD', 'neutral')]
+Ich hatte eine tolle Zeit bei Jekyll und Hyde!####[('Jekyll und Hyde', 'GENERAL-IMPRESSION', 'positive')]
+Mir hat alles daran gefallen, insbesondere die Shows und die Schauspieler.####[('Shows', 'AMBIENCE', 'positive'), ('Schauspieler', 'AMBIENCE', 'positive')]
+Unser Server war sehr hilfsbereit und freundlich.####[('Server', 'SERVICE', 'positive')]
+Das Essen war auch gut.####[('Essen', 'FOOD', 'positive')]
+Der Thunfisch und die Wasabe-Kartoffeln sind ausgezeichnet.####[('Thunfisch', 'FOOD', 'positive'), ('Wasabe-Kartoffeln', 'FOOD', 'positive')]
+Die Atmosphäre im Freien, wenn man an einem kühlen Abend auf dem Bürgersteig sitzt und zusieht, wie aus 15 Metern Entfernung auf der 6th Avenue das Leben an einem vorüberzieht, war wunderbar.####[('Atmosphäre im Freien', 'AMBIENCE', 'positive')]
+Der Service war schnell und zuvorkommend.####[('Service', 'SERVICE', 'positive')]
+Toller Service, tolles Essen.####[('Service', 'SERVICE', 'positive'), ('Essen', 'FOOD', 'positive')]
+Die Pizza ist köstlich – sie verwenden frischen Mozzarella anstelle des billigen, gefrorenen, geriebenen Käses, der in den meisten Pizzerien üblich ist.####[('Pizza', 'FOOD', 'positive'), ('frischen Mozzarella', 'FOOD', 'positive')]
+Zwei Beschwerden – ihre Vorspeisenauswahl ist miserabel, es wäre schön, wenn es auf der Speisekarte ein paar Mozzarella-Sticks gäbe.####[('
+        Vorspeisenauswahl', 'FOOD', 'negative')]
+Das Bedienungspersonal weiß Ihr Geschäft offensichtlich nicht zu schätzen, aber es ist der beste Kuchen auf der UWS!####[('Das Bedienungspersonal', 'SERVICE', 'negative'), ('Kuchen', 'FOOD', 'positive')]
+Der mit Abstand beste Salat, den ich in einem Fastfood-Restaurant gegessen habe.####[('Salat', 'FOOD', 'positive')]
+gehobene Speisequalität im Restaurant.####[('Speisequalität', 'FOOD', 'positive')]
+An einem Sonntagnachmittag vor Kurzem stießen ein Freund und ich zufällig auf dieses tolle Restaurant, als wir auf dem Weg waren, das mit dem Pulitzer-Preis ausgezeichnete Theaterstück DOUBT anzuschauen.####[('Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Die Hühnerpastete ist außergewöhnlich, der Cheeseburger riesig und köstlich und der Service professionell und herzlich.####[('Hühnerpastete', 'FOOD', 'positive'), ('
+            ', 'FOOD', 'positive'), ('Cheeseburger', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Das Personal ist kein Unsinn.####[('Personal', 'SERVICE', 'positive')]
+Die Optionsregel food.####[('food', 'FOOD', 'positive')]
+Als ich eine Zeit lang im Norden des Staates lebte, kaufte ich tiefgefrorene Bagels und sie waren immer noch besser als alle anderen.####[('Bagels', 'FOOD', 'positive')]
+Es lohnt sich, den Standort an der 1. Ave zu besuchen, da es sich um das Originalgeschäft handelt.####[('Standort
+        an der 1. Ave', 'GENERAL-IMPRESSION', 'positive')]
+Er servierte mir eine Uni Hand Roll, die ich noch nie zuvor gegessen hatte, und ich kann Ihnen sagen ... SIE WAR HIMMLISCH!####[('Uni Hand Roll', 'FOOD', 'positive')]
+Das Sake-Menü sollte nicht übersehen werden!####[('Sake-Menü', 'FOOD', 'positive')]
+Probieren Sie das Hummer-Teriyaki und die Rose Special Roll.####[('Hummer-Teriyaki', 'FOOD', 'positive'), ('Rose Special Roll', 'FOOD', 'positive')]
+Der Service war sehr gut – schnell, aufmerksam und nicht aufdringlich.####[('Service', 'SERVICE', 'positive')]
+Das Essen war auch sehr gut, wenn man bedenkt, dass wir die preiswerte Auswahl probiert haben (obwohl ich mir gewünscht hätte, dass der Schweinebauch, den ich bestellt habe, etwas länger gebraten worden wäre, damit das Fett eher auf der Zunge zergeht).####[('Das Essen', 'FOOD', 'positive'), ('Schweinebauch', 'FOOD', 'negative')]
+Die Weinkarte ist gut und der Wein im Glas war großzügig bis zum Rand gefüllt.####[('Weinkarte', 'FOOD', 'positive'), ('Wein im Glas', 'FOOD', 'positive')]
+Das traditionelle französische Dekor war angenehm, allerdings war es im Saal ziemlich laut – das Restaurant war voll und wir mussten unsere Stimme erheben, um uns unterhalten zu können.####[('traditionelle französische
+        Dekor', 'AMBIENCE', 'positive'), ('Saal', 'AMBIENCE', 'negative')]
+Ich war wahrscheinlich 5-8 Mal im Cafe Spice, es ist wahrscheinlich immer noch das beste indische Restaurant am Union Square.####[('Cafe Spice', 'GENERAL-IMPRESSION', 'positive')]
+Um es zusammenzufassen: Der Service variiert von gut bis mittelmäßig, je nachdem, welchen Kellner man bekommt; im Allgemeinen ist er nur durchschnittlich. Ok.####[('Service', 'SERVICE', 'neutral')]
+Platzvergaben erfolgen immer umgehend, allerdings ist das Restaurant abends voll.####[('Platzvergaben', 'SERVICE', 'positive')]
+Das Essen ist normalerweise sehr gut, obwohl ich mich gelegentlich über die Frische des rohen Gemüses in den Beilagen gewundert habe.####[('Das Essen', 'FOOD', 'positive'), ('rohen Gemüses in den Beilagen', 'FOOD', 'negative')]
+Das Dekor ist lebendig und ansprechend, mit mehreren halbprivaten Räumen auf der rechten Seite des Speisesaals, die sich hervorragend für ein Date eignen.####[('Dekor', 'AMBIENCE', 'positive'), ('halbprivaten
+        Räumen', 'AMBIENCE', 'positive')]
+Ich wurde vom Red Eye NIE enttäuscht.####[('Red Eye', 'GENERAL-IMPRESSION', 'positive')]
+Als ich das erste Mal dort war und von der Live-Jazz-Band und der Atmosphäre völlig begeistert war, bestellte ich den Lobster Cobb Salad.####[('Live-Jazz-Band', 'AMBIENCE', 'positive'), ('Atmosphäre', 'AMBIENCE', 'positive')]
+Es ist einfach die beste Mahlzeit in NYC.####[('Mahlzeit', 'FOOD', 'positive')]
+Im Red Eye Grill können Sie nichts falsch machen.####[('Red Eye Grill', 'GENERAL-IMPRESSION', 'positive')]
+Wenn wir von der Upper East Side wegziehen würden, würde uns dieses Restaurant wirklich fehlen.####[('Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Das Restaurant ist hübsch, aber nicht gehoben.####[('Restaurant', 'AMBIENCE', 'neutral')]
+Das Essen ist ein Rohdiamant – das Essen ist köstlich und hausgemacht mit der perfekten Balance von Kräutern und Tomaten.####[('Essen', 'FOOD', 'positive'), ('Balance von Kräutern und Tomaten', 'FOOD', 'positive')]
+Wir hatten gestern Abend eine tolle Zeit im Jekyll and Hyde Pub.####[('Jekyll and Hyde Pub', 'GENERAL-IMPRESSION', 'positive')]
+Nachdem wir uns in der Bar richtig amüsiert hatten, setzten wir uns an einen Tisch und aßen zu Abend.####[('
+        Bar', 'GENERAL-IMPRESSION', 'positive')]
+Der Kellner war echt cool und hat uns mit einem Lächeln unser Essen und unsere Getränke serviert.####[('Kellner', 'SERVICE', 'positive')]
+Die Einrichtung und die versteckten Badezimmer des Ortes sorgten für viel Gelächter.####[('Einrichtung', 'AMBIENCE', 'positive'), ('versteckten Badezimmer', 'AMBIENCE', 'positive')]
+Ich kann einen Besuch in diesem Restaurant sowie das Abendessen und die Getränke nur wärmstens empfehlen!####[('Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Wenn Sie zu den Menschen gehören, die gerne Angst bekommen und unterhalten werden, dann ist dies ein großartiger Ort zum Essen.####[('
+        Ort', 'GENERAL-IMPRESSION', 'positive')]
+Mein Mann und ich dachten, es wäre toll, zu unserem Jahrestag ins Jekyll and Hyde Pub zu gehen, und zu unserer Überraschung war es fantastisch.####[('Jekyll and Hyde Pub', 'GENERAL-IMPRESSION', 'positive')]
+Sie bieten ihren Gästen über 100 verschiedene Biere an, was meinen Mann sehr glücklich machte, und das Essen war köstlich. Wenn ich ein Gericht empfehlen muss, dann sind es die Kürbis-Tortellini.####[('Biere', 'FOOD', 'positive'), ('Essen', 'FOOD', 'positive'), ('Kürbis-Tortellini', 'FOOD', 'positive')]
+Bitte befolgen Sie meinen Rat und probieren Sie diesen Ort aus.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Der Bagel war riesig.####[('Bagel', 'FOOD', 'positive')]
+Die Mitarbeiter dort beladen den Bagel außerdem mit Frischkäse (das ist eine kleine Schweinerei).####[('Bagel', 'FOOD', 'negative')]
+Dies war mein erster Besuch im Cafe St. Bart’s und ich muss sagen, wie köstlich das Essen und der Service war.####[('Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Ich muss das Hummerbrötchen wärmstens empfehlen – nicht zu viel Mayo; man merkt, dass es ein frischer Hummer war.####[('Hummerbrötchen', 'FOOD', 'positive'), ('Hummer', 'FOOD', 'positive')]
+Andere Gäste genossen Pizza , Santa Fe Chopped Salad und Fish and Chips.####[('Pizza', 'FOOD', 'positive'), ('Santa Fe Chopped Salad', 'FOOD', 'positive'), ('Fish and Chips', 'FOOD', 'positive')]
+Ich kann das Cafe St. Bart’s aufgrund seines Essen, des Ambiente und des wunderbaren Service wärmstens empfehlen.####[('Essen', 'FOOD', 'positive'), ('Ambiente', 'AMBIENCE', 'positive'), ('Service', 'SERVICE', 'positive')]
+Das gesamte Personal ist absolut professionell!!####[('Personal', 'SERVICE', 'positive')]
+Dieses Restaurant wurde maßlos überbewertet.####[('Restaurant', 'GENERAL-IMPRESSION', 'negative')]
+Mein Chow Fun und Chow See war wirklich fad und ölig.####[('Chow Fun und Chow See', 'FOOD', 'negative')]
+Die Frühlingszwiebelpfannkuchen und die gebratenen Knödel waren nichts Außergewöhnliches.####[('Frühlingszwiebelpfannkuchen', 'FOOD', 'neutral'), ('gebratenen Knödel', 'FOOD', 'neutral')]
+Der Service war das einzig Gute an diesem Restaurant.####[('Service', 'SERVICE', 'positive'), ('
+        Restaurant', 'GENERAL-IMPRESSION', 'negative')]
+Innen ist es langweilig und unser Sushi war ziemlich unterdurchschnittlich ... der Thunfisch war matschig und die anderen Rollen hatten keinen Geschmack.####[('Sushi', 'FOOD', 'negative'), ('
+        Thunfisch', 'FOOD', 'negative'), ('Rollen', 'FOOD', 'negative')]
+Ihr Pad Penang ist köstlich und alles andere ist fantastisch.####[('Pad Penang', 'FOOD', 'positive')]
+Der Preis ist angemessen, allerdings ist der Service schlecht.####[('Service', 'SERVICE', 'negative')]
+Das frische Restaurant war unglaublich........ Das Essen war köstlich und natürlich frisch.####[('frische Restaurant', 'GENERAL-IMPRESSION', 'positive'), ('Essen', 'FOOD', 'positive')]
+Hut ab vor dem Koch.####[('Koch', 'FOOD', 'positive')]
+die Salate sind köstlich, erfrischend und gleichzeitig sehr würzig.####[('Salate', 'FOOD', 'positive')]
+Wir hatten Pams speziellen frittierten Fisch und er war großartig.####[('Pams speziellen frittierten
+        Fisch', 'FOOD', 'positive')]
+Tolle Stimmung, viele Leute.####[('Stimmung', 'AMBIENCE', 'positive')]
+Ich habe mich nicht beschwert, mir gefiel die Atmosphäre so sehr.####[('Atmosphäre', 'AMBIENCE', 'positive')]
+Das Ambiente ist so süß und malerisch, gut fürs Geschäft, obwohl wir dort im Urlaub waren.####[('Das Ambiente', 'AMBIENCE', 'positive')]
+Die Salate waren fantastisch.####[('Die Salate', 'FOOD', 'positive')]
+Obwohl wir nach normalem Salat und ein paar Walnüssen gesucht hatten, waren die Salate, die wir bekamen, großartig.####[('Salate', 'FOOD', 'positive')]
+Die Zutaten sind biologisch, was für mich ein echtes Plus ist.####[('Zutaten', 'FOOD', 'positive')]
+Dies ist wirklich gutes und preiswertes Sushi .####[('
+            ', 'FOOD', 'positive'), ('Sushi', 'FOOD', 'positive')]
+Die würzige Thunfischrolle ist riesig und wahrscheinlich die beste, die ich in dieser Preisklasse gegessen habe.####[('
+            ', 'FOOD', 'positive'), ('
+                ', 'FOOD', 'positive'), ('würzige Thunfischrolle', 'FOOD', 'positive')]
+Besonders gut war auch der Gelbschwanz .####[('Gelbschwanz', 'FOOD', 'positive')]
+Ich habe jedoch Vorbehalte gegenüber dem All-you-can-eat-Angebot – die Auswahl ist ziemlich begrenzt und Sie können wahrscheinlich mehr Essen bestellen, als Sie für weniger als 18 $ essen können, wenn Sie einfach von der Speisekarte abweichen.####[('
+            ', 'FOOD', 'negative'), ('All-you-can-eat-Angebot', 'FOOD', 'negative')]
+Auf jeden Fall ist dies ein Ort, an dem ich sicher wieder vorbeischauen werde, wenn ich in diesem Teil der Stadt bin.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Big Wong bekommt großes Lob für ein feines Etablissement.####[('Big Wong', 'GENERAL-IMPRESSION', 'positive')]
+Sie haben alles – tolle Preise, Essen und Service.####[('Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Die Atmosphäre ist laut und die Kellner laufen buchstäblich umher und erledigen die Dinge so schnell sie können.####[('Atmosphäre', 'AMBIENCE', 'negative'), ('Kellner', 'SERVICE', 'positive')]
+Und das alles zu einem sehr vernünftigen Preis (Reisbrei, Nudeln und Reisgerichte kosten jeweils nicht mehr als 3–6 $).####[('Reisbrei', 'FOOD', 'positive'), ('Nudeln', 'FOOD', 'positive'), ('Reisgerichte', 'FOOD', 'positive')]
+Auch das Essen zum Mitnehmen ist großartig, da sie auch hochwertige Tupperware anbieten.####[('Essen zum Mitnehmen', 'SERVICE', 'positive')]
+Dieser Ort ist immer sehr überfüllt und beliebt.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Habe einen sehr schönen Caesar Salad genossen, während meine Frau Rucola und Ziegenkäse hatte … beides sehr lecker.####[('Caesar Salad', 'FOOD', 'positive'), ('Rucola und
+        Ziegenkäse', 'FOOD', 'positive')]
+Wir entschieden uns beide für ein Nudelgericht und es wurde pünktlich und frisch serviert.####[('
+        Nudelgericht', 'FOOD', 'positive')]
+Zum Abschluss gab es Tiramisu und Schokoladenkuchen, beides war köstlich.####[('Tiramisu', 'FOOD', 'positive'), ('Schokoladenkuchen', 'FOOD', 'positive')]
+Ich war vor Kurzem mit einigen Kollegen zum Mittagessen in diesem Restaurant und hatte eine tolle Zeit.####[('Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Das Personal war zuvorkommend, das Essen war absolut köstlich und der Ort ist reizend.####[('Personal', 'SERVICE', 'positive'), ('Essen', 'ESSEN', 'positive'), ('Ort', 'AMBIENCE', 'positive')]
+Wir bekamen sogar Besuch vom Manager, der sich vergewissern wollte, dass wir uns wohl fühlten.####[('Manager', 'SERVICE', 'positive')]
+manchmal bekomme ich gutes Essen und einen akzeptablen Service .####[('Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'neutral')]
+manchmal bekomme ich schlechtes Essen und schlechten Service, manchmal bekomme ich gutes gutes und schlechten Service.####[('Essen', 'FOOD', 'negative'), ('Service', 'SERVICE', 'negative'), ('gutes', 'FOOD', 'positive'), ('Service', 'SERVICE', 'negative')]
+Der Ort ist ein BISTRO, was bedeutet: einfache Gerichte und Wein, effizient serviert in einer geschäftigen Atmosphäre.####[('Gerichte', 'FOOD', 'positive'), ('Wein', 'FOOD', 'positive'), ('Atmosphäre', 'AMBIENCE', 'positive')]
+Und wo macht Patis einen Fehler? Nirgendwo.####[('Patis', 'GENERAL-IMPRESSION', 'positive')]
+Und unter diesen Gesichtspunkten bewertet ist Pastis einfach wunderbar.####[('Pastis', 'GENERAL-IMPRESSION', 'positive')]
+Direkt an der L in Brooklyn ist dies ein schönes, gemütliches Lokal mit guter Pizza.####[('Lokal', 'AMBIENCE', 'positive'), ('Pizza', 'FOOD', 'positive')]
+Meines war ein wenig angebrannt, aber mit Ziegenkäse und Panchetta immer noch köstlich (der Raddichio war allerdings etwas bitter).####[('Raddichio', 'FOOD', 'negative')]
+Mein Freund bekam die Pilzpizza, die besser schmeckte.####[('Pilzpizza', 'FOOD', 'positive')]
+Die Sangria war ziemlich lecker und gut an einem heißen, schwülen Tag.####[('Sangria', 'FOOD', 'positive')]
+Ein ziemlich kleiner Ort, aber ich denke, wenn nicht zu viel los ist, könnte dort vielleicht eine Gruppe oder Kinder Platz finden.####[('Ort', 'GENERAL-IMPRESSION', 'neutral')]
+Ich begann mit einem Bombay-Bier, das groß genug für zwei war.####[('Bombay-Bier', 'FOOD', 'positive')]
+Der Service war langsam, aber die Leute waren freundlich.####[('Service', 'SERVICE', 'negative'), ('Leute', 'SERVICE', 'positive')]
+Es ist ein schöner Ort zum Entspannen und für Gespräche.####[('Ort', 'AMBIENCE', 'positive')]
+Das Essen ist authentisch italienisch – köstlich!####[('Essen', 'FOOD', 'positive')]
+Pizza ist großartig, ebenso wie hausgemachte Pasta.####[('Pizza', 'FOOD', 'positive'), ('hausgemachte Pasta', 'FOOD', 'positive')]
+Das Ambiente ist herrlich, der Service tadellos.####[('Ambiente', 'AMBIENCE', 'positive'), ('Service', 'SERVICE', 'positive')]
+Ich bin immer noch sauer, dass ich für mieses Essen bezahlen musste.####[('Essen', 'FOOD', 'negative')]
+Das Nagetiersteak war wie Gummi und der Thunfisch hatte keinen Geschmack, ganz zu schweigen davon, dass er schmeckte, als wäre er gerade aufgetaut worden.####[('Nagetiersteak', 'FOOD', 'negative'), ('Thunfisch', 'FOOD', 'negative')]
+Der Service war auch schrecklich und das Ambiente ist nicht so toll.####[('Service', 'SERVICE', 'negative'), ('Ambiente', 'AMBIENCE', 'negative')]
+Ich gehe in vielen verschiedenen Restaurants essen und dieses ist ein Ort, den Sie unbedingt ausprobieren müssen.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Dies ist das erste Mal, dass ich eine Bewertung für ein Restaurant schreibe, weil das Essen und der Service ausgezeichnet waren.####[('Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Das Filet-Mignon-Gericht war hervorragend!####[('Filet-Mignon-Gericht', 'FOOD', 'positive')]
+Es ist ein kleines, hübsches Restaurant.####[('
+        Restaurant', 'AMBIENCE', 'positive')]
+Ich liebe diesen Ort !!!####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Ich mag das Ambiente, es ist sehr düster und originell.####[('Ambiente', 'AMBIENCE', 'positive')]
+Das Sushi ist unglaublich!!!####[('Sushi', 'FOOD', 'positive')]
+Sehr erschwinglich und ausgezeichnetes Ambient!####[('Ambient', 'AMBIENCE', 'positive')]
+Wir bestellten einige Rindfleisch- und Nudelsuppengerichte aus dem thailändischen Teil der Speisekarte, aber nichts von dem, was wir bekamen, war thailändisch.####[('Rindfleisch- und
+        Nudelsuppengerichte', 'FOOD', 'negative')]
+Wir werden für eine gute Mahlzeit nicht noch einmal an diesen Ort gehen.####[('Mahlzeit', 'FOOD', 'negative')]
+Ich denke jedoch, dass dieser Ort ein guter Treffpunkt ist.####[('Ort', 'AMBIENCE', 'positive')]
+Meine Freundin und ich sind neulich zufällig auf diesen angesagten Ort gestoßen und hatten eine tolle Zeit!####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Die Pizza und der Wein waren ausgezeichnet – der Service ebenfalls – aber was dieses Lokal wirklich ausmachte, war der Essbereich im Hinterhof.####[('Pizza', 'ESSEN', 'positive'), ('Wein', 'ESSEN', 'positive'), ('Service', 'SERVICE', 'positive'), ('Essbereich
+        im Hinterhof', 'AMBIENTE', 'positive')]
+Schauen Sie sich diesen Ort an!####[('
+        Ort', 'GENERAL-IMPRESSION', 'positive')]
+Zunächst einmal ist dieser Ort *nicht* romantisch, wie es in der redaktionellen Bewertung von Citysearch behauptet wird.####[('Ort', 'AMBIENCE', 'negative')]
+Die Tische stehen viel zu eng zusammen, die Speisekarte ist typisch für ein italienisches Restaurant und die Weinkarte ist schlicht überteuert.####[('Tische', 'AMBIENCE', 'negative'), ('Speisekarte', 'FOOD', 'neutral'), ('Weinkarte', 'FOOD', 'negative')]
+Etwas überdurchschnittliche Weine beginnen bei über 70 $, wobei nur eine Auswahl für über 30 $ gelistet ist.####[('
+            ', 'FOOD', 'negative'), ('Weine', 'FOOD', 'negative')]
+Der Service ist nicht das, was man von einem Lokal dieser Preiskategorie erwarten würde.####[('Service', 'SERVICE', 'negative')]
+Irgendwie ist das Verbreiten des italienischen Charmes mit ständigem Mille grazie kein richtiger Service.####[('Service', 'SERVICE', 'negative')]
+Um ganz ehrlich zu sein, war der einzige Lichtblick das Essen, das überdurchschnittlich war, aber all die anderen Mängel von Teodora nicht wettmachen konnte.####[('Essen', 'FOOD', 'positive'), ('Teodora', 'GENERAL-IMPRESSION', 'negative')]
+Keines unserer Mahlzeiten war essbar – fad und/oder mit einem seltsamen Rosmarin- oder Orangenaroma zubereitet.####[('Mahlzeiten', 'FOOD', 'negative'), ('Rosmarin-
+        oder Orangenaroma', 'FOOD', 'negative')]
+Fisch war zu lange gegart.####[('Fisch', 'FOOD', 'negative')]
+Nettes Lokal , nettes Kellner, aber ich würde nie wieder dorthin gehen.####[('
+            ', 'GENERAL-IMPRESSION', 'negative'), ('Lokal', 'AMBIENCE', 'positive'), ('Kellner', 'SERVICE', 'positive')]
+Jemand anderes hat das Dessert empfohlen – das haben wir auch weggelassen.####[('Dessert', 'FOOD', 'negative')]
+Einem von uns hat der Expresso tatsächlich geschmeckt – das war's.####[('Expresso', 'FOOD', 'positive')]
+Lassen Sie dieses Restaurant links liegen, es ist eine große Enttäuschung.####[('
+        Restaurant', 'GENERAL-IMPRESSION', 'negative')]
+Myagi ist eines meiner Lieblingsrestaurants in der Stadt; der Ort, der in den negativen Bewertungen beschrieben wird, klingt, als wäre er woanders gewesen.####[('Myagi', 'GENERAL-IMPRESSION', 'positive')]
+Ich habe noch nie einen schlechten Service erlebt und der Fisch ist frisch und köstlich.####[('
+        Service', 'SERVICE', 'positive'), ('Fisch', 'FOOD', 'positive')]
+Ihre Thunfisch-Tartar-Vorspeise ist ein Traum.####[('Thunfisch-Tartar-Vorspeise', 'FOOD', 'positive')]
+Ich komme aus einer Familie, in der Pizzerias vorhanden sind, und ich schäme mich fast, sagen zu müssen, dass die Pizza bei Fornino's die Rezepte meiner Familie in den Schatten stellt.####[('Pizza', 'FOOD', 'positive')]
+Der Ort ist so cool und der Service ist schnell und zuvorkommend.####[('Ort', 'AMBIENCE', 'positive'), ('Service', 'SERVICE', 'positive')]
+Ich kann jedem nur empfehlen, diesem Ort eine Chance zu geben.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Ein Restaurant, das nichts anderes versucht, als großartiges Essen mit großartigem Service in einer angenehmen Atmosphäre zu servieren.####[('Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive'), ('Atmosphäre', 'AMBIENCE', 'positive')]
+Hier gibt es keine Spielereien – das Essen spricht in seiner Frische und Zubereitung für sich selbst.####[('
+        Essen', 'FOOD', 'positive')]
+Das Speisezimmer ist von ruhiger Eleganz geprägt und es gibt keine Musik, die man übertönen könnte – wie erfrischend!####[('Speisezimmer', 'AMBIENCE', 'positive')]
+Der Service war tadellos und unaufdringlich – das Personal weiß, was es zu tun hat – es kennt die Speisekarte, präsentiert Ihnen Ihr Essen und kümmert sich um Ihre Wünsche.####[('Service', 'SERVICE', 'positive'), ('Personal', 'SERVICE', 'positive')]
+Als ich mich umsah, sah ich einen Raum voller New Yorker, die eine echte Mahlzeit in einem echten Restaurant genossen, und kein Clubhaus der Fabelhaften, die nur darauf aus waren, gesehen zu werden.####[('Mahlzeit', 'FOOD', 'positive'), ('Restaurant', 'AMBIENCE', 'positive')]
+Die Aussicht ist atemberaubend, der Service ist erstklassig ... das Ambiente ist wundervoll.####[('Aussicht', 'AMBIENCE', 'positive'), ('Service', 'SERVICE', 'positive'), ('Ambiente', 'AMBIENCE', 'positive')]
+Das Personal bietet einen tadellosen Service.####[('Personal', 'SERVICE', 'positive')]
+Ich hatte Hummersuppe, sie enthält 60 g Maine-Hummer.####[('Hummersuppe', 'FOOD', 'positive')]
+Mein Freund hatte den New England Chowder, der gut war, aber ich denke, der Preis sollte an die Hummersuppe gehen.####[('New England
+        Chowder', 'FOOD', 'positive'), ('Hummersuppe', 'FOOD', 'positive')]
+Mein Freund hatte Prime Rib, es war gut.####[('Prime Rib', 'FOOD', 'positive')]
+Da wir unter der Woche keine Lust auf eine Flasche Schampus hatten, holten wir uns jeder eine kleine Flasche Korbett, das war gerade genug.####[('Flasche Korbett', 'FOOD', 'positive')]
+Meine Frau und ich haben Anfang der Woche hier gegessen und kommen nicht mehr aus dem Schwärmen über das Essen heraus.####[('Essen', 'FOOD', 'positive')]
+Wenn Sie scharfes Essen mögen, probieren Sie das Chicken Vindaloo.####[('Chicken Vindaloo', 'FOOD', 'positive')]
+Gehen Sie zu Volare für erstklassigen Service und hervorragendes Essen.####[('Service', 'SERVICE', 'positive'), ('Essen', 'FOOD', 'positive')]
+Die Portionen sind groß und die Kellner überraschen uns immer mit einer anderen Vorspeise.####[('Portionen', 'FOOD', 'positive'), ('Kellner', 'SERVICE', 'positive')]
+Die Weinkarte ist ausgezeichnet.####[('Weinkarte', 'FOOD', 'positive')]
+Das Essen ist sagenhaft ... vor allem, wenn Sie das Degustationsmenü des Küchenchefs und Ihre Lieblingsflasche (oder zwei!) Wein aus einer umfangreichen Weinauswahl bekommen.####[('Essen', 'FOOD', 'positive'), ('Degustationsmenü
+        des Küchenchefs', 'FOOD', 'positive'), ('Weinauswahl', 'FOOD', 'positive')]
+Der Ort ist klein und intim und Sie könnten sich ein wenig beengt fühlen, aber der Service ist ausgezeichnet und es ist großartig für einen Ausflug mit Freunden, ein romantisches Date oder einen besonderen Anlass.####[('
+            ', 'GENERAL-IMPRESSION', 'positive'), ('Ort', 'AMBIENCE', 'negative'), ('Service', 'SERVICE', 'positive')]
+Das Essen kann teuer werden, aber das Degustationsmenü zum Festpreis bietet das beste Essen zu einem guten Preis und es wird auf Nahrungsmittelallergien und Unverträglichkeiten eingegangen.####[('Essen', 'FOOD', 'negative'), ('
+            ', 'FOOD', 'positive'), ('Degustationsmenü zum Festpreis', 'FOOD', 'positive')]
+Mit Ausnahme unseres Zitronensalats, der so viel Pfeffer enthielt, dass unsere Augen anfingen zu tränen, war das Essen hier okay, aber nicht großartig.####[('Zitronensalats', 'FOOD', 'negative'), ('Essen', 'FOOD', 'neutral')]
+Das Menü ist sehr begrenzt – ich glaube, wir haben 4 oder 5 Hauptgerichte gezählt.####[('Menü', 'FOOD', 'negative')]
+Wir bestellten das Spezialgericht, gegrillten Branzino, der so mit Knochen durchzogen war, dass er sich kaum essen ließ.####[('gegrillten
+        Branzino', 'FOOD', 'negative')]
+Die Einrichtung dieses Lokals erinnert sehr an ein Diner und ist die Art von Lokal, die man im East Village erwartet – nicht romantisch, sondern einfach, klein und spärlich.####[('Einrichtung', 'AMBIENCE', 'neutral')]
+Das Problem ist, dass bei Prune nichts besonders einprägsam ist.####[('
+        Prune', 'GENERAL-IMPRESSION', 'negative')]
+Dieser Ort macht so viel Spaß.####[('Ort', 'AMBIENCE', 'positive')]
+Unsere Familie hätte nie mit solch unglaublicher Unterhaltung in einem Restaurant gerechnet.####[('Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Unser Essen war auch großartig!####[('Essen', 'FOOD', 'positive')]
+Und richtig große Portionen .####[('Portionen', 'FOOD', 'positive')]
+Das Personal war das freundlichste, das ich in New York gesehen habe.####[('Personal', 'SERVICE', 'positive')]
+Wenn Sie etwas wirklich anderes möchten, versuchen Sie es mit Jekyll und Hyde.####[('Jekyll und Hyde', 'GENERAL-IMPRESSION', 'positive')]
+Das Essen war ziemlich traditionell, aber es war warm und gut und die Portionen waren groß.####[('Essen', 'FOOD', 'positive'), ('Portionen', 'FOOD', 'positive')]
+Der Ort macht viel Spaß.####[('Ort', 'AMBIENCE', 'positive')]
+Die Charaktere sorgen wirklich für ein unterhaltsames Erlebnis.####[('Charaktere', 'AMBIENCE', 'positive')]
+Das Essen ist jedoch das, was man erwarten könnte.####[('Essen', 'FOOD', 'negative')]
+Ich glaube jedoch, dass Jeckll und Hydes einer der Orte ist, die man gerne einmal besucht.####[('Jeckll
+        und Hydes', 'GENERAL-IMPRESSION', 'positive')]
+Der Der Service war langsam, ich musste warten, um zu bestellen und Essen zu bekommen, obwohl es nicht überfüllt war.####[('Der Service', 'SERVICE', 'negative')]
+Getränke viel zu teuer.####[('Getränke', 'FOOD', 'negative')]
+Das Essen war gut, aber nicht großartig, das Warten oder einen weiteren Besuch nicht wert####[('Das Essen', 'FOOD', 'neutral')]
+Tolle Pizza zum Mittagessen.####[('Pizza', 'FOOD', 'positive')]
+Der Service war schnell.####[('Service', 'SERVICE', 'positive')]
+Die Pizza war großartig.####[('Pizza', 'FOOD', 'positive')]
+Trinken Sie den Eistee.####[('Eistee', 'FOOD', 'positive')]
+Wann immer Sie Lust auf Sushi haben, ist Mizu mit hochwertigem Fisch und großartigem Service zur Stelle.####[('Fisch', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Die Lieferung ist auch schnell.####[('Lieferung', 'SERVICE', 'positive')]
+Toller, freundlicher Service, schnelle Platzvergabe, schnelle Lieferung, ausgezeichnetes Sushi.####[('Service', 'SERVICE', 'positive'), ('Platzvergabe', 'SERVICE', 'positive'), ('Lieferung', 'SERVICE', 'positive'), ('Sushi', 'FOOD', 'positive')]
+Ess-A-Bagel (entweder bei Sty-town oder Midtown) ist bei weitem der beste Bagel in NY.####[('Bagel', 'FOOD', 'positive')]
+Die Bagels sind immer warm, innen weich, außen knusprig und riesig groß.####[('
+            ', 'FOOD', 'positive'), ('Bagels', 'FOOD', 'positive')]
+Sie haben eine riesige Auswahl an verschiedenen Frischkäsesorten und alle ihre Salate sind großartig.####[('Frischkäsesorten', 'FOOD', 'positive'), ('Salate', 'FOOD', 'positive')]
+Auch der Lachs ist immer frisch.####[('Lachs', 'FOOD', 'positive')]
+Nicht beeindruckt vom Essen .####[('Essen', 'FOOD', 'negative')]
+Die Preise sind zu hoch für dieses enge und unattraktive Restaurant .####[('
+            ', 'AMBIENCE', 'negative'), ('Restaurant', 'GENERAL-IMPRESSION', 'negative')]
+Null Ambiente zum Booten.####[('Ambiente', 'AMBIENCE', 'negative')]
+Ich fand, dass dieser Ort völlig überbewertet war.####[('Ort', 'GENERAL-IMPRESSION', 'negative')]
+Das Ambiente war schön, aber der Service war nicht so toll.####[('Ambiente', 'AMBIENCE', 'positive'), ('Service', 'SERVICE', 'negative')]
+Dies ist das BESTE Shabu-Shabu-Restaurant im Try-State-Gebiet.####[('
+        Shabu-Shabu-Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Ich lebe seit 7 Jahren in Japan und der Geschmack des Essen und das Gefühl des Restaurants sind, als wäre ich wieder in Japan.####[('Essen', 'FOOD', 'positive'), ('Gefühl', 'AMBIENCE', 'positive')]
+Dies ist ein Muss für jeden, der Shabu-Shabu liebt.####[('
+        Shabu-Shabu', 'FOOD', 'positive')]
+Die Atmosphäre ist nichts Besonderes, aber es fühlt sich an wie ein Sushi-Restaurant in Tokio.####[('Atmosphäre', 'AMBIENCE', 'positive')]
+Der Eigentümer und das Personal sind ebenfalls alle Japaner, was zur gesamten Atmosphäre beiträgt.####[('Eigentümer', 'GENERAL-IMPRESSION', 'positive'), ('Personal', 'GENERAL-IMPRESSION', 'positive'), ('Atmosphäre', 'AMBIENCE', 'positive')]
+Trotz einer etwas eingeschränkten Speisekarte ist alles, was zubereitet wird, perfekt, ultrafrisch und ein Kunstwerk der Küche.####[('
+        Speisekarte', 'FOOD', 'negative')]
+Taxan lecker!####[('Taxan', 'FOOD', 'positive')]
+Die Preise waren GÜNSTIG im Vergleich zur Qualität des Service und des Essens.####[('Service', 'SERVICE', 'positive'), ('Essens', 'FOOD', 'positive')]
+Die Lage und das Ambiente sind ok, aber das Essen macht das wieder wett.####[('Lage', 'AMBIENCE', 'neutral'), ('Ambiente', 'AMBIENCE', 'neutral'), ('Essen', 'FOOD', 'positive')]
+Probieren Sie grünes Curry mit Gemüse .####[('grünes Curry mit Gemüse', 'FOOD', 'positive')]
+Der Service ist ok, einige Leute haben nicht bekommen, was sie wollten.####[('Service', 'SERVICE', 'neutral')]
+Ich habe die besten Ravioli aller Zeiten gegessen.####[('Ravioli', 'FOOD', 'positive')]
+Der Wein und der Service waren auch sehr gut.####[('Wein', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Diese malerische und romantische Trattoria steht ganz oben auf meiner Manhattan-Restaurantliste.####[('
+            ', 'GENERAL-IMPRESSION', 'positive'), ('Trattoria', 'AMBIENCE', 'positive')]
+Das Essen ist köstlich – von den Spezialitäten bis hin zu den normalen Menügerichten sind die Gerichte nie eine Enttäuschung.####[('Essen', 'FOOD', 'positive'), ('Spezialitäten', 'FOOD', 'positive'), ('normalen Menügerichten', 'FOOD', 'positive'), ('Gerichte', 'FOOD', 'positive')]
+Ob das Parmesan-Steinpilz-Soufflé oder das mit Balsamico-Essig glasierte Lamm, mit einem Bissen werden Sie garantiert nach Norditalien versetzt.####[('Parmesan-Steinpilz-Soufflé', 'FOOD', 'positive'), ('mit Balsamico-Essig glasierte Lamm', 'FOOD', 'positive')]
+Auch wenn die Tische nahe beieinander stehen, überkompensieren das Kerzenlicht, die Essen-Qualität und der Service dies.####[('Tische', 'AMBIENCE', 'negative'), ('Kerzenlicht', 'AMBIENCE', 'positive'), ('Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Ich kenne dieses Geheimnis seit 13 Jahren. Emilio (der Pate) serviert den Göttern weiterhin Essen und Wein zu Sterblichenpreisen.####[('
+            ', 'FOOD', 'positive'), ('Essen', 'FOOD', 'positive'), ('
+            ', 'FOOD', 'positive'), ('Wein', 'FOOD', 'positive')]
+Wenn Sie hingehen, probieren Sie die Marinara/Arrabiatta-Sauce, der Mozzarella en Carozza ist mmmmmmmm..... alles ist einfach köstlich.####[('
+        Marinara/Arrabiatta-Sauce', 'FOOD', 'positive'), ('Mozzarella
+        en Carozza', 'FOOD', 'positive')]
+Schauen Sie sich das geheime Hinterzimmer an.####[('
+        Hinterzimmer', 'AMBIENCE', 'positive')]
+Vielen Dank, Emilio .####[('Emilio', 'GENERAL-IMPRESSION', 'positive')]
+Ich fand das Essen, den Service und das Preis-Leistungs-Verhältnis jedes Mal außergewöhnlich, wenn ich dort war.####[('Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Das Essen war authentisch.####[('Essen', 'FOOD', 'positive')]
+Der Service war ausgezeichnet – freundlich und aufmerksam.####[('Service', 'SERVICE', 'positive')]
+Sehr gute Weinauswahl.####[('Weinauswahl', 'FOOD', 'positive')]
+Wer hat noch Platz für Cheesesticks mit der besten Pizza in NYC!####[('Pizza', 'FOOD', 'positive')]
+Holen Sie sich die Peperoni – LECKER – und einen Salat nach Familienart .####[('Peperoni', 'FOOD', 'positive'), ('Salat nach Familienart', 'FOOD', 'positive')]
+Tolles Personal.####[('Personal', 'SERVICE', 'positive')]
+Immer toller Service!####[('Service', 'SERVICE', 'positive')]
+Das Essen ist gut, ich kann nicht lügen.####[('Essen', 'FOOD', 'positive')]
+Aber das Personal war so schrecklich zu uns.####[('Personal', 'SERVICE', 'negative')]
+Die Hostess und die Kellnerin waren unglaublich unhöflich und taten alles, was sie konnten, um uns hinauszudrängen.####[('Hostess', 'SERVICE', 'negative'), ('Kellnerin', 'SERVICE', 'negative')]
+Wir wollten uns eigentlich einen Nachtisch holen, aber die Kellnerin hat uns die Rechnung praktisch schon vor die Nase gehalten, bevor wir überhaupt eine Chance hatten, zu bestellen.####[('Kellnerin', 'SERVICE', 'negative')]
+Dieser Ort ist teuer, und ja, das Essen ist es wert; aber der Service gibt einem das Gefühl, man müsste nur ein Viertel des Preises bezahlen.####[('Ort', 'GENERAL-IMPRESSION', 'negative'), ('Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'negative')]
+Amma ist nichts Besonderes.####[('Amma', 'GENERAL-IMPRESSION', 'neutral')]
+Ich habe hier vor einer Woche gegessen und fand die meisten Gerichte bestenfalls durchschnittlich und zu teuer.####[('
+            ', 'FOOD', 'negative'), ('Gerichte', 'FOOD', 'negative')]
+Essen Sie im Tamarind nicht wegen der vegetarischen Gerichte, diese können mit der nicht-vegetarischen Auswahl einfach nicht mithalten.####[('vegetarischen
+        Gerichte', 'FOOD', 'negative'), ('nicht-vegetarischen
+        Auswahl', 'FOOD', 'positive')]
+Das Dekor ist schön, jedoch kann der Service lückenhaft sein.####[('Dekor', 'AMBIENCE', 'positive'), ('Service', 'SERVICE', 'negative')]
+Dieser Ort ist immer überfüllt.####[('Ort', 'GENERAL-IMPRESSION', 'neutral')]
+Am wichtigsten ist, dass das Essen ausgezeichnet ist.####[('Essen', 'FOOD', 'positive')]
+Probieren Sie den Wolfsbarsch .####[('Wolfsbarsch', 'FOOD', 'positive')]
+Zuallererst: Dal Bukhara rockt.####[('Dal Bukhara', 'FOOD', 'positive')]
+Ich bin froh, dass ich es getan habe. Essen war großartig.####[('
+        Essen', 'FOOD', 'positive')]
+und ja, Dal Bukhara ist so verdammt gut und das gilt auch für alle Kebabs.####[('Dal Bukhara', 'FOOD', 'positive'), ('
+        Kebabs', 'FOOD', 'positive')]
+Haru on Park S ist einfach widerlich.####[('Haru on Park S', 'GENERAL-IMPRESSION', 'negative')]
+Der Fisch war nicht frisch und der Reis schmeckte alt und abgestanden.####[('Fisch', 'FOOD', 'negative'), ('Reis', 'FOOD', 'negative')]
+Ehrlich gesagt ist dies das schlechteste Sushi, das ich je probiert habe.####[('Sushi', 'FOOD', 'negative')]
+ehrlich gesagt das schlechteste Sushi, das mein Mann und ich in unserem ganzen Leben gegessen haben.####[('Sushi', 'FOOD', 'negative')]
+nicht sicher, warum dieses Restaurant so hoch bewertet wird.####[('Restaurant', 'GENERAL-IMPRESSION', 'negative')]
+das All-u-can-eat-Sushi ist definitiv von sehr schlechter Qualität.####[('All-u-can-eat-Sushi', 'FOOD', 'negative')]
+begrenztes Menü, nicht ganz so frische Zutaten, dünn geschnittener Fisch, zerfallender Reis.####[('Menü', 'FOOD', 'negative'), ('Zutaten', 'FOOD', 'negative'), ('Fisch', 'FOOD', 'negative'), ('Reis', 'FOOD', 'negative')]
+das Einzige, was man wirklich schmecken konnte, war die sehr salzige Sojasauce (selbst wenn sie wenig Natrium enthält), der in Essig getränkte Reis und die Frühlingszwiebel auf dem Fisch.####[('Sojasauce', 'FOOD', 'negative'), ('Reis', 'FOOD', 'negative')]
+die Kellner sind allerdings nett.####[('Kellner', 'SERVICE', 'positive')]
+Ich war zweimal bei Roth's und beide Male waren sehr enttäuschend.####[('
+        Roth's', 'GENERAL-IMPRESSION', 'negative')]
+Beide Male war ich äußerst enttäuscht vom Service, der an Unhöflichkeit grenzte.####[('Service', 'SERVICE', 'negative')]
+Das Abendessen war ok, nichts, was ich noch einmal essen würde.####[('Abendessen', 'FOOD', 'negative')]
+Ich habe zum Brunch ihre Eier Benedict gegessen, die schlechtesten meines Lebens. Ich habe versucht, die Sauce Hollandaise ganz wegzulassen, und es hat einfach nicht geklappt.####[('Eier Benedict', 'FOOD', 'negative')]
+Da das Theater zwei Blocks entfernt war, genossen wir eine köstliche Mahlzeit in einem wunderschönen Raum.####[('Mahlzeit', 'FOOD', 'positive'), ('Raum', 'AMBIENCE', 'positive')]
+Der Service war aufmerksam.####[('Service', 'SERVICE', 'positive')]
+Planet Thai ist großartig!####[('Planet Thai', 'GENERAL-IMPRESSION', 'positive')]
+Wir lieben das Essen, die Getränke und die Atmosphäre!####[('Essen', 'FOOD', 'positive'), ('Getränke', 'FOOD', 'positive'), ('Atmosphäre', 'AMBIENCE', 'positive')]
+Der Service kann manchmal etwas unhöflich sein, insbesondere wenn Sie eine große Gruppe sind, aber insgesamt ist das Restaurant ein Muss!####[('Service', 'SERVICE', 'negative'), ('Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Probieren Sie das Pad Thai, es ist fabelhaft und die Preise sind so günstig!####[('Pad Thai', 'FOOD', 'positive')]
+Bloß weil es billig ist, heißt das NICHT, dass die Portionen klein sind oder dass das Essen eklig ist, ES IST TOLL!####[('Portionen', 'FOOD', 'positive'), ('Essen', 'FOOD', 'positive')]
+Außerdem gab es zu den Sandwiches (fast 7 US-Dollar) weder Chips noch eine Beilage.####[('
+            ', 'FOOD', 'negative'), ('Sandwiches', 'FOOD', 'negative')]
+Beim Essen zu Hause rettet die Atmosphäre den Abend, aber am Schreibtisch ist es eine sehr enttäuschende Erfahrung.####[('
+        Atmosphäre', 'AMBIENCE', 'positive')]
+Chennai Garden ist mein liebstes indisches Restaurant in der Stadt.####[('Chennai Garden', 'GENERAL-IMPRESSION', 'positive')]
+Sie haben authentische indische Gerichte zu erstaunlichen Preisen.####[('
+            ', 'FOOD', 'positive'), ('indische', 'FOOD', 'positive')]
+Dieses Restaurant ist VEGETARISCH; es gibt KEINE FLEISCHGERICHTE Gerichte.####[('Gerichte', 'FOOD', 'negative')]
+Die Sitze sind unbequem, wenn man an der Wand auf Holzbänken sitzt.####[('Sitze', 'AMBIENCE', 'negative')]
+Es ist ein ziemlich enges und geschäftiges Restaurant und es schließt früh.####[('
+            ', 'AMBIENCE', 'negative'), ('Restaurant', 'GENERAL-IMPRESSION', 'negative')]
+Patroon verfügt über eine schöne Zigarrenbar und hat großartiges Personal.####[('
+        Zigarrenbar', 'AMBIENCE', 'positive'), ('Personal', 'SERVICE', 'positive')]
+Das Essen ist schmackhaft und die Portionsgrößen sind angemessen.####[('Essen', 'FOOD', 'positive'), ('Portionsgrößen', 'FOOD', 'positive')]
+Dies ist ein schönes Restaurant, wenn Sie nach einem guten Ort für ein vertrauliches Abendessen mit Geschäftspartnern suchen.####[('
+        Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Kein toller Ort für ein Abendessen mit der Familie oder für normale Gäste.####[('Ort', 'GENERAL-IMPRESSION', 'negative')]
+ICH LIEBE DIESEN ORT .####[('ORT', 'GENERAL-IMPRESSION', 'positive')]
+Das Essen ist ausgezeichnet.####[('Das Essen', 'FOOD', 'positive')]
+Fisch ist so unglaublich frisch.####[('Fisch', 'FOOD', 'positive')]
+Das Bedienungspersonal ist sehr freundlich.####[('Das Bedienungspersonal', 'SERVICE', 'positive')]
+Alles Liebe YUKA .####[('YUKA', 'GENERAL-IMPRESSION', 'positive')]
+Mermaid Inn ist insgesamt ein gutes Restaurant mit wirklich guten Meeresfrüchten.####[('Mermaid Inn', 'GENERAL-IMPRESSION', 'positive'), ('Meeresfrüchten', 'FOOD', 'positive')]
+Die Speisekarte ist begrenzt, aber fast alle Gerichte sind ausgezeichnet.####[('Speisekarte', 'FOOD', 'negative'), ('Gerichte', 'FOOD', 'positive')]
+Das Hummersandwich ist gut und die Spaghetti mit Jakobsmuscheln und Garnelen sind großartig.####[('Hummersandwich', 'FOOD', 'positive'), ('Spaghetti mit Jakobsmuscheln und
+        Garnelen', 'FOOD', 'positive')]
+Der Service ist gut und das Ambiente ist gut für ein Date oder einen Gruppenausflug.####[('Service', 'SERVICE', 'positive'), ('Ambiente', 'AMBIENCE', 'positive')]
+Der einzige Nachteil dieses Restaurants sind die Preise.####[('Restaurants', 'GENERAL-IMPRESSION', 'negative')]
+Obwohl es gute Meeresfrüchte sind, sind die Preise zu hoch.####[('
+            ', 'FOOD', 'negative'), ('Meeresfrüchte', 'FOOD', 'positive')]
+Das Hummersandwich kostet 24 $, und obwohl es gut war, war es bei weitem nicht genug, um diesen Preis zu rechtfertigen.####[('
+            ', 'FOOD', 'negative'), ('
+                ', 'FOOD', 'negative'), ('Hummersandwich', 'FOOD', 'positive')]
+Das Essen war köstlich (ich hatte ein Heilbutt-Spezial, mein Mann hatte ein Steak) und der Service war erstklassig.####[('Essen', 'FOOD', 'positive'), ('Heilbutt-Spezial', 'FOOD', 'positive'), ('Steak', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Als mein Nachtisch kam, stand eine Kerze darin – nicht weil jemand danach gefragt hatte – sondern weil der Kellner gesehen haben muss, wie ich meine Geburtstagskarte und das Geschenk öffnete, und gesagt hatte, er wüsste, dass es sich um irgendeinen besonderen Anlass handelte.####[('Kellner', 'SERVICE', 'positive')]
+Wirklich das Zeichen eines aufmerksamen Kellners.####[('Kellners', 'SERVICE', 'positive')]
+Aufgrund unserer Erfahrung von gestern Abend kann ich das Restaurant wärmstens empfehlen.####[('Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Wir haben aufgrund der Kritiken in diesem Thai-Lokal gegessen, waren jedoch mit dem Essen sehr unzufrieden.####[('Essen', 'FOOD', 'negative')]
+Wir waren der Meinung, dass an diesem Ort beim Kochen in den Lebensmitteln zu viel MSG verwendet wird.####[('Lebensmitteln', 'FOOD', 'negative')]
+Ich empfehle die Quallen, das betrunkene Hühnchen und die Suppenknödel und auf jeden Fall die gebratene Blaukrabbe.####[('Quallen', 'FOOD', 'positive'), ('betrunkene Hühnchen', 'FOOD', 'positive'), ('Suppenknödel', 'FOOD', 'positive'), ('gebratene Blaukrabbe', 'FOOD', 'positive')]
+Das Essen ist so günstig und die Kellner sind nett.####[('Essen', 'FOOD', 'positive'), ('Kellner', 'SERVICE', 'positive')]
+Ich gehe seit mehreren Jahren regelmäßig in 'ino und das Essen ist nach wie vor ausgezeichnet.####[('Essen', 'FOOD', 'positive')]
+Käseplatte ist ein abwechslungsreicher Genuss und für 10 $ ein echtes Schnäppchen.####[('
+            ', 'FOOD', 'positive'), ('
+                ', 'FOOD', 'positive'), ('Käseplatte', 'FOOD', 'positive')]
+Die große Auswahl an Bruschettas , Paninis, Tramezzinis lässt den Gaumen nicht stagnieren.####[('Bruschettas', 'FOOD', 'positive'), ('Paninis', 'FOOD', 'positive'), ('Tramezzinis', 'FOOD', 'positive')]
+(Das Bruschetta mit Spargel, Trüffelöl und Parmesan ist ein Gewinner!)####[('Bruschetta mit Spargel, Trüffelöl
+        und Parmesan', 'FOOD', 'positive')]
+Die Weinkarte ist umfangreich, ohne überteuert zu sein.####[('
+            ', 'FOOD', 'positive'), ('Weinkarte', 'FOOD', 'positive')]
+Probieren Sie unbedingt die saisonalen und stets köstlichen Spezialitäten.####[('Spezialitäten', 'FOOD', 'positive')]
+Ich habe diesen Ort geliebt!!####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Ich zögere fast, eine Bewertung zu schreiben, weil die Atmosphäre so toll war und ich es hassen würde, wenn es zu überfüllt wäre.####[('Atmosphäre', 'AMBIENCE', 'positive')]
+Das Essen war sehr gut, ein tolles Angebot, und der Ort selbst war großartig.####[('
+            ', 'FOOD', 'positive'), ('Essen', 'FOOD', 'positive'), ('
+        Ort', 'AMBIENCE', 'positive')]
+Das Kellnerpersonal ist sehr freundlich, man hat das Gefühl, in einer freundlichen kleinen europäischen Stadt zu essen.####[('Kellnerpersonal', 'SERVICE', 'positive')]
+Ich mag das Cafe Noir, verstehen Sie mich nicht falsch, es ist nur so, dass die Leute, die dort arbeiten, böse und inkompetent sind!!####[('Cafe Noir', 'GENERAL-IMPRESSION', 'positive'), ('Leute', 'SERVICE', 'negative')]
+Der Service war furchtbar, wir mussten auf alles warten und mehrere verschiedene Leute um dasselbe bitten, bevor wir bedient wurden.####[('Service', 'SERVICE', 'negative')]
+Die Kellnerin scheint mehr daran interessiert zu sein, gut auszusehen, als tatsächlich als Kellnerin zu arbeiten.####[('Kellnerin', 'SERVICE', 'negative')]
+Nach dem Abendessen schnappte sich der Manager meinen Freund und fragte ihn: „Woher kommst du? Vielleicht weißt du nicht, wie die Dinge in Amerika laufen. “ Und am Ende stürmte er fast mit Tränen in den Augen davon und schrie, dass Trinkgeld das Einzige sei, wovon sie leben.####[('Manager', 'SERVICE', 'negative')]
+Wir haben Trinkgeld gegeben, ich schätze, das Model/die Kellnerin wollte einfach mehr und hat sich beim Manager beschwert.####[('Kellnerin', 'SERVICE', 'negative')]
+Das ganze Setup ist wirklich unprofessionell und ich wünschte, das Cafe Noir hätte gutes Personal, denn trotz des jetzigen Personals ist es ein toller Ort.####[('Cafe Noir', 'GENERAL-IMPRESSION', 'positive'), ('Personal', 'SERVICE', 'negative')]
+Die Pizza ist hier durchweg gut.####[('Pizza', 'FOOD', 'positive')]
+Salate sind ein köstlicher Auftakt einer Mahlzeit.####[('Salate', 'FOOD', 'positive')]
+Auf die Calamari sollten Sie verzichten.####[('Calamari', 'FOOD', 'negative')]
+Das Dekor ist charmant.####[('Das Dekor', 'AMBIENCE', 'positive')]
+Der Service ist durchschnittlich.####[('Service', 'SERVICE', 'neutral')]
+Was für ein großartiger Ort.####[('
+        Ort', 'GENERAL-IMPRESSION', 'positive')]
+Das Ambiente hat so viel Spaß gemacht und die Preise waren super. Außerdem war das Essen wirklich lecker.####[('Ambiente', 'AMBIENCE', 'positive'), ('Essen', 'FOOD', 'positive')]
+Ich würde SEA auf jeden Fall empfehlen, wenn Sie die thailändische Küche mögen!####[('thailändische Küche', 'FOOD', 'positive')]
+Ich war vor ein paar Wochen hier und wir hatten das schlimmste Kundenservice-Erlebnis, das ich jemals in einem Restaurant erlebt habe.####[('Kundenservice-Erlebnis', 'SERVICE', 'negative')]
+Ein Gentleman, möglicherweise der Manager, kam an unseren Tisch und fragte ohne ein Lächeln oder einen Gruß nach unserer Bestellung.####[('Gentleman', 'SERVICE', 'negative')]
+Ich war von diesem Ort absolut begeistert.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Hervorragende Atmosphäre, leckere Gerichte, guter und freundlicher Service.####[('Atmosphäre', 'AMBIENCE', 'positive'), ('Gerichte', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Auch die Weinkarte ist wirklich gut.####[('Weinkarte', 'FOOD', 'positive')]
+Alles war wunderbar; Essen , Getränke, Personal, Mileau.####[('Essen', 'FOOD', 'positive'), ('Getränke', 'FOOD', 'positive'), ('Personal', 'SERVICE', 'positive'), ('Mileau', 'AMBIENCE', 'positive')]
+Ich kann diesen Ort wärmstens empfehlen!####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Ich war über fünfmal im Casimir und hatte dort immer eine tolle Zeit.####[('
+        Casimir', 'GENERAL-IMPRESSION', 'positive')]
+Das Essen ist großartig und der Preis war angemessen.####[('
+            ', 'FOOD', 'positive'), ('Essen', 'FOOD', 'positive')]
+Ich habe versucht, eine Reservierung vorzunehmen, aber beide Male kannte die Hostess meinen Namen nicht.####[('Hostess', 'SERVICE', 'negative')]
+Versuchen Sie bei schönem Wetter, einen Tisch draußen zu ergattern.####[('Tisch draußen', 'AMBIENCE', 'positive')]
+Das Personal war nett, aber sie wirkten sehr gestresst und das Unisex-Badezimmer muss öfter gereinigt werden.####[('
+            ', 'SERVICE', 'negative'), ('Personal', 'SERVICE', 'positive'), ('Unisex-Badezimmer', 'AMBIENCE', 'negative')]
+Vom spektakulären Kaviar bis hin zum gastfreundlichen Kellnerpersonal fühlte ich mich wie ein König und habe jede Sekunde genossen.####[('Kaviar', 'FOOD', 'positive'), ('
+        Kellnerpersonal', 'SERVICE', 'positive')]
+Wenn man bedenkt, dass wir die letzten Gäste dort waren und es schon nach der Schließung war, hat uns das Kellnerpersonal überhaupt nicht gehetzt und wir haben uns wohl und entspannt gefühlt.####[('
+        Kellnerpersonal', 'SERVICE', 'positive')]
+Ich kann Caviar Russe jedem wärmstens empfehlen, der köstlichen Kaviar der Spitzenklasse und einen fantastischen Service möchte.####[('Kaviar', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Nettes, traditionelles, familiengeführtes Restaurant.####[('Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Frische Zutaten und alles wird auf Bestellung zubereitet.####[('Zutaten', 'FOOD', 'positive')]
+Freundliches Personal, das dafür sorgt, dass Sie Ihr Essen und die Gesellschaft, in der Sie sich befinden, wirklich genießen.####[('Personal', 'SERVICE', 'positive')]
+Ich fand das Essen hervorragend, insbesondere das Lachsgericht, das ich hatte.####[('Essen', 'FOOD', 'positive'), ('Lachsgericht', 'FOOD', 'positive')]
+Ich habe auch den Change Mojito bestellt, der nicht von dieser Welt war.####[('Change Mojito', 'FOOD', 'positive')]
+Meine Freunde gaben sich mit Reisgerichten zufrieden, aber wir kamen am nächsten Tag zurück, um das Dim Sum zu probieren, das gut war … nicht herausragend, aber gut.####[('Dim Sum', 'FOOD', 'neutral')]
+Wir haben draußen auf der Hinterterrasse gegessen, was sich lohnt, da es kühl ist und man dort die Musik gut hören kann.####[('
+        Hinterterrasse', 'AMBIENCE', 'positive'), ('Musik', 'AMBIENCE', 'positive')]
+Insgesamt ein ausgezeichnetes Restaurant!####[('Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Das Essen war gut.####[('Essen', 'FOOD', 'positive')]
+Der Ort war schön und ruhig.####[('Ort', 'AMBIENCE', 'positive')]
+aber der Dienst war etwas langsam.####[('Dienst', 'SERVICE', 'negative')]
+Das Buffet bot eine schöne Auswahl.####[('Buffet', 'FOOD', 'positive')]
+Das Essen war durchschnittlich oder besser und beinhaltete einige überraschend leckere Gerichte.####[('Essen', 'FOOD', 'positive'), ('Gerichte', 'FOOD', 'positive')]
+Der Service war auch sehr gut.####[('Service', 'SERVICE', 'positive')]
+Ich bekam ein ausgezeichnetes Stück Käsekuchen und wir hatten mehrere andere leckere Gebäckstücke.####[('
+        Käsekuchen', 'FOOD', 'positive'), ('Gebäckstücke', 'FOOD', 'positive')]
+Ich würde dafür Roxy’s empfehlen, aber nicht wegen des Essens.####[('Essens', 'FOOD', 'negative')]
+Mein Sohn und seine Freundin wollten beide Cheeseburger und sie waren riesig!####[('Cheeseburger', 'FOOD', 'neutral')]
+Folglich zerfielen ihre Burger in ihren Händen und hinterließen eine solche Sauerei, dass sie keine Lust hatten, sie aufzuessen.####[('Burger', 'FOOD', 'negative')]
+Ich hatte ein riesiges Pastrami-Sandwich auf einem Brötchen.####[('Pastrami-Sandwich
+        auf einem Brötchen', 'FOOD', 'neutral')]
+Dieser Ort ist wirklich im Trend, aber sie haben den wichtigsten Teil eines Restaurants vergessen, das Essen.####[('Ort', 'AMBIENCE', 'positive'), ('Essen', 'FOOD', 'negative')]
+Die letzten beiden Male, als ich hier bestellt habe, war mein Essen so scharf, dass ich es kaum essen konnte, und die Würze haben dem Gericht seinen Geschmack genommen.####[('Essen', 'FOOD', 'negative'), ('Würze', 'FOOD', 'negative')]
+Und die Tom-Kha-Suppe war erbärmlich.####[('Tom-Kha-Suppe', 'FOOD', 'negative')]
+Wenn Sie gutes, authentisches Thailändisches Essen möchten, ist dieser Ort nicht der richtige Ort für Sie.####[('
+        Thailändisches', 'FOOD', 'negative')]
+Wir waren vor ein paar Wochen an einem Samstag hier zum Mittagessen und ich war vom Essen sehr beeindruckt.####[('Essen', 'FOOD', 'positive')]
+Die Pesto-Pizza war ausgezeichnet, eine Pizza mit dünnem Boden und einer schönen Menge an würzigem italienischen Käse, von dem ich noch nie zuvor gehört hatte.####[('Pesto-Pizza', 'FOOD', 'positive'), ('würzigem italienischen Käse', 'FOOD', 'positive')]
+Der Sitzbereich im Hintergarten ist sehr angenehm und bietet einen Blick auf den persönlichen Kräutergarten.####[('Sitzbereich im Hintergarten', 'AMBIENCE', 'positive')]
+Wir hatten das Hummersandwich und es war FANTASTISCH.####[('Hummersandwich', 'FOOD', 'positive')]
+Mein Mann meinte, er hätte noch mehrere essen können, mir war die Portion völlig in Ordnung, er rief sogar aus, die Pommes Frites seien die besten gewesen, die er je gegessen habe.####[('Portion', 'FOOD', 'positive'), ('Pommes Frites', 'FOOD', 'positive')]
+Wir hatten die Jakobsmuscheln als Vorspeise und sie waren köstlich und die Sauce war wunderbar.####[('Jakobsmuscheln', 'FOOD', 'positive'), ('
+        Sauce', 'FOOD', 'positive')]
+Wir warteten an der Bar und tranken Martinis, die genau richtig waren.####[('
+        Martinis', 'FOOD', 'positive')]
+liebe das Essen.####[('Essen', 'FOOD', 'positive')]
+es ist der einzige Ort, an dem Sie leckeres, authentisches japanisches Wohlfühlessen bekommen.####[('japanisches Wohlfühlessen', 'FOOD', 'positive')]
+Ich lebe seit 5 Jahren in New York und dieser Ort hat alles.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Tolles Essen, schöne Größe der Speisekarte, toller Service und ein unprätensives Ambiente.####[('Essen', 'FOOD', 'positive'), ('Speisekarte', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive'), ('Ambiente', 'AMBIENCE', 'positive')]
+Die angebotenen Gerichte waren einzigartig, sehr lecker und frisch, von den Lammwürstchen, Sardinen mit Keksen, großen ganzen Garnelen bis hin zum unglaublichen Pistazieneis (das beste und frischeste, das ich je gegessen habe).####[('Gerichte', 'FOOD', 'positive'), ('Lammwürstchen', 'FOOD', 'positive'), ('Sardinen mit Keksen', 'FOOD', 'positive'), ('großen ganzen Garnelen', 'FOOD', 'positive'), ('Pistazieneis', 'FOOD', 'positive')]
+Ich bin froh, dass ich diesen Ort kennengelernt habe, und das ist ein seltenes Juwel in New York.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Die frischesten, besten Sorten und die schnellste Lieferung.####[('Lieferung', 'SERVICE', 'positive')]
+Der Service war ausgezeichnet und das Essen war köstlich.####[('Service', 'SERVICE', 'positive'), ('Essen', 'FOOD', 'positive')]
+Wir legen großen Wert auf Sushi und waren beide mit jeder Auswahl zufrieden, die Folgendes umfasste: Ceviche-Mischung (spezial), Krabbenknödel, verschiedene Sashimi, Sushi und Rollen, zwei Sorten Sake und das Bananentempura.####[('Sushi', 'FOOD', 'positive'), ('Ceviche-Mischung (spezial)', 'FOOD', 'positive'), ('Krabbenknödel', 'FOOD', 'positive'), ('verschiedene Sashimi', 'FOOD', 'positive'), ('Sushi', 'FOOD', 'positive'), ('Rollen', 'FOOD', 'positive'), ('Sake', 'FOOD', 'positive'), ('Bananentempura', 'FOOD', 'positive')]
+Auf jeden Fall ein toller Ort für einen schönen Anlass oder ein Date.####[('
+        Ort', 'GENERAL-IMPRESSION', 'positive')]
+Durchschnittliches bis gutes Thai-Essen, aber schreckliche Lieferung.####[('Thai-Essen', 'FOOD', 'positive'), ('Lieferung', 'SERVICE', 'negative')]
+Ein Thai-Restaurant hat beim Abendessen keinen Reis mehr?####[('Thai-Restaurant', 'GENERAL-IMPRESSION', 'negative')]
+Das Essen kam 20 Minuten nach meinem Anruf an, kalt und matschig.####[('Essen', 'FOOD', 'negative')]
+Dies ist in jeder Hinsicht ein wunderbarer Ort , insbesondere was das Preis-Leistungs-Verhältnis betrifft.####[('
+            ', 'GENERAL-IMPRESSION', 'positive'), ('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Ein ausgezeichneter Service####[('Service', 'SERVICE', 'positive')]
+Wir wurden umgehend vom Kellner begrüßt, der sehr nett und herzlich war.####[('Kellner', 'SERVICE', 'positive')]
+Sie war sehr hilfsbereit, was Getränkeempfehlungen angeht, und half uns beim Bestellen vieler guter Gerichte, da wir keine Ahnung von indischem Essen hatten.####[('Gerichte', 'FOOD', 'positive')]
+Das Essen sah sehr appetitlich und lecker aus, da es auf verschiedenen, schicken Tellern serviert wurde.####[('Essen', 'FOOD', 'positive')]
+Wir beendeten unser großartiges Erlebnis mit der Empfehlung des Kellners Gulab Jamun (Dessert).####[('Gulab Jamun (Dessert)', 'FOOD', 'positive')]
+Ich habe meinem Freund gedankt, der mir dieses Restaurant empfohlen hat, und werde es sicherlich weiterempfehlen.####[('Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Der Service hier war großartig, das Essen war fantastisch.####[('Service', 'SERVICE', 'positive'), ('Essen', 'FOOD', 'positive')]
+Die Guacamole+Garnelen-Vorspeise war wirklich großartig, wir hatten beide das Filet, sehr gut, die dazu gereichten Pommes mochten wir nicht besonders, aber das Filet war so gut, dass es keinem von uns etwas ausgemacht hat.####[('Guacamole+Garnelen-Vorspeise', 'FOOD', 'positive'), ('
+        Filet', 'FOOD', 'positive'), ('Pommes', 'FOOD', 'negative')]
+Mit diesem Ort können Sie nichts falsch machen.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Das Essen ist hervorragend und der Service ist schnell, freundlich und sehr professionell.####[('Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Immer ein nettes Publikum, aber nie laut.####[('Publikum', 'GENERAL-IMPRESSION', 'positive')]
+Ich zögere, zu schreiben, weil ich nicht möchte, dass mein Juwel von einer Pizzeria überfüllt wird.####[('Pizzeria', 'GENERAL-IMPRESSION', 'positive')]
+Mit Abstand die beste Pizza in Manhattan.####[('Pizza', 'FOOD', 'positive')]
+Die Kruste ist dünn, die Zutaten sind frisch und das Personal ist freundlich.####[('Kruste', 'FOOD', 'positive'), ('Zutaten', 'FOOD', 'positive'), ('Personal', 'SERVICE', 'positive')]
+Das Menü bietet viele Fischgerichte und Austern.####[('Menü', 'FOOD', 'positive')]
+Der Fisch war wirklich, wirklich frisch.####[('Fisch', 'FOOD', 'positive')]
+Wir waren uns alle einig, dass mare eines der besten Fischrestaurants in New York ist.####[('mare', 'GENERAL-IMPRESSION', 'positive')]
+Ich bin zufällig auf diese tolle Pizzeria gestoßen, als ich meine neue Nachbarschaft erkundet habe.####[('Pizzeria', 'GENERAL-IMPRESSION', 'positive')]
+Alle Pizzen sind großartig und der Preis ist sogar noch besser!####[('
+            ', 'FOOD', 'positive'), ('Pizzen', 'FOOD', 'positive')]
+Ich kann die Sophia-Pizza wärmstens empfehlen.####[('Sophia-Pizza', 'FOOD', 'positive')]
+Das Essen war bestenfalls mittelmäßig, aber es war der schreckliche Service, der mich schwören ließ, nie wieder dorthin zurückzukehren.####[('Essen', 'FOOD', 'negative'), ('
+        Service', 'SERVICE', 'negative')]
+Unmittelbar nachdem wir bezahlt hatten, nahm der Kellner das Geld und sagte: „Okay, ihr könnt jetzt raus.“####[('Kellner', 'SERVICE', 'negative')]
+Für Leute, die großartiges Essen und großartigen Service wollen, ist Roxy ein Ort, den man VERMEIDEN sollte!####[('Essen', 'FOOD', 'negative'), ('Service', 'SERVICE', 'negative')]
+Beim ersten Mal war das Sushi hervorragend, beim zweiten Mal war es ein wenig fad.####[('
+            ', 'FOOD', 'negative'), ('Sushi', 'FOOD', 'positive')]
+Das helle Holzdekor ist sehr beruhigend, der Premium-Sake ist ausgezeichnet und der Service ist großartig.####[('helle Holzdekor', 'AMBIENCE', 'positive'), ('Premium-Sake', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Mizu ist der japanische Fund in Grammercy.####[('Mizu', 'GENERAL-IMPRESSION', 'positive')]
+Während ihr Küchenessen köstlich ist, ist ihr Sushi nicht von dieser Welt.####[('Küchenessen', 'FOOD', 'positive'), ('Sushi', 'FOOD', 'positive')]
+Mizu ist die Heimat kreativer und einzigartiger Rollen, die es sonst nirgendwo gibt.####[('Rollen', 'FOOD', 'positive')]
+Nicht nur ist die Küche die beste weit und breit, auch der Service war stets aufmerksam und charmant.####[('Küche', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Achtung: Nach einem Besuch bei Mizu fällt es Ihnen möglicherweise schwer, in anderen japanischen Restaurants zu speisen!####[('Mizu', 'GENERAL-IMPRESSION', 'positive')]
+Thalia ist ein schönes Restaurant mit wunderbaren Leuten, die Sie bedienen, aber das Essen kann dem nicht ganz gerecht werden.####[('Thalia', 'AMBIENCE', 'positive'), ('Leuten', 'SERVICE', 'positive'), ('Essen', 'FOOD', 'negative')]
+Ich habe die Vorspeise mit geräuchertem Lachs und Rogen bestellt, aber der Geschmack war geschmacklos.####[('Vorspeise mit geräuchertem
+        Lachs und Rogen', 'FOOD', 'negative')]
+Die Vorspeise war fad und klein, der Nachtisch nicht besonders inspirierend.####[('
+            ', 'FOOD', 'negative'), ('Vorspeise', 'FOOD', 'negative'), ('Nachtisch', 'FOOD', 'negative')]
+Von einem so teuren Menü habe ich deutlich mehr erwartet.####[('
+            ', 'FOOD', 'negative'), ('Menü', 'FOOD', 'negative')]
+Die Aussicht ist spektakulär und das Essen ist großartig.####[('Aussicht', 'AMBIENCE', 'positive'), ('Essen', 'FOOD', 'positive')]
+Und auch wunderbare Erdbeer-Daiquiries !####[('Erdbeer-Daiquiries', 'FOOD', 'positive')]
+Authentisches taiwanesisches Essen , das günstig ist … was will man mehr?####[('
+            ', 'FOOD', 'positive'), ('taiwanesisches Essen', 'FOOD', 'positive')]
+Die kalten Vorspeisen schmecken so, wie ich sie aus meiner Kindheit in Taiwan in Erinnerung habe.####[('kalten Vorspeisen', 'FOOD', 'positive')]
+köstliches, einfaches Essen in angenehmer Atmosphäre im Freien .####[('
+            ', 'FOOD', 'positive'), ('Essen', 'FOOD', 'positive'), ('Atmosphäre im Freien', 'AMBIENCE', 'positive')]
+Freundliches, aufmerksames Kellner .####[('Kellner', 'SERVICE', 'positive')]
+Ich mag sowohl die Jakobsmuscheln als auch den Mahi Mahi (auf Safranrisotto – lecker!).####[('Jakobsmuscheln', 'FOOD', 'positive'), ('Mahi Mahi (auf Safranrisotto', 'FOOD', 'positive')]
+Meine Freundin verschlang ihr Hühnchen und Kartoffelbrei.####[('Hühnchen
+        und Kartoffelbrei', 'FOOD', 'positive')]
+Und auch köstliche Krabbenkuchen .####[('Krabbenkuchen', 'FOOD', 'positive')]
+Selbst wenn das Essen nicht so gut wäre, ist der Garten ein toller Ort, um draußen zu sitzen und zu entspannen.####[('Essen', 'FOOD', 'positive'), ('Garten', 'AMBIENCE', 'positive')]
+Tolle Nachbarschaft gemeinsam.####[('
+        gemeinsam', 'GENERAL-IMPRESSION', 'positive')]
+Dies ist eine nette Pizzeria mit einer guten Auswahl an Pizza mit dünnem Boden , einschließlich des Basilikumstücks .####[('
+        Pizzeria', 'GENERAL-IMPRESSION', 'positive'), ('
+            ', 'FOOD', 'positive'), ('Auswahl an Pizza mit dünnem Boden', 'FOOD', 'positive'), ('Basilikumstücks', 'FOOD', 'positive')]
+Ihre Calzone sind schrecklich, schlecht, zum Kotzen, IGITTT.####[('Calzone', 'FOOD', 'negative')]
+Der Schalterservice ist schlecht.####[('Schalterservice', 'SERVICE', 'negative')]
+KEINE PIZZA 33 für mich!####[('PIZZA 33', 'GENERAL-IMPRESSION', 'negative')]
+Die Dosas sind dürftig, unansehnlich und triefen vor Fett, und ich persönlich würde eher Popcorn-Topping trinken, als noch eine davon zu essen.####[('
+            ', 'FOOD', 'negative'), ('Dosas', 'FOOD', 'negative')]
+Die Sandwiches sind trocken, geschmacklos und viel zu teuer.####[('
+            ', 'FOOD', 'negative'), ('Sandwiches', 'FOOD', 'negative')]
+Wenn man das Lokal Hampton Chutney Co. anruft, ist man zwar gewarnt, dass diese Leute mehr Stil als Substanz bieten, aber in diesem unattraktiven Raum mit den nicht hilfsbereiten Angestellten herrschte auch hiervon ein Mangel.####[('Lokal', 'GENERAL-IMPRESSION', 'negative'), ('Raum', 'AMBIENCE', 'negative'), ('Angestellten', 'SERVICE', 'negative')]
+Im Ernst, dieser Ort ist der Hammer.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Die Atmosphäre ist beispiellos, der Service tadellos und das Essen großartig.####[('Atmosphäre', 'AMBIENCE', 'positive'), ('Service', 'SERVICE', 'positive'), ('Essen', 'FOOD', 'positive')]
+Das beste italienische Essen, das ich je gegessen habe (und da ich Italiener bin, bedeutet mir das eine Menge).####[('italienische Essen', 'FOOD', 'positive')]
+Dies ist so ein schöner, friedlicher Ort, um draußen zu essen.####[('Ort', 'AMBIENCE', 'positive')]
+Das Restaurant blickt über wunderschöne grüne Rasenflächen auf den Hudson River und die Freiheitsstatue.####[('Restaurant', 'AMBIENCE', 'positive')]
+Das Essen ist gut, insbesondere die eher einfachen Gerichte, und die Getränke sind köstlich.####[('Essen', 'FOOD', 'positive'), ('einfachen Gerichte', 'FOOD', 'positive'), ('Getränke', 'FOOD', 'positive')]
+Dies ist ein großartiger Ort, um Besucher von außerhalb mitzunehmen, und perfekt, um den Sonnenuntergang zu beobachten.####[('Ort', 'AMBIENCE', 'positive')]
+Tolles Sushi-Erlebnis.####[('Sushi', 'FOOD', 'positive')]
+Einzigartige Vorspeisen.####[('Vorspeisen', 'FOOD', 'positive')]
+Probieren Sie die Sushimi-Gurkenrolle .####[('Sushimi-Gurkenrolle', 'FOOD', 'positive')]
+Gute Aufstriche, tolle Getränkeauswahl und Bagels, wirklich lecker.####[('Aufstriche', 'FOOD', 'positive'), ('Getränkeauswahl', 'FOOD', 'positive'), ('Bagels', 'FOOD', 'positive')]
+Aber wer sagt, dass es bei Murray’s um Service geht?####[('Service', 'SERVICE', 'negative')]
+Der Service ist furchtbar.####[('Service', 'SERVICE', 'negative')]
+Dieser Ort ist die Preise nicht wert.####[('
+            ', 'GENERAL-IMPRESSION', 'negative'), ('Ort', 'GENERAL-IMPRESSION', 'negative')]
+Liebe Pizza 33 ..####[('Pizza 33', 'GENERAL-IMPRESSION', 'positive')]
+Ich bin mit Freunden unterwegs und plötzlich habe ich Hunger und habe nur Appetit auf eines … ihre Pizza.####[('Pizza', 'FOOD', 'positive')]
+Dieser winzige Fleck in Williamsburg ist immer wieder eine angenehme Überraschung.####[('Fleck in
+        Williamsburg', 'GENERAL-IMPRESSION', 'positive')]
+Die Pizza ist köstlich und der Besitzer ist einer der nettesten in NYC.####[('Pizza', 'FOOD', 'positive'), ('Besitzer', 'SERVICE', 'positive')]
+Der Frischkäse ist nicht von dieser Welt und ich liebe diesen Kaffee !!####[('Frischkäse', 'FOOD', 'positive'), ('Kaffee', 'FOOD', 'positive')]
+Bagels sind ok, aber äußern Sie auf keinen Fall Sonderwünsche!####[('Bagels', 'FOOD', 'neutral')]
+Ich habe nach einem belegten Käsesandwich gefragt, und der Manager hat mir im Grunde gesagt, ich solle woanders einkaufen!####[('Manager', 'SERVICE', 'negative')]
+Achten Sie darauf, nichts anderes als Bagels zu kaufen!..####[('
+        Bagels', 'FOOD', 'positive')]
+die Truthahnburger sind furchterregend!####[('Truthahnburger', 'FOOD', 'negative')]
+Die schlechteste Ausrede für japanisches Essen, die ich je gehört habe.####[('japanisches
+        Essen', 'FOOD', 'negative')]
+Die Suppe für die Udon bestand aus Sojasauce und Wasser.####[('Suppe für die Udon', 'FOOD', 'negative')]
+Das Sushi war furchtbar!####[('Sushi', 'FOOD', 'negative')]
+Der Reis war von schlechter Qualität und so schlecht gekocht, dass er hart war.####[('Reis', 'FOOD', 'negative')]
+Darüber hinaus war der Reis nicht gewürzt, sodass das Sushi fad und ekelhaft war.####[('Reis', 'FOOD', 'negative'), ('Sushi', 'FOOD', 'negative')]
+Der Fisch war ausreichend, aber nicht fachmännisch geschnitten.####[('Fisch', 'FOOD', 'negative')]
+Es ist offensichtlich, dass niemand im Restaurant Ahnung oder Erfahrung mit der japanischen Küche hat.####[('japanischen Küche', 'FOOD', 'negative')]
+Guter, schneller Service .####[('Service', 'SERVICE', 'positive')]
+Essen ist großartig und preiswert.####[('
+            ', 'FOOD', 'positive'), ('Essen', 'FOOD', 'positive')]
+Die Lage ist perfekt.####[('Lage', 'AMBIENCE', 'positive')]
+Also, dieser Ort ist so Ghetto, dass es nicht einmal lustig ist.####[('Ort', 'AMBIENCE', 'negative')]
+Wenn Sie Ihre Musik gerne laut hören, die Anlage aber nicht so toll ist und Sie bereit sind, mindestens 100 Dollar pro Flasche zu bezahlen, dann werden Sie es hier lieben.####[('Musik', 'AMBIENCE', 'negative'), ('Flasche', 'FOOD', 'negative')]
+Fantastische Pizza, insbesondere das Stück Margheritta .####[('Pizza', 'FOOD', 'positive'), ('Stück Margheritta', 'FOOD', 'positive')]
+Tolle Atmosphäre und jeden Cent wert.####[('Atmosphäre', 'AMBIENCE', 'positive')]
+Winnie und ihr Personal sind die beste Crew, die Sie finden können.####[('Winnie', 'SERVICE', 'positive'), ('Personal', 'SERVICE', 'positive')]
+Das Essen ist zuverlässig und der Preis ist moderat.####[('Essen', 'FOOD', 'positive')]
+Für authentisches thailändisches Essen sind Sie bei Toons an der richtigen Adresse.####[('thailändisches Essen', 'FOOD', 'positive')]
+Probieren Sie das Pad Thai oder probieren Sie irgendetwas von der Vorspeisenkarte ... alles ist köstlich.####[('Pad Thai', 'FOOD', 'positive'), ('
+        Vorspeisenkarte', 'FOOD', 'positive')]
+Alles an diesem Restaurant war etwas Besonderes.####[('
+        Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Der Service war aufmerksam, aber diskret.####[('Service', 'SERVICE', 'positive')]
+Die Brioche und Lollis als Partygeschenke verleihen einer unvergesslichen Mahlzeit eine nette und süße Note.####[('Brioche und Lollis', 'FOOD', 'positive')]
+Der Ort war ruhig und herrlich.####[('Ort', 'AMBIENCE', 'positive')]
+Der Service war gut und das Essen ist wunderbar.####[('Service', 'SERVICE', 'positive'), ('Essen', 'FOOD', 'positive')]
+Ich habe den Kaviar nicht probiert, aber ich habe ihren Lachs und Krabbensalat probiert (sie sind alle gut)####[('Lachs', 'FOOD', 'positive'), ('Krabbensalat', 'FOOD', 'positive')]
+Es ist auf jeden Fall ein guter Ort für Snacks und Gespräche.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Als Hipster im Ruhestand kann ich mit einiger Sicherheit sagen, dass Lucky Strike im letzten Jahr die entspannteste Late-Night-Party der Stadt war.####[('Lucky Strike', 'GENERAL-IMPRESSION', 'positive')]
+Das Kellnerpersonal ist nett, unterhaltsam und größtenteils hinreißend (im Sinne einer wunderbaren ästhetischen Verschönerung, nicht im Sinne von „sie ist viel süßer als ich, diese Schlampe“).####[('Kellnerpersonal', 'SERVICE', 'positive')]
+Das Essen ist lecker, insbesondere die perfekt zubereiteten Muscheln in würziger Tomatensoße und die hauchdünnen, knusprigen Pommes.####[('Essen', 'FOOD', 'positive'), ('Muscheln
+        in würziger Tomatensoße', 'FOOD', 'positive'), ('Pommes', 'FOOD', 'positive')]
+Aber das Beste an LS ist die Atmosphäre bis spät in die Nacht, erfreulich frei von BTs.####[('Atmosphäre
+        bis spät in die Nacht', 'AMBIENCE', 'positive')]
+Sie erhalten einen absolut köstlichen Martini im Glas (das entspricht etwa 2 1/2 Drinks) für 8,50 $ (ich empfehle das Vanilla Shanty, mmmm!) in einem tollen, heimeligen Ambiente mit toller Musik.####[('
+            ', 'FOOD', 'positive'), ('
+                ', 'FOOD', 'positive'), ('Martini', 'FOOD', 'positive'), ('Vanilla Shanty', 'FOOD', 'positive'), ('Ambiente', 'AMBIENCE', 'positive'), ('Musik', 'AMBIENCE', 'positive')]
+Die hauseigene DJane hat am Samstagabend einen unglaublich guten Musikgeschmack und nimmt darüber hinaus auch Musikwünsche entgegen.####[('hauseigene DJane', 'AMBIENCE', 'positive')]
+Mit diesem Ort können Sie nichts falsch machen.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Suan ist ein toller Ort, zu dem ich meine Freunde (Klassenkameraden) oft mitnehme.####[('Suan', 'GENERAL-IMPRESSION', 'positive')]
+Die Lage ist gut und die Tatsache, dass das Hutner College in der Nähe ist und die Preise sehr vernünftig sind, veranlasst die Studenten, immer wieder nach Suan zurückzukehren.####[('Lage', 'AMBIENCE', 'positive'), ('Suan', 'GENERAL-IMPRESSION', 'positive')]
+Ich LIEBE ihr Thai####[('Thai', 'FOOD', 'positive')]
+Nudeln mit Garnelen und Hühnchen und Kokossaft sind ein MUSS!####[('Nudeln mit Garnelen und Hühnchen und
+        Kokossaft', 'FOOD', 'positive')]
+Ich werde bald zu Suan zurückkehren!####[('Suan', 'GENERAL-IMPRESSION', 'positive')]
+Essen Sie im Sommer draußen auf einer Terrasse (ein weiteres großartiges Merkmal von Suan)!!!####[('Terrasse', 'AMBIENCE', 'positive')]
+Ich kann mir kein freundlicheres Personal vorstellen, das in einem Restaurant arbeitet.####[('
+        Personal', 'SERVICE', 'positive')]
+Ich kann mir in der ganzen Stadt kein besseres indisches Essen vorstellen.####[('indisches Essen', 'FOOD', 'positive')]
+Im Laufe der letzten drei Monate kam es zu einem Wechsel beim Koch und beim Personal, und das nicht zum Besseren.####[('Koch', 'FOOD', 'negative'), ('Personal', 'SERVICE', 'negative')]
+Der food ist jetzt inkonsistent.####[('food', 'FOOD', 'negative')]
+Dies ist die Art von Ort, an den Sie alle Ihre Freunde mitnehmen und dennoch ein Geheimnis bewahren möchten.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Das Ambiente ist zwanglos und romantisch.####[('Ambiente', 'AMBIENCE', 'positive')]
+Das Essen ist ausgezeichnet!####[('Essen', 'FOOD', 'positive')]
+Wenn Sie mutig sind, probieren Sie den Balsamico-Essig über Eiscreme, er ist wunderbar!####[('Balsamico-Essig
+        über Eiscreme', 'FOOD', 'positive')]
+Bestellen Sie nicht die Go Go Hamburgers, egal was in den Kritiken steht.####[('Go Go
+        Hamburgers', 'FOOD', 'negative')]
+Der Rest des Dim Sum ist zwar für Chinatown-Verhältnisse teuer, aber sein Geld wert.####[('
+            ', 'FOOD', 'positive'), ('Dim Sum', 'FOOD', 'negative')]
+Die Wartezeit hier für Dim Sum ist lang, aber wenn Sie nicht gerne Tische teilen oder die typische laute Dim Sum-Atmosphäre nicht Ihr Ding ist, ist dies eine elegante (für Chinatown) Alternative.####[('Wartezeit', 'SERVICE', 'negative'), ('Atmosphäre', 'AMBIENCE', 'negative')]
+Ein paar Tipps: Lassen Sie den Rübenkuchen, die Brötchen mit Schweinebraten und den Eierpudding weg.####[('
+        Rübenkuchen', 'FOOD', 'negative'), ('Brötchen mit
+        Schweinebraten', 'FOOD', 'negative'), ('
+        Eierpudding', 'FOOD', 'negative')]
+Das Essen war außergewöhnlich.####[('Essen', 'FOOD', 'positive')]
+Ich entschied mich für eines der Spezialitäten, die geschmorte Lammkeule in Rotwein, die ausgezeichnet war.####[('geschmorte Lammkeule in Rotwein', 'FOOD', 'positive')]
+Der Service war freundlich und die Atmosphäre locker.####[('Service', 'SERVICE', 'positive'), ('Atmosphäre', 'AMBIENCE', 'neutral')]
+Das Restaurant ist etwas laut, aber das kann man übersehen, wenn man sich hinsetzt und eine tolle Mahlzeit genießt.####[('Restaurant', 'AMBIENCE', 'neutral'), ('Mahlzeit', 'FOOD', 'positive')]
+dieser kleine Ort hat eine hübsche Inneneinrichtung und erschwingliche Stadtpreise.####[('Ort', 'GENERAL-IMPRESSION', 'positive'), ('Inneneinrichtung', 'AMBIENCE', 'positive')]
+das Pad Se Ew Chicken war köstlich, das Pad Thai war jedoch viel zu fettig.####[('Pad Se Ew Chicken', 'FOOD', 'positive'), ('Pad Thai', 'FOOD', 'negative')]
+Habe schon mehrmals im Ginger House gegessen und es war jedes Mal gut.####[('Ginger
+        House', 'GENERAL-IMPRESSION', 'positive')]
+Die gebratenen Knödel sind SUPER!####[('gebratenen Knödel', 'FOOD', 'positive')]
+Endlich ein zuverlässiges China-Restaurant!####[('
+        China-Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Es wäre viel besser, diesem Ort von einer Gruppe geleitet zu werden, die wirklich etwas von Kundenservice versteht.####[('Kundenservice', 'SERVICE', 'negative')]
+Schreckliches, schreckliches Management – verdient die Schließung.####[('
+        Management', 'SERVICE', 'negative')]
+köstliche Bagels, besonders frisch aus dem Ofen.####[('Bagels', 'FOOD', 'positive')]
+Aufstriche und Toppings sind großartig – allerdings etwas teuer.####[('
+            ', 'FOOD', 'negative'), ('Aufstriche', 'FOOD', 'positive'), ('
+            ', 'FOOD', 'negative'), ('Toppings', 'FOOD', 'positive')]
+Der Service ist schnell und freundlich.####[('Service', 'SERVICE', 'positive')]
+Das Essen ist bestenfalls anständig und das Ambiente, nun ja, das ist Ansichtssache, manche finden es vielleicht süß, ich fand es einfach nur nervig.####[('Essen', 'FOOD', 'negative'), ('Ambiente', 'AMBIENCE', 'negative')]
+Rao ist ein gutes Restaurant, aber nichts Besonderes.####[('Rao', 'GENERAL-IMPRESSION', 'neutral')]
+Aber seit gestern Abend ist das Spice Grill der einzige Ort, an dem ich indische Küche esse.####[('indische Küche', 'FOOD', 'positive')]
+Sie müssen unbedingt die Garnelen-Vorspeisen probieren.####[('
+        Garnelen-Vorspeisen', 'FOOD', 'positive')]
+Dieser Ort hat das richtige Ambiente und ein ausgezeichnetes Personal, damit Sie sich gleichzeitig wie ein Gast und ein Freund fühlen.####[('
+        Ambiente', 'AMBIENCE', 'positive'), ('Personal', 'SERVICE', 'positive')]
+Tolles Essen, tolle Preise, toller Service.####[('Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Wenn Sie qualitativ hochwertiges und preiswertes Essen suchen, sind Sie hier richtig.####[('
+            ', 'FOOD', 'positive'), ('Essen', 'FOOD', 'positive')]
+Es ist der perfekte Ort, um fantastisches indisches Essen zu genießen.####[('indisches Essen', 'FOOD', 'positive')]
+Mir gefiel die andere und innovative Note, die der Koch dem Essen verleiht, wirklich sehr.####[('Koch', 'FOOD', 'positive')]
+außerdem ist es toll, an einem sehr romantischen und gemütlichen Ort zu Abend zu essen, der Service ist einfach perfekt … sie sind so freundlich, dass wir den Ort nie verlassen möchten!####[('Ort', 'AMBIENCE', 'positive'), ('Service', 'SERVICE', 'positive')]
+Ihre Bagels sind in Ordnung, aber sie sind ein wenig verbacken und bieten nicht wirklich ein „besonderes“ Bagel-Erlebnis.####[('Bagels', 'FOOD', 'negative')]
+Tolle Bagels , auf altmodische Art zubereitet.####[('
+            ', 'FOOD', 'positive'), ('Bagels', 'FOOD', 'positive')]
+Nachteile: Der Service ist langsam und es gibt keinen Toast!####[('Service', 'SERVICE', 'negative')]
+Das Essen war absolut fantastisch!!####[('Essen', 'FOOD', 'positive')]
+Der gebackene Muscheloktopus, den wir uns als Vorspeise teilten, war der beste, den wir je gegessen haben!!####[('gebackene Muscheloktopus', 'FOOD', 'positive')]
+Das Lamm war zart und so voller Geschmack, das Dessert war göttlich!!####[('Lamm', 'FOOD', 'positive'), ('Dessert', 'FOOD', 'positive')]
+Der Kellner war aufmerksam.####[('Kellner', 'SERVICE', 'positive')]
+Der Ort selbst ist wunderschön, die Barszene scheint aktiv zu sein.####[('Ort', 'AMBIENCE', 'positive'), ('Barszene', 'AMBIENCE', 'positive')]
+Abendessen in der Innenstadt 2002 – Festpreis: Vorspeisen waren ok, Kellner machte mir einen schlechten Vorschlag ... probieren Sie am besten das Kartoffelgericht Kanish.####[('Vorspeisen', 'FOOD', 'neutral'), ('Kellner', 'SERVICE', 'negative'), ('Kartoffelgericht
+        Kanish', 'FOOD', 'positive')]
+Kleine Portionen als Hauptgericht, ich hatte Lachs (war nicht beeindruckt), meine Freundin hatte Hühnchen, es war gut.####[('Portionen als Hauptgericht', 'FOOD', 'negative'), ('Lachs', 'FOOD', 'negative'), ('Hühnchen', 'FOOD', 'positive')]
+Dessert ist ein Witz... lass es bleiben####[('Dessert', 'FOOD', 'negative')]
+Egal ob Volare-Neulinge oder wöchentliche Stammkunden, alle werden gleich behandelt und mehr kann man nicht verlangen, wenn der Service so freundlich ist.####[('Service', 'SERVICE', 'positive')]
+Das Restaurant strahlt eine familiäre Atmosphäre aus, nicht zuletzt im Hinblick auf die Portionen, die riesig sind; allein das Kalbfleisch hätte im Alleingang die Hungersnot in der Dritten Welt lösen können.####[('Atmosphäre', 'AMBIENCE', 'positive'), ('Portionen', 'FOOD', 'positive'), ('Kalbfleisch', 'FOOD', 'positive')]
+Die Anti-Pasta war ausgezeichnet, insbesondere die Calamari, ebenso wie die sättigenden Pasta-Hauptgerichte .####[('Anti-Pasta', 'FOOD', 'positive'), ('Calamari', 'FOOD', 'positive'), ('
+            ', 'FOOD', 'positive'), ('Pasta-Hauptgerichte', 'FOOD', 'positive')]
+Die Weinkarte ist umfangreich und kann den Preis einer ansonsten recht günstigen Mahlzeit leicht in die Höhe treiben.####[('Weinkarte', 'FOOD', 'positive'), ('Mahlzeit', 'FOOD', 'positive')]
+Alle Kritikpunkte an der Rechnung wurden jedoch durch die Mengen an Likören, die das Haus selbst bereitstellte, ausgeglichen …####[('Mengen an Likören', 'FOOD', 'positive')]
+Fantastischer Ort .####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Lucky Strike ist ein toller, zwangloser Ort, um einfach einen Happen zu essen.####[('Lucky Strike', 'GENERAL-IMPRESSION', 'positive')]
+Tolles Essen, tolles Dekor, toller Service.####[('Essen', 'FOOD', 'positive'), ('Dekor', 'AMBIENCE', 'positive'), ('Service', 'SERVICE', 'positive')]
+Dies ist der perfekte Ort, um sich mit Freunden zu treffen, zu Mittag oder zu Abend zu essen oder vor oder nach dem Theater einen Drink zu nehmen!####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+(Fragen Sie den Barkeeper immer nach dem SAISONBIER!!!####[('SAISONBIER', 'FOOD', 'positive')]
+Ausgezeichneter Ort für Feiertagstreffen mit Kollegen oder Freunden, die Sie schon lange nicht mehr gesehen haben.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Ich mache all das oben Genannte nun schon seit über 5 Jahren bei der Heartland Brewery und ICH WURDE NIE ENTTÄUSCHT!####[('Heartland Brewery', 'GENERAL-IMPRESSION', 'positive')]
+Was für ein großartiger Ort!####[('
+        Ort', 'GENERAL-IMPRESSION', 'positive')]
+Kein typisches New Yorker Gimmick-Themen-Restaurant.####[('Restaurant', 'AMBIENCE', 'positive')]
+Eine coole Bar mit großartigem Essen und jeder Menge ausgezeichnetem Bier .####[('Bar', 'AMBIENCE', 'positive'), ('Essen', 'FOOD', 'positive'), ('
+            ', 'FOOD', 'positive'), ('Bier', 'FOOD', 'positive')]
+Die Shrimps Scampi waren ausgezeichnet und die Antipasti waren reichlich vorhanden.####[('Shrimps Scampi', 'FOOD', 'positive'), ('Antipasti', 'FOOD', 'positive')]
+Wenn Sie die Insel Manhattan verlassen und kein gutes italienisches Restaurant finden können, fahren Sie nach Corona .####[('Corona', 'GENERAL-IMPRESSION', 'positive')]
+Das einzige, was noch wunderbarer ist als das Essen (das außergewöhnlich ist), ist der Service.####[('Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Das Einzige, was die Kellner nicht für Sie tun, ist, Ihnen beim Gehen das Kinn abzuwischen.####[('Kellner', 'SERVICE', 'positive')]
+Gemütliche romantische Atmosphäre mit höchstens etwa 15 Tischen.####[('Atmosphäre', 'AMBIENCE', 'positive')]
+Der Der Service war sehr schnell, aber etwas hektisch.####[('
+            ', 'SERVICE', 'negative'), ('Der Service', 'SERVICE', 'positive')]
+Das Essen war sehr gut, aber nicht das, was ich als außergewöhnlich bezeichnen würde.####[('Das Essen', 'FOOD', 'neutral')]
+Schade, dass das Essen nicht aus derselben Tradition stammte.####[('Essen', 'FOOD', 'negative')]
+Das Pasta-Spezial mit Steinpilzen war geschmacklos, ebenso die Tagliatelle mit Meeresfrüchten.####[('Pasta-Spezial mit Steinpilzen', 'FOOD', 'negative'), ('Tagliatelle mit
+        Meeresfrüchten', 'FOOD', 'negative')]
+Aber das war nicht das Sahnehäubchen: ein Tiramisu, das allem glich, was ich jemals gegessen hatte.####[('Tiramisu', 'FOOD', 'negative')]
+Mir hat dieser Ort wirklich gut gefallen.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Dieser Ort bietet die besten BBQ-Rippchen im chinesischen Stil in der Stadt.####[('
+            ', 'FOOD', 'positive'), ('BBQ-Rippchen', 'FOOD', 'positive')]
+Außerdem empfehle ich die Reisgerichte oder die verschiedenen Sorten von Congee (Reisbrei).####[('Reisgerichte', 'FOOD', 'positive'), ('Congee
+        (Reisbrei)', 'FOOD', 'positive')]
+Es ist definitiv kein Ort, an den Sie gehen sollten, wenn Sie jemanden beeindrucken möchten.####[('Ort', 'GENERAL-IMPRESSION', 'negative')]
+Wenn Sie jedoch großartiges Essen zu einem tollen Preis möchten und die Einrichtung nichts ausmacht, ist dieser Ort unschlagbar.####[('
+            ', 'FOOD', 'positive'), ('Essen', 'FOOD', 'positive'), ('
+        Einrichtung', 'AMBIENCE', 'neutral')]
+Schneller und freundlicher Service .####[('Service', 'SERVICE', 'positive')]
+Wenn Sie in ihrem Hauptspeisesaal (mit einer spektakulären, handbemalten hohen Decke) sitzen, würden Sie nie ahnen, dass es da draußen eine Welt gibt.####[('Hauptspeisesaal', 'AMBIENCE', 'positive'), ('Decke', 'AMBIENCE', 'positive')]
+Das Essen ist wunderbar, lecker und sättigend, und der Service ist professionell und freundlich.####[('
+            ', 'FOOD', 'positive'), ('Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Ich kann den Sommer kaum erwarten, wenn sie draußen auf ihrer riesigen Terrasse servieren.####[('Terrasse', 'AMBIENCE', 'positive')]
+Ich habe vor Kurzem Suan ausprobiert und fand es großartig.####[('Suan', 'GENERAL-IMPRESSION', 'positive')]
+Dieser kleine Ort hat meine Erwartungen definitiv übertroffen und man bekommt definitiv viel Essen für sein Geld.####[('Ort', 'GENERAL-IMPRESSION', 'positive'), ('
+            ', 'FOOD', 'positive'), ('Essen', 'FOOD', 'positive')]
+Der Service war schnell und freundlich und das Essen war sehr lecker und es gab die beste scharfe Soße als Beilage zu den Mahlzeiten.####[('Service', 'SERVICE', 'positive'), ('Essen', 'FOOD', 'positive'), ('scharfe
+        Soße', 'FOOD', 'positive')]
+Gutes Essen.####[('Essen', 'FOOD', 'positive')]
+Gutes Getränk.####[('Getränk', 'FOOD', 'positive')]
+So einen Käsekuchen habe ich noch nie gegessen.####[('Käsekuchen', 'FOOD', 'positive')]
+Toller Ort , egal ob Sie ein paar Drinks oder ein ruhiges Abendessen suchen.####[('
+            ', 'GENERAL-IMPRESSION', 'positive'), ('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Warm und freundlich im Winter und tolle Sitzplätze im Freien in den wärmeren Monaten.####[('Sitzplätze im Freien', 'AMBIENCE', 'positive')]
+Das Essen ist großartig und sie haben eine gute Auswahl an Weinen zu vernünftigen Preisen.####[('Essen', 'FOOD', 'positive'), ('
+            ', 'FOOD', 'positive'), ('Auswahl an Weinen', 'FOOD', 'positive')]
+Während das Ambiente und die Atmosphäre großartig waren, hätten das Essen und der Service viel besser sein können.####[('Ambiente', 'AMBIENCE', 'positive'), ('Atmosphäre', 'AMBIENCE', 'positive'), ('Essen', 'FOOD', 'negative'), ('Service', 'SERVICE', 'negative')]
+Wir bestellten den Hühnchen-Auflauf , bekamen aber nur ein paar kleine Hühnchenstücke, alles dunkles Fleisch und mit Knochen.####[('
+            ', 'FOOD', 'negative'), ('Hühnchen-Auflauf', 'FOOD', 'negative')]
+ich war zweimal bei Sapphire und beide Male war das Essen in Ordnung, wenn nicht sogar gut.####[('Essen', 'FOOD', 'positive')]
+Bleiben Sie bei den Gerichten mit Hühnchen, Rindfleisch und Lamm.####[('
+        Hühnchen', 'FOOD', 'positive'), ('Rindfleisch', 'FOOD', 'positive'), ('Lamm', 'FOOD', 'positive')]
+Der Service ist freundlich und es gab nie ein Problem, hereinzukommen und einen Tisch zu bekommen.####[('Service', 'SERVICE', 'positive')]
+Dessert überspringen.####[('Dessert', 'FOOD', 'negative')]
+Das beste Reuben-Sandwich aller Zeiten!####[('Reuben-Sandwich', 'FOOD', 'positive')]
+Verpassen Sie Bloom’s bei Ihrer nächsten Reise nach Manhattan nicht.####[('Bloom’s', 'GENERAL-IMPRESSION', 'positive')]
+Es war der erste Ort, an dem wir auf unserer ersten Reise nach New York gegessen haben, und es wird der letzte Ort sein, an dem wir Halt machen, wenn wir auf unserer nächsten Reise nach New York die Stadt verlassen.####[('
+        Ort', 'GENERAL-IMPRESSION', 'positive')]
+Danke Bloom's für eine schöne Reise.####[('Bloom's', 'GENERAL-IMPRESSION', 'positive')]
+Das Essen war nicht frisch, die Saucen waren fad und sehr ölig.####[('Essen', 'FOOD', 'negative'), ('Saucen', 'FOOD', 'negative')]
+Pizza war etwas matschig.####[('Pizza', 'FOOD', 'negative')]
+Ravioli waren gut... allerdings muss ich sagen, dass ich alles etwas überteuert fand.####[('Ravioli', 'FOOD', 'positive')]
+Auch nicht genug Weine im Glas .####[('Weine im Glas', 'FOOD', 'negative')]
+Der Service war jedoch ausgezeichnet … und die Umgebung/Atmosphäre hat mir sehr gut gefallen.####[('Service', 'SERVICE', 'positive'), ('
+        Umgebung/Atmosphäre', 'AMBIENCE', 'positive')]
+Das Essen war nur durchschnittlich … wenn sie die Preise nur ein bisschen gesenkt hätten, wäre es attraktiver.####[('
+            ', 'FOOD', 'negative'), ('Das Essen', 'FOOD', 'neutral')]
+Dieser Ort ist ein echtes Schnäppchen.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Authentisches pakistanisches Essen .####[('pakistanisches Essen', 'FOOD', 'positive')]
+Die Leute sind immer freundlich.####[('Die Leute', 'SERVICE', 'positive')]
+Verschwenden Sie kein Geld für Dekor .####[('Dekor', 'AMBIENCE', 'neutral')]
+Einfach nur billiges, gutes Essen .####[('
+            ', 'FOOD', 'positive'), ('Essen', 'FOOD', 'positive')]
+Faan ist sooo gut.####[('Faan', 'GENERAL-IMPRESSION', 'positive')]
+Das beste Pad Thai, das ich je gegessen habe.####[('Pad Thai', 'FOOD', 'positive')]
+Das Design und die Atmosphäre sind ebenso gut.####[('Design', 'AMBIENCE', 'positive'), ('Atmosphäre', 'AMBIENCE', 'positive')]
+Flaschen Wein sind günstig und gut.####[('
+            ', 'FOOD', 'positive'), ('Flaschen Wein', 'FOOD', 'positive')]
+Das Essen war wirklich furchtbar.####[('Essen', 'FOOD', 'negative')]
+Die Muscheln waren das fischigste, was ich je gegessen habe, der Wolfsbarsch war fad, im Ziegenkäsesalat fehlte der Ziegenkäse, in den Penne mit Huhn waren Knochen drin... Es war ekelhaft.####[('Muscheln', 'FOOD', 'negative'), ('
+        Wolfsbarsch', 'FOOD', 'negative'), ('
+        Ziegenkäsesalat', 'FOOD', 'negative'), ('Penne mit Huhn', 'FOOD', 'negative')]
+Nette Atmosphäre, der Service war sehr angenehm und das Dessert war gut.####[('Atmosphäre', 'AMBIENCE', 'positive'), ('Service', 'SERVICE', 'positive'), ('Dessert', 'FOOD', 'positive')]
+Die Jukebox spielt alles von italienischer Oper bis The Strokes.####[('Jukebox', 'AMBIENCE', 'positive')]
+Das Essen ist unglaublich, reichhaltige Pasta und frische, teigige Pizza.####[('Essen', 'FOOD', 'positive'), ('Pasta', 'FOOD', 'positive'), ('Pizza', 'FOOD', 'positive')]
+Das Beste von allem ist die herzliche Atmosphäre, der Besitzer ist superfreundlich und der Service ist schnell.####[('Atmosphäre', 'AMBIENCE', 'positive'), ('Besitzer', 'SERVICE', 'positive'), ('Service', 'SERVICE', 'positive')]
+Hier geht es zu den Getränken !####[('Getränken', 'FOOD', 'positive')]
+die Getränke sind fantastisch und bis 20:00 Uhr zum halben Preis.####[('
+            ', 'FOOD', 'positive'), ('Getränke', 'FOOD', 'positive')]
+Fragen Sie nach Usha, der nettesten Barkeeperin in Manhattan.####[('Usha', 'SERVICE', 'positive')]
+Mein Favorit war das sassy Lassi …####[('sassy Lassi', 'FOOD', 'positive')]
+Dies ist ein fantastischer Ort, um einige Roti-Rollen zu probieren.####[('Roti-Rollen', 'FOOD', 'positive')]
+Ich kann die sehr einfachen Unda-(Frühlings-)Rollen wirklich empfehlen.####[('
+        Unda-(Frühlings-)Rollen', 'FOOD', 'positive')]
+Feine Gewürze, Zwiebeln, Eier und ein Wahnsinns- Roti.####[('Gewürze', 'FOOD', 'positive'), ('Zwiebeln', 'FOOD', 'positive'), ('Eier', 'FOOD', 'positive'), ('Roti', 'FOOD', 'positive')]
+Toons wurde vor Kurzem erneuert und ist jetzt ein sehr attraktiver Raum.####[('Toons', 'AMBIENCE', 'positive')]
+Das Essen ist so gut wie immer.####[('Essen', 'FOOD', 'positive')]
+In einer Gegend, in der es leider an anständigem Thai-Essen mangelt, ist dies einer der besten Orte.####[('Thai-Essen', 'FOOD', 'positive')]
+War gestern Abend hier - schöne Einrichtung, guter Service, aber das Essen war überraschend ausgezeichnet.####[('
+        Einrichtung', 'AMBIENCE', 'positive'), ('Service', 'SERVICE', 'positive'), ('Essen', 'FOOD', 'positive')]
+Die Portionen sind RIESIG, daher empfiehlt es sich möglicherweise, drei Dinge zu bestellen und sie für zwei Personen aufzuteilen (anstatt einer Vorspeise und einem Hauptgericht pro Person).####[('Portionen', 'FOOD', 'positive')]
+Beste Hähnchenschenkel mit Reis und saure-scharfe Suppe der Stadt!####[('Hähnchenschenkel mit Reis', 'FOOD', 'positive'), ('saure-scharfe Suppe', 'FOOD', 'positive')]
+Nudelsuppe mit Rindfleisch ist auch gut.####[('Nudelsuppe mit Rindfleisch', 'FOOD', 'positive')]
+Der Service ist gut und das Restaurant ist sauber.####[('Service', 'SERVICE', 'positive'), ('Restaurant', 'AMBIENCE', 'positive')]
+Bestes taiwanesisches Essen in NY!####[('taiwanesisches Essen', 'FOOD', 'positive')]
+Ich war in den letzten drei Jahren wahrscheinlich 15 Mal bei Rao’s und es wird immer besser.####[('Rao’s', 'GENERAL-IMPRESSION', 'positive')]
+Rao’s bietet den besten Service und die beste Atmosphäre in NYC.####[('Service', 'SERVICE', 'positive'), ('Atmosphäre', 'AMBIENCE', 'positive')]
+Mein Mitbewohner und ich LIEBEN diesen Ort.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Wir haben uns vor Kurzem entschieden, diesen Ort auszuprobieren, und zu unserer Freude haben sie Sitzplätze im Freien, perfekt, da ich meinen Yorkshire-Terrier dabei hatte.####[('Sitzplätze im Freien', 'AMBIENCE', 'positive')]
+Drinnen war es sehr gemütlich und süß.####[('Drinnen', 'AMBIENCE', 'positive')]
+Die Portionsgrößen sind hier riesig und das Sushi ist gut.####[('Portionsgrößen', 'FOOD', 'positive'), ('Sushi', 'FOOD', 'positive')]
+Das Personal ist sehr zuvorkommend.####[('Das Personal', 'SERVICE', 'positive')]
+Ausgezeichnete Knödel, serviert in sauberem, schickem Dekor .####[('Knödel', 'FOOD', 'positive'), ('Dekor', 'AMBIENCE', 'positive')]
+Ich bekam das 10-Stück-Dim-Sum-Menü für 10 $, und jeder Bissen davon war großartig.####[('10-Stück-Dim-Sum-Menü für
+        10 $', 'FOOD', 'positive')]
+Die Einrichtung ist sehr einfach, aber komfortabel.####[('Einrichtung', 'AMBIENCE', 'positive')]
+Das Essen war köstlich, aber kommen Sie nicht mit leerem Magen hierher.####[('
+            ', 'FOOD', 'negative'), ('Essen', 'FOOD', 'positive')]
+Die Portionen sind klein, aber die Tatsache, dass das Essen so gut war, macht das wieder wett.####[('Portionen', 'FOOD', 'negative'), ('Essen', 'FOOD', 'positive')]
+Sie müssen unbedingt die himmlische Krabbenfleisch-Lasagne probieren und zum Nachtisch den Schokoladen-Brotpudding.####[('
+        Krabbenfleisch-Lasagne', 'FOOD', 'positive'), ('Schokoladen-Brotpudding', 'FOOD', 'positive')]
+Das Personal dort ist sehr aufmerksam und bodenständig.####[('Personal', 'SERVICE', 'positive')]
+Tolles indisches Essen und der Service ist unglaublich.####[('indisches Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Der Eigentümer geht wirklich auf alle Ihre Bedürfnisse ein.####[('Eigentümer', 'SERVICE', 'positive')]
+Tolles Essen und die Preise sind sehr vernünftig.####[('Essen', 'FOOD', 'positive')]
+Das Essen hier macht dem Namen (also dem Kantonesischen ...) alle Ehre.####[('Essen', 'FOOD', 'positive')]
+Ich habe mich in die Eiernudeln in Rinderbrühe mit Garnelenknödeln und Scheiben von gegrilltem Schweinebraten verliebt.####[('Eiernudeln in
+        Rinderbrühe mit Garnelenknödeln und Scheiben von gegrilltem Schweinebraten', 'FOOD', 'positive')]
+Dieses Gericht ist mein Lieblingsgericht und ich nehme es jedes Mal, wenn ich dorthin gehe, und es wird mir nie langweilig.####[('Gericht', 'FOOD', 'positive')]
+Probieren Sie den Reisbrei und den donutartigen frittierten Teig, den sie Ow Ley Soh nennen, ein köstliches und süß schmeckendes Brot.####[('Reisbrei', 'FOOD', 'positive'), ('Ow Ley Soh', 'FOOD', 'positive')]
+Einfach wohlschmeckendes chinesisches Essen zu unglaublichen Preisen ...####[('
+            ', 'FOOD', 'positive'), ('chinesisches Essen', 'FOOD', 'positive')]
+Service ist nicht der Grund, warum Sie hierhergekommen sind ...####[('Service', 'SERVICE', 'negative')]
+Big Wong ist ein großartiger Ort zum Essen und um den Magen zu füllen.####[('Big Wong', 'GENERAL-IMPRESSION', 'positive')]
+wer auch immer das Jazz-Duo war, sie haben es auf den PUNKT gebracht.####[('Jazz-Duo', 'AMBIENCE', 'positive')]
+gute Musik, tolles Essen, schneller Service, erschwingliche Preise.####[('Musik', 'AMBIENCE', 'positive'), ('Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+sogar der Wein im Glas war gut.####[('Wein im Glas', 'FOOD', 'positive')]
+Durchweg gute japanische Tapas .####[('japanische Tapas', 'FOOD', 'positive')]
+Immer gute Getränke und der Service ist ziemlich gut;####[('Getränke', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Die Atmosphäre ist auch schön und entspannt ...####[('Die Atmosphäre', 'AMBIENCE', 'positive')]
+Ein toller Ort, um sich zum Essen und Trinken zu treffen …####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Yakitori (Grillfleisch) ist auch lecker.####[('Yakitori (Grillfleisch)', 'FOOD', 'positive')]
+Wenn Sie nichts gegen vorgeschnittenen Fisch von schlechter Qualität, unfreundliches Personal und einen Sushi-Koch haben, der aussieht, als wäre er unglücklich, dann sind Sie hier richtig.####[('
+        Fisch', 'FOOD', 'negative'), ('Personal', 'SERVICE', 'negative'), ('Sushi-Koch', 'GENERAL-IMPRESSION', 'negative')]
+Allein Preis und Qualität des Fischs werden uns von einem erneuten Besuch abhalten.####[('
+            ', 'FOOD', 'negative'), ('Fischs', 'FOOD', 'negative')]
+Ich wollte es nicht verraten, aber ich fühle mich dazu verpflichtet ... während wir an der Sushi-Bar saßen und aßen, beobachteten wir, wie der Koch versehentlich ein Stück Unagi auf den Boden fallen ließ und es, nachdem er es vom Boden aufgehoben hatte, für die Lieferung verwendete, die er gerade zubereitete.####[('Koch', 'FOOD', 'negative')]
+Dieser Ort, der erst wenige Monate alt ist, ist vielleicht das größte Geheimnis von Queens!####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Fabelhafte Einrichtung - man fühlt sich wie in einem trendigen Restaurant in Manhattan, sehr sehr gutes Essen , günstige Preise, im Allgemeinen freundliches Personal, und wenn Sie aus Manhattan kommen oder die meiste Zeit in Manhattan verbringen, werden Sie sich in der Rice Avenue wie zu Hause fühlen..... sehr Soho/Village/Upper West Side, abzüglich der hohen Preise und der überheblichen Kundschaft..... alles auf der Roosevelt Avenue!####[('Einrichtung', 'AMBIENCE', 'positive'), ('
+            ', 'FOOD', 'positive'), ('Essen', 'FOOD', 'positive'), ('Personal', 'SERVICE', 'positive'), ('
+            ', 'GENERAL-IMPRESSION', 'positive'), ('
+                ', 'AMBIENCE', 'positive'), ('Rice Avenue', 'AMBIENCE', 'positive')]
+Wir saßen draußen und der Kellner verschüttete Rotwein und heißen Tee über mich und meine Verabredung.####[('Kellner', 'SERVICE', 'negative')]
+Man hätte gedacht, wir würden eine Entschuldigung oder kostenlose Getränke bekommen – stattdessen bekamen wir einen hochnäsigen Kellner, der 15 Minuten lang nicht einmal unsere Bestellung aufnahm und uns frech anredete, als wir ihn darum baten.####[('
+        Kellner', 'SERVICE', 'negative')]
+Bei so vielen guten Restaurants an der UWS brauche ich kein überteuertes Essen, kein absurd arrogantes Kellner, das nicht erkennt, dass es in einem aufgemotzten Diner arbeitet, keinen ungeschickten Service und kein Management, dem alles egal ist.####[('Essen', 'FOOD', 'negative'), ('Kellner', 'SERVICE', 'negative'), ('Service', 'SERVICE', 'negative'), ('Management', 'SERVICE', 'negative')]
+Ich bin relativ neu in der Gegend und habe Pick a Bagel in der 2nd Street ausprobiert und war vom Service enttäuscht und fand das Essen überteuert und etwas teuer.####[('Service', 'SERVICE', 'negative'), ('
+            ', 'FOOD', 'negative'), ('Essen', 'FOOD', 'negative')]
+Das Essen ist ok und die Preise hier sind mittelmäßig.####[('Essen', 'FOOD', 'neutral')]
+Baluchi's bietet solides Essen und eine schöne Einrichtung zu vernünftigen Preisen.####[('Baluchi's', 'GENERAL-IMPRESSION', 'positive'), ('Essen', 'FOOD', 'positive'), ('Einrichtung', 'AMBIENCE', 'positive')]
+Das einzige Problem ist, dass der Manager völlig inkompetent ist.####[('
+        Manager', 'SERVICE', 'negative')]
+Er bietet einen unterdurchschnittlichen Service und hat keine Persönlichkeit.####[('Service', 'SERVICE', 'negative')]
+Es gibt keine Entschuldigung für solch einen miesen Service!####[('Service', 'SERVICE', 'negative')]
+Ich habe noch nie 40 Stücke relativ gutes Nigiri gegessen.####[('Nigiri', 'FOOD', 'neutral')]
+20 $ für All-you-can-eat-Sushi sind unschlagbar.####[('All-you-can-eat-Sushi', 'FOOD', 'positive')]
+Ich war an einem Sonntagnachmittag mit vier Freundinnen im Areo und habe dort drei schöne Stunden verbracht.####[('Areo', 'GENERAL-IMPRESSION', 'positive')]
+Die meisten Kellner sind sehr aufmerksam, freundlich und recht attraktiv.####[('Kellner', 'SERVICE', 'positive')]
+Die Atmosphäre ist sehr entspannt und gemütlich, der Service war großartig und das Essen war ausgezeichnet!####[('Atmosphäre', 'AMBIENCE', 'positive'), ('Service', 'SERVICE', 'positive'), ('Essen', 'FOOD', 'positive')]
+Das Essen war gut und die Aussicht auf die Skipisten von New York City war selbst an einem nebligen, regnerischen Tag wie dem, als ich dort war, großartig.####[('Das Essen', 'ESSEN', 'positive'), ('Aussicht auf die Skipisten von New
+        York City', 'AMBIENCE', 'positive')]
+Obwohl sie die typischen „Welche Art Wasser möchten Sie“-Fragen stellen, war der Service gut und insgesamt ein sehr entspannender Ort zum Essen.####[('Service', 'SERVICE', 'positive'), ('Ort', 'AMBIENCE', 'positive')]
+Das Essen ist großartig.####[('Essen', 'FOOD', 'positive')]
+Persönliche Pfannen haben die perfekte Größe für hungrige Nächte.####[('Persönliche Pfannen', 'FOOD', 'positive')]
+Es gibt einen Nachteil, wenn Sie bestellen – die Lieferjungs haben eine UNGLAUBLICHE Einstellung.####[('Lieferjungs', 'SERVICE', 'negative')]
+Ich habe noch nie so dramatische Lieferjungs erlebt (viel Schnaufen und Keuchen und leises Gemurmel, weil ich in einer Wohnung ohne Aufzug wohne), die immer von ihrem Trinkgeld enttäuscht zu sein scheinen.####[('
+        Lieferjungs', 'SERVICE', 'negative')]
+Zunächst einmal gefällt mir die Szene – der Ort hat Charakter und schönes Licht … was die Lage angeht, sehr glücklich.####[('
+        Szene', 'AMBIENCE', 'positive'), ('Ort', 'AMBIENCE', 'positive'), ('
+        Lage', 'AMBIENCE', 'positive')]
+Die Pizza war ziemlich gut und riesig.####[('
+            ', 'FOOD', 'positive'), ('Pizza', 'FOOD', 'positive')]
+Wir waren zu viert und bekamen die Familiengröße Penne a la Vodka, eine unglaublich riesige Portion ... im wahrsten Sinne des Wortes ein Eimer voll Essen.####[('Penne a la Vodka', 'FOOD', 'positive')]
+Die Pasta Penne war ziemlich buttrig, cremig, was bedeutet, dass sie schwer zu verdauen war. Zuerst lecker, aber ich würde sagen, dass ich nach einem Stück Pizza und 7 Penne satt war ... wurde danach ein bisschen launisch, weil ich vollgestopft war ... lol####[('
+            ', 'FOOD', 'negative'), ('Pasta Penne', 'FOOD', 'negative')]
+La Rosa kommt hereingewalzt, und ich finde, sie machen das am besten.####[('La Rosa', 'FOOD', 'positive')]
+Interessante Auswahl, gute Weine, guter Service, unterhaltsames Dekor.####[('Auswahl', 'FOOD', 'positive'), ('Weine', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive'), ('Dekor', 'AMBIENCE', 'positive')]
+Ich fand es in einer kalten Nacht, den perfekten Ort zum Aufwärmen.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Ich erhielt umgehend einen Service mit einem Lächeln.####[('Service', 'SERVICE', 'positive')]
+Dieser Ort hat mich umgehauen … mit Abstand mein neues Lieblingsrestaurant in der Uppereast Side.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Die Weinkarte ist umfangreich und beeindruckend.####[('Weinkarte', 'FOOD', 'positive')]
+LIEBE die Atmosphäre – ich fühlte mich, als wäre ich in Paris.####[('Atmosphäre', 'AMBIENCE', 'positive')]
+Die Muscheln waren fantastisch und das Dessert auch...ich werde auf jeden Fall bald wiederkommen.####[('Muscheln', 'FOOD', 'positive'), ('Dessert', 'FOOD', 'positive')]
+Ich komme schon seit Jahren hierher und kann nur Gutes über den Service und das tolle Personal im La Lanterna sagen.####[('Service', 'SERVICE', 'positive'), ('Personal', 'SERVICE', 'positive')]
+Im Laufe der Jahre haben der Gastgeber, Vittorio, und seine Crew mich immer wie ein Familienmitglied behandelt – obwohl es bei all dem Geschäft, das dieses nicht ganz so kleine Juwel macht, erstaunlich ist, dass er sich überhaupt an einen regelmäßigen, aber nicht so häufigen Besucher erinnern kann.####[('Vittorio', 'SERVICE', 'positive'), ('Crew', 'SERVICE', 'positive')]
+Ich war auch erstaunt über all die Neuzugänge in den letzten Jahren: Eine neue Jazz Bar, der fantastischste Speisegarten, die besten Pizzas mit dünnem Boden und jetzt ein Lasagne-Menü, für das man sterben könnte (das sind keine gewöhnlichen Lasagnen)!####[('Jazz Bar', 'AMBIENCE', 'positive'), ('Speisegarten', 'AMBIENCE', 'positive'), ('Pizzas mit dünnem Boden', 'FOOD', 'positive'), ('Lasagne-Menü', 'FOOD', 'positive')]
+ICH LIEBE DIESEN ORT !####[('ORT', 'GENERAL-IMPRESSION', 'positive')]
+Ich muss sagen, dass ich hier noch nie eine enttäuschende Mahlzeit hatte.####[('Mahlzeit', 'FOOD', 'positive')]
+Wir hätten uns eine Mahlzeit aus den leckeren Knödeln von der Knödelkarte zubereiten können.####[('Knödeln', 'FOOD', 'positive')]
+Zum Glück haben wir noch Platz gelassen für den BBQ-Lachs, den Wolfsbarsch und die Knusprige Ente.####[('BBQ-Lachs', 'FOOD', 'positive'), ('Wolfsbarsch', 'FOOD', 'positive'), ('Knusprige Ente', 'FOOD', 'positive')]
+Liebe Grüße Al Di La####[('Al Di La', 'GENERAL-IMPRESSION', 'positive')]
+Ich kann diesen Ort jedem empfehlen.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Tolles Essen.####[('Essen', 'FOOD', 'positive')]
+Die Pasta sind unglaublich, die Risottos (insbesondere das Sepia) sind fantastisch und das geschmorte Kaninchen ist unglaublich.####[('Pasta', 'FOOD', 'positive'), ('Risottos', 'FOOD', 'positive'), ('Sepia', 'FOOD', 'positive'), ('geschmorte Kaninchen', 'FOOD', 'positive')]
+Das Essen hier war bestenfalls mittelmäßig.####[('Essen', 'FOOD', 'negative')]
+Es war völlig überteuert - Fish and Chips kostete etwa 15 $....####[('Fish and
+        Chips', 'FOOD', 'negative')]
+Leckerer Hund!####[('Hund', 'FOOD', 'positive')]
+Ein großartiger Bio-Hund und ein bewusst umweltfreundlicher Betrieb.####[('Hund', 'FOOD', 'positive'), ('Betrieb', 'GENERAL-IMPRESSION', 'positive')]
+Das zypriotische Restaurant hat einiges zu bieten.####[('zypriotische
+        Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Aber die Hauptsache ist das beste Schweine-Souvlaki, das ich je gegessen habe.####[('
+        Schweine-Souvlaki', 'FOOD', 'positive')]
+Super LECKERE Pizza!####[('Pizza', 'FOOD', 'positive')]
+Ich war mit einem Freund in New York City zu Besuch und wir entdeckten dieses wirklich herzliche und einladende Restaurant .####[('Restaurant', 'AMBIENCE', 'positive')]
+Ich LIEBE ihre Auberginenpizza und auch ihre Pasta!####[('Auberginenpizza', 'FOOD', 'positive'), ('Pasta', 'FOOD', 'positive')]
+Wir hatten eine Halb/Halb-Pizza, meine hatte Auberginenpizza und mein Freund hatte Büffelpizza und sie war sooo riesig für eine kleine Pizza!####[('Halb/Halb-Pizza', 'FOOD', 'positive')]
+Ausgezeichnetes Essen, obwohl die Einrichtung etwas Verbesserung vertragen könnte.####[('Essen', 'FOOD', 'positive'), ('Einrichtung', 'AMBIENCE', 'negative')]
+Der Raum fühlt sich irgendwie wie eine Alice im Wunderland-Kulisse an, ohne dass er das sein will.####[('Raum', 'AMBIENCE', 'negative')]
+Ich habe allerdings knapp 60 $ für eine gute Mahlzeit bezahlt :)####[('
+            ', 'FOOD', 'positive'), ('Mahlzeit', 'FOOD', 'positive')]
+Großartig willkommen!####[('willkommen', 'FOOD', 'positive')]
+Zuverlässiges, frisches Sushi####[('Sushi', 'FOOD', 'positive')]
+Das Sashimi ist immer frisch und die Rollen sind innovativ und lecker.####[('Sashimi', 'FOOD', 'positive'), ('
+            ', 'FOOD', 'positive'), ('Rollen', 'FOOD', 'positive')]
+Hatte noch nie ein Problem mit dem Service, habe auch nur einmal einen fehlenden Reis gerettet.####[('
+        Service', 'SERVICE', 'positive')]
+Die Lieferung kann je nach Wetterlage und Wochentag pünktlich oder unzureichend erfolgen.####[('Lieferung', 'SERVICE', 'negative')]
+Lieferboten werden manchmal sauer, wenn Sie nicht mehr als 10 % Trinkgeld geben.####[('Lieferboten', 'SERVICE', 'negative')]
+Das beste Sushi aller Zeiten.####[('Sushi', 'FOOD', 'positive')]
+Dieser Ort hat mir die Lust auf Sushi in der Nachbarschaft verdorben.####[('Sushi', 'FOOD', 'positive')]
+Ausgezeichnetes Sashimi und die Millennium-Roll ist mehr als köstlich.####[('Sashimi', 'FOOD', 'positive'), ('Millennium-Roll', 'FOOD', 'positive')]
+Der Ort liegt etwas versteckt, aber wenn man erst einmal dort ist, lohnt sich die Mühe.####[('
+            ', 'GENERAL-IMPRESSION', 'positive'), ('Ort', 'AMBIENCE', 'neutral')]
+nicht nur das Essen####[('Essen', 'FOOD', 'positive')]
+Der Kellner war aufmerksam, das Essen war köstlich und die Aussicht auf die Stadt war großartig.####[('Kellner', 'SERVICE', 'positive'), ('Essen', 'ESSEN', 'positive'), ('Aussicht auf die Stadt', 'AMBIENTE', 'positive')]
+Toller Ort, um sich zu entspannen und Ihr Abendessen zu genießen####[('Ort', 'AMBIENCE', 'positive')]
+Es ist etwas an ihrer Atmosphäre, das mich fast jede Woche wiederkommen lässt.####[('Atmosphäre', 'AMBIENCE', 'positive')]
+Der Ort ist bis spät geöffnet, keine Kleiderordnung.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Gutes Essen: Mein Favorit sind die Spaghetti mit Meeresfrüchten .####[('Essen', 'FOOD', 'positive'), ('Spaghetti mit Meeresfrüchten', 'FOOD', 'positive')]
+Ausgezeichnetes Essen zu tollen Preisen####[('
+            ', 'FOOD', 'positive'), ('Essen', 'FOOD', 'positive')]
+Das Kellnerpersonal ist sehr höflich und zuvorkommend.####[('Kellnerpersonal', 'SERVICE', 'positive')]
+Der Platz ist begrenzt, also rechnen Sie mit einer Wartezeit von 45 Minuten bis 1 Stunde, werden Sie jedoch reich belohnt, wenn Sie das köstliche indochinesische Essen genießen.####[('Platz', 'GENERAL-IMPRESSION', 'negative'), ('indochinesische
+        Essen', 'FOOD', 'positive')]
+mein liebster Ort lol####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+ich liebe ihre Hühnchen-Pasta, kann mich nicht an den Namen erinnern, aber sie ist sooo gut####[('Hühnchen-Pasta', 'FOOD', 'positive')]
+ich bin nicht unbedingt ein großer Fan dieses Ortes , aber es war eine tolle Zeit zu niedrigen Preisen.####[('
+            ', 'GENERAL-IMPRESSION', 'positive'), ('Ortes', 'GENERAL-IMPRESSION', 'positive')]
+Hummer war gut, nichts Besonderes.####[('Hummer', 'FOOD', 'neutral')]
+es ist einfach ein angenehmer Ort, kein Fünf-Sterne-Restaurant.####[('Restaurant', 'GENERAL-IMPRESSION', 'neutral')]
+Ich finde, die Pizza ist völlig überbewertet und war nicht richtig durchgebacken.####[('Pizza', 'FOOD', 'negative')]
+Hatte keinen Geschmack und das Personal ist unhöflich und nicht aufmerksam.####[('
+        Personal', 'SERVICE', 'negative')]
+Ich liebe diesen Ort####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Der Service war schnell und freundlich.####[('Service', 'SERVICE', 'positive')]
+Ich fand das Restaurant schön und sauber.####[('
+            ', 'AMBIENCE', 'positive'), ('Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Ich habe das Vitello alla Marsala bestellt und war ziemlich beeindruckt.####[('Vitello alla Marsala', 'FOOD', 'positive')]
+Das Kalbfleisch und die Pilze waren perfekt zubereitet.####[('Kalbfleisch', 'FOOD', 'positive'), ('Pilze', 'FOOD', 'positive')]
+Die Kartoffelbällchen waren überhaupt nicht trocken... im Gegenteil, sie waren buttrig.####[('Kartoffelbällchen', 'FOOD', 'positive')]
+SCHLECHTESTE ORT AUF DER SMITH STREET IN BROOKLYN####[('ORT', 'GENERAL-IMPRESSION', 'negative')]
+Sehr unreifer Barkeeper, wusste nicht, wie man bestimmte Getränke zubereitet, der Service war so laaaaaangsam, das Essen war nicht frisch oder warm, die Kellnerinnen waren damit beschäftigt, mit Männern an der Bar zu flirten und kümmerten sich nicht sehr um alle Kunden.####[('Barkeeper', 'SERVICE', 'negative'), ('Service', 'SERVICE', 'negative'), ('Essen', 'ESSEN', 'negative'), ('Kellnerinnen', 'SERVICE', 'negative')]
+Ich würde diesen Ort niemals irgendjemandem empfehlen, nicht einmal für ein zwangloses Abendessen.####[('Ort', 'GENERAL-IMPRESSION', 'negative')]
+das Essen ist immer frisch …####[('Essen', 'FOOD', 'positive')]
+überteuertes japanisches Essen mit mittelmäßigem Service####[('japanisches Essen', 'FOOD', 'negative'), ('Service', 'SERVICE', 'neutral')]
+Hühnchen-Teriyaki mit Tomaten oder Pimentos obendrauf??####[('Hühnchen-Teriyaki', 'FOOD', 'negative')]
+Essen war lauwarm.####[('Essen', 'FOOD', 'negative')]
+Die Kellnerin war überhaupt nicht aufmerksam.####[('Kellnerin', 'SERVICE', 'negative')]
+Ich war auf der Suche nach Bananentempura als Dessert und sie hatten es nicht.####[('Dessert', 'FOOD', 'negative')]
+Nur weil Sie „The Four Seasons“ sind … – dürfen Sie für ein romantisches Abendessen kein Vermögen verlangen.####[('The Four
+        Seasons', 'GENERAL-IMPRESSION', 'negative')]
+Das Essen war ausgezeichnet, ebenso wie der Service, dennoch verließ ich das Four Seasons sehr enttäuscht.####[('Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive'), ('Four
+        Seasons', 'GENERAL-IMPRESSION', 'negative')]
+Ich glaube nicht, dass ein Abendessen in Manhattan 400,00 $ kosten sollte, ohne dass es mich umhaut.####[('Abendessen', 'FOOD', 'negative')]
+Red Dragon Roll – von allen Nahrungsmittelgruppen mein Lieblingsessen – zweifellos####[('Red Dragon Roll', 'FOOD', 'positive')]
+Gehen Sie einfach zu Yamato und bestellen Sie den Red Dragon Roll.####[('
+        Yamato', 'GENERAL-IMPRESSION', 'positive'), ('Red
+        Dragon Roll', 'FOOD', 'positive')]
+Auch das Seafood Dynamite ist nicht von dieser Welt.####[('Seafood Dynamite', 'FOOD', 'positive')]
+Lieblings-Sushi in NYC####[('Sushi', 'FOOD', 'positive')]
+Ein unprätentiöser Laden in Park Slope, das Sushi ist durchweg gut, der Service ist angenehm, effizient und bescheiden.####[('Laden', 'AMBIENCE', 'positive'), ('Sushi', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+In den Sommermonaten ist der Hintergartenbereich wirklich schön.####[('
+        Hintergartenbereich', 'AMBIENCE', 'positive')]
+Die Rollen sind kreativ und ich habe noch kein anderes Sushi-Restaurant gefunden, das einfallsreicheres und dennoch köstlicheres japanisches Essen serviert.####[('Rollen', 'FOOD', 'positive'), ('
+            ', 'FOOD', 'positive'), ('japanisches Essen', 'FOOD', 'positive')]
+Die Dancing-, White River- und Millenium-Rolls sind ein Muss.####[('Dancing-, White River- und
+        Millenium-Rolls', 'FOOD', 'positive')]
+ICH KANN HIER WIRKLICH JEDEN TAG DER WOCHE ESSEN, LOL, LIEBE DIESEN ORT ...)####[('ORT', 'GENERAL-IMPRESSION', 'positive')]
+Ekelhaftes Essen – Wow-####[('Essen', 'FOOD', 'negative')]
+Ich kann mich nicht erinnern, wann ich das letzte Mal in New York so ekliges Essen gegessen habe.####[('Essen', 'FOOD', 'negative')]
+Meine Quesadilla schmeckte, als wäre sie von einem Dreijährigen ohne Sinn für Proportionen oder Geschmack zubereitet worden.####[('
+            ', 'FOOD', 'negative'), ('Quesadilla', 'FOOD', 'negative')]
+Und 11 $ für einen Teller fade Guacamole ?####[('
+            ', 'FOOD', 'negative'), ('Guacamole', 'FOOD', 'negative')]
+Und von den Margaritas will ich erst gar nicht anfangen.####[('Margaritas', 'FOOD', 'negative')]
+Oh, und ich schreibe nie Rezensionen – ich war einfach so bewegt davon, wie schlimm dieser Ort war, dass ich es als meine Pflicht empfand, es weiterzuerzählen.####[('Ort', 'GENERAL-IMPRESSION', 'negative')]
+Tolles indisches Essen!####[('indisches Essen', 'FOOD', 'positive')]
+Das Essen war gut, der Ort war sauber und erschwinglich.####[('Essen', 'FOOD', 'positive'), ('
+            ', 'GENERAL-IMPRESSION', 'positive'), ('Ort', 'AMBIENCE', 'positive')]
+Mir ist aufgefallen, dass dort viele Inder essen, was ein tolles Zeichen für ein indisches Lokal ist!####[('indisches Lokal', 'GENERAL-IMPRESSION', 'positive')]
+Das ist einer meiner Lieblingsplätze, sehr entspannend, das Essen ist immer großartig, habe hier meine Verlobung und meine Hochzeit gefeiert, es war sehr gut organisiert.####[('Essen', 'FOOD', 'positive')]
+Das Personal ist sehr gut.####[('Personal', 'SERVICE', 'positive')]
+Ich liebe ihre Getränkekarte .####[('Getränkekarte', 'FOOD', 'positive')]
+Ich kann diesen wunderschönen Ort wärmstens empfehlen.####[('
+            ', 'GENERAL-IMPRESSION', 'positive'), ('Ort', 'AMBIENCE', 'positive')]
+Uns wurde Wasser für den Tisch angeboten, aber man sagte uns nicht, dass die Voss-Flaschen Wasser 8 $ pro Stück kosteten.####[('Voss-Flaschen Wasser', 'FOOD', 'negative')]
+Essen war ok.####[('Essen', 'FOOD', 'neutral')]
+Schöne Aussicht auf den Fluss und NYC.####[('Aussicht auf den Fluss und
+        NYC', 'AMBIENCE', 'positive')]
+Großartiger Dienst####[('Dienst', 'SERVICE', 'positive')]
+Ein wunderschön gestaltetes, verträumtes ägyptisches Restaurant, das abends stimmungsvoll wirkt.####[('ägyptisches Restaurant', 'AMBIENCE', 'positive')]
+Schauen Sie den talentierten Bauchtänzerinnen zu, während Sie köstliches Baba Ganoush genießen, das eher nach Zitrone als nach Rauch schmeckt.####[('
+        Bauchtänzerinnen', 'AMBIENCE', 'positive'), ('Baba Ganoush', 'FOOD', 'positive')]
+Oh, und es gibt Shisha .####[('Shisha', 'AMBIENCE', 'positive')]
+Raymond, der Barkeeper rockt!####[('Raymond', 'SERVICE', 'positive')]
+Pacifico ist ein toller Ort zum gemütlichen Abhängen.####[('Pacifico', 'GENERAL-IMPRESSION', 'positive')]
+Die Getränke sind großartig, insbesondere wenn sie von Raymond zubereitet werden.####[('Getränke', 'FOOD', 'positive'), ('
+        Raymond', 'SERVICE', 'positive')]
+Das Omelette zum Brunch ist großartig …####[('Omelette zum Brunch', 'FOOD', 'positive')]
+der Spinat ist frisch, auf keinen Fall gefroren...####[('Spinat', 'FOOD', 'positive')]
+Quacamole bei Pacifico ist lecker, ebenso wie die Flügel mit Chimmichuri.####[('Quacamole', 'FOOD', 'positive'), ('Flügel mit
+        Chimmichuri', 'FOOD', 'positive')]
+Eine Schwäche ist das Huhn in den Salaten.####[('Huhn in den
+        Salaten', 'FOOD', 'negative')]
+Außerdem war ich persönlich kein Fan der Portobello- und Spargel-Mole.####[('Portobello- und Spargel-Mole', 'FOOD', 'negative')]
+Insgesamt ordentliches Essen zu einem guten Preis, mit freundlichen Leuten.####[('
+            ', 'FOOD', 'positive'), ('Essen', 'FOOD', 'neutral'), ('
+        Leuten', 'SERVICE', 'positive')]
+Bestes indisches Restaurant in der Stadt####[('indisches
+        Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Das Dekor muss modernisiert werden, aber das Essen ist fantastisch!####[('Dekor', 'AMBIENCE', 'negative'), ('Essen', 'FOOD', 'positive')]
+Dieses kleine Souvlaki-Lokal in Astoria macht das, was viele für das beste Gyros in ganz New York halten.####[('Gyros', 'FOOD', 'positive')]
+Was es wirklich auszeichnet, ist das Essen, das stark mit zypriotischen Gewürzen gewürzt ist und vollständig im Haus hergestellt wird (sogar das Gyrosfleisch und die Würste) und aus viel hochwertigeren Zutaten besteht, als man sonst erwarten würde.####[('
+        Essen', 'FOOD', 'positive'), ('Gyrosfleisch', 'FOOD', 'positive'), ('Würste', 'FOOD', 'positive'), ('Zutaten', 'FOOD', 'positive')]
+Die verschiedenen griechischen und zypriotischen Gerichte sind ausgezeichnet, aber das Gyros ist der eigentliche Grund für einen Besuch – wenn Sie keins davon probieren, war Ihre Reise umsonst.####[('griechischen und
+        zypriotischen Gerichte', 'FOOD', 'positive'), ('Gyros', 'FOOD', 'positive')]
+Bestes Restaurant in Brooklyn####[('Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Tolles Essen, unglaublicher Service, dieses Lokal ist erstklassig.####[('Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive'), ('Lokal', 'GENERAL-IMPRESSION', 'positive')]
+Das Kalbfleisch war gestern Abend unglaublich.####[('Kalbfleisch', 'FOOD', 'positive')]
+Dieser Ort ist ein Muss!####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+In den meisten Kabinen können Sie nebeneinander sitzen, ohne wie „dieses“ Paar auszusehen.####[('Kabinen', 'AMBIENCE', 'positive')]
+Das Essen wird geteilt, sodass wir gemeinsam bestellen und gemeinsam essen können.####[('Essen', 'FOOD', 'positive')]
+Mir haben 99 % der Gerichte, die wir bestellt haben, geschmeckt, mit Ausnahme einiger für mich zu authentischer Gericht (ich bin ein mutiger Esser, aber nicht SO mutig).####[('Gerichte', 'FOOD', 'positive'), ('Gericht', 'FOOD', 'negative')]
+Der Hochzeitsempfang meiner Tochter im Water's Edge erhielt die höchsten Komplimente von unseren Gästen.####[('Water's Edge', 'GENERAL-IMPRESSION', 'positive')]
+Alle waren begeistert von der Atmosphäre (elegante Zimmer und absolut unvergleichliche Aussicht) und dem fabelhaften Essen!####[('
+        Atmosphäre', 'AMBIENCE', 'positive'), ('Zimmer', 'AMBIENCE', 'positive'), ('Aussicht', 'AMBIENCE', 'positive'), ('Essen', 'FOOD', 'positive')]
+Der Der Service war wunderbar;####[('Der Service', 'SERVICE', 'positive')]
+Paul, der Oberkellner, war absolut professionell und hatte immer alles im Griff.####[('Paul', 'SERVICE', 'positive')]
+Vielen Dank an alle bei Water's Edge.####[('Water's
+        Edge', 'GENERAL-IMPRESSION', 'positive')]
+Service ok aber unfreundlich, dreckiges Badezimmer .####[('Service', 'SERVICE', 'negative'), ('Badezimmer', 'AMBIENCE', 'negative')]
+Die hohen Preise, die Sie zahlen werden, gelten für die Aussicht, nicht für das Essen.####[('Aussicht', 'AMBIENCE', 'neutral'), ('Essen', 'FOOD', 'negative')]
+Die Bargetränke waren, gelinde gesagt, ok.####[('Bargetränke', 'FOOD', 'negative')]
+Das Zeug Tilapia war scheußlich … schmeckte wie Pappe.####[('Zeug Tilapia', 'FOOD', 'negative')]
+Wir dachten, das Dessert wäre besser, aber falsch!####[('Dessert', 'FOOD', 'negative')]
+oh, wo wir gerade von Badezimmer sprechen, die Herrentoilette war ekelhaft.####[('Herrentoilette', 'AMBIENCE', 'negative')]
+Die Weinkarte war umfangreich – das Personal schien sich allerdings mit der passenden Weinbegleitung nicht auszukennen.####[('Weinkarte', 'FOOD', 'positive'), ('Personal', 'SERVICE', 'negative')]
+Das Brot, das wir bekamen, war schrecklich – steinhart und kalt – und die „kostenlose“ Oliven-Vorspeise war enttäuschend.####[('Brot', 'FOOD', 'negative'), ('Oliven-Vorspeise', 'FOOD', 'negative')]
+Unser Hauptgericht war jedoch wunderbar.####[('Hauptgericht', 'FOOD', 'positive')]
+Ich hatte Fisch und mein Mann hatte das Filet – beides hat unsere Erwartungen übertroffen.####[('Fisch', 'FOOD', 'positive'), ('Filet', 'FOOD', 'positive')]
+Der Nachtisch (wir hatten eine Birnentorte) war gut – allerdings konnte das Personal auch dieses Mal keine passenden Getränkevorschläge machen.####[('
+        Birnentorte', 'FOOD', 'positive'), ('Personal', 'SERVICE', 'negative')]
+Als wir nach Portweinen fragten, zählte die Kellnerin mehrere auf, kannte aber weder Geschmacksvarianten noch Preise.####[('Kellnerin', 'SERVICE', 'negative')]
+Nicht das, was ich für den Preis und das Prestige dieses Standorts erwarten würde.####[('
+            ', 'GENERAL-IMPRESSION', 'neutral'), ('Standorts', 'GENERAL-IMPRESSION', 'neutral')]
+Alles in allem würde ich wiederkommen – da es ein wunderschönes Restaurant war – aber ich hoffe, dass das Personal in Zukunft mehr auf die kleinen Details achtet.####[('
+            ', 'AMBIENCE', 'positive'), ('Restaurant', 'GENERAL-IMPRESSION', 'positive'), ('Personal', 'SERVICE', 'negative')]
+kurz und bündig – die Sitzgelegenheiten sind großartig: sie sind romantisch, gemütlich und privat.####[('
+        Sitzgelegenheiten', 'AMBIENCE', 'positive')]
+Die beide sind nicht so klein, wie es in einigen Bewertungen den Anschein macht, sie sind perfekt für 2 Personen.####[('beide', 'AMBIENCE', 'positive')]
+Der Service war äußerst schnell und aufmerksam (dank der Servicetaste auf Ihrem Tisch), aber ich habe kaum ein Wort verstanden, als der Kellner unsere Bestellung aufnahm.####[('Service', 'SERVICE', 'positive'), ('
+        Servicetaste', 'SERVICE', 'positive'), ('Kellner', 'SERVICE', 'negative')]
+Das Essen war ok und angemessen, kein Grund zur Übertreibung.####[('Essen', 'FOOD', 'neutral')]
+Insgesamt übertrifft das Aussehen des Ortes die tatsächlichen Mahlzeiten .####[('Aussehen', 'AMBIENCE', 'positive'), ('Mahlzeiten', 'FOOD', 'negative')]
+Sie zahlen also letztendlich für das Restaurant und nicht für das Essen.####[('
+            ', 'AMBIENCE', 'neutral'), ('Restaurant', 'GENERAL-IMPRESSION', 'negative'), ('Essen', 'FOOD', 'negative')]
+Dezentes Essen und Service####[('Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Nudelpudding ist genau die Art von Service und Essen, die ich genieße.####[('
+        Service', 'SERVICE', 'positive'), ('Essen', 'FOOD', 'positive')]
+Server sind alle unterschiedlich, Greg ist mein Favorit.####[('
+        Greg', 'SERVICE', 'positive')]
+Manchmal verstehen die Tische seinen Sinn für Humor nicht, aber es ist erfrischend, einen Kellner zu haben, der Persönlichkeit und Professionalität besitzt und die Privatsphäre Ihres Abendessens respektiert.####[('Kellner', 'SERVICE', 'positive')]
+Dies ist der erste Ort, an dem ich gewesen bin, wo sich ein Runner an meine Bestellung erinnert ... hoffe, er mag seine Arbeit, denn ich habe halbwegs Lust, ihn für mein Restaurant abzuwerben.####[('Runner', 'SERVICE', 'positive')]
+Die Preise sind durchweg fair, sowohl für Lebensmittel als auch für Getränke.####[('Lebensmittel', 'FOOD', 'positive'), ('Getränke', 'FOOD', 'positive')]
+Ich gehe essen und mag meine Gänge. Die Kellner sind geduldig und hetzen nie die Gänge oder zwingen einem noch ein Getränk auf.####[('Kellner', 'SERVICE', 'positive')]
+unglaublich frische Würste, aber das Beste von allem: endlose Toppings !!!####[('Würste', 'FOOD', 'positive'), ('Toppings', 'FOOD', 'positive')]
+dieser Ort hatte ALLE Zutaten und ich meine alle.####[('Zutaten', 'FOOD', 'positive')]
+ein unglaublicher Spaß für Hotdog-Liebhaber jeden Alters. Tun Sie sich selbst bitte einen Gefallen und schauen Sie sich diesen Ort an!!!!####[('
+        Hotdog-Liebhaber', 'FOOD', 'positive'), ('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Der Besuch der Casa La Femme gestern Abend war ein echtes Erlebnis, mit dem man es in New York so noch nie erlebt hat!####[('Casa La
+        Femme', 'GENERAL-IMPRESSION', 'positive')]
+Sehr beeindruckt, von der Einrichtung über das Essen und die Gastfreundschaft bis hin zu dem großartigen Abend, den ich hatte!####[('
+        Einrichtung', 'AMBIENCE', 'positive'), ('Essen', 'FOOD', 'positive')]
+Sie haben einen tollen Cocktail mit Citrus-Wodka, Zitronen- und Limettensaft und Minzblättern, der einfach himmlisch ist!####[('Cocktail mit
+        Citrus-Wodka, Zitronen- und Limettensaft und Minzblättern', 'FOOD', 'positive')]
+Die Zubereitung des Essen nahm einige Zeit in Anspruch, aber das Warten hat sich gelohnt.####[('Essen', 'FOOD', 'positive')]
+Wir wurden in die Bauchtanzshow hineingezogen, die die Menge fesselte.####[('Bauchtanzshow', 'AMBIENCE', 'positive')]
+Ich schreibe nie auf diesen Seiten, aber dieses Restaurant ist definitiv ein Lob wert!####[('Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Made im Essen!####[('Essen', 'FOOD', 'negative')]
+Das Menü sah toll aus und der Kellner war sehr nett, aber als das Essen kam, war es durchschnittlich.####[('Menü', 'FOOD', 'positive'), ('Kellner', 'SERVICE', 'positive'), ('Essen', 'FOOD', 'neutral')]
+Trotzdem aß ich meinen Teller leer und entdeckte dabei am Boden eine Made in der Pilzsoße.####[('Pilzsoße', 'FOOD', 'negative')]
+Ich zeigte es dem Manager , und er entschuldigte sich lächelnd und brachte uns zwei kostenlose Desserts (fragte uns aber nicht, was wir wollten und brachte uns daher die letzten beiden Desserts, die wir bestellt hätten).####[('
+            ', 'SERVICE', 'negative'), ('Manager', 'SERVICE', 'positive')]
+Der Manager sagte schließlich, er würde die zwei Gläser Wein spendieren (die weniger kosteten als das Essen) und ließ es wie ein großes Zugeständnis erscheinen.####[('Manager', 'SERVICE', 'negative')]
+Ich habe in Restaurants gearbeitet und viel gekocht, und es ist völlig ausgeschlossen, dass eine Made in gut zubereitetes Essen eindringen kann.####[('Essen', 'FOOD', 'negative')]
+Bei einem Restaurant mit solch einem guten Ruf, das normalerweise so voll ist, gibt es keinen Grund für einen derart mangelnden Kundenservice .####[('Restaurant', 'GENERAL-IMPRESSION', 'positive'), ('Kundenservice', 'SERVICE', 'negative')]
+Ich hatte seitdem 2 Mal Haare in meinem Essen!####[('
+        Essen', 'FOOD', 'negative')]
+Toller Ort , tolles Preis-Leistungs-Verhältnis.####[('
+            ', 'GENERAL-IMPRESSION', 'positive'), ('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Das Essen ist schmackhaft, reichlich und preiswert.####[('
+            ', 'FOOD', 'positive'), ('
+                ', 'FOOD', 'positive'), ('Essen', 'FOOD', 'positive')]
+Die Atmosphäre ist entspannt und locker.####[('Atmosphäre', 'AMBIENCE', 'positive')]
+Es ist ein großartiger Ort, um zu bestellen oder sich hinzusetzen.####[('
+        Ort', 'GENERAL-IMPRESSION', 'positive')]
+Das Sushi-Erlebnis mit meinem Verlobten war unglaublich.####[('Sushi', 'FOOD', 'positive')]
+Gute kreative Brötchen !####[('
+            ', 'FOOD', 'positive'), ('Brötchen', 'FOOD', 'positive')]
+Yamato ist ein ausgezeichneter Ort, wenn Sie kein Sashimi mögen oder wenn Sie Freunde haben, die Sushi nicht besonders mögen.####[('Yamato', 'GENERAL-IMPRESSION', 'positive')]
+Sie haben tolle Brötchen, die dreifarbigen und norwegischen Brötchen , sind fantastisch und sättigend.####[('Brötchen', 'FOOD', 'positive'), ('
+            ', 'FOOD', 'positive'), ('dreifarbigen und norwegischen Brötchen', 'FOOD', 'positive')]
+Ein Spezialbrötchen und ein normales Brötchen reichen aus, um satt zu werden, aber lassen Sie noch Platz für das Dessert!####[('Spezialbrötchen', 'FOOD', 'positive'), ('normales Brötchen', 'FOOD', 'positive'), ('Dessert', 'FOOD', 'positive')]
+Sie haben ein köstliches Bananen-Schokoladen-Dessert sowie ein großartiges Grüntee-Tempura.####[('
+        Bananen-Schokoladen-Dessert', 'FOOD', 'positive'), ('Grüntee-Tempura', 'FOOD', 'positive')]
+Auch die Vorspeisen sind lecker!####[('Vorspeisen', 'FOOD', 'positive')]
+Erstaunliches Essen.####[('Essen', 'FOOD', 'positive')]
+Erstaunliches Interieur .####[('Interieur', 'AMBIENCE', 'negative')]
+Tolles Essen!####[('Essen', 'FOOD', 'positive')]
+Ich habe schon meinen gerechten Anteil an modernem Japanisch gehabt und dieser Ort liefert das, was er verspricht.####[('modernem Japanisch', 'FOOD', 'positive')]
+Die Atmosphäre war ganz nett, ließ aber ein paar Mängel zu wünschen übrig, was durch ein verrücktes Spiegelschema ausgeglichen werden soll.####[('Atmosphäre', 'AMBIENCE', 'negative'), ('Spiegelschema', 'AMBIENCE', 'negative')]
+Trotz der verwirrenden Spiegel wird dies in absehbarer Zukunft wahrscheinlich meine erste Wahl für modernes japanisches Essen sein.####[('Spiegel', 'AMBIENCE', 'negative'), ('modernes japanisches Essen', 'FOOD', 'positive')]
+Indo-chinesisches Essen, ziemlich gut ...####[('Indo-chinesisches Essen', 'FOOD', 'positive')]
+Kein sehr schickes Lokal, aber sehr gutes indisches Essen im chinesischen Stil.####[('Lokal', 'AMBIENCE', 'neutral'), ('indisches Essen im
+        chinesischen Stil', 'FOOD', 'positive')]
+Der Chicken Lollipop ist mein Favorit, die meisten Gerichte (da muss ich einem vorherigen Rezensenten zustimmen) sind recht ölig und sehr scharf, insbesondere das Chili Chicken.####[('Chicken Lollipop', 'FOOD', 'positive'), ('Gerichte', 'FOOD', 'negative'), ('Chili Chicken', 'FOOD', 'negative')]
+Meine Mutter hat mich ursprünglich mit diesem Ort bekannt gemacht, aber selbst sie (als Inderin) findet, dass das Essen manchmal etwas zu scharf und viel zu fettig ist.####[('Essen', 'FOOD', 'negative')]
+Ich war sprachlos angesichts des schrecklichen Essen.####[('Essen', 'FOOD', 'negative')]
+Ich war bei einem Festessen in diesem Restaurant und das Essen war äußerst enttäuschend.####[('Essen', 'FOOD', 'negative')]
+Anstatt ein vegetarisches Gericht zuzubereiten, präsentierte mir der Koch einen Teller mit gedünstetem Gemüse (ohne Soße, Gewürze oder jegliche andere Form oder ästhetische Präsentation).####[('
+            ', 'FOOD', 'negative'), ('vegetarisches Gericht', 'FOOD', 'negative'), ('Koch', 'SERVICE', 'negative')]
+Dieser Ort überlebt allein aufgrund seines guten Rufs.####[('Ort', 'GENERAL-IMPRESSION', 'negative')]
+Dies ist das wunderbarste Restaurant in ganz New York City, nicht nur in Brooklyn ...####[('
+        Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+7 Jahre lang haben sie das schmackhafteste und köstlichste Essen zubereitet und das ist auch so geblieben ...####[('Essen', 'FOOD', 'positive')]
+nie schwankend, nie eine schlechte Mahlzeit, nie schlechter Service...####[('
+        Mahlzeit', 'FOOD', 'positive'), ('
+        Service', 'SERVICE', 'positive')]
+tolles Essen, tolle Weinkarte, toller Service in einer tollen Nachbarschaft...####[('Essen', 'FOOD', 'positive'), ('Weinkarte', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive'), ('Nachbarschaft', 'AMBIENCE', 'positive')]
+Patsy's Pizza = wahre Liebe####[('Patsy's Pizza', 'GENERAL-IMPRESSION', 'positive')]
+Zweifellos die beste Pizza der Welt.####[('Pizza', 'FOOD', 'positive')]
+tolle Hotdogs..####[('Hotdogs', 'FOOD', 'positive')]
+die Hot Dogs waren innen saftig und zart und außen schön knackig und knackig.####[('Hot Dogs', 'FOOD', 'positive')]
+tolle Toppings, definitiv ein Ort, den Sie für einen Snack am späten Abend oder eine Stärkung am Mittag besuchen sollten!####[('Toppings', 'FOOD', 'positive'), ('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Für mich waren die Gerichte ein wenig ölig, aber insgesamt war das kulinarische Erlebnis gut.####[('Gerichte', 'FOOD', 'negative')]
+Hilfreicher Service und Durchschnittspreis pro Gericht 10 $.####[('Service', 'SERVICE', 'positive'), ('Gericht', 'FOOD', 'positive')]
+Das einzige, was auffällt, ist das Dekor? (nicht sehr angenehm).####[('
+        Dekor', 'AMBIENCE', 'negative')]
+tolles Essen####[('Essen', 'FOOD', 'positive')]
+Dieses Lokal bietet großartiges indisch-chinesisches Essen.####[('indisch-chinesisches
+        Essen', 'FOOD', 'positive')]
+Stellen Sie sich auf eine Wartezeit ein, denn der Ort ist recht klein.####[('Ort', 'GENERAL-IMPRESSION', 'negative')]
+Auch wenn der Ort nicht schön ist, spricht das Essen für sich.####[('Ort', 'AMBIENCE', 'negative'), ('Essen', 'FOOD', 'positive')]
+Mit Abstand das beste indisch-chinesische Restaurant der Stadt!####[('
+        indisch-chinesische', 'FOOD', 'positive')]
+Ich bin durch Zufall auf Village Underground gestoßen und gehe jetzt ständig dorthin.####[('Village
+        Underground', 'GENERAL-IMPRESSION', 'positive')]
+Die Martinis sind fantastisch und sehr preiswert.####[('
+            ', 'FOOD', 'positive'), ('Martinis', 'FOOD', 'positive')]
+DER SERVICE IST FANTASTISCH, ich hatte verschiedene Kellner und sie waren alle nett, was in NYC eine Seltenheit ist.####[('SERVICE', 'SERVICE', 'positive'), ('
+        Kellner', 'SERVICE', 'positive')]
+Der DJ ist großartig. Ich war an meinem Geburtstag und ein paar andere Male mit Freunden dort und komme immer wieder hin.####[('DJ', 'AMBIENCE', 'positive')]
+Alles auf der Speisekarte ist großartig.####[('Speisekarte', 'FOOD', 'positive')]
+Dieses Establishment ist das einzig Wahre.####[('Establishment', 'GENERAL-IMPRESSION', 'positive')]
+Ich wünschte, in New York gäbe es mehr solcher Orte: intim, hervorragendes Essen, heimelig, rundum erstklassig, das Warten hat sich auf jeden Fall gelohnt.####[('Essen', 'FOOD', 'positive')]
+Aber 500 $ für ein Abendessen für zwei, bei dem kein Wein inbegriffen ist?####[('Abendessen für zwei', 'FOOD', 'negative')]
+Schauen Sie, die Vorspeisen waren wirklich gut.####[('Vorspeisen', 'FOOD', 'positive')]
+Auch die Vorspeise war sehr gut.####[('Vorspeise', 'FOOD', 'positive')]
+Sie bezahlen für die Umgebung und den Namen.####[('Umgebung', 'AMBIENCE', 'neutral')]
+Ja, der Ort ist elegant und schön, aber er richtet sich ganz sicher an die Supergesunde und nicht an den Durchschnittsbürger, der ab und zu mal aufs Ganze gehen will.####[('
+            ', 'GENERAL-IMPRESSION', 'negative'), ('Ort', 'AMBIENCE', 'positive')]
+Vanison war gut, aber nicht umwerfend.####[('Vanison', 'FOOD', 'neutral')]
+Bison war allerdings ganz ausgezeichnet.####[('Bison', 'FOOD', 'positive')]
+Dessert: reine Katastrophe.####[('Dessert', 'FOOD', 'negative')]
+Ich habe Kritiken gelesen, in denen das Restaurant als zu teuer bezeichnet wurde, und dachte mir, aber vielleicht ist es das wert.####[('
+            ', 'GENERAL-IMPRESSION', 'negative'), ('Restaurant', 'GENERAL-IMPRESSION', 'negative')]
+Das Four Seasons hat Geschichte und ist so etwas wie ein Wahrzeichen der New Yorker Restaurantszene. Aber glauben Sie mir, die verlangen unverschämte Preise, nur damit Sie sagen können: „Ich war im Four Seasons Restaurant.“####[('
+            ', 'GENERAL-IMPRESSION', 'negative'), ('Das Four Seasons', 'GENERAL-IMPRESSION', 'neutral')]
+Alles in allem war das Essen großartig (mit Ausnahme der Desserts ).####[('Essen', 'FOOD', 'positive'), ('Desserts', 'FOOD', 'negative')]
+Die Umgebung ist sehr gehoben und Sie werden viele reiche Typen mit Vorzeigefrauen oder einfach hochbezahlten Escorts sehen.####[('Umgebung', 'AMBIENCE', 'neutral')]
+Wenn Sie auf das Essen aus sind, wird es sich nicht lohnen.####[('Essen', 'FOOD', 'negative')]
+Man würde meinen, sie würden dies mit Service wettmachen, aber leider nicht.####[('Service', 'SERVICE', 'negative')]
+Der Service war nur ok, das würde man für 500 $ nicht erwarten.####[('Service', 'SERVICE', 'negative')]
+Ich stimme zu, dass ein Essen im Casa La Femme ein kulinarisches Erlebnis ist, das mit keinem anderen vergleichbar ist!####[('Casa La Femme', 'GENERAL-IMPRESSION', 'negative')]
+Ich bin gerade von meinem Besuch im Casa La Femme nach Hause gekommen und war von meinem Besuch so angegriffen, dass ich es für nötig hielt, andere Gäste, denen ihr Geld und ihre Zeit wichtig sind, zu warnen.####[('
+            ', 'GENERAL-IMPRESSION', 'negative'), ('Casa La Femme', 'GENERAL-IMPRESSION', 'negative')]
+Wir kamen zu spät zu unserer Reservierung, daher kann ich mich nicht allzu sehr über die Wartezeit auf einen Tisch beschweren.####[('Wartezeit', 'SERVICE', 'neutral')]
+Der Ort ist wunderschön!####[('Ort', 'AMBIENCE', 'positive')]
+Die Hostess war sehr angenehm.####[('Hostess', 'SERVICE', 'positive')]
+Unsere Getränke für 14 $ waren jedoch schrecklich!####[('
+            ', 'FOOD', 'negative'), ('Getränke', 'FOOD', 'negative')]
+Wir haben auch sechsmal nach einer Shisha gefragt, und der Kellner sagte uns immer eine Minute und kam nie mit der Shisha zurück.####[('Kellner', 'SERVICE', 'negative')]
+Nach dem vierten Mal fragte ich erneut und der Kellner sagte dann: „Nach unserem Abendessen.“####[('Kellner', 'SERVICE', 'negative')]
+Wir fragten nach Beilagen, woraufhin der Kellner zugab, dass er vergessen hatte, diesen Teil unserer Bestellung mitzugeben.####[('Kellner', 'SERVICE', 'negative')]
+Mein Hühnchen war ungenießbar, da es so viele Fettklumpen enthielt, dass ich sie ständig in meine Serviette ausspucken musste.####[('Hühnchen', 'FOOD', 'negative')]
+Das hätte ich bei einem Abendessen für 55 USD nicht erwartet.####[('
+            ', 'FOOD', 'negative'), ('Abendessen', 'FOOD', 'negative')]
+Als wir gingen, waren unsere Geldbörsen leer und unsere Mägen auch UND wir verpassten die Show, die wir nach dem Abendessen sehen wollten, was akzeptabel gewesen wäre, wenn wir in den Genuss von gutem Essen und Bauchtänzerinnen gekommen wären!####[('Essen', 'FOOD', 'negative')]
+Wenn es mir während meines Aufenthalts möglich gewesen wäre, hätte ich gegen die Rechnung gekämpft, da der Abendessenanteil meiner Mahlzeit ungenießbar war!####[('Mahlzeit', 'FOOD', 'negative')]
+Ich habe noch nie ein Restaurant mit dem Gefühl verlassen, missbraucht worden zu sein und mein hart verdientes Geld verschwendet zu haben.####[('
+            ', 'GENERAL-IMPRESSION', 'negative'), ('Restaurant', 'GENERAL-IMPRESSION', 'negative')]
+Das Menü ist ziemlich einfach und enthält nicht viele Beschreibungen.####[('Menü', 'FOOD', 'neutral')]
+Es gab an diesem Abend kein Bier vom Fass, was eine Enttäuschung war.####[('Bier', 'FOOD', 'negative')]
+Auch die Auswahl an Flaschenbier war nicht besonders groß, wir haben uns für Brahma entschieden.####[('Auswahl an Flaschenbier', 'FOOD', 'negative')]
+Die Vorspeisen, die wir bestellt hatten, wurden rasch serviert – eine Portion gebratene Austern und Muscheln war köstlich, die Portionen waren jedoch winzig (vielleicht drei von jeder Sorte).####[('
+            ', 'FOOD', 'negative'), ('gebratene Austern und Muscheln', 'FOOD', 'positive')]
+Die Hummerhaxen (Tagesgericht) waren ok, aber ziemlich geschmacklos.####[('
+            ', 'FOOD', 'negative'), ('Hummerhaxen', 'FOOD', 'neutral')]
+Ich glaube, in der Vorspeise „Garnelen in Salzkruste“ waren 2 Garnelen.####[('Vorspeise „Garnelen
+        in Salzkruste“', 'FOOD', 'negative')]
+Ich hatte den gebratenen Wolfsbarsch nach thailändischer Art... der sehr gut war.####[('gebratenen Wolfsbarsch
+        nach thailändischer Art', 'FOOD', 'positive')]
+Alle schienen im Großen und Ganzen mit ihrem Essen zufrieden zu sein, außer meinem Bruder, der den gegrillten Mahi Mahi hatte, der scheinbar in Grapefruitsaft getränkt war!####[('Essen', 'FOOD', 'positive'), ('
+            ', 'FOOD', 'negative'), ('gegrillten Mahi Mahi', 'FOOD', 'negative')]
+Ich habe gehört, das Hummerbrötchen war ausgezeichnet.####[('Hummerbrötchen', 'FOOD', 'positive')]
+Alles in allem war das Essen gut – ein wenig teuer, aber frisch.####[('
+            ', 'FOOD', 'negative'), ('Essen', 'FOOD', 'positive')]
+Der Service war nicht der freundlichste gegenüber unserer „großen Gruppe“!####[('Der Service', 'SERVICE', 'negative')]
+Tolles indisches Essen####[('indisches Essen', 'FOOD', 'positive')]
+Das Essen war unglaublich – ich liebe indisches Essen und esse es ziemlich regelmäßig, aber ich kann sagen, dass dies eines der besten ist, die ich je gegessen habe.####[('Das Essen', 'FOOD', 'positive')]
+Sehr „normales indisches Essen “, aber wirklich gut gemacht.####[('
+            ', 'FOOD', 'positive'), ('indisches Essen', 'FOOD', 'neutral')]
+Ich gebe ihm eine 4 statt einer 5 wegen des Preises (nur Chicken Tikka Masala – ohne Brot oder Reis – kostet 25 $), was ich in einem gehobenen indischen Restaurant erwarten würde, aber dieser Ort hat kein gehobenes Gefühl.####[('Chicken Tikka Masala', 'FOOD', 'negative'), ('
+            ', 'GENERAL-IMPRESSION', 'negative'), ('Ort', 'GENERAL-IMPRESSION', 'positive'), ('Gefühl', 'AMBIENCE', 'negative')]
+Außerdem versuchen Kellner, Ihnen mehr Essen aufzuschwatzen, indem sie Ihnen beispielsweise Dinge als kostenlos anbieten, obwohl sie tatsächlich Geld kosten.####[('Kellner', 'SERVICE', 'negative')]
+Wenn Sie jedoch bereit sind, etwas Geld auszugeben und daran denken, zu fragen, ob etwas, das sie anbieten, kostenlos ist, dann ist dies der Ort für indisches Essen####[('Ort', 'GENERAL-IMPRESSION', 'negative'), ('indisches Essen', 'FOOD', 'positive')]
+Bukhara Grill, der Slogan sagt alles: „INDIAN SPICE RAVE“####[('Bukhara Grill', 'GENERAL-IMPRESSION', 'positive')]
+Das Mittagsbuffet ist zwar teuer, aber auf jeden Fall wert.####[('
+            ', 'FOOD', 'positive'), ('Mittagsbuffet', 'FOOD', 'negative')]
+Wir waren nur ein paar Mal zum Abendessen, aber die Qualität und der Service waren immer gleich großartig.####[('
+        Abendessen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Buchara ist unter meinen Top 5 indischen Orten in NYC####[('Buchara', 'GENERAL-IMPRESSION', 'positive')]
+Ich war noch nie so angewidert sowohl vom Essen als auch vom Service.####[('Essen', 'FOOD', 'negative'), ('Service', 'SERVICE', 'negative')]
+Nachdem ich jedoch meine erwartungsgemäß mittelmäßige Bestellung von etwas erhalten hatte, das Dokebi für eine koreanische Kirmes hält (manchmal muss man sich mit etwas zufrieden geben, wenn es die einzige Option ist), hatte ich ungefähr die Hälfte meines Kimchi aufgegessen, bevor ich ein Stück zufälligen Salat fand, begleitet von einem noch ekelhafteren, schleimigeren und eindeutig verdorbenen Stück Fischhaut.####[('koreanische Kirmes', 'FOOD', 'negative'), ('Kimchi', 'FOOD', 'negative')]
+Meine größte Sorge galt der Vernunft des Essens, das an mich und andere verschickt wurde, aber ich würde lügen, wenn ich sagen würde, dass ich als jemand, der seit seinem 15. Lebensjahr in der Gastronomie arbeitet, zumindest minimale Anstrengungen seitens des Restaurants erwartet hätte, um die Situation zu bereinigen.####[('Essens', 'FOOD', 'negative')]
+Meine Freundin war etwas aggressiver und ebenso angewidert, was dazu führte, dass sie den Rest ihrer kaum gegessenen Mahlzeit wegwarf. Als sie zurückrief, erfuhr sie, dass ich mich wahrscheinlich geirrt hatte und es sich höchstwahrscheinlich um eine Auster handelte, und dass wir ebenfalls auf der schwarzen Liste ihres Restaurants standen.####[('Mahlzeit', 'FOOD', 'negative')]
+Es war nicht so, dass dieses Restaurant vorher irgendwelche großen Vorzeigepunkte gehabt hätte, aber jetzt ist es einfach nur abstoßend.####[('Restaurant', 'GENERAL-IMPRESSION', 'negative')]
+Wunderschöner Ort , ideal für ein romantisches Abendessen####[('
+            ', 'GENERAL-IMPRESSION', 'positive'), ('Ort', 'AMBIENCE', 'positive')]
+Ich buchte ein wunderschönes weißes Organzazelt, das ein Vier-Gänge-Menü zum Festpreis beinhaltete, das uns sehr gut gefiel.####[('weißes
+        Organzazelt', 'AMBIENCE', 'positive'), ('Vier-Gänge-Menü
+        zum Festpreis', 'FOOD', 'positive')]
+Der Service war spektakulär, da der Kellner alles über die Speisekarte wusste und seine Empfehlungen fantastisch waren!####[('Service', 'SERVICE', 'positive'), ('Kellner', 'SERVICE', 'positive')]
+Ich kann Casa La Femme uneingeschränkt für jeden besonderen Anlass empfehlen und um Ihr Date WIRKLICH zu beeindrucken.####[('Casa La Femme', 'GENERAL-IMPRESSION', 'positive')]
+Das Bibimbap war durchschnittlich, aber die Steinschale brutzelte nicht einmal annähernd.####[('Bibimbap', 'FOOD', 'neutral'), ('Steinschale', 'FOOD', 'negative')]
+Schade, dass ich für die Steinschale 2 $ extra bezahlt hatte.####[('Steinschale', 'FOOD', 'negative')]
+Das Nakgi-Bokum war schrecklich.####[('Nakgi-Bokum', 'FOOD', 'negative')]
+Mit Abstand der schlechteste gebratene Tintenfisch, den ich je gegessen habe.####[('gebratene
+        Tintenfisch', 'FOOD', 'negative')]
+Die Soße schmeckte eher nach chinesischem Fast Food als nach anständigem koreanischen Essen.####[('Soße', 'FOOD', 'negative')]
+Die Beilagen waren passabel und ich bekam auf Anfrage Nachschub.####[('
+            ', 'FOOD', 'neutral'), ('Beilagen', 'FOOD', 'neutral')]
+Das wirkliche Problem, das ich mit diesem Ort hatte, war der völlige Mangel an Service.####[('Service', 'SERVICE', 'negative')]
+Meine Frau hatte dieses Chaos von einem Gericht kaum angerührt.####[('
+        Gericht', 'FOOD', 'negative')]
+Meine Frau hatte das Risotto, das unglaublich war.####[('Risotto', 'FOOD', 'positive')]
+Auch der Dinkelsalat und das Yukon-Kartoffelpüree waren äußerst lecker.####[('Dinkelsalat', 'FOOD', 'positive'), ('Yukon-Kartoffelpüree', 'FOOD', 'positive')]
+ich liebe Pizza Margherita – ich liiiebe East Village Pizza####[('Pizza Margherita', 'FOOD', 'positive'), ('East Village
+        Pizza', 'GENERAL-IMPRESSION', 'positive')]
+Ich liebe diesen Ort, jedes Mal, wenn wir in der Stadt sind, ist dies einer der Orte, an die wir immer gehen.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Ein typisches Stück NYC-Pizza .####[('Stück NYC-Pizza', 'FOOD', 'neutral')]
+Die Kruste hat einen tollen Biss und lässt sich gut kauen, die Soße ist leicht und hat eine angenehme Säure, das Salz vom Käse ist toll und verstärkt wirklich den Geschmack aller anderen Bestandteile.####[('Kruste', 'FOOD', 'positive'), ('
+        Soße', 'FOOD', 'positive'), ('Käse', 'FOOD', 'positive')]
+Mir persönlich schmeckt die Pizza Margherita besser, aber sie sind alle gut.####[('Pizza
+        Margherita', 'FOOD', 'positive')]
+Möglicherweise das romantischste Restaurant der Stadt####[('
+        Restaurant', 'AMBIENCE', 'positive')]
+Dies ist zweifellos meine liebste moderne japanische Brasserie (die kein Sushi serviert) und meiner Meinung nach eines der romantischsten Restaurants der Stadt!####[('
+            ', 'AMBIENCE', 'positive'), ('moderne japanische
+        Brasserie', 'GENERAL-IMPRESSION', 'positive')]
+Es ist nicht nur ein Abenteuer, zu diesem etwas versteckten Ort zu gelangen, sondern sobald Sie durch die unmarkierten Holztüren gehen, wird Ihnen die Zen- und intime Einrichtung das Gefühl geben, nicht länger in der Stadt zu sein.####[('Ort', 'AMBIENCE', 'neutral'), ('unmarkierten Holztüren', 'AMBIENCE', 'positive'), ('
+        Einrichtung', 'AMBIENCE', 'positive')]
+Wenn Sie vorhaben, hierher zu kommen, stellen Sie sicher, dass Ihr Date jemand ist, den Sie wirklich mögen, da Sie in private Kabinen geführt werden, in denen weder Leute noch Essen zu sehen sind (wählen Sie die im Erdgeschoss, die Glasdecken haben, damit Sie die Sterne am Himmel sehen können!).####[('private
+        Kabinen', 'AMBIENCE', 'positive'), ('Glasdecken', 'AMBIENCE', 'positive')]
+Es sind nur Sie und Ihr Date da und ab und zu ein nettes „Entschuldigen Sie“, bevor der Kellner den kleinen Vorhang zu Ihrer Sitznische öffnet!####[('Kellner', 'SERVICE', 'positive')]
+Meine Gruppe hatte das BBE-Menü zum Festpreis von 29 $ , was ein tolles Angebot war, da es auch noch eine Auswahl an Sake dazu gab!####[('
+            ', 'FOOD', 'positive'), ('BBE-Menü zum Festpreis von 29 $', 'FOOD', 'positive')]
+Wir begannen mit einem köstlichen Sashimi-Amuse-Bouche.####[('
+        Sashimi-Amuse-Bouche', 'FOOD', 'positive')]
+Ich wählte den gegrillten schwarzen Kabeljau als Hauptgericht, das ich verschlang, während jemand meinte, dass das Gericht mit gegrilltem Lachs besser sei.####[('gegrillten schwarzen
+        Kabeljau', 'FOOD', 'positive'), ('Gericht mit gegrilltem Lachs', 'FOOD', 'positive')]
+Der Sake hat die Kurse sehr gut ergänzt und erleichtert mir den Einstieg in die Welt des Sake.####[('Sake', 'FOOD', 'positive')]
+Als Nachtisch probierten wir die gefrorene schwarze Sesammousse (interessant, aber nicht außergewöhnlich) und den Matcha (gepulverter grüner Tee) und Blaubeerkäsekuchen, der phänomenal war.####[('gefrorene
+        schwarze Sesammousse', 'FOOD', 'neutral'), ('Matcha (gepulverter grüner Tee) und Blaubeerkäsekuchen', 'FOOD', 'positive')]
+Vielleicht lag es an der tollen Gesellschaft (ich hatte Freunde aus Philly zu Besuch – ja, diesmal war es kein Date) oder am supergünstigen Preis, aber ich kann einfach nicht genug Gutes über diese Brasserie sagen.####[('
+            ', 'GENERAL-IMPRESSION', 'positive'), ('Brasserie', 'GENERAL-IMPRESSION', 'positive')]
+Normalerweise besuche ich dasselbe Lokal nicht mehr als einmal, geschweige denn zweimal, aber für ein ruhiges, entspanntes und unvergessliches Abendessen komme ich jederzeit zu Zenkichi .####[('
+            ', 'AMBIENCE', 'positive'), ('Zenkichi', 'GENERAL-IMPRESSION', 'positive')]
+Der Service lässt viel zu wünschen übrig. Man hat das Gefühl, man werde zur Bestellung gedrängt und wird den Rest des Abends ignoriert.####[('Service', 'SERVICE', 'negative')]
+Sie sind extrem unhöflich, entschuldigten sich nicht einmal für den schrecklichen Service, den wir bekamen, und überreichten uns eine Rechnung über weit über 500 $ für ein paar Getränke und ihr Pita-Brot!####[('Service', 'SERVICE', 'negative'), ('Getränke', 'FOOD', 'negative'), ('Pita-Brot', 'FOOD', 'negative')]
+Tolles Shabu Shabu####[('Shabu Shabu', 'FOOD', 'positive')]
+Ich habe ein paar andere Gerichte probiert, war aber nicht sonderlich beeindruckt.####[('Gerichte', 'FOOD', 'neutral')]
+Aber was das Shabu Shabu angeht, werden Sie in New York kaum etwas Besseres finden.####[('Shabu Shabu', 'FOOD', 'positive')]
+Das Fleisch ist frisch, die Saucen sind großartig, man bekommt Kimchi und einen Salat gratis zu seiner Mahlzeit und der Service ist auch gut.####[('Fleisch', 'FOOD', 'positive'), ('Saucen', 'FOOD', 'positive'), ('Kimchi', 'FOOD', 'positive'), ('Salat', 'FOOD', 'positive'), ('Mahlzeit', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive')]
+Restaurant mit Aussicht####[('Aussicht', 'AMBIENCE', 'neutral')]
+Das Essen hat sehr gut geschmeckt.####[('Essen', 'FOOD', 'positive')]
+Das Familien-Meeresfrüchte-Hauptgericht war sehr gut.####[('Familien-Meeresfrüchte-Hauptgericht', 'FOOD', 'positive')]
+Auch das Hauptgericht war sehr gut.####[('Hauptgericht', 'FOOD', 'positive')]
+Der Preis ist hoch, aber das Essen ist gut, also würde ich wiederkommen.####[('
+            ', 'FOOD', 'negative'), ('Essen', 'FOOD', 'positive')]
+Dieser Ort ergibt keinen Sinn####[('Ort', 'GENERAL-IMPRESSION', 'negative')]
+Dieser Ort hat eine völlig seltsame Einrichtung, Treppen nach oben mit verspiegelten Wänden – ich bin überrascht, dass sich bisher noch niemand den Kopf gebrochen hat oder von der Treppe gefallen ist – verspiegelte Wände machen einen schwindlig und man bekommt Wahnvorstellungen …####[('
+        Einrichtung', 'AMBIENCE', 'negative'), ('verspiegelten Wänden', 'AMBIENCE', 'negative')]
+Dieser Ort ist nicht einladend und das Essen ist völlig merkwürdig.####[('Ort', 'AMBIENCE', 'negative'), ('Essen', 'FOOD', 'negative')]
+Das Konzept der japanischen Tapas ist neu und funktioniert offensichtlich nicht.####[('japanischen Tapas', 'FOOD', 'negative')]
+Das Essen, das sie servieren, ist nicht beruhigend, nicht appetitlich und roh.####[('Essen', 'FOOD', 'negative')]
+Gutes Essen####[('Essen', 'FOOD', 'positive')]
+Das Essen war großartig und lecker, aber der Sitzbereich war zu klein, ich mag es nicht, eingeengt in einer Ecke zu sein.####[('Essen', 'FOOD', 'positive'), ('Sitzbereich', 'AMBIENCE', 'negative')]
+Insgesamt war es ein sehr schöner, romantischer Ort .####[('
+            ', 'AMBIENCE', 'positive'), ('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Ein Kollege und ich haben an einigen Freitagen nach der Arbeit Pacifico ausprobiert und waren begeistert.####[('Pacifico', 'GENERAL-IMPRESSION', 'positive')]
+Die Atmosphäre war großartig.####[('Atmosphäre', 'AMBIENCE', 'positive')]
+Das Essen, das wir bestellt haben, war ausgezeichnet, auch wenn ich nicht sagen würde, dass die Margaritas der Rede wert waren.####[('Essen', 'FOOD', 'positive'), ('Margaritas', 'FOOD', 'neutral')]
+Unsere Kellnerin war nicht gemein, aber auch nicht besonders herzlich oder aufmerksam.####[('Kellnerin', 'SERVICE', 'neutral')]
+Ich muss allerdings sagen, dass ich von den schlechten Kritiken des Restaurants Anfang des Jahres überrascht bin.####[('Restaurants', 'GENERAL-IMPRESSION', 'positive')]
+Wir werden auf jeden Fall wiederkommen und können es kaum erwarten, im Sommer wiederzukommen und die Terrasse zu genießen.####[('Terrasse', 'AMBIENCE', 'positive')]
+Die Kellner auf der Flatbush Farm scheinen diese grausame Technik perfektioniert zu haben, Ihnen Schuld- und Schamgefühle einzuflößen, wenn Sie es wagen, ihre Aufmerksamkeit auf sich zu ziehen.####[('Kellner', 'SERVICE', 'negative')]
+Ein anderer Kellner steigerte den Spaß noch, indem er uns mitten in unserer Vorspeise (die köstlich war) die Hauptgerichte vor die Nase stellte.####[('Kellner', 'SERVICE', 'negative'), ('Vorspeise', 'FOOD', 'positive')]
+Insgesamt war die Qualität des Essens ziemlich gut, ich habe aber gehört, dass der Lachs viel besser schmeckt, wenn er nicht zum Abkühlen vor den Augen des Gastes steht.####[('Essens', 'FOOD', 'positive')]
+Das Lokal hat eine schöne Einrichtung, einige attraktive Möbel und, soweit ich das beurteilen kann, eine anständige Weinkarte (ich bekam die Speisekarte, als ich nach der Weinkarte fragte).####[('
+        Einrichtung', 'AMBIENCE', 'positive'), ('Möbel', 'AMBIENCE', 'positive'), ('Weinkarte', 'FOOD', 'positive')]
+Wie kann dieser Ort noch geöffnet sein?####[('Ort', 'GENERAL-IMPRESSION', 'negative')]
+Alles lief gut, bis wir unsere Mahlzeiten bekamen.####[('
+        Mahlzeiten', 'FOOD', 'negative')]
+Ich warf einen Blick auf das Huhn und war entsetzt.####[('Huhn', 'FOOD', 'negative')]
+Es wurde mit Haut auf einem Bett aus extrem ungekochtem Spinat und Kartoffelpüree serviert.####[('Spinat', 'FOOD', 'negative')]
+Ich habe einen Bissen von dem 24-Dollar- Lachs genommen und in den 17 Jahren, in denen ich jetzt schon in Restaurants gehe, habe ich noch nie einen so fischig, trocken und fade schmeckenden Lachs gegessen wie den von Flatbush Farms.####[('
+            ', 'FOOD', 'negative'), ('Lachs', 'FOOD', 'negative')]
+An diesem Punkt kam die Kellnerin herüber und fragte uns, ob alles in Ordnung sei. Ich war buchstäblich so geschockt, dass mir die Sprache fehlte und ich nichts sagte, und raten Sie mal, die Kellnerin GING WEG.####[('Kellnerin', 'SERVICE', 'negative')]
+Also tauschte ich wieder mit meinem Freund, um zu sehen, ob ich das Fleisch und den Spinat vielleicht wieder vertrage, aber der Spinat war so halbgar, dass ich einfach nicht durchbeißen konnte.####[('
+        Spinat', 'FOOD', 'negative')]
+Und hier wird es nun wirklich schlimm: Die Managerin sagte, wir könnten absolut nichts tun, es sei eine Geschmacksfrage, dass es ihr nicht gefallen habe, und ich könne nichts dafür zurückgeben.####[('Managerin', 'SERVICE', 'negative')]
+Der Manager kam an den Tisch und sagte, wir könnten tun, was wir wollten, also zahlten wir für das, was uns geschmeckt hatte, die Getränke und Vorspeisen, und gingen.####[('Manager', 'SERVICE', 'negative'), ('Getränke', 'FOOD', 'positive'), ('Vorspeisen', 'FOOD', 'positive')]
+DIESER MITARBEITER SOLLTE ENTLASSEN WERDEN.####[('MITARBEITER', 'SERVICE', 'negative')]
+knusprige Kruste Pizza Margherita####[('Pizza Margherita', 'FOOD', 'positive')]
+es war wirklich eine gute Pizza .####[('Pizza', 'FOOD', 'positive')]
+die Kruste war erstaunlich gut gebacken und die Pizza war voll belegt:):):)####[('Kruste', 'FOOD', 'positive'), ('Pizza', 'FOOD', 'positive')]
+Das mit Abstand schlechteste Restaurant in Manhattan####[('Restaurant', 'GENERAL-IMPRESSION', 'negative')]
+Ich möchte mit ein paar positiven Aspekten beginnen: cooles Dekor, gutes Pita und Hummus und gegrillter Oktopus, der tatsächlich ziemlich lecker war.####[('Dekor', 'AMBIENCE', 'positive'), ('Pita', 'FOOD', 'positive'), ('Hummus', 'FOOD', 'positive'), ('gegrillter Oktopus', 'FOOD', 'positive')]
+Wenn ich 0 Sterne vergeben könnte, würde ich dies für diesen Ort tun.####[('Ort', 'GENERAL-IMPRESSION', 'negative')]
+Dieser Ort...Gott, wo soll ich anfangen.####[('Ort', 'GENERAL-IMPRESSION', 'negative')]
+Es ist eine ziemlich spektakuläre Szene, das muss man ihnen lassen.####[('
+        Szene', 'AMBIENCE', 'positive')]
+Das Dekor scheint jedoch abzulenken, sodass Sie nicht bemerken, dass Sie gerade 300 Dollar für eine kalte Auberginen bezahlt haben, die VERDAMMTE 2 STUNDEN gebraucht hat, um anzukommen!!!!####[('Dekor', 'AMBIENCE', 'neutral'), ('
+            ', 'FOOD', 'negative'), ('Auberginen', 'FOOD', 'negative')]
+Wie dieser Ort den hart umkämpften Markt im West Village in dieser oder auch in jeder anderen Wirtschaft überleben kann, ist mir schleierhaft.####[('Ort', 'GENERAL-IMPRESSION', 'negative')]
+Tolle Hot Dogs!####[('Hot Dogs', 'FOOD', 'positive')]
+Obwohl es bei meinen meisten Besuchen hier ziemlich voll war, liefert Bark immer sein Essen.####[('Bark', 'GENERAL-IMPRESSION', 'neutral'), ('Essen', 'FOOD', 'positive')]
+Die Hot Dogs sind erstklassig und ihr Slamwich ist unglaublich!####[('Hot Dogs', 'FOOD', 'positive'), ('Slamwich', 'FOOD', 'positive')]
+Ein Besuch bei Bark lohnt sich immer und ist eine wahre Freude für Zunge und Bauch!####[('Bark', 'GENERAL-IMPRESSION', 'positive')]
+Meine einzige Beschwerde betrifft die Preise – meiner Meinung nach wäre es angemessener, für jeden auf der Speisekarte aufgeführten Artikel einen Dollar weniger zu zahlen.####[('Speisekarte', 'FOOD', 'negative')]
+Aber nichtsdestotrotz – toller Ort, tolles Essen.####[('Ort', 'GENERAL-IMPRESSION', 'positive'), ('Essen', 'FOOD', 'positive')]
+Fabelhaftes Essen – wenn Sie das Personal im Servicebereich nicht abschreckt –####[('Essen', 'FOOD', 'positive'), ('Personal im Servicebereich', 'SERVICE', 'negative')]
+Bei jedem unserer Besuche war das Servicepersonal (nicht die Kellner – die sind fantastisch –, sondern die Leute, die einen begrüßen und einem den Platz zuweisen) so abscheulich zu uns, dass ich ohne die außergewöhnlichen Fischgerichte nie wiedergekommen wäre.####[('
+        Servicepersonal', 'SERVICE', 'negative'), ('
+        Kellner', 'SERVICE', 'positive'), ('Fischgerichte', 'ESSEN', 'positive')]
+Da BFC keine Reservierungen annimmt, müssen Sie fast immer an der Bar warten – und sich vom Servicepersonal beschimpfen lassen, bis Sie einen Platz bekommen, was über eine Stunde dauern kann!####[('BFC', 'GENERAL-IMPRESSION', 'negative'), ('Servicepersonal', 'SERVICE', 'negative')]
+Das krause Retro-Mädchen (mit geflügelter/Dame-Edna-Brille) wird Sie anschreien, wenn Sie versuchen, ein Getränk zu bestellen.####[('Mädchen', 'SERVICE', 'negative')]
+Ich wäre entsetzt, wenn mein Personal Kunden so früh und so unhöflich abweisen würde!####[('
+        Personal', 'SERVICE', 'negative')]
+Es gibt noch ein anderes Mädchen, das ich nicht beschreiben kann. Sie ist etwa 1,68 m groß und hat braunes Haar. Sie belauscht Ihr Gespräch und mischt sich ein – allerdings hört sie nur den letzten Teil dessen, was Sie gesagt haben, sodass ihre ungebetenen Meinungen oft aus dem Zusammenhang gerissen sind und nichts mit dem zu tun haben, worüber Sie *wirklich* sprechen.####[('Mädchen', 'SERVICE', 'negative')]
+Wenn man bedenkt, dass Sie mindestens 60 $ pro Person ausgeben werden, erwarte ich einen besseren Service.####[('Service', 'SERVICE', 'negative')]
+Maitre-D-"Essen und raus"####[('Maitre-D', 'SERVICE', 'negative')]
+Das Essen und der Service waren in Ordnung, jedoch war der Oberkellner unglaublich abweisend und arrogant.####[('Essen', 'FOOD', 'positive'), ('Service', 'SERVICE', 'positive'), ('Oberkellner', 'SERVICE', 'negative')]
+Während wir unsere Mahlzeiten beendeten, zu denen auch eine hochwertige Flasche Wein gehörte, gesellte sich die Verlobte unseres Sohnes zu uns auf ein Glas Wein und ein Dessert.####[('Flasche Wein', 'FOOD', 'positive')]
+Dieser Typ weigerte sich, sie zu platzieren, und sie ging, kurz darauf folgten wir vier, aber nicht ohne ihm zu sagen, dass ich in meinen 40 Jahren auf Reisen um die Welt, darunter auch in Paris, noch nie ein so schlechtes Benehmen eines Frontmanns in einem Restaurant erlebt hätte.####[('Frontmanns', 'SERVICE', 'negative')]
+Ein guter Rat: Sie können hier nicht speisen und dabei den Sinn des Oberkellners für "Tischumsatz" stören, so verrückt dieser auch sein mag, sonst passiert etwas.####[('Oberkellners', 'SERVICE', 'negative')]
+Das beste Essen seit langem!####[('Essen', 'FOOD', 'positive')]
+Muscheln und Calamari waren am Samstagabend hervorragend.####[('Muscheln', 'FOOD', 'positive'), ('Calamari', 'FOOD', 'positive')]
+Ich hatte das Lamm-Spezial, das perfekt war.####[('Lamm-Spezial', 'FOOD', 'positive')]
+Mein Vater hatte das Flanksteak, das sehr gut war, und meine Mutter hatte den Schwertfisch.####[('Flanksteak', 'FOOD', 'positive')]
+Das Four Seasons Restaurant ist ein tolles Erlebnis.####[('Das Four Seasons
+        Restaurant', 'GENERAL-IMPRESSION', 'positive')]
+Das Essen ist großartig und die Umgebung ist sogar noch besser.####[('Essen', 'FOOD', 'positive'), ('Umgebung', 'AMBIENCE', 'positive')]
+Hot Dogs auf die nächste Stufe bringen####[('Hot Dogs', 'FOOD', 'positive')]
+Auf den ersten Blick scheint dieser Ort für einen Hotdog-Laden etwas teuer zu sein, aber bei Bark bekommen Sie nicht nur einen durchschnittlichen Hotdog.####[('Bark', 'GENERAL-IMPRESSION', 'negative'), ('Hotdog', 'FOOD', 'positive')]
+Hier wird der Hot Dog zu einer echten Vorspeise erhoben, die in zahlreichen Variationen erhältlich ist.####[('
+            ', 'FOOD', 'positive'), ('Hot Dog', 'FOOD', 'positive')]
+Tolle Atmosphäre####[('Atmosphäre', 'AMBIENCE', 'positive')]
+Die Fisch-Tacos kann ich wärmstens empfehlen, alles andere war ok.####[('Fisch-Tacos', 'FOOD', 'positive')]
+Kühle Atmosphäre, der Kamin im hinteren Bereich trägt wirklich dazu bei, braucht in einer kalten Nacht aber insgesamt etwas mehr Wärme.####[('Atmosphäre', 'AMBIENCE', 'positive'), ('Kamin', 'AMBIENCE', 'positive')]
+Schlechter Service und Management####[('Service', 'SERVICE', 'negative'), ('Management', 'SERVICE', 'negative')]
+Gehen Sie nicht an diesen Ort!####[('
+        Ort', 'GENERAL-IMPRESSION', 'negative')]
+Hatte bei einem Samstagabendessen eine schreckliche Erfahrung im Casa la Femme.####[('Casa la Femme', 'GENERAL-IMPRESSION', 'negative')]
+Der Manager war unhöflich und hat die Situation äußerst schlecht gehandhabt.####[('Manager', 'SERVICE', 'negative')]
+Ich kann nicht glauben, wie ein teures Restaurant in New York seinen Kunden gegenüber so respektlos sein kann.####[('Restaurant', 'GENERAL-IMPRESSION', 'negative')]
+Das Essen ist sehr gut, aber nicht herausragend.####[('Essen', 'FOOD', 'neutral')]
+Es rechtfertigt in keiner Weise die Anerkennung, die es erhält, die Einstellung des Personals oder das Warten auf einen Tisch.####[('Personals', 'SERVICE', 'negative'), ('Warten', 'SERVICE', 'negative')]
+Fehler passieren, aber sie werden normalerweise von einer Entschuldigung begleitet, vielleicht sogar von einem Glas Wein ... aber nicht von dem Grunzen, das wir vom Personal von Al Di La zu hören bekamen.####[('Personal', 'SERVICE', 'negative')]
+Das Brot war altbacken, der Salat war überteuert und leer.####[('Brot', 'FOOD', 'negative'), ('
+            ', 'FOOD', 'negative'), ('Salat', 'FOOD', 'negative')]
+Die Pasta war gut gekocht, hatte aber nicht genug Soße oder Geschmack.####[('
+            ', 'FOOD', 'negative'), ('
+                ', 'FOOD', 'negative'), ('Pasta', 'FOOD', 'positive')]
+Die Hostess war unhöflich und ich hatte deutlich das Gefühl, dass sie uns nicht bedienen wollten.####[('Hostess', 'SERVICE', 'negative')]
+Das Einzige, was mein Freund ausgelassen hat, ist, dass der Barkeeper verschwunden war, als wir uns an die Bar setzten.####[('Barkeeper', 'SERVICE', 'negative')]
+Ich fragte nach einer Speisekarte und dieselbe Kellnerin sah mich an, als wäre ich verrückt.####[('Kellnerin', 'SERVICE', 'negative')]
+Ich war schockiert, dass meine Freunde bleiben wollten, nachdem die Kellnerin gefragt hatte: „Kann ich Ihnen helfen?“ und „Wie viele Personen sind in Ihrer Gruppe?“####[('Kellnerin', 'SERVICE', 'negative')]
+Schande über diesen Ort für das schrecklich unhöfliche Personal und den nicht vorhandenen Kundenservice.####[('Personal', 'SERVICE', 'negative'), ('Kundenservice', 'SERVICE', 'negative')]
+schlechtes Personal####[('Personal', 'SERVICE', 'negative')]
+Im Allgemeinen gefällt mir dieser Ort.####[('Ort', 'GENERAL-IMPRESSION', 'positive')]
+Das Essen ist gut.####[('Essen', 'FOOD', 'positive')]
+Das Design des Raums ist gut.####[('Raums', 'AMBIENCE', 'positive')]
+Aber der Service ist SCHRECKLICH!####[('Service', 'SERVICE', 'negative')]
+Ich war vor kurzem zum Brunch dort und wir wurden im Zweierteam von einer Kellnerin und einem Kellner bedient.####[('Kellnerin', 'SERVICE', 'negative'), ('Kellner', 'SERVICE', 'negative')]
+Der Kellner brachte uns unser Essen, während er in einer Hand etwas hielt, das aussah wie eine Plastiktüte mit Müll.####[('Kellner', 'SERVICE', 'negative')]
+Die Kellnerin kam alle paar Minuten vorbei, um nach uns zu sehen, und begann die Teller abzuräumen, während die Hälfte von uns noch aß (was mich sehr ärgert und das fast überall vorkommt, weshalb ich versuche, es zu ignorieren).####[('Kellnerin', 'SERVICE', 'negative')]
+Ich wünschte, mir könnte dieser Ort besser gefallen, und ich wünschte, jemand würde das Personal neu schulen.####[('Ort', 'GENERAL-IMPRESSION', 'negative'), ('Personal', 'SERVICE', 'negative')]
