@@ -1,8 +1,8 @@
 import json
 
 # Datei laden
-input_file = 'TASD_GOOGLE/json/TASD_TRAIN16_GOOGLE_TRANSLATED.jsonl'
-output_file = 'TASD_GOOGLE/txt/TASD_TRAIN16_GOOGLE_TRANSLATED.txt'
+input_file = 'data/GERestaurant_data/test_dataset.json'
+output_file = 'data/GERestaurant_data/test_dataset.txt'
 
 
 # Öffnen der JSONL-Datei und der Textdatei zum Schreiben

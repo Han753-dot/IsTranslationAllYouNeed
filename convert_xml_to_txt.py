@@ -33,23 +33,23 @@ def convert_xml_to_txt(input_xml, output_txt):
 
 
 # Input and output files
-xml_rest15_tasd_test_google_translated = "preprocessing/TASD_TEST15_GOOGLE_TRANSLATED.xml"
-xml_rest15_tasd_train_google_translated = "preprocessing/TASD_TRAIN15_GOOGLE_TRANSLATED.xml"
+xml_rest15_tasd_test_OLLAMA_translated = "ollama_tasd_translations/tasd_rest15_test.xml"
+xml_rest15_tasd_train_OLLAMA_translated = "ollama_tasd_translations/tasd_rest15_train.xml"
 
-xml_rest16_tasd_test_google_translated = "preprocessing/TASD_TEST16_GOOGLE_TRANSLATED.xml"
-xml_rest16_tasd_train_google_translated = "preprocessing/TASD_TRAIN16_GOOGLE_TRANSLATED.xml"
+xml_rest16_tasd_test_OLLAMA_translated = "ollama_tasd_translations/tasd_rest16_test.xml"
+xml_rest16_tasd_train_OLLAMA_translated = "ollama_tasd_translations/tasd_rest16_train.xml"
 
-output_rest15_test_tasd_google_translated = "TASD_GOOGLE/txt/TASD_TEST15_GOOGLE_TRANSLATED.txt"
-output_rest15_train_tasd_google_translated = "TASD_GOOGLE/txt/TASD_TRAIN15_GOOGLE_TRANSLATED.txt"
+output_rest15_test_tasd_OLLAMA_translated = "TASD_OLLAMA_Formate/txt/TASD_TEST15_OLLAMA_TRANSLATED.txt"
+output_rest15_train_tasd_OLLAMA_translated = "TASD_OLLAMA_Formate/txt/TASD_TRAIN15_OLLAMA_TRANSLATED.txt"
 
-output_rest16_test_tasd_google_translated = "TASD_GOOGLE/txt/TASD_TEST16_GOOGLE_TRANSLATED.txt"
-output_rest16_train_tasd_google_translated = "TASD_GOOGLE/txt/TASD_TRAIN16_GOOGLE_TRANSLATED.txt"
+output_rest16_test_tasd_OLLAMA_translated = "TASD_OLLAMA_Formate/txt/TASD_TEST16_OLLAMA_TRANSLATED.txt"
+output_rest16_train_tasd_OLLAMA_translated = "TASD_OLLAMA_Formate/txt/TASD_TRAIN16_OLLAMA_TRANSLATED.txt"
 
-convert_xml_to_txt(xml_rest15_tasd_test_google_translated, output_rest15_test_tasd_google_translated)
-convert_xml_to_txt(xml_rest15_tasd_train_google_translated, output_rest15_train_tasd_google_translated)
+convert_xml_to_txt(xml_rest15_tasd_test_OLLAMA_translated, output_rest15_test_tasd_OLLAMA_translated)
+convert_xml_to_txt(xml_rest15_tasd_train_OLLAMA_translated, output_rest15_train_tasd_OLLAMA_translated)
 
-convert_xml_to_txt(xml_rest16_tasd_test_google_translated, output_rest16_test_tasd_google_translated)
-convert_xml_to_txt(xml_rest16_tasd_train_google_translated, output_rest16_train_tasd_google_translated)
+convert_xml_to_txt(xml_rest16_tasd_test_OLLAMA_translated, output_rest16_test_tasd_OLLAMA_translated)
+convert_xml_to_txt(xml_rest16_tasd_train_OLLAMA_translated, output_rest16_train_tasd_OLLAMA_translated)
 # Convert XML to TXT
 
 print(f"Conversion complete. Output saved to.")

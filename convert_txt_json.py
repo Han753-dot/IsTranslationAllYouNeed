@@ -58,3 +58,7 @@ def convert_txt_to_json(input_file, output_file):
 # Beispielaufruf des Skripts
 convert_txt_to_json("data/GERestaurant_data/sampled/Gerestaurant_test_sampled.txt", "data/GERestaurant_data/sampled/Gerestaurant_test_sampled.json")
 convert_txt_to_json("data/GERestaurant_data/sampled/Gerestaurant_train_sampled.txt", "data/GERestaurant_data/sampled/Gerestaurant_train_sampled.json")
+convert_txt_to_json("TASD_GOOGLE_Formate/txt/sampled/rest16_test_google_sampled.txt", "TASD_GOOGLE_Formate/txt/sampled/rest16_test_google_sampled.json")
+convert_txt_to_json("TASD_GOOGLE_Formate/txt/sampled/rest16_train_google_sampled.txt", "TASD_GOOGLE_Formate/txt/sampled/rest16_train_google_sampled.json")
+convert_txt_to_json("TASD_OLLAMA_Formate/txt/sampled/rest16_test_ollama_sampled.txt", "TASD_OLLAMA_Formate/txt/sampled/rest16_test_ollama_sampled.json")
+convert_txt_to_json("TASD_OLLAMA_Formate/txt/sampled/rest16_train_ollama_sampled.txt", "TASD_OLLAMA_Formate/txt/sampled/rest16_train_ollama_sampled.json")
